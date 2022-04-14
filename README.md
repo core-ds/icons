@@ -4,7 +4,7 @@
 
 ## Как сюда попадают новые иконки
 
--   Дизайнер рисует [иконки в фигме](https://www.figma.com/file/QoGuPDB1hAMoMMqsQQ4Mx7lB/Icons?node-id=3882%3A144).
+-   Дизайнер рисует [иконки в фигме](https://www.figma.com/file/ZcdUPebEhHfSZ91zgmv2cK/Icons?node-id=3882%3A144).
 -   С помощью [фигма-плагина](https://www.figma.com/community/plugin/822773501021259599/Publish-Icons) создаётся пулл-реквест с иконками в репозиторий [ui-primitives](https://github.com/core-ds/ui-primitives).
 -   После мёрджа пулл-реквеста в [ui-primitives](https://github.com/core-ds/ui-primitives) и публикации нового пакета, с помощью github-actions начинается процесс генерации новых реакт-компонентов на основе svg-файлов иконок.
 -   После успешной генерации новых React-компонетов, публикуются новые версии пакетов.
