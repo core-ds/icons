@@ -1,10 +1,9 @@
 {
-  "name": "@alfalab/icons",
+  "name": "icons",
   "version": "3.26.0",
-  "description": "Alfa-Bank UI Icons",
+  "description": "Design System UI Icons",
   "main": "index.js",
-  "repository": "git@github.com:alfa-laboratory/icons.git",
-  "author": "Dmitry Savkin <dsavkin@alfabank.ru>",
+  "repository": "git@github.com:core-ds/icons.git",
   "license": "MIT",
   "private": false,
   "scripts": {
