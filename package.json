@@ -1,5 +1,5 @@
 {
-  "name": "icons",
+  "name": "@alfalab/icons",
   "version": "3.26.0",
   "description": "Design System UI Icons",
   "main": "index.js",
