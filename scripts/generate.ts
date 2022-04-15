@@ -7,7 +7,7 @@ import { getPackageName, ENCODING } from './constants';
 
 const rootIconsDir = path.resolve(
     __dirname,
-    '../node_modules/alfa-ui-primitives/icons'
+    '../node_modules/ui-primitives/icons'
 );
 
 const srcDir = path.resolve(__dirname, '../packages');

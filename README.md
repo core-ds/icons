@@ -14,20 +14,20 @@
 На данный момент есть следующие пакеты иконок:
 | Пакет | Ссылка на npmjs.com | Описание
 | ------ | ------ | ------
-| @core-ds/icons | [@core-ds/icons](https://www.npmjs.com/package/@alfalab/icons) | Общий пакет со всеми иконками
-| @core-ds/icons-classic | [@core-ds/icons-classic](https://www.npmjs.com/package/@alfalab/icons-classic) |  
-| @core-ds/icons-glyph | [@core-ds/icons-glyph](https://www.npmjs.com/package/@alfalab/icons-glyph) | Иконки в новом стиле
-| @core-ds/icons-flag | [@core-ds/icons-flag](https://www.npmjs.com/package/@alfalab/icons-flag) | Иконки флагов стран
-| @core-ds/icons-logotype | [@core-ds/icons-logotype](https://www.npmjs.com/package/@alfalab/icons-logotype) | Логотипы
-| @core-ds/icons-corp | [@core-ds/icons-corp](https://www.npmjs.com/package/@alfalab/icons-corp) | Иконки corp
+| @alfalab/icons | [@alfalab/icons](https://www.npmjs.com/package/@alfalab/icons) | Общий пакет со всеми иконками
+| @alfalab/icons-classic | [@alfalab/icons-classic](https://www.npmjs.com/package/@alfalab/icons-classic) |  
+| @alfalab/icons-glyph | [@alfalab/icons-glyph](https://www.npmjs.com/package/@alfalab/icons-glyph) | Иконки в новом стиле
+| @alfalab/icons-flag | [@alfalab/icons-flag](https://www.npmjs.com/package/@alfalab/icons-flag) | Иконки флагов стран
+| @alfalab/icons-logotype | [@alfalab/icons-logotype](https://www.npmjs.com/package/@alfalab/icons-logotype) | Логотипы
+| @alfalab/icons-corp | [@alfalab/icons-corp](https://www.npmjs.com/package/@alfalab/icons-corp) | Иконки corp
 
 ## Как импортить иконки в проект
 
-`import { AddMIcon } from '@core-ds/icons-glyph/AddMIcon';`
+`import { AddMIcon } from '@alfalab/icons-glyph/AddMIcon';`
 
 или
 
-`import AddMIcon from '@core-ds/icons-glyph/AddMIcon';`
+`import AddMIcon from '@alfalab/icons-glyph/AddMIcon';`
 
 ## Размеры иконок
 
@@ -35,6 +35,6 @@
 
 ## Цвет иконок
 
-В пакете `@core-ds/icons-glyph` цвет иконок задается атрибутом `fill="currentColor"`, т.е. цвет наследуется от родительского свойства `color`.
+В пакете `@alfalab/icons-glyph` цвет иконок задается атрибутом `fill="currentColor"`, т.е. цвет наследуется от родительского свойства `color`.
 
-В пакете `@core-ds/icons-classic` цвет иконок не наследуется.
+В пакете `@alfalab/icons-classic` цвет иконок не наследуется.

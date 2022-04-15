@@ -9,7 +9,7 @@ npm set registry https://registry.npmjs.org
 
 # Генерируем React-компоненты из свежего пакета alfa-ui-primitives
 yarn install
-yarn add --dev alfa-ui-primitives@latest
+yarn add --dev ui-primitives@latest
 yarn generate
 
 # Добавляем новые иконки в git
