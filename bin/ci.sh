@@ -7,7 +7,7 @@ git fetch --tags
 # Устанавливаем npm-registry
 npm set registry https://registry.npmjs.org
 
-# Генерируем React-компоненты из свежего пакета alfa-ui-primitives
+# Генерируем React-компоненты из свежего пакета ui-primitives
 yarn install
 yarn add --dev ui-primitives@latest
 yarn generate
