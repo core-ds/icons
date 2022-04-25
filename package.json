@@ -51,8 +51,8 @@
     "ts-node": "^8.6.2",
     "tslib": "^2.0.0",
     "typescript": "^3.8.3",
-    "util": "^0.12.2",
-    "ui-primitives": "^3.38.0"
+    "ui-primitives": "^3.38.0",
+    "util": "^0.12.2"
   },
   "lint-staged": {
     "concurrent": true,
