@@ -7,7 +7,7 @@ import fs from 'fs';
 import { ICON_POSTFIX, getPackageName, ENCODING } from './constants';
 
 const FIGMA_API_URL = 'https://api.figma.com/v1';
-const FIGMA_FILE_ID = 'QoGuPDB1hAMoMMqsQQ4Mx7lB';
+const FIGMA_FILE_ID = 'ZcdUPebEhHfSZ91zgmv2cK';
 const FIGMA_API_TOKEN = process.env.FIGMA_TOKEN;
 
 const writeFile = promisify(fs.writeFile);
