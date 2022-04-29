@@ -13,8 +13,8 @@ yarn add --dev ui-primitives@latest
 yarn generate
 
 # Добавляем новые иконки в git
-git config --local user.email "ds@alfabank.ru"
-git config --local user.name "alfa-bot"
+git config --local user.email "ds@gitmax.tech"
+git config --local user.name "core-ds-bot"
 git add .
 git commit -m "feat(*): add new icons"
 
