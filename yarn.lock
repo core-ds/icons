@@ -7561,10 +7561,10 @@ uglify-js@^3.1.4:
   resolved "https://registry.npmjs.org/uglify-js/-/uglify-js-3.13.5.tgz"
   integrity sha512-xtB8yEqIkn7zmOyS2zUNBsYCBRhDkvlNxMMY2smuJ/qA8NCHeQvKCF3i9Z4k8FJH4+PJvZRtMrPynfZ75+CSZw==
 
-ui-primitives@^5.12.0:
-  version "5.12.0"
-  resolved "https://registry.yarnpkg.com/ui-primitives/-/ui-primitives-5.12.0.tgz#9167d4c092558a2d53e3672acb63cdcc94a727f7"
-  integrity sha512-8o740NQucTlhf/+iHT5xO1lvmSl5NXAqmB0DkWVL4L0aA8THe8fH3dzJ4bleD9NKm+aQE3YT+gjZlj9QeobGWQ==
+ui-primitives@^5.13.0:
+  version "5.13.0"
+  resolved "https://registry.yarnpkg.com/ui-primitives/-/ui-primitives-5.13.0.tgz#80ee2829c6a3fe0fe9a085ac49e88bf1a4e1f009"
+  integrity sha512-7p830PG/QEgdnFWtGTYjBPX054SSl1h75J7cjKBY6E6Lwk8h2sWCY+PF0wfFIHOBDLMuUqpDSsWRFoS7K3uvxA==
 
 uid-number@0.0.6:
   version "0.0.6"
