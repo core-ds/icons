@@ -14,7 +14,7 @@ export const PfmBrushMIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
         viewBox="0 0 24 24"
         {...props}
     >
-        <path d="M16 1h4v14a1 1 0 01-1 1h-5v7h-4v-7H5a1 1 0 01-1-1V1h9v6l3-6z" />
+        <path d="M17 2h3v11.963c0 .625-.387 1.183-.972 1.403L14 17.256V24h-4v-6.744l-5.028-1.89A1.498 1.498 0 014 13.963V2h10v6l3-6z" />
     </svg>
 );
 

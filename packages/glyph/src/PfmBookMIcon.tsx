@@ -14,7 +14,7 @@ export const PfmBookMIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
         viewBox="0 0 24 24"
         {...props}
     >
-        <path d="M11.05 6.02L1 2.5v15.828l10.05 3.655V6.02zm1.9 0L23 2.5v15.828l-10.05 3.655V6.02z" />
+        <path d="M11 6.502L1 3v14.363L11 21V6.502zm2 0L23 3v14.363L13 21V6.502z" />
     </svg>
 );
 

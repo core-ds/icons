@@ -4,7 +4,7 @@
  */
 import React, { SVGProps } from 'react';
 
-export const PfmCarMIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
+export const PfmTicketMIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
     <svg
         role="img"
         focusable="false"
@@ -14,8 +14,8 @@ export const PfmCarMIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
         viewBox="0 0 24 24"
         {...props}
     >
-        <path d="M2 11l2.439-4.247A1.5 1.5 0 015.739 6h12.516a1.5 1.5 0 011.3.752L22 11v3h-4v2h4v5h-3v-2H5v2H2v-5h4v-2H2v-3z" />
+        <path d="M9.957 2H4v20h5.957a2 2 0 114 0H20V2h-6.043a2 2 0 11-4 0z" />
     </svg>
 );
 
-export default PfmCarMIcon;
+export default PfmTicketMIcon;

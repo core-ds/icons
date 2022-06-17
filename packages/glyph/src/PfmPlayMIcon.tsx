@@ -14,7 +14,7 @@ export const PfmPlayMIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
         viewBox="0 0 24 24"
         {...props}
     >
-        <path d="M23 11.88l-19 11v-22l19 11z" />
+        <path d="M24 12L5 22V2l19 10z" />
     </svg>
 );
 
