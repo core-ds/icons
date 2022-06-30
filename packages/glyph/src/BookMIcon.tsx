@@ -4,7 +4,7 @@
  */
 import React, { SVGProps } from 'react';
 
-export const CardScanMIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
+export const BookMIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
     <svg
         role="img"
         focusable="false"
@@ -14,8 +14,12 @@ export const CardScanMIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
         viewBox="0 0 24 24"
         {...props}
     >
-        <path d="M13 2h2v20h-2v-4H5a2 2 0 01-2-2v-5h10V9H3V8a2 2 0 012-2h8V2zm6 14h-2v2h2a2 2 0 002-2V8a2 2 0 00-2-2h-2v2h2v8z" />
+        <path
+            d="M18 2H7.008A3.013 3.013 0 004 5v15a2 2 0 002 2h14V6H7.008a1 1 0 010-2H18V2z"
+            fillRule="evenodd"
+            clipRule="evenodd"
+        />
     </svg>
 );
 
-export default CardScanMIcon;
+export default BookMIcon;

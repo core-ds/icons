@@ -14,7 +14,7 @@ export const ArrowBackHeavyMIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
         viewBox="0 0 24 24"
         {...props}
     >
-        <path d="M2 12l9.25-9 2.25 2.5L10 8.75l-1.625 1.5H22v3.5H8.375L10 15.25l3.5 3.25-2.25 2.5L2 12z" />
+        <path d="M1 12l8.25-9 2.25 2.25-5.25 5.25H23v3H6.25l5.25 5.25L9.25 21 1 12z" />
     </svg>
 );
 
