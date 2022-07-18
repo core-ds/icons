@@ -14,7 +14,7 @@ export const ArrowsInwardMIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
         viewBox="0 0 24 24"
         {...props}
     >
-        <path d="M21.46 3.964l-5.074 5.074h3.572v2h-7v-7h2v3.6l5.087-5.088 1.414 1.414zM4.043 12.966v2h3.572l-5.067 5.067 1.414 1.414 5.081-5.081v3.6h2v-7H9.617l-.001-.001H4.042z" />
+        <path d="M16.414 9H20v2h-7V4h2v3.586l4.293-4.293 1.414 1.414L16.414 9zm-8.828 6l-4.293 4.293 1.414 1.414L9 16.414V20h2v-7H4v2h3.586z" />
     </svg>
 );
 
