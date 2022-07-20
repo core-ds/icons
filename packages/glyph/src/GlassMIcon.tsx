@@ -4,22 +4,22 @@
  */
 import React, { SVGProps } from 'react';
 
-export const FlashCircleSIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
+export const GlassMIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
     <svg
         role="img"
         focusable="false"
         fill="currentColor"
-        width="16"
-        height="16"
-        viewBox="0 0 16 16"
+        width="24"
+        height="24"
+        viewBox="0 0 24 24"
         {...props}
     >
         <path
-            d="M8 15A7 7 0 108 1a7 7 0 000 14zM9.78 3l-5 5 2.778 1.111L6.208 13l5-5-2.54-1.111L9.78 3z"
+            d="M4 2h16l-2.281 18.248A2 2 0 0115.734 22H8.266a2 2 0 01-1.985-1.752L4 2zm2.516 4l-.25-2h11.468l-.25 2H6.516z"
             fillRule="evenodd"
             clipRule="evenodd"
         />
     </svg>
 );
 
-export default FlashCircleSIcon;
+export default GlassMIcon;
