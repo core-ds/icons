@@ -17,7 +17,7 @@ export const ChevronDownCircleMIcon: React.FC<SVGProps<
         {...props}
     >
         <path
-            d="M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10zM8.5 9l3.5 4 3.5-4 1.5 1.5-5 5.5-5-5.5L8.5 9z"
+            d="M2 12c0 5.523 4.477 10 10 10s10-4.477 10-10S17.523 2 12 2 2 6.477 2 12zm10 3.914l5.707-5.707-1.414-1.414L12 13.086 7.707 8.793l-1.414 1.414L12 15.914z"
             fillRule="evenodd"
             clipRule="evenodd"
         />

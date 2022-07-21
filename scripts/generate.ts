@@ -102,13 +102,12 @@ async function processDir(dir: string) {
 }
 
 async function generateIconsTree(categories: string[]) {
-  
-    await Promise.all(categories.map(item => {
+    return await Promise.all(categories.map(item => {
        if (path.extname(item) === `.${SVG_EXT}`) {
             let svgItem = item.split('/ui-primitives/icons/')
-            generateIcon(svgItem[1], rootIconsDir)
+            return generateIcon(svgItem[1], rootIconsDir)
        } else {
-            processDir(item)
+            return processDir(item)
        }
     }));
 }

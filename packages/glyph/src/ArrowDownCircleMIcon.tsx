@@ -17,7 +17,7 @@ export const ArrowDownCircleMIcon: React.FC<SVGProps<
         {...props}
     >
         <path
-            d="M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10zM11 7v7.5L8.5 12 7 13.5l5 4.5 5-4.5-1.5-1.5-2.5 2.5V7h-2z"
+            d="M22 12c0 5.523-4.477 10-10 10S2 17.523 2 12 6.477 2 12 2s10 4.477 10 10zm-10 5.344l-4.906-4.4 1.336-1.49L11 13.76V7h2v6.757l2.566-2.305 1.336 1.488L12 17.344z"
             fillRule="evenodd"
             clipRule="evenodd"
         />

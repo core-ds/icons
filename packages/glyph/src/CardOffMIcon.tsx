@@ -14,7 +14,7 @@ export const CardOffMIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
         viewBox="0 0 24 24"
         {...props}
     >
-        <path d="M22 20l-1.5 1.5L17 18H5a2 2 0 01-2-2v-5h7L8 9H3V8a2 2 0 012-2L1.998 2.998l1.5-1.5L8 6h.012l3 3H11l2 2h.012l6.82 6.82-.009.003L22 20zM13.84 9l-3-3H19a2 2 0 012 2v1h-7.16zm7.154 7.153L15.841 11H21v5c0 .052-.002.103-.006.153z" />
+        <path d="M3.5 2L2 3.5l3 3a2 2 0 00-2 2v1h5l2 2H3v5a2 2 0 002 2h12l3.5 3.5 1.5-1.5L3.5 2zM11 6.5l3 3h7v-1a2 2 0 00-2-2h-8zm5 5l5 5v-5h-5z" />
     </svg>
 );
 

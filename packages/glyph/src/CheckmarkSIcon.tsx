@@ -9,13 +9,13 @@ export const CheckmarkSIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
         role="img"
         focusable="false"
         fill="currentColor"
-        width="18"
-        height="18"
-        viewBox="0 0 18 18"
+        width="16"
+        height="16"
+        viewBox="0 0 16 16"
         {...props}
     >
         <path
-            d="M14 6.5L7.5 13 4 9.5 5.5 8l2 2 5-5L14 6.5z"
+            d="M13 5.5L6.5 12 3 8.5 4.5 7l2 2 5-5L13 5.5z"
             fillRule="evenodd"
             clipRule="evenodd"
         />
