@@ -15,12 +15,12 @@ export const CardDocumentMIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
         {...props}
     >
         <path
-            d="M2 21a2 2 0 002 2h11a2 2 0 002-2v-4H2v4zm5-2H4v1.5h3V19z"
+            d="M1.5 20.5a2 2 0 002 2h11a2 2 0 002-2v-4h-15v4zm5-2h-3V20h3v-1.5z"
             fillRule="evenodd"
             clipRule="evenodd"
         />
-        <path d="M2 15h15v-1a2 2 0 00-2-2H4a2 2 0 00-2 2v1z" />
-        <path d="M19 19h2a1 1 0 001-1V9.14a3 3 0 00-3.3-2.985l-.951.095.095-.951A3 3 0 0014.86 2H9.4a1 1 0 00-1 1v7H15a4 4 0 014 4v5z" />
+        <path d="M1.5 14.5h15v-1a2 2 0 00-2-2h-11a2 2 0 00-2 2v1z" />
+        <path d="M18.5 18.5h2a1 1 0 001-1V8.64a3 3 0 00-3.3-2.985l-.951.095.095-.951A3 3 0 0014.36 1.5H8.9a1 1 0 00-1 1v7h6.6a4 4 0 014 4v5z" />
     </svg>
 );
 

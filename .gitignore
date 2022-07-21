@@ -104,6 +104,7 @@ dist
 .tern-port
 
 .vscode/
+.idea/
 
 .DS_Store
 .npmrc

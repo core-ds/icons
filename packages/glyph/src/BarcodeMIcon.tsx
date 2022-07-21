@@ -14,7 +14,7 @@ export const BarcodeMIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
         viewBox="0 0 24 24"
         {...props}
     >
-        <path d="M3 3h3v14H3V3zm9 14H8V3h4v14zm2-14v14h2V3h-2zm3 14V3h3v14h-3zM3 19h2v2H3v-2zm3 0h2v2H6v-2zm3 0h2v2H9v-2zm3 0h2v2h-2v-2zm3 2v-2h2v2h-2zm3-2h2v2h-2v-2z" />
+        <path d="M15 3h2v14h-2V3zm6 1v13h-2V3h1a1 1 0 011 1zm-8-1H7v14h6V3zM4 3h1v14H3V4a1 1 0 011-1zm1 18v-2H3v2h2zm4-2H7v2h2v-2zm2 0h2v2h-2v-2zm6 0h-2v2h2v-2zm2 2v-2h2v2h-2z" />
     </svg>
 );
 

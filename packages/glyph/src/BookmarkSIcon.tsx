@@ -9,12 +9,12 @@ export const BookmarkSIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
         role="img"
         focusable="false"
         fill="currentColor"
-        width="18"
-        height="18"
-        viewBox="0 0 18 18"
+        width="16"
+        height="16"
+        viewBox="0 0 16 16"
         {...props}
     >
-        <path d="M3 3.714v12.858l5.15-2.943a1.714 1.714 0 011.7 0L15 16.572V3.714C15 2.768 14.232 2 13.285 2h-8.57C3.768 2 3 2.768 3 3.714z" />
+        <path d="M4 4.177V13l3.433-2.02a1.115 1.115 0 011.134 0L12 13V4.177C12 3.527 11.488 3 10.857 3H5.143C4.512 3 4 3.527 4 4.177z" />
     </svg>
 );
 

@@ -11,13 +11,13 @@ export const ChevronUpCompactSIcon: React.FC<SVGProps<
         role="img"
         focusable="false"
         fill="currentColor"
-        width="18"
-        height="18"
-        viewBox="0 0 18 18"
+        width="16"
+        height="16"
+        viewBox="0 0 16 16"
         {...props}
     >
         <path
-            d="M9 5.086l5.707 5.707-1.414 1.414L9 7.914l-4.293 4.293-1.414-1.414L9 5.086z"
+            d="M8 4.086l5.707 5.707-1.414 1.414L8 6.914l-4.293 4.293-1.414-1.414L8 4.086z"
             fillRule="evenodd"
             clipRule="evenodd"
         />

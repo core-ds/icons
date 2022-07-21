@@ -14,8 +14,8 @@ export const CopyMIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
         viewBox="0 0 24 24"
         {...props}
     >
-        <path d="M6 2h13a1 1 0 011 1v16h-2V4.4a.4.4 0 00-.4-.4H6V2z" />
-        <path d="M16 7a1 1 0 00-1-1H5a1 1 0 00-1 1v14a1 1 0 001 1h10a1 1 0 001-1V7z" />
+        <path d="M20 3a1 1 0 00-1-1H9a1 1 0 00-1 1v1h9a1 1 0 011 1v13h1a1 1 0 001-1V3z" />
+        <path d="M15 6a1 1 0 011 1v14a1 1 0 01-1 1H5a1 1 0 01-1-1V7a1 1 0 011-1h10z" />
     </svg>
 );
 

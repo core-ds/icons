@@ -9,13 +9,13 @@ export const CrossCircleSIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
         role="img"
         focusable="false"
         fill="currentColor"
-        width="18"
-        height="18"
-        viewBox="0 0 18 18"
+        width="16"
+        height="16"
+        viewBox="0 0 16 16"
         {...props}
     >
         <path
-            d="M16 9A7 7 0 112 9a7 7 0 0114 0zm-7 .99l-2.005 2.005-.99-.99L8.01 9 6.005 6.995l.99-.99L9 8.01l2.005-2.005.99.99L9.99 9l2.005 2.005-.99.99L9 9.99z"
+            d="M15 8A7 7 0 111 8a7 7 0 0114 0zm-7 .99l-2.005 2.005-.99-.99L7.01 8 5.005 5.995l.99-.99L8 7.01l2.005-2.005.99.99L8.99 8l2.005 2.005-.99.99L8 8.99z"
             fillRule="evenodd"
             clipRule="evenodd"
         />

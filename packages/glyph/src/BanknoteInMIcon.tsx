@@ -19,7 +19,7 @@ export const BanknoteInMIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
             fillRule="evenodd"
             clipRule="evenodd"
         />
-        <path d="M12 1.856l-4.986 2.77.972 1.748L12 4.144l4.014 2.23.972-1.748L12 1.856z" />
+        <path d="M12 1.855l-4.986 2.77.972 1.749L12 4.144l4.014 2.23.972-1.749L12 1.855z" />
     </svg>
 );
 

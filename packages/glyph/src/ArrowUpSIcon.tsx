@@ -9,12 +9,12 @@ export const ArrowUpSIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
         role="img"
         focusable="false"
         fill="currentColor"
-        width="18"
-        height="18"
-        viewBox="0 0 18 18"
+        width="16"
+        height="16"
+        viewBox="0 0 16 16"
         {...props}
     >
-        <path d="M13.707 8.293L9 3.586 4.293 8.293l1.414 1.414L8 7.414V14h2V7.414l2.293 2.293 1.414-1.414z" />
+        <path d="M12.707 7.293L8 2.586 3.293 7.293l1.414 1.414L7 6.414V13h2V6.414l2.293 2.293 1.414-1.414z" />
     </svg>
 );
 
