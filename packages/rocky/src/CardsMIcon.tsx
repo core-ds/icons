@@ -4,7 +4,7 @@
  */
 import React, { SVGProps } from 'react';
 
-export const СardsMIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
+export const CardsMIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
     <svg
         role="img"
         focusable="false"
@@ -19,4 +19,4 @@ export const СardsMIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
     </svg>
 );
 
-export default СardsMIcon;
+export default CardsMIcon;
