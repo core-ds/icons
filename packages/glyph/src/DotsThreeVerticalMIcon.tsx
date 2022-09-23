@@ -4,7 +4,9 @@
  */
 import React, { SVGProps } from 'react';
 
-export const BoxMIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
+export const DotsThreeVerticalMIcon: React.FC<SVGProps<
+    SVGSVGElement
+>> = props => (
     <svg
         role="img"
         focusable="false"
@@ -14,8 +16,8 @@ export const BoxMIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
         viewBox="0 0 24 24"
         {...props}
     >
-        <path d="M21 12H3V6a2 2 0 012-2h14a2 2 0 012 2v6zM3 14h6v1.5a1.5 1.5 0 001.5 1.5h3a1.5 1.5 0 001.5-1.5V14h6v4a2 2 0 01-2 2H5a2 2 0 01-2-2v-4z" />
+        <path d="M10 5a2 2 0 114.001.001A2 2 0 0110 5zm0 7a2 2 0 114.001.001A2 2 0 0110 12zm0 7a2 2 0 114.001.001A2 2 0 0110 19z" />
     </svg>
 );
 
-export default BoxMIcon;
+export default DotsThreeVerticalMIcon;
