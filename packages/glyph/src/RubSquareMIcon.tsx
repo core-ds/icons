@@ -4,7 +4,7 @@
  */
 import React, { SVGProps } from 'react';
 
-export const WalletMIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
+export const RubSquareMIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
     <svg
         role="img"
         focusable="false"
@@ -14,12 +14,13 @@ export const WalletMIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
         viewBox="0 0 24 24"
         {...props}
     >
+        <path d="M13.5 8H10v4h3.5a2 2 0 000-4z" />
         <path
-            d="M18.283 6.619L5.859 7.734c-.69.088-.859.493-.859.99V9h14a2 2 0 012 2v8a2 2 0 01-2 2H5a2 2 0 01-2-2V8.724C3 7.231 3.606 6 5.576 5.754l10.534-.946a2 2 0 012.158 1.71l.015.1zM15 15.01c0 1.12.891 1.989 2.011 1.989S19 16.131 19 15.011 18.131 13 17.011 13A2 2 0 0015 15.011z"
+            d="M5 3a2 2 0 00-2 2v14a2 2 0 002 2h14a2 2 0 002-2V5a2 2 0 00-2-2H5zm8.5 3H8v6.25H6.33v1.5H8V15H6.33v1.5H8V18h2v-1.5h5.5V15H10v-1.25h3.5c2.14 0 4.005-1.394 4.005-3.75S15.64 6 13.5 6z"
             fillRule="evenodd"
             clipRule="evenodd"
         />
     </svg>
 );
 
-export default WalletMIcon;
+export default RubSquareMIcon;
