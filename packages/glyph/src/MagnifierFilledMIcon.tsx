@@ -4,7 +4,9 @@
  */
 import React, { SVGProps } from 'react';
 
-export const HouseMIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
+export const MagnifierFilledMIcon: React.FC<SVGProps<
+    SVGSVGElement
+>> = props => (
     <svg
         role="img"
         focusable="false"
@@ -15,12 +17,11 @@ export const HouseMIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
         {...props}
     >
         <path
-            d="M3.586 13c-.914 0-1.349-1.125-.673-1.74l8.077-7.343a1.5 1.5 0 012.018 0l8.078 7.343c.676.615.24 1.74-.673 1.74h-1.414v6.5a1.5 1.5 0 01-1.5 1.5h-11A1.5 1.5 0 015 19.5V13H3.586zM10 13h4v5h-4v-5z"
+            d="M18 10.5a7.467 7.467 0 01-1.406 4.373L22 20.279l-1.721 1.72-5.406-5.405A7.5 7.5 0 1118 10.5zm-12.98-.468a5.504 5.504 0 013.995-4.829l.58 1.915a3.504 3.504 0 00-2.564 2.914H5.02z"
             fillRule="evenodd"
             clipRule="evenodd"
         />
-        <path d="M16 3.545h2V7l-2-2V3.545z" />
     </svg>
 );
 
-export default HouseMIcon;
+export default MagnifierFilledMIcon;

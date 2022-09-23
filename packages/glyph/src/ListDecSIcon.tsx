@@ -4,18 +4,18 @@
  */
 import React, { SVGProps } from 'react';
 
-export const ListMIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
+export const ListDecSIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
     <svg
         role="img"
         focusable="false"
         fill="currentColor"
-        width="24"
-        height="24"
-        viewBox="0 0 24 24"
+        width="16"
+        height="16"
+        viewBox="0 0 16 16"
         {...props}
     >
-        <path d="M3 13.25h18v-2.5H3v2.5zm0-7.5v2.5h18v-2.5H3zm0 12.5h18v-2.5H3v2.5z" />
+        <path d="M2 9h9V6.5H2V9zm0-6.5V5h12V2.5H2zM2 13h6v-2.5H2V13z" />
     </svg>
 );
 
-export default ListMIcon;
+export default ListDecSIcon;

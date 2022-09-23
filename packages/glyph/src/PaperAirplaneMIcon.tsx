@@ -4,7 +4,7 @@
  */
 import React, { SVGProps } from 'react';
 
-export const HouseMIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
+export const PaperAirplaneMIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
     <svg
         role="img"
         focusable="false"
@@ -15,12 +15,11 @@ export const HouseMIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
         {...props}
     >
         <path
-            d="M3.586 13c-.914 0-1.349-1.125-.673-1.74l8.077-7.343a1.5 1.5 0 012.018 0l8.078 7.343c.676.615.24 1.74-.673 1.74h-1.414v6.5a1.5 1.5 0 01-1.5 1.5h-11A1.5 1.5 0 015 19.5V13H3.586zM10 13h4v5h-4v-5z"
+            d="M22.068 13.11c1.02-.388 1.02-1.832 0-2.22L4 3.037V8.33a2 2 0 001.252 1.855L9.75 12l-4.499 1.816a2 2 0 00-1.25 1.854L4 20.965l18.068-7.854z"
             fillRule="evenodd"
             clipRule="evenodd"
         />
-        <path d="M16 3.545h2V7l-2-2V3.545z" />
     </svg>
 );
 
-export default HouseMIcon;
+export default PaperAirplaneMIcon;
