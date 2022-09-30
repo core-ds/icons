@@ -15,7 +15,7 @@ export const LockOpenMIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
         {...props}
     >
         <path
-            d="M12 1a5 5 0 00-5 5v1h2V6a3 3 0 116 0v4H4v8a4 4 0 004 4h8a4 4 0 004-4v-8h-3V6a5 5 0 00-5-5zm1.5 14.5a1.5 1.5 0 11-3 0 1.5 1.5 0 013 0z"
+            d="M7 7a5 5 0 0110 0v3h2v10a2 2 0 01-2 2H7a2 2 0 01-2-2V10h10V7a3 3 0 10-6 0v1H7V7zm5 11a2 2 0 100-4 2 2 0 000 4z"
             fillRule="evenodd"
             clipRule="evenodd"
         />
