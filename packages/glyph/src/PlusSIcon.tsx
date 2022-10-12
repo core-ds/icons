@@ -14,7 +14,14 @@ export const PlusSIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
         viewBox="0 0 16 16"
         {...props}
     >
-        <path d="M7.286 7.286H3v1.428h4.286V13h1.428V8.714H13V7.286H8.714V3H7.286v4.286z" />
+        <g clipPath="url(#prefix__clip0_92088_13136)">
+            <path d="M7 7H0v2h7v7h2V9h7V7H9V0H7v7z" />
+        </g>
+        <defs>
+            <clipPath id="prefix__clip0_92088_13136">
+                <path d="M0 0h16v16H0z" />
+            </clipPath>
+        </defs>
     </svg>
 );
 
