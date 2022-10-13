@@ -17,7 +17,7 @@ export const PowerButtonCircleMIcon: React.FC<SVGProps<
         {...props}
     >
         <path
-            d="M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10zm-.88-16h1.75v6h-1.75V6zM9 7.39a5.5 5.5 0 106 0v1.964a4 4 0 11-6 0V7.39z"
+            d="M22 12c0 5.523-4.477 10-10 10S2 17.523 2 12 6.477 2 12 2s10 4.477 10 10zm-11 0V6h2v6h-2zM9 6.803a6 6 0 106 0v2.551a4 4 0 11-6 0V6.803z"
             fillRule="evenodd"
             clipRule="evenodd"
         />
