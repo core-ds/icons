@@ -4,7 +4,7 @@
  */
 import React, { SVGProps } from 'react';
 
-export const RubMIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
+export const JpnMIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
     <svg
         role="img"
         focusable="false"
@@ -14,8 +14,8 @@ export const RubMIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
         viewBox="0 0 24 24"
         {...props}
     >
-        <path d="M4 17v2h2.5v3H10v-3h6v-2h-6v-2h3.816c3.994 0 6.684-2.847 6.684-6.5 0-3.682-2.591-6.5-6.528-6.5H6.5v11H4v2h2.5v2H4zm6-12h3.078C15.683 5 17 6.376 17 8.5c0 2.152-1.331 3.5-3.937 3.5H10V5z" />
+        <path d="M10.358 22h3.284v-7.65h5.04v-1.707H14.49L21 2h-3.612l-5.321 9.226h-.119L6.627 2H3l6.51 10.643H5.304v1.707h5.054V22z" />
     </svg>
 );
 
-export default RubMIcon;
+export default JpnMIcon;

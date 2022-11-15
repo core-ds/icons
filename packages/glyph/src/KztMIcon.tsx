@@ -14,7 +14,7 @@ export const KztMIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
         viewBox="0 0 24 24"
         {...props}
     >
-        <path d="M13.5 21.638V10H19V7.5H5V10h5.5v11.638h3zM19 5.45V3H5v2.45h14z" />
+        <path d="M20 4V2H4v2h16zm-6 4.5V22h-4V8.5H4V6h16v2.5h-6z" />
     </svg>
 );
 
