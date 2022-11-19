@@ -11,17 +11,24 @@ export const InformationCircleLineSIcon: React.FC<SVGProps<
         role="img"
         focusable="false"
         fill="currentColor"
-        width="18"
-        height="18"
-        viewBox="0 0 18 18"
+        width="16"
+        height="16"
+        viewBox="0 0 16 16"
         {...props}
     >
-        <path d="M9.851 12.996V8H8.155v4.996H9.85zm.239-7.086a1.09 1.09 0 11-2.18 0 1.09 1.09 0 012.18 0z" />
-        <path
-            d="M16.5 9a7.5 7.5 0 11-15 0 7.5 7.5 0 0115 0zM15 9A6 6 0 113 9a6 6 0 0112 0z"
-            fillRule="evenodd"
-            clipRule="evenodd"
-        />
+        <g clipPath="url(#prefix__clip0_33957_1199)">
+            <path d="M8.908 12.262V6.933h-1.81v5.33h1.81zm.254-7.558a1.163 1.163 0 11-2.325 0 1.163 1.163 0 012.325 0z" />
+            <path
+                d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.6 0A6.4 6.4 0 111.6 8a6.4 6.4 0 0112.8 0z"
+                fillRule="evenodd"
+                clipRule="evenodd"
+            />
+        </g>
+        <defs>
+            <clipPath id="prefix__clip0_33957_1199">
+                <path d="M0 0h16v16H0z" />
+            </clipPath>
+        </defs>
     </svg>
 );
 

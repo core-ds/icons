@@ -4,7 +4,7 @@
  */
 import React, { SVGProps } from 'react';
 
-export const CheckmarkCircleSIcon: React.FC<SVGProps<
+export const ExclamationCircleSIcon: React.FC<SVGProps<
     SVGSVGElement
 >> = props => (
     <svg
@@ -16,19 +16,19 @@ export const CheckmarkCircleSIcon: React.FC<SVGProps<
         viewBox="0 0 16 16"
         {...props}
     >
-        <g clipPath="url(#prefix__clip0_54320_8693)">
+        <g clipPath="url(#prefix__clip0_92179_18949)">
             <path
-                d="M8 16A8 8 0 108 0a8 8 0 000 16zm3.967-10.037l-1.13-1.131-4.033 4.032L5.17 7.231 4.039 8.363l2.765 2.764 5.163-5.164z"
+                d="M8 16A8 8 0 108 0a8 8 0 000 16zm-.8-7.2V4h1.6v4.8H7.2zm0 3.2v-1.6h1.6V12H7.2z"
                 fillRule="evenodd"
                 clipRule="evenodd"
             />
         </g>
         <defs>
-            <clipPath id="prefix__clip0_54320_8693">
+            <clipPath id="prefix__clip0_92179_18949">
                 <path d="M0 0h16v16H0z" />
             </clipPath>
         </defs>
     </svg>
 );
 
-export default CheckmarkCircleSIcon;
+export default ExclamationCircleSIcon;

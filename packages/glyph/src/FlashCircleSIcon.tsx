@@ -14,11 +14,18 @@ export const FlashCircleSIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
         viewBox="0 0 16 16"
         {...props}
     >
-        <path
-            d="M8 15A7 7 0 108 1a7 7 0 000 14zM9.78 3l-5 5 2.778 1.111L6.208 13l5-5-2.54-1.111L9.78 3z"
-            fillRule="evenodd"
-            clipRule="evenodd"
-        />
+        <g clipPath="url(#prefix__clip0_17630_0)">
+            <path
+                d="M8 16A8 8 0 108 0a8 8 0 000 16zm2.034-13.714L4.32 8l3.175 1.27-1.542 4.444L11.667 8 8.764 6.73l1.27-4.444z"
+                fillRule="evenodd"
+                clipRule="evenodd"
+            />
+        </g>
+        <defs>
+            <clipPath id="prefix__clip0_17630_0">
+                <path d="M0 0h16v16H0z" />
+            </clipPath>
+        </defs>
     </svg>
 );
 

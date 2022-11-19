@@ -14,11 +14,18 @@ export const ClockSIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
         viewBox="0 0 16 16"
         {...props}
     >
-        <path
-            d="M8 15A7 7 0 108 1a7 7 0 000 14zm.7-11v3.71l2.295 2.295-.99.99-2.5-2.5A.7.7 0 017.3 8V4h1.4z"
-            fillRule="evenodd"
-            clipRule="evenodd"
-        />
+        <g clipPath="url(#prefix__clip0_13817_648)">
+            <path
+                d="M8 16A8 8 0 108 0a8 8 0 000 16zm.8-12.571v4.24l2.623 2.622-1.132 1.132-2.857-2.857A.8.8 0 017.2 8V3.429h1.6z"
+                fillRule="evenodd"
+                clipRule="evenodd"
+            />
+        </g>
+        <defs>
+            <clipPath id="prefix__clip0_13817_648">
+                <path d="M0 0h16v16H0z" />
+            </clipPath>
+        </defs>
     </svg>
 );
 

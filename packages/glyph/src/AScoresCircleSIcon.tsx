@@ -14,12 +14,19 @@ export const AScoresCircleSIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
         viewBox="0 0 16 16"
         {...props}
     >
-        <path d="M6.89 8.666h2.18L8.03 5.333h-.04l-1.1 3.333z" />
-        <path
-            d="M15.5 8a7.5 7.5 0 11-15 0 7.5 7.5 0 0115 0zM9.437 4.717l2.313 7.033h-1.712l-.52-1.672H6.421L5.86 11.75H4.25l2.428-7.033c.235-.682.51-1.217 1.393-1.217.884 0 1.142.537 1.366 1.217z"
-            fillRule="evenodd"
-            clipRule="evenodd"
-        />
+        <g clipPath="url(#prefix__clip0_22451_1305)">
+            <path d="M6.815 8.71h2.326L8.033 5.155h-.044L6.815 8.71z" />
+            <path
+                d="M16 8A8 8 0 110 8a8 8 0 0116 0zM9.532 4.498L12 12h-1.826l-.555-1.783H6.315L5.717 12H4l2.59-7.502c.25-.727.543-1.298 1.486-1.298.942 0 1.218.573 1.456 1.298z"
+                fillRule="evenodd"
+                clipRule="evenodd"
+            />
+        </g>
+        <defs>
+            <clipPath id="prefix__clip0_22451_1305">
+                <path d="M0 0h16v16H0z" />
+            </clipPath>
+        </defs>
     </svg>
 );
 
