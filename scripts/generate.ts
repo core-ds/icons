@@ -70,8 +70,15 @@ function deleteDuplicates(packageName: string) {
 
 function generateIcon(iconName: string, dir: string) {
     const re = new RegExp(`.${SVG_EXT}$`);
+    const iconPrefix = dir.split('/')[7];
+    
+    let name = '';
 
-    const [iconPrefix, name] = iconName.replace(re, '').split('_');
+     if ( iconPrefix === 'ios' || iconPrefix === 'android'  ) {
+      [ name ] = iconName.replace(re, '').split('_');
+     } else {
+       [ , name  ] = iconName.replace(re, '').split('_')
+     }
 
     const packageName = getPackageName(iconPrefix);
 
@@ -130,7 +137,7 @@ async function createPackage(packageName: string) {
     );
 
     const componentNames = await Promise.all(
-        iconVariants.map(filePath => createComponent(filePath, srcPackageDir))
+        iconVariants.map(filePath => createComponent(filePath, srcPackageDir, packageName ))
     );
 
     componentNames.sort();
