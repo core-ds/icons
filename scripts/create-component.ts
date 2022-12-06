@@ -7,7 +7,7 @@ import Svgo from 'svgo';
 
 import { iconTemplate } from '../templates/icon.template';
 import { SVG_EXT } from './generate';
-import { ENCODING } from './constants';
+import { ENCODING, MOBILE_PREFIXES } from './constants';
 
 const readFile = promisify(fs.readFile);
 const writeFile = promisify(fs.writeFile);
@@ -99,14 +99,12 @@ export async function createComponent(filePath: string, packageDir: string, pack
 
     const basename = path.basename(filePath, `.${SVG_EXT}`);
 
-    let name = '';
-    let size = '';
-    let color = '';
+    const iconParams = basename.split('_');
 
-    if (packageName === 'ios' || packageName === 'android') {
-        [ name, size, color] = basename.split('_');
-    } else {
-       [ , name, size, color] = basename.split('_'); 
+    let [ , name, size, color] = iconParams;
+
+    if ( MOBILE_PREFIXES.includes(packageName) ) {
+        [ name, size, color] = iconParams;
     }
 
     let componentName = `${name}_${size}${color ? `_${color}` : ``}`;

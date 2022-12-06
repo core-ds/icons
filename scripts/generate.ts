@@ -3,7 +3,7 @@ import path from 'path';
 import { promisify } from 'util';
 import { createComponent } from './create-component';
 import { checkOrCreateFiles } from './create-files';
-import { getPackageName, ENCODING } from './constants';
+import { getPackageName, ENCODING, MOBILE_PREFIXES } from './constants';
 
 const rootIconsDir = path.resolve(
     __dirname,
@@ -71,14 +71,15 @@ function deleteDuplicates(packageName: string) {
 function generateIcon(iconName: string, dir: string) {
     const re = new RegExp(`.${SVG_EXT}$`);
     const iconPrefix = dir.split('/')[7];
-    
+    const iconNameParams = iconName.replace(re, '').split('_')
+ 
     let name = '';
 
-     if ( iconPrefix === 'ios' || iconPrefix === 'android'  ) {
-      [ name ] = iconName.replace(re, '').split('_');
-     } else {
-       [ , name  ] = iconName.replace(re, '').split('_')
-     }
+    if ( MOBILE_PREFIXES.includes(iconPrefix) ) { 
+     [ name ] = iconNameParams; 
+    } else { 
+        [ , name] = iconNameParams; 
+    }
 
     const packageName = getPackageName(iconPrefix);
 

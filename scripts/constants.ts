@@ -8,3 +8,5 @@ export const getPackageName = (iconPrefix: string) =>
 export const ICON_POSTFIX = 'Icon';
 
 export const ENCODING = 'utf-8';
+
+export const MOBILE_PREFIXES = ['ios', 'android'];
