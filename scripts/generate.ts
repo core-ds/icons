@@ -71,14 +71,14 @@ function deleteDuplicates(packageName: string) {
 function generateIcon(iconName: string, dir: string) {
     const re = new RegExp(`.${SVG_EXT}$`);
     const iconPrefix = dir.split('/')[7];
-    const iconNameParams = iconName.replace(re, '').split('_')
- 
+    const iconNameParams = iconName.replace(re, '').split('_');
+
     let name = '';
 
-    if ( MOBILE_PREFIXES.includes(iconPrefix) ) { 
-     [ name ] = iconNameParams; 
-    } else { 
-        [ , name] = iconNameParams; 
+    if (MOBILE_PREFIXES.includes(iconPrefix)) {
+        [name] = iconNameParams;
+    } else {
+        [, name] = iconNameParams;
     }
 
     const packageName = getPackageName(iconPrefix);
@@ -110,14 +110,16 @@ async function processDir(dir: string) {
 }
 
 async function generateIconsTree(categories: string[]) {
-    return await Promise.all(categories.map(item => {
-       if (path.extname(item) === `.${SVG_EXT}`) {
-            let svgItem = item.split('/ui-primitives/icons/')
-            return generateIcon(svgItem[1], rootIconsDir)
-       } else {
-            return processDir(item)
-       }
-    }));
+    return await Promise.all(
+        categories.map(item => {
+            if (path.extname(item) === `.${SVG_EXT}`) {
+                let svgItem = item.split('/ui-primitives/icons/');
+                return generateIcon(svgItem[1], rootIconsDir);
+            } else {
+                return processDir(item);
+            }
+        })
+    );
 }
 
 async function createPackage(packageName: string) {
@@ -138,7 +140,9 @@ async function createPackage(packageName: string) {
     );
 
     const componentNames = await Promise.all(
-        iconVariants.map(filePath => createComponent(filePath, srcPackageDir, packageName ))
+        iconVariants.map(filePath =>
+            createComponent(filePath, srcPackageDir, packageName)
+        )
     );
 
     componentNames.sort();

@@ -94,17 +94,21 @@ const transformSvg = (svg: string): string =>
         .replace(/xlink:href/g, 'xlinkHref')
         .replace(/<rect\/>/g, '');
 
-export async function createComponent(filePath: string, packageDir: string, packageName: string) {
+export async function createComponent(
+    filePath: string,
+    packageDir: string,
+    packageName: string
+) {
     const fileContent = await readFile(filePath, ENCODING);
 
     const basename = path.basename(filePath, `.${SVG_EXT}`);
 
     const iconParams = basename.split('_');
 
-    let [ , name, size, color] = iconParams;
+    let [, name, size, color] = iconParams;
 
-    if ( MOBILE_PREFIXES.includes(packageName) ) {
-        [ name, size, color] = iconParams;
+    if (MOBILE_PREFIXES.includes(packageName)) {
+        [name, size, color] = iconParams;
     }
 
     let componentName = `${name}_${size}${color ? `_${color}` : ``}`;
