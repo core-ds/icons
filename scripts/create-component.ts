@@ -7,7 +7,7 @@ import Svgo from 'svgo';
 
 import { iconTemplate } from '../templates/icon.template';
 import { SVG_EXT } from './generate';
-import { ENCODING } from './constants';
+import { ENCODING, MOBILE_PREFIXES } from './constants';
 
 const readFile = promisify(fs.readFile);
 const writeFile = promisify(fs.writeFile);
@@ -94,12 +94,22 @@ const transformSvg = (svg: string): string =>
         .replace(/xlink:href/g, 'xlinkHref')
         .replace(/<rect\/>/g, '');
 
-export async function createComponent(filePath: string, packageDir: string) {
+export async function createComponent(
+    filePath: string,
+    packageDir: string,
+    packageName: string
+) {
     const fileContent = await readFile(filePath, ENCODING);
 
     const basename = path.basename(filePath, `.${SVG_EXT}`);
 
-    const [packageName, name, size, color] = basename.split('_');
+    const iconParams = basename.split('_');
+
+    let [, name, size, color] = iconParams;
+
+    if (MOBILE_PREFIXES.includes(packageName)) {
+        [name, size, color] = iconParams;
+    }
 
     let componentName = `${name}_${size}${color ? `_${color}` : ``}`;
 
