@@ -70,7 +70,7 @@ function deleteDuplicates(packageName: string) {
 
 function generateIcon(iconName: string, dir: string) {
     const re = new RegExp(`.${SVG_EXT}$`);
-    const iconPrefix = dir.split('/')[7];
+    const iconPrefix = path.basename(dir);
     const iconNameParams = iconName.replace(re, '').split('_');
 
     let name = '';
