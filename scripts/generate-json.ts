@@ -42,14 +42,16 @@ type FigmaResponse = {
 function getName(iconComponent: FigmaComponent): string {
     const { containing_frame, name } = iconComponent;
 
-    let pageName = containing_frame.pageName;
+    const pageName = containing_frame.pageName.replace(
+        'general (glyph)',
+        'glyph'
+    );
+
     let iconName = name;
 
     if (!pageName) {
         return '';
     }
-
-    pageName = pageName !== 'general (glyph)' ? pageName : 'glyph';
 
     if (pageName !== 'site') {
         const size = name.replace('Size=', '');
