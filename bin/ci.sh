@@ -37,7 +37,7 @@ rm -rf dist
 mkdir dist
 
 # Генерируем dist для общего пакета @alfalab/icons. Исключая из него подпакеты @alfalab/icons-ios @alfalab/icons-android 
-lerna exec --parallel --ignore @alfalab/icons-ios --ignore @alfalab/icons-android -- $(pwd)/bin/build-root-package.sh \$LERNA_PACKAGE_NAME 
+lerna exec --parallel -- $(pwd)/bin/build-root-package.sh \$LERNA_PACKAGE_NAME 
 
 # Генерируем вспомогательный json-файл для поиска в витрине иконок
 yarn generate-json
