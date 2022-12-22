@@ -127,7 +127,7 @@ export async function getComponets() {
     const reqUrlSet = `${FIGMA_API_URL}/files/${FIGMA_FILE_ID}/component_sets`;
 
     axios.all([
-        await axios.get<FigmaResponse>(reqUrl, {
+        axios.get<FigmaResponse>(reqUrl, {
             headers: { 'X-FIGMA-TOKEN': FIGMA_API_TOKEN },
         }),
         axios.get<FigmaResponse>(reqUrlSet, {
