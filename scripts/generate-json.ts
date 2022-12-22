@@ -72,29 +72,7 @@ function getName(iconComponent: FigmaComponent): string {
     return `${pageName.trim()}_${m.groups.iconName.trim()}`;
 }
 
-/**
- * Генерация JSON-файла для витрины иконок.
- * Этот файл нужен для поиска иконок по их description из фигмы
- */
-export async function generateJson() {
-    const reqUrl = `${FIGMA_API_URL}/files/${FIGMA_FILE_ID}/components`;
-    const reqUrlSet = `${FIGMA_API_URL}/files/${FIGMA_FILE_ID}/component_sets`;
-
-    const {
-        data: {
-            meta: { components },
-        },
-    } = await axios.get<FigmaResponse>(reqUrl, {
-        headers: { 'X-FIGMA-TOKEN': FIGMA_API_TOKEN },
-    });
-
-    const {
-        data: {
-            meta: { component_sets },
-        },
-    } = await axios.get<FigmaResponse>(reqUrlSet, {
-        headers: { 'X-FIGMA-TOKEN': FIGMA_API_TOKEN },
-    });
+export async function generateJson(components, componentsSet) {
 
     const json = {};
 
@@ -118,12 +96,12 @@ export async function generateJson() {
                 json[packageName] = {};
             }
 
-            component_sets.forEach(component_set => {
+            componentsSet.forEach(componentSet => {
                 if (
-                    component.containing_frame.nodeId === component_set.node_id
+                    component.containing_frame.nodeId === componentSet.node_id
                 ) {
                     const description =
-                        component_set.description + ' ' + component.description;
+                    componentSet.description + ' ' + component.description;
 
                     json[packageName][reactIconName] = {
                         figmaIconName,
@@ -140,5 +118,34 @@ export async function generateJson() {
 
     await writeFile(jsonFileName, JSON.stringify(json), ENCODING);
 }
+/**
+ * Генерация JSON-файла для витрины иконок.
+ * Этот файл нужен для поиска иконок по их description из фигмы
+ */
+export async function getComponets() {
+    const reqUrl = `${FIGMA_API_URL}/files/${FIGMA_FILE_ID}/components`;
+    const reqUrlSet = `${FIGMA_API_URL}/files/${FIGMA_FILE_ID}/component_sets`;
 
-generateJson();
+    axios.all([
+        await axios.get<FigmaResponse>(reqUrl, {
+            headers: { 'X-FIGMA-TOKEN': FIGMA_API_TOKEN },
+        }),
+        axios.get<FigmaResponse>(reqUrlSet, {
+            headers: { 'X-FIGMA-TOKEN': FIGMA_API_TOKEN },
+        })])
+     .then(axios.spread(({
+        data: {
+            meta: { components },
+        },
+    }, {
+        data: {
+            meta: { component_sets },
+        },
+    }) => {  
+        generateJson(components, component_sets)
+     }))
+    .catch(error => console.log(error));
+
+}
+
+getComponets();
