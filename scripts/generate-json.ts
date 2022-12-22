@@ -35,7 +35,8 @@ type FigmaResponse = {
     status: number;
     error: boolean;
     meta: {
-        components: FigmaComponent[];
+        components?: FigmaComponent[];
+        component_sets?: FigmaComponent[];
     };
 };
 
@@ -77,12 +78,21 @@ function getName(iconComponent: FigmaComponent): string {
  */
 export async function generateJson() {
     const reqUrl = `${FIGMA_API_URL}/files/${FIGMA_FILE_ID}/components`;
+    const reqUrlSet = `${FIGMA_API_URL}/files/${FIGMA_FILE_ID}/component_sets`;
 
     const {
         data: {
             meta: { components },
         },
     } = await axios.get<FigmaResponse>(reqUrl, {
+        headers: { 'X-FIGMA-TOKEN': FIGMA_API_TOKEN },
+    });
+
+    const {
+        data: {
+            meta: { component_sets },
+        },
+    } = await axios.get<FigmaResponse>(reqUrlSet, {
         headers: { 'X-FIGMA-TOKEN': FIGMA_API_TOKEN },
     });
 
@@ -108,12 +118,21 @@ export async function generateJson() {
                 json[packageName] = {};
             }
 
-            json[packageName][reactIconName] = {
-                figmaIconName,
-                svgIconName,
-                reactIconName,
-                figmaDescription: component.description,
-            };
+            component_sets.forEach(component_set => {
+                if (
+                    component.containing_frame.nodeId === component_set.node_id
+                ) {
+                    const description =
+                        component_set.description + ' ' + component.description;
+
+                    json[packageName][reactIconName] = {
+                        figmaIconName,
+                        svgIconName,
+                        reactIconName,
+                        figmaDescription: description,
+                    };
+                }
+            });
         }
     });
 
