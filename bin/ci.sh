@@ -53,8 +53,8 @@ if [ -z "$changed_packages" ]
 then
     if [ "$changed_json" ]
     then 
-        echo "Publish root package"
-        npm version path --git-tag-version false
+        echo "Publish updated search.json"
+        npm version patch --git-tag-version false
 
         cp package.json dist/package.json
         # Публикуем пакет
@@ -62,9 +62,9 @@ then
     else
         echo "No new icons added"
     fi
-        git add .
+
+        git add packages/search.json
         git commit -m "chore(*): update search.json"
-        git push
 else
     echo "Publish root package"
     npm version minor --git-tag-version false
