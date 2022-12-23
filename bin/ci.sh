@@ -12,12 +12,6 @@ yarn install
 yarn add --dev ui-primitives@latest
 yarn generate
 
-# Добавляем новые иконки в git
-git config --local user.email "ds@gitmax.tech"
-git config --local user.name "core-ds-bot"
-git add .
-git commit -m "feat(*): add new icons"
-
 # Смотрим, были ли какие-то изменения в иконках
 changed_packages=`lerna changed`;
 
@@ -36,16 +30,41 @@ rm -rf dist
 
 mkdir dist
 
-# Генерируем dist для общего пакета @alfalab/icons. Исключая из него подпакеты @alfalab/icons-ios @alfalab/icons-android 
+# Генерируем dist для общего пакета @alfalab/icons.
 lerna exec --parallel -- $(pwd)/bin/build-root-package.sh \$LERNA_PACKAGE_NAME 
 
 # Генерируем вспомогательный json-файл для поиска в витрине иконок
 yarn generate-json
 
-# Релизим агрегирующий пакет, если были измнения в подпакетах
+# Копируем в dist search.json
+cp -r packages/search.json dist/search.json
+
+# Смотрим, были ли какие-то изменения в search.json
+changed_json=`git status --porcelain | grep search.json`
+
+# Добавляем новые иконки в git
+git config --local user.email "ds@gitmax.tech"
+git config --local user.name "core-ds-bot"
+git add .
+git commit -m "feat(*): add new icons"
+
+#Релизим агрегирующий пакет, если были измнения в подпакетах
 if [ -z "$changed_packages" ]
 then
-    echo "No new icons added"
+    if [ "$changed_json" ]
+    then 
+        echo "Publish root package"
+        npm version path --git-tag-version false
+
+        cp package.json dist/package.json
+        # Публикуем пакет
+        npm publish ./dist
+    else
+        echo "No new icons added"
+    fi
+        git add .
+        git commit -m "chore(*): update search.json"
+        git push
 else
     echo "Publish root package"
     npm version minor --git-tag-version false
