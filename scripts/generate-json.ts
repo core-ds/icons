@@ -73,7 +73,6 @@ function getName(iconComponent: FigmaComponent): string {
 }
 
 export async function generateJson(components, componentsSet) {
-
     const json = {};
 
     components.forEach(component => {
@@ -101,7 +100,7 @@ export async function generateJson(components, componentsSet) {
                     component.containing_frame.nodeId === componentSet.node_id
                 ) {
                     const description =
-                    componentSet.description + ' ' + component.description;
+                        componentSet.description + component.description;
 
                     json[packageName][reactIconName] = {
                         figmaIconName,
@@ -114,7 +113,7 @@ export async function generateJson(components, componentsSet) {
         }
     });
 
-    const jsonFileName = path.resolve(__dirname, '../dist/search.json');
+    const jsonFileName = path.resolve(__dirname, '../packages/search.json');
 
     await writeFile(jsonFileName, JSON.stringify(json), ENCODING);
 }
@@ -126,26 +125,31 @@ export async function getComponets() {
     const reqUrl = `${FIGMA_API_URL}/files/${FIGMA_FILE_ID}/components`;
     const reqUrlSet = `${FIGMA_API_URL}/files/${FIGMA_FILE_ID}/component_sets`;
 
-    axios.all([
+    Promise.all([
         axios.get<FigmaResponse>(reqUrl, {
             headers: { 'X-FIGMA-TOKEN': FIGMA_API_TOKEN },
         }),
         axios.get<FigmaResponse>(reqUrlSet, {
             headers: { 'X-FIGMA-TOKEN': FIGMA_API_TOKEN },
-        })])
-     .then(axios.spread(({
-        data: {
-            meta: { components },
-        },
-    }, {
-        data: {
-            meta: { component_sets },
-        },
-    }) => {  
-        generateJson(components, component_sets)
-     }))
-    .catch(error => console.log(error));
-
+        }),
+    ])
+        .then(
+            ([
+                {
+                    data: {
+                        meta: { components },
+                    },
+                },
+                {
+                    data: {
+                        meta: { component_sets },
+                    },
+                },
+            ]) => {
+                generateJson(components, component_sets);
+            }
+        )
+        .catch(error => console.log(error));
 }
 
 getComponets();
