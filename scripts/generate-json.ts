@@ -132,22 +132,28 @@ export async function getComponets() {
         axios.get<FigmaResponse>(reqUrlSet, {
             headers: { 'X-FIGMA-TOKEN': FIGMA_API_TOKEN },
         }),
-    ])
-        .then(
-            ([
-                {
-                    data: {
-                        meta: { components },
-                    },
+    ]).then(
+        ([
+            {
+                data: {
+                    meta: { components },
                 },
-                {
-                    data: {
-                        meta: { component_sets },
-                    },
+            },
+            {
+                data: {
+                    meta: { component_sets },
                 },
-            ]) => generateJson(components, component_sets)
-        )
-        .catch(error => console.log(error));
+            },
+        ]) => generateJson(components, component_sets)
+    );
 }
 
-getComponets();
+getComponets()
+    .then(() => {
+        console.log('search.json сформирован');
+        process.exit(0);
+    })
+    .catch(error => {
+        console.log(error);
+        process.exit(1);
+    });
