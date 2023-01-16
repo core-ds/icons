@@ -1,0 +1,27 @@
+/**
+ * This is auto-generated file by scripts/generate.ts
+ * Do not edit it manually
+ */
+import React, { SVGProps } from 'react';
+
+export const MobilePhoneHorizontalMIcon: React.FC<SVGProps<
+    SVGSVGElement
+>> = props => (
+    <svg
+        role="img"
+        focusable="false"
+        fill="currentColor"
+        width="24"
+        height="24"
+        viewBox="0 0 24 24"
+        {...props}
+    >
+        <path
+            d="M20 6a2 2 0 012 2v8a2 2 0 01-2 2H4a2 2 0 01-2-2V8a2 2 0 012-2h16zM6 10v4H4v-4h2z"
+            fillRule="evenodd"
+            clipRule="evenodd"
+        />
+    </svg>
+);
+
+export default MobilePhoneHorizontalMIcon;
