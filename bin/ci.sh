@@ -46,7 +46,7 @@ yarn generate-json
 cp -r packages/search.json dist/search.json
 
 # Смотрим, были ли какие-то изменения в search.json
-changed_json=`git diff —-name-only HEAD HEAD~1 | grep search.json`
+changed_json=`git diff --name-only HEAD HEAD~1 | grep search.json`
 
 #Релизим агрегирующий пакет, если были измнения в подпакетах
 if [ -z "$changed_packages" ]
