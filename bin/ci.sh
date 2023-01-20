@@ -57,14 +57,14 @@ then
         npm version patch --git-tag-version false
 
         cp package.json dist/package.json
+        
+        git add packages/search.json
+        git commit -m "chore(*): update search.json"
+        
         # Публикуем пакет
         npm publish dist
     else
         echo "No new icons added"
-    fi
-
-    git add packages/search.json
-    git commit -m "chore(*): update search.json"
 else
     echo "Publish root package"
     npm version minor --git-tag-version false
