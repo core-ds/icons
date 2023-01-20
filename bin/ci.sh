@@ -12,6 +12,12 @@ yarn install
 yarn add --dev ui-primitives@latest
 yarn generate
 
+# Добавляем новые иконки в git
+git config --local user.email "ds@gitmax.tech"
+git config --local user.name "core-ds-bot"
+git add .
+git commit -m "feat(*): add new icons"
+
 # Смотрим, были ли какие-то изменения в иконках
 changed_packages=`lerna changed`;
 
@@ -40,13 +46,7 @@ yarn generate-json
 cp -r packages/search.json dist/search.json
 
 # Смотрим, были ли какие-то изменения в search.json
-changed_json=`git status --porcelain | grep search.json`
-
-# Добавляем новые иконки в git
-git config --local user.email "ds@gitmax.tech"
-git config --local user.name "core-ds-bot"
-git add .
-git commit -m "feat(*): add new icons"
+changed_json=`git diff —-name-only HEAD HEAD~1 | grep search.json`
 
 #Релизим агрегирующий пакет, если были измнения в подпакетах
 if [ -z "$changed_packages" ]
@@ -57,14 +57,14 @@ then
         npm version patch --git-tag-version false
 
         cp package.json dist/package.json
+        
+        git add packages/search.json
+        git commit -m "chore(*): update search.json"
+        
         # Публикуем пакет
-        npm publish ./dist
+        npm publish dist
     else
         echo "No new icons added"
-    fi
-
-    git add packages/search.json
-    git commit -m "chore(*): update search.json"
 else
     echo "Publish root package"
     npm version minor --git-tag-version false
