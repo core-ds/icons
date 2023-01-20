@@ -65,6 +65,8 @@ then
         npm publish dist
     else
         echo "No new icons added"
+    fi
+
 else
     echo "Publish root package"
     npm version minor --git-tag-version false
