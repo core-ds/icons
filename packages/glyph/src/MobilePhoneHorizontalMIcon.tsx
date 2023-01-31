@@ -17,7 +17,7 @@ export const MobilePhoneHorizontalMIcon: React.FC<SVGProps<
         {...props}
     >
         <path
-            d="M20 6a2 2 0 012 2v8a2 2 0 01-2 2H4a2 2 0 01-2-2V8a2 2 0 012-2h16zM6 10v4H4v-4h2z"
+            d="M20 18a2 2 0 002-2V8a2 2 0 00-2-2H4a2 2 0 00-2 2v8a2 2 0 002 2h16zM6 14v-4H4v4h2z"
             fillRule="evenodd"
             clipRule="evenodd"
         />
