@@ -4,7 +4,7 @@
  */
 import React, { SVGProps } from 'react';
 
-export const PlusCompactMIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
+export const DotMediumMIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
     <svg
         role="img"
         focusable="false"
@@ -14,8 +14,8 @@ export const PlusCompactMIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
         viewBox="0 0 24 24"
         {...props}
     >
-        <path d="M11 11H4v2h7v7h2v-7h7v-2h-7V4h-2v7z" />
+        <path d="M16.5 12a4.5 4.5 0 11-9 0 4.5 4.5 0 019 0z" />
     </svg>
 );
 
-export default PlusCompactMIcon;
+export default DotMediumMIcon;
