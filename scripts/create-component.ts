@@ -103,6 +103,8 @@ export async function createComponent(
 
     const basename = path.basename(filePath, `.${SVG_EXT}`);
 
+    if (IGNORE_ICONS.includes(basename)) return '';
+
     const iconParams = basename.split('_');
 
     let [, name, size, color] = iconParams;
@@ -110,8 +112,6 @@ export async function createComponent(
     if (MOBILE_PREFIXES.includes(packageName)) {
         [name, size, color] = iconParams;
     }
-
-    if (IGNORE_ICONS.includes(name)) return;
 
     let componentName = `${name}_${size}${color ? `_${color}` : ``}`;
 

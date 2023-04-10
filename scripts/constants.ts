@@ -11,4 +11,4 @@ export const ENCODING = 'utf-8';
 
 export const MOBILE_PREFIXES = ['ios', 'android'];
 
-export const IGNORE_ICONS = ['tshirt'];
+export const IGNORE_ICONS = ['rocky_tshirt_m'];
