@@ -1,6 +1,6 @@
 {
     "name": "@alfalab/icons-rocky",
-    "version": "1.10.0",
+    "version": "1.11.0",
     "license": "MIT",
     "peerDependencies": {
         "react": ">=16.8.0",
