@@ -7,7 +7,7 @@ import Svgo from 'svgo';
 
 import { iconTemplate } from '../templates/icon.template';
 import { SVG_EXT } from './generate';
-import { ENCODING, MOBILE_PREFIXES } from './constants';
+import { ENCODING, IGNORE_ICONS, MOBILE_PREFIXES } from './constants';
 
 const readFile = promisify(fs.readFile);
 const writeFile = promisify(fs.writeFile);
@@ -110,6 +110,8 @@ export async function createComponent(
     if (MOBILE_PREFIXES.includes(packageName)) {
         [name, size, color] = iconParams;
     }
+
+    if (IGNORE_ICONS.includes(name)) return;
 
     let componentName = `${name}_${size}${color ? `_${color}` : ``}`;
 
