@@ -1,8 +1,5 @@
 #!/bin/bash
 
-# выхожу, если одна из команд завершилась неудачно
-set -e
-
 # Подтягиваем тэги
 git fetch --prune --unshallow
 git fetch --tags
@@ -40,7 +37,7 @@ rm -rf dist
 mkdir dist
 
 # Генерируем dist для общего пакета @alfalab/icons.
-lerna exec --parallel -- $(pwd)/bin/build-root-package.sh \$LERNA_PACKAGE_NAME 
+lerna exec --parallel -- $(pwd)/bin/build-root-package.sh \$LERNA_PACKAGE_NAME
 
 # Генерируем вспомогательный json-файл для поиска в витрине иконок
 yarn generate-json
@@ -55,15 +52,15 @@ changed_json=`git diff --name-only HEAD HEAD~1 | grep search.json`
 if [ -z "$changed_packages" ]
 then
     if [ "$changed_json" ]
-    then 
+    then
         echo "Publish updated search.json"
         npm version patch --git-tag-version false
 
         cp package.json dist/package.json
-        
+
         git add packages/search.json
         git commit -m "chore(*): update search.json"
-        
+
         # Публикуем пакет
         npm publish dist
     else
@@ -76,7 +73,7 @@ else
 
     cp package.json dist/package.json
     # Публикуем пакет
-    npm publish dist    
+    npm publish dist
 fi
 
 git add .
