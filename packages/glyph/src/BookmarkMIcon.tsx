@@ -14,7 +14,7 @@ export const BookmarkMIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
         viewBox="0 0 24 24"
         {...props}
     >
-        <path d="M5 6v15l6.008-3.433a2 2 0 011.984 0L19 21V6a2 2 0 00-2-2H7a2 2 0 00-2 2z" />
+        <path d="M5 5.235V22l6.008-3.837a1.819 1.819 0 011.984 0L19 22V5.235C19 4.001 18.104 3 17 3H7C5.896 3 5 4.001 5 5.235z" />
     </svg>
 );
 

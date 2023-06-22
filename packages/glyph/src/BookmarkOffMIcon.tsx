@@ -14,7 +14,11 @@ export const BookmarkOffMIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
         viewBox="0 0 24 24"
         {...props}
     >
-        <path d="M3.495 2.514L2 4.008l3 3v13.993l6.008-3.433a2 2 0 011.984 0l5.99 3.423 1.024 1.023 1.495-1.494L3.495 2.514zM19 6v9.272L7.728 4H17a2 2 0 012 2z" />
+        <path
+            d="M3.408 2.006L2 3.414l3 3V22l6.008-3.837a1.819 1.819 0 011.984 0L19 22v-1.586L20.586 22l1.408-1.408L3.408 2.006zM19 14.77V5.235C19 4.001 18.104 3 17 3H7.23L19 14.77z"
+            fillRule="evenodd"
+            clipRule="evenodd"
+        />
     </svg>
 );
 
