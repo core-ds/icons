@@ -14,7 +14,7 @@ export const PauseCompactMIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
         viewBox="0 0 24 24"
         {...props}
     >
-        <path d="M7 5h3v14H7V5zm7 0h3v14h-3V5z" />
+        <path d="M7 6h3v12H7V6zm7 0h3v12h-3V6z" />
     </svg>
 );
 

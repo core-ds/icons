@@ -14,7 +14,7 @@ export const PauseCompactXxlIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
         viewBox="0 0 48 48"
         {...props}
     >
-        <path d="M16 10h4v28h-4V10zm12 0h4v28h-4V10z" />
+        <path d="M16 11h4v26h-4V11zm12 0h4v26h-4V11z" />
     </svg>
 );
 
