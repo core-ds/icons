@@ -4,7 +4,7 @@
  */
 import React, { SVGProps } from 'react';
 
-export const TestTriggerMIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
+export const PrivilegesMIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
     <svg
         role="img"
         focusable="false"
@@ -14,8 +14,8 @@ export const TestTriggerMIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
         viewBox="0 0 24 24"
         {...props}
     >
-        <path d="M23 12c0 6.075-4.925 11-11 11S1 18.075 1 12 5.925 1 12 1s11 4.925 11 11z" />
+        <path d="M20.182 21.697L20.8 22l-.188-.437L16.492 12l4.12-9.563L20.8 2l-.618.303L.61 11.897.4 12l.21.103 19.572 9.594z" />
     </svg>
 );
 
-export default TestTriggerMIcon;
+export default PrivilegesMIcon;
