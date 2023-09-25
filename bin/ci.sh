@@ -31,6 +31,7 @@ lerna exec --parallel -- rm -rf dist
 lerna exec --parallel -- rollup -c ../../rollup.config.js
 
 lerna exec --parallel -- cp package.json dist/package.json
+lerna exec --parallel -- cp ../../README.md dist/README.md
 
 rm -rf dist
 
@@ -44,6 +45,7 @@ yarn generate-json
 
 # Копируем в dist search.json
 cp -r packages/search.json dist/search.json
+cp -r README.md dist/README.md
 
 # Смотрим, были ли какие-то изменения в search.json
 changed_json=`git diff --name-only HEAD HEAD~1 | grep search.json`
