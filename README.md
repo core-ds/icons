@@ -27,11 +27,11 @@
 
 ## Как импортить иконки в проект
 
-`import { AddMIcon } from '@alfalab/icons-glyph/AddMIcon';`
+`import { IconName } from '@alfalab/{packageName}/{IconName}';`
 
 или
 
-`import AddMIcon from '@alfalab/icons-glyph/AddMIcon';`
+`import IconName from '@alfalab/{packageName}/{IconName}';`
 
 ## Цвет иконок
 
