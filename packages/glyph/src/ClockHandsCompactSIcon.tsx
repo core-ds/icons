@@ -16,7 +16,7 @@ export const ClockHandsCompactSIcon: React.FC<SVGProps<
         viewBox="0 0 16 16"
         {...props}
     >
-        <path d="M10.755 10.935L8.75 9.777a.5.5 0 01-.25-.433V4H7v5.344a2 2 0 001 1.732l2.005 1.158.75-1.299z" />
+        <path d="M10.755 9.934L8.75 8.777a.5.5 0 01-.25-.433V4H7v4.344a2 2 0 001 1.732l2.005 1.157.75-1.299z" />
     </svg>
 );
 
