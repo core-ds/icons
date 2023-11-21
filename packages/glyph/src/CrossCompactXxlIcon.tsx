@@ -14,7 +14,8 @@ export const CrossCompactXxlIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
         viewBox="0 0 48 48"
         {...props}
     >
-        <path d="M21.172 24L16 29l3 3 5-5.171L29 32l3-3-5.171-5L32 19l-3-3-5 5.172L19 16l-3 3 5.172 5z" />
+        <path d="M14 30.972L30.972 14l2.829 2.829L16.829 33.8 14 30.972z" />
+        <path d="M16.829 14L33.8 30.972l-2.829 2.829L14 16.829 16.829 14z" />
     </svg>
 );
 

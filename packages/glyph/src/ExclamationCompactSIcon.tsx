@@ -16,7 +16,7 @@ export const ExclamationCompactSIcon: React.FC<SVGProps<
         viewBox="0 0 16 16"
         {...props}
     >
-        <path d="M7 4h2.6l-.3 4.5h-2L7 4zm2.55 6.75a1.25 1.25 0 11-2.5 0 1.25 1.25 0 012.5 0z" />
+        <path d="M6.95 4h2.1L8.8 9H7.2l-.25-5zM9 11a1 1 0 11-2 0 1 1 0 012 0z" />
     </svg>
 );
 

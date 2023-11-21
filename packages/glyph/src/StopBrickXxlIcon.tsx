@@ -4,9 +4,7 @@
  */
 import React, { SVGProps } from 'react';
 
-export const ExclamationCompactXxlIcon: React.FC<SVGProps<
-    SVGSVGElement
->> = props => (
+export const StopBrickXxlIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
     <svg
         role="img"
         focusable="false"
@@ -16,8 +14,8 @@ export const ExclamationCompactXxlIcon: React.FC<SVGProps<
         viewBox="0 0 48 48"
         {...props}
     >
-        <path d="M21 12h5.2l-.6 15h-4L21 12zm5.099 20.5a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0z" />
+        <path d="M8 18h32v12H8V18z" />
     </svg>
 );
 
-export default ExclamationCompactXxlIcon;
+export default StopBrickXxlIcon;

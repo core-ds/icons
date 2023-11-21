@@ -17,7 +17,7 @@ export const CheckmarkCompactSIcon: React.FC<SVGProps<
         {...props}
     >
         <path
-            d="M13 5.5L6.5 12 3 8.5 4.5 7l2 2 5-5L13 5.5z"
+            d="M13.199 5.724l-6.363 6.365-3.535-3.536 1.06-1.06 2.475 2.474 5.304-5.303 1.059 1.06z"
             fillRule="evenodd"
             clipRule="evenodd"
         />

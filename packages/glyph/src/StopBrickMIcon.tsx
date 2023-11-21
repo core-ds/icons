@@ -4,9 +4,7 @@
  */
 import React, { SVGProps } from 'react';
 
-export const ExclamationCompactMIcon: React.FC<SVGProps<
-    SVGSVGElement
->> = props => (
+export const StopBrickMIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
     <svg
         role="img"
         focusable="false"
@@ -16,8 +14,8 @@ export const ExclamationCompactMIcon: React.FC<SVGProps<
         viewBox="0 0 24 24"
         {...props}
     >
-        <path d="M10.7 6.5h2.6L13 14h-2l-.3-7.5zm2.549 10.25a1.25 1.25 0 11-2.5 0 1.25 1.25 0 012.5 0z" />
+        <path d="M4 9h16v6H4V9z" />
     </svg>
 );
 
-export default ExclamationCompactMIcon;
+export default StopBrickMIcon;
