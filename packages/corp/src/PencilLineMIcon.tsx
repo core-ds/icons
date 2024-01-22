@@ -14,7 +14,11 @@ export const PencilLineMIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
         viewBox="0 0 24 24"
         {...props}
     >
-        <path d="M20.793 5.793a1 1 0 010 1.414L19 9l-4-4 1.793-1.793a1 1 0 011.414 0l2.586 2.586zM18 10L7 21H3v-4L14 6l4 4zm3.5 9H11l-2 2h12.5v-2z" />
+        <path
+            d="M17.914 4.5a2 2 0 00-2.828 0l-11 11a2 2 0 00-.586 1.414V18.5a2 2 0 002 2h1.586a2 2 0 001.414-.586l11-11a2 2 0 000-2.828L17.914 4.5zm-3 3L16.5 5.914 18.086 7.5 16.5 9.086 14.914 7.5zM13.5 8.914l-8 8V18.5h1.586l8-8L13.5 8.914z"
+            fillRule="evenodd"
+            clipRule="evenodd"
+        />
     </svg>
 );
 
