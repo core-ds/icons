@@ -92,7 +92,10 @@ const transformSvg = (svg: string): string =>
     svg
         .replace(/xmlns:xlink/g, 'xmlnsXlink')
         .replace(/xlink:href/g, 'xlinkHref')
-        .replace(/<rect\/>/g, '');
+        .replace(/<rect\/>/g, '')
+        // TODO: Костыль, подумать над универсальным решением!!!
+        .replace(/style="mask-type:alpha"/g, 'style={{maskType: "alpha"}}')
+        .replace(/style="mask-type:luminance"/g, 'style={{maskType: "luminance"}}')
 
 export async function createComponent(
     filePath: string,
