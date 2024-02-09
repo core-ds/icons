@@ -4,6 +4,7 @@ import fs from 'fs';
 import path from 'path';
 import camelcase from 'camelcase';
 import Svgo from 'svgo';
+import styleToObject from 'style-to-js';
 
 import { iconTemplate } from '../templates/icon.template';
 import { SVG_EXT } from './generate';
@@ -93,9 +94,7 @@ const transformSvg = (svg: string): string =>
         .replace(/xmlns:xlink/g, 'xmlnsXlink')
         .replace(/xlink:href/g, 'xlinkHref')
         .replace(/<rect\/>/g, '')
-        // TODO: Костыль, подумать над универсальным решением!!!
-        .replace(/style="mask-type:alpha"/g, 'style={{maskType: "alpha"}}')
-        .replace(/style="mask-type:luminance"/g, 'style={{maskType: "luminance"}}')
+        .replace(/style="(.+?)"/g, (_, m) => `style={${JSON.stringify(styleToObject(m))}}`);
 
 export async function createComponent(
     filePath: string,
