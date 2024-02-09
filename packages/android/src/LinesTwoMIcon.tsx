@@ -15,10 +15,9 @@ export const LinesTwoMIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
         {...props}
     >
         <path
-            d="M4 15h16M4 10h16"
-            stroke="#83A918"
-            strokeWidth="2"
-            strokeLinejoin="round"
+            d="M20 11H4V9h16v2zm0 5H4v-2h16v2z"
+            fillRule="evenodd"
+            clipRule="evenodd"
         />
     </svg>
 );
