@@ -4,7 +4,7 @@
  */
 import React, { SVGProps } from 'react';
 
-export const MirSignMIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
+export const MirMIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
     <svg
         role="img"
         focusable="false"
@@ -18,4 +18,4 @@ export const MirSignMIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
     </svg>
 );
 
-export default MirSignMIcon;
+export default MirMIcon;

@@ -4,7 +4,7 @@
  */
 import React, { SVGProps } from 'react';
 
-export const MirSignMColorIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
+export const MirMColorIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
     <svg
         role="img"
         focusable="false"
@@ -38,4 +38,4 @@ export const MirSignMColorIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
     </svg>
 );
 
-export default MirSignMColorIcon;
+export default MirMColorIcon;
