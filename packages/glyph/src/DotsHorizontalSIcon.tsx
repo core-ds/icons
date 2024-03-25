@@ -4,9 +4,7 @@
  */
 import React, { SVGProps } from 'react';
 
-export const DotsThreeVerticalSIcon: React.FC<SVGProps<
-    SVGSVGElement
->> = props => (
+export const DotsHorizontalSIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
     <svg
         role="img"
         focusable="false"
@@ -16,8 +14,8 @@ export const DotsThreeVerticalSIcon: React.FC<SVGProps<
         viewBox="0 0 16 16"
         {...props}
     >
-        <path d="M6.5 13.5a1.5 1.5 0 113 0 1.5 1.5 0 01-3 0zm0-5.5a1.5 1.5 0 113 0 1.5 1.5 0 01-3 0zM8 1a1.5 1.5 0 100 3 1.5 1.5 0 000-3z" />
+        <path d="M2.5 6.5a1.5 1.5 0 110 3 1.5 1.5 0 010-3zm5.5 0a1.5 1.5 0 110 3 1.5 1.5 0 010-3zM15 8a1.5 1.5 0 10-3 0 1.5 1.5 0 003 0z" />
     </svg>
 );
 
-export default DotsThreeVerticalSIcon;
+export default DotsHorizontalSIcon;
