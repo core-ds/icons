@@ -1,7 +1,9 @@
 #!/bin/bash
 
-# название подпакета => @alfalab/icons-website => website = package_name
-package_name=$(echo $1 | awk -F- '{print $2}')
+# название подпакета может быть @alfalab/icons-website или @alfalab/icons-website-website
+# если при разделении входной строки $1 по дефисам получаем три элемента (NF==3), то выводит второй и третий элементы через дефис
+# если получаем два элемента (NF==2), то выводит только второй элемент
+package_name=$(echo $1 | awk -F- '{if (NF==3) print $2 "-" $3; else if (NF==2) print $2}')
 # создаю дерикторию в корне проекта
 mkdir -p ../../dist/$package_name
 # копирую собранный подпакет в корневую сборку
