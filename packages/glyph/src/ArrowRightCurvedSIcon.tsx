@@ -4,24 +4,24 @@
  */
 import React, { SVGProps } from 'react';
 
-export const ArrowRightCurvedMIcon: React.FC<SVGProps<
+export const ArrowRightCurvedSIcon: React.FC<SVGProps<
     SVGSVGElement
 >> = props => (
     <svg
         role="img"
         focusable="false"
         fill="currentColor"
-        width="24"
-        height="24"
-        viewBox="0 0 24 24"
+        width="16"
+        height="16"
+        viewBox="0 0 16 16"
         {...props}
     >
         <path
-            d="M17.491 13h-6.35a6 6 0 00-4.269 1.784L5.83 15.839l-1.423-1.405 1.042-1.055A8 8 0 0111.141 11h6.35l-3.656-3.738 1.43-1.399 5.318 5.438.684.699-.684.7-5.318 5.437-1.43-1.399L17.49 13z"
+            d="M12.5 9H6.39c-1.522 0-2.92.617-3.99 1.7l-1 1L0 10.313l.989-1.001C2.415 7.867 4.36 7 6.39 7h6.11L8.947 3.507l1.357-1.327 5.047 5.16.649.664-.649.663-5.047 5.16L8.947 12.5 12.5 9z"
             fillRule="evenodd"
             clipRule="evenodd"
         />
     </svg>
 );
 
-export default ArrowRightCurvedMIcon;
+export default ArrowRightCurvedSIcon;
