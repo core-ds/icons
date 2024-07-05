@@ -4,7 +4,7 @@
  */
 import React, { SVGProps } from 'react';
 
-export const ArrowsCwCompactMediumXxlIcon: React.FC<SVGProps<
+export const ArrowsCwMediumCompactXxlIcon: React.FC<SVGProps<
     SVGSVGElement
 >> = props => (
     <svg
@@ -20,4 +20,4 @@ export const ArrowsCwCompactMediumXxlIcon: React.FC<SVGProps<
     </svg>
 );
 
-export default ArrowsCwCompactMediumXxlIcon;
+export default ArrowsCwMediumCompactXxlIcon;
