@@ -52,7 +52,7 @@
     "ts-node": "^8.6.2",
     "tslib": "^2.0.0",
     "typescript": "^3.8.3",
-    "ui-primitives": "^20.29.0",
+    "ui-primitives": "^20.30.0",
     "util": "^0.12.2"
   },
   "lint-staged": {
