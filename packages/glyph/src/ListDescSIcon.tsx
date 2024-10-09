@@ -14,7 +14,7 @@ export const ListDescSIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
         viewBox="0 0 16 16"
         {...props}
     >
-        <path d="M2 9h9V6.5H2V9zm0-6.5V5h12V2.5H2zM2 13h6v-2.5H2V13z" />
+        <path d="M2 3h12v2H2V3zm0 4h8v2H2V7zm4 4H2v2h4v-2z" />
     </svg>
 );
 
