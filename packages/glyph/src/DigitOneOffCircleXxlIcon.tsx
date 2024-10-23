@@ -4,7 +4,7 @@
  */
 import React, { SVGProps } from 'react';
 
-export const DigitOneCircleOffXxlIcon: React.FC<SVGProps<
+export const DigitOneOffCircleXxlIcon: React.FC<SVGProps<
     SVGSVGElement
 >> = props => (
     <svg
@@ -25,4 +25,4 @@ export const DigitOneCircleOffXxlIcon: React.FC<SVGProps<
     </svg>
 );
 
-export default DigitOneCircleOffXxlIcon;
+export default DigitOneOffCircleXxlIcon;
