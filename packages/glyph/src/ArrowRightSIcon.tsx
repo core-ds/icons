@@ -4,7 +4,7 @@
  */
 import React, { SVGProps } from 'react';
 
-export const ArrowLeftSIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
+export const ArrowRightSIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
     <svg
         role="img"
         focusable="false"
@@ -14,8 +14,8 @@ export const ArrowLeftSIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
         viewBox="0 0 16 16"
         {...props}
     >
-        <path d="M8.074 11.156L5.682 8.71H13V7.29H5.682l2.392-2.447L7.06 3.85 3 8l4.059 4.15 1.015-.994z" />
+        <path d="M7.926 11.156l2.392-2.446H3V7.29h7.318L7.926 4.842 8.94 3.85 13 8l-4.059 4.15-1.015-.994z" />
     </svg>
 );
 
-export default ArrowLeftSIcon;
+export default ArrowRightSIcon;

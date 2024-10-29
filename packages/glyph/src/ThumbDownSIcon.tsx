@@ -9,12 +9,12 @@ export const ThumbDownSIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
         role="img"
         focusable="false"
         fill="currentColor"
-        width="18"
-        height="18"
-        viewBox="0 0 18 18"
+        width="16"
+        height="16"
+        viewBox="0 0 16 16"
         {...props}
     >
-        <path d="M6.75 16.5a3 3 0 003-3V12h4.98a1.5 1.5 0 001.479-1.747l-1-6A1.5 1.5 0 0013.729 3H6l.75 13.5zM1.5 3v7.5h3.417L4.5 3h-3z" />
+        <path d="M5.99 14.667c1.575 0 2.851-1.26 2.851-2.815v-1.408h4.733c.88 0 1.551-.78 1.406-1.638l-.95-5.63A1.42 1.42 0 0012.624 2H5.276l.713 12.667zM1 2v7.037h3.247L3.851 2H1z" />
     </svg>
 );
 

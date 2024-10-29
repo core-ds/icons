@@ -14,7 +14,7 @@ export const ThumbDownMIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
         viewBox="0 0 24 24"
         {...props}
     >
-        <path d="M9 22a4 4 0 004-4v-2h6.64a2 2 0 001.972-2.329l-1.333-8A2 2 0 0018.306 4H8l1 18zM2 4v10h4.556L6 4H2z" />
+        <path d="M8.485 22c2.362 0 4.277-1.89 4.277-4.222v-2.111h7.099c1.321 0 2.327-1.172 2.11-2.458l-1.426-8.445A2.13 2.13 0 0018.435 3H7.415l1.07 19zM1 3v10.556h4.871L5.277 3H1z" />
     </svg>
 );
 

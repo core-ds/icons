@@ -4,9 +4,7 @@
  */
 import React, { SVGProps } from 'react';
 
-export const ArrowRightCurvedSIcon: React.FC<SVGProps<
-    SVGSVGElement
->> = props => (
+export const BubbleLinesSIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
     <svg
         role="img"
         focusable="false"
@@ -17,11 +15,11 @@ export const ArrowRightCurvedSIcon: React.FC<SVGProps<
         {...props}
     >
         <path
-            d="M11.103 7.333L8.665 4.84l.953-.933L13.62 8l-4.002 4.092-.953-.933 2.438-2.492H6.869a4 4 0 00-2.846 1.19l-.694.703-.95-.937.696-.703a5.333 5.333 0 013.794-1.586h4.234z"
+            d="M15.002 6.834C15.002 3.042 12.085 1 8 1 3.917 1 1 3.042 1 6.834s2.917 5.817 6.418 5.817v1.493c0 .296 0 .444.092.588a.69.69 0 00.335.247c.165.046.275.012.493-.056 3.164-1.088 6.664-4.297 6.664-8.089zm-3.5-.583v-1.4H5.2v1.4h6.3zm-2.1 2.8v-1.4H5.2v1.4h4.2z"
             fillRule="evenodd"
             clipRule="evenodd"
         />
     </svg>
 );
 
-export default ArrowRightCurvedSIcon;
+export default BubbleLinesSIcon;

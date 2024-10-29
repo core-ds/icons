@@ -14,7 +14,7 @@ export const ArrowDownSIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
         viewBox="0 0 16 16"
         {...props}
     >
-        <path d="M3.293 8.707L8 13.414l4.707-4.707-1.414-1.414L9 9.586V3H7v6.586L4.707 7.293 3.293 8.707z" />
+        <path d="M11.157 7.926l-2.446 2.392V3H7.29v7.318L4.843 7.926 3.85 8.94 8 13l4.15-4.059-.994-1.015z" />
     </svg>
 );
 

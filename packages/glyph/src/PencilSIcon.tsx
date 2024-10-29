@@ -9,12 +9,12 @@ export const PencilSIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
         role="img"
         focusable="false"
         fill="currentColor"
-        width="18"
-        height="18"
-        viewBox="0 0 18 18"
+        width="16"
+        height="16"
+        viewBox="0 0 16 16"
         {...props}
     >
-        <path d="M13.84 6.347a.495.495 0 000-.729L12.382 4.16a.495.495 0 00-.729 0L10.56 5.253l2.187 2.187 1.093-1.093zm-1.822 1.822L6.187 14H4v-2.187l5.831-5.83 2.187 2.186z" />
+        <path d="M14.792 4.05a.643.643 0 000-.947l-1.895-1.895a.643.643 0 00-.948 0L10.528 2.63l2.842 2.843 1.422-1.421zm-2.369 2.37L4.843 14H2v-2.843l7.58-7.58 2.843 2.843z" />
     </svg>
 );
 
