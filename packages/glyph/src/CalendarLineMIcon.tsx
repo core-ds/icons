@@ -14,12 +14,8 @@ export const CalendarLineMIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
         viewBox="0 0 24 24"
         {...props}
     >
-        <path d="M9 18v-2H7v2h2zm2-2h2v2h-2v-2zm4 2v-2h2v2h-2zm-8-4v-2h2v2H7zm6-2h-2v2h2v-2zm4 2v-2h-2v2h2z" />
-        <path
-            d="M8 1H6v3H2.5v16a3 3 0 003 3h13a3 3 0 003-3V4H18V1h-2v3H8V1zM4.5 20V10h15v10a1 1 0 01-1 1h-13a1 1 0 01-1-1zm15-12h-15V6h15v2z"
-            fillRule="evenodd"
-            clipRule="evenodd"
-        />
+        <path d="M9 14v-2H7v2h2zm0 2v2H7v-2h2zm4-4h-2v2h2v-2zm-2 4h2v2h-2v-2zm6-2v-2h-2v2h2z" />
+        <path d="M18 2h-2v2H8V2H6v2H3v16a3 3 0 003 3h12a3 3 0 003-3V4h-3V2zm1 4v2H5V6h14zM5 20V10h14v10a1 1 0 01-1 1H6a1 1 0 01-1-1z" />
     </svg>
 );
 

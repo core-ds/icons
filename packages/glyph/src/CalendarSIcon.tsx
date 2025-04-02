@@ -14,12 +14,8 @@ export const CalendarSIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
         viewBox="0 0 16 16"
         {...props}
     >
-        <path d="M6 8v2H4V8h2zm0 5v-2H4v2h2zm1-5h2v2H7V8zm2 3H7v2h2v-2zm3-3v2h-2V8h2z" />
-        <path
-            d="M3 1h2v1h6V1h2v1h2v11.714C15 14.977 13.955 16 12.667 16H3.333C2.045 16 1 14.977 1 13.714V2h2V1zm10.444 5H2.556v7.714a.77.77 0 00.777.762h9.334a.77.77 0 00.777-.762V6z"
-            fillRule="evenodd"
-            clipRule="evenodd"
-        />
+        <path d="M4 10V8h2v2H4zm3-2h2v2H7V8zm5 2V8h-2v2h2zm-5 1h2v2H7v-2zm-1 2v-2H4v2h2z" />
+        <path d="M5 0H3v2H1v11.25A2.75 2.75 0 003.75 16h8.5A2.75 2.75 0 0015 13.25V2h-2V0h-2v2H5V0zM2.5 6h11v7.25c0 .69-.56 1.25-1.25 1.25h-8.5c-.69 0-1.25-.56-1.25-1.25V6z" />
     </svg>
 );
 
