@@ -9,13 +9,13 @@ export const ShoppingListSIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
         role="img"
         focusable="false"
         fill="currentColor"
-        width="18"
-        height="18"
-        viewBox="0 0 18 18"
+        width="16"
+        height="16"
+        viewBox="0 0 16 16"
         {...props}
     >
         <path
-            d="M4 3.5a.5.5 0 01.5-.5h9a.5.5 0 01.5.5v10.82a.5.5 0 01-.286.452l-4 1.89a.5.5 0 01-.714-.45v-1.18a.25.25 0 00-.357-.226l-3.93 1.858A.5.5 0 014 16.21V3.5zm2 4a.5.5 0 01.5-.5h5a.5.5 0 010 1h-5a.5.5 0 01-.5-.5zM6.5 9a.5.5 0 000 1h3a.5.5 0 000-1h-3z"
+            d="M3 1.5a.5.5 0 01.5-.5h9a.5.5 0 01.5.5v10.82a.5.5 0 01-.286.452l-4 1.89a.5.5 0 01-.714-.45v-1.18a.25.25 0 00-.357-.226l-3.93 1.858A.5.5 0 013 14.21V1.5zm2 4a.5.5 0 01.5-.5h5a.5.5 0 010 1h-5a.5.5 0 01-.5-.5zM5.5 7a.5.5 0 000 1h3a.5.5 0 000-1h-3z"
             fillRule="evenodd"
             clipRule="evenodd"
         />
