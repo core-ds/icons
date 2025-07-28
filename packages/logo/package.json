@@ -6,8 +6,13 @@
         "react": "^16.13.0 || ^17.0.1",
         "react-dom": "^16.13.0 || ^17.0.1"
     },
-    "main": "./index.js",
-    "module": "./esm/index.js",
+    "main": "./dist",
+    "module": "./dist/esm",
+    "types": "./dist/*.d.ts",
+    "sifeEffects": false,
+    "files": [
+        "./dist"
+    ],
     "publishConfig": {
         "access": "public"
     }
