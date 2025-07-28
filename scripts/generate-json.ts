@@ -31,7 +31,7 @@ type FigmaComponent = {
     containing_frame: FrameInfo;
 };
 
-type FigmaResponse = {
+export type FigmaResponse = {
     status: number;
     error: boolean;
     meta: {

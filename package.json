@@ -7,13 +7,13 @@
   "license": "MIT",
   "private": false,
   "scripts": {
-    "build": "./bin/build.sh",
+    "ci": "./bin/ci.sh",
     "generate": "yarn compile && yarn format-icons",
     "compile": "TS_NODE_PROJECT=scripts/tsconfig.json node -r ts-node/register scripts/generate.ts --target=icon",
     "format-icons": "prettier --write \"./packages/**/*.{ts,tsx}\" --loglevel warn",
     "lint": "eslint ./scripts/ --ext .ts,.tsx",
     "generate-json": "TS_NODE_PROJECT=scripts/tsconfig.json node -r ts-node/register scripts/generate-json.ts",
-    "ci": "./bin/ci.sh"
+    "generate-meta": "TS_NODE_PROJECT=scripts/tsconfig.json node -r ts-node/register scripts/generate-meta.ts"
   },
   "dependencies": {},
   "devDependencies": {

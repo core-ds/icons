@@ -1,0 +1,35 @@
+{
+  "AccountDetailsSignBoxLine20Icon": {
+    "description": "Реквизиты счёта",
+    "basename": "logo-corp_account-details-sign-box-line_20",
+    "web": "AccountDetailsSignBoxLine20Icon",
+    "webComponent": "import { AccountDetailsSignBoxLine20Icon } from '@alfalab/icons-logo-corp/AccountDetailsSignBoxLine20Icon';",
+    "android": "logo_corp_account_details_sign_box_line_20",
+    "ios": "logoCorp_accountDetailsSignBoxLine_20",
+    "middle": "logo-corp_account-details-sign-box-line_20",
+    "cdn": "logo-corp_account-details-sign-box-line_20",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_account-details-sign-box-line_20.svg"
+  },
+  "AccountDetailsSignBoxLine24Icon": {
+    "description": "Реквизиты счёта",
+    "basename": "logo-corp_account-details-sign-box-line_24",
+    "web": "AccountDetailsSignBoxLine24Icon",
+    "webComponent": "import { AccountDetailsSignBoxLine24Icon } from '@alfalab/icons-logo-corp/AccountDetailsSignBoxLine24Icon';",
+    "android": "logo_corp_account_details_sign_box_line_24",
+    "ios": "logoCorp_accountDetailsSignBoxLine_24",
+    "middle": "logo-corp_account-details-sign-box-line_24",
+    "cdn": "logo-corp_account-details-sign-box-line_24",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_account-details-sign-box-line_24.svg"
+  },
+  "AccountDetailsSignBoxThinline20Icon": {
+    "description": "Реквизиты счёта",
+    "basename": "logo-corp_account-details-sign-box-thinline_20",
+    "web": "AccountDetailsSignBoxThinline20Icon",
+    "webComponent": "import { AccountDetailsSignBoxThinline20Icon } from '@alfalab/icons-logo-corp/AccountDetailsSignBoxThinline20Icon';",
+    "android": "logo_corp_account_details_sign_box_thinline_20",
+    "ios": "logoCorp_accountDetailsSignBoxThinline_20",
+    "middle": "logo-corp_account-details-sign-box-thinline_20",
+    "cdn": "logo-corp_account-details-sign-box-thinline_20",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_account-details-sign-box-thinline_20.svg"
+  }
+}

@@ -8,12 +8,11 @@ import styleToObject from 'style-to-js';
 
 import { iconTemplate } from '../templates/icon.template';
 import { SVG_EXT } from './generate';
-import { ENCODING, IGNORE_ICONS, MOBILE_PREFIXES } from './constants';
+import { ENCODING, IGNORE_ICONS } from './constants';
+import { generateComponentName } from './generate-component-name';
 
 const readFile = promisify(fs.readFile);
 const writeFile = promisify(fs.writeFile);
-
-export const ICON_POSTFIX = 'Icon';
 
 const removeEmptyRect = item => {
     const isRect = item.elem === 'rect';
@@ -94,7 +93,10 @@ const transformSvg = (svg: string): string =>
         .replace(/xmlns:xlink/g, 'xmlnsXlink')
         .replace(/xlink:href/g, 'xlinkHref')
         .replace(/<rect\/>/g, '')
-        .replace(/style="(.+?)"/g, (_, m) => `style={${JSON.stringify(styleToObject(m))}}`);
+        .replace(
+            /style="(.+?)"/g,
+            (_, m) => `style={${JSON.stringify(styleToObject(m))}}`
+        );
 
 export async function createComponent(
     filePath: string,
@@ -107,21 +109,10 @@ export async function createComponent(
 
     if (IGNORE_ICONS.includes(basename)) return '';
 
-    const iconParams = basename.split('_');
-
-    let [, name, size, color] = iconParams;
-
-    if (MOBILE_PREFIXES.includes(packageName)) {
-        [name, size, color] = iconParams;
-    }
-
-    let componentName = `${name}_${size}${color ? `_${color}` : ``}`;
-
-    componentName = camelcase(componentName, {
-        pascalCase: true,
-    });
-
-    componentName += ICON_POSTFIX;
+    const { componentName, color } = generateComponentName(
+        basename,
+        packageName
+    );
 
     let { data } = await optimizer.optimize(fileContent);
 
