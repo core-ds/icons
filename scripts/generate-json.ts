@@ -4,41 +4,14 @@ import camelcase from 'camelcase';
 import { promisify } from 'util';
 import path from 'path';
 import fs from 'fs';
-import { ICON_POSTFIX, getPackageName, ENCODING } from './constants';
+import { ENCODING, getPackageName, ICON_POSTFIX } from './constants';
+import { FigmaComponent, FigmaResponse } from '../types/figma';
 
 const FIGMA_API_URL = 'https://api.figma.com/v1';
 const FIGMA_FILE_ID = 'ZcdUPebEhHfSZ91zgmv2cK';
 const FIGMA_API_TOKEN = process.env.FIGMA_TOKEN;
 
 const writeFile = promisify(fs.writeFile);
-
-type FrameInfo = {
-    nodeId: string;
-    name: string;
-    pageId: string;
-    pageName: string;
-};
-
-type FigmaComponent = {
-    key: string;
-    file_key: string;
-    node_id: string;
-    thumbnail_url: string;
-    name: string;
-    description: string;
-    updated_at: string;
-    created_at: string;
-    containing_frame: FrameInfo;
-};
-
-export type FigmaResponse = {
-    status: number;
-    error: boolean;
-    meta: {
-        components?: FigmaComponent[];
-        component_sets?: FigmaComponent[];
-    };
-};
 
 function getName(iconComponent: FigmaComponent): string {
     const { containing_frame, name } = iconComponent;
