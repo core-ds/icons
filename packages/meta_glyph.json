@@ -6622,26 +6622,26 @@
     "url": "https://alfabank.servicecdn.ru/icons/glyph_letter-h_m.svg"
   },
   "LetterTCompactMIcon": {
-    "description": "",
-    "basename": "glyph_letter_t-compact_m",
+    "description": "t, test, т, тест, компакт",
+    "basename": "glyph_letter-t-compact_m",
     "web": "LetterTCompactMIcon",
     "webComponent": "import { LetterTCompactMIcon } from '@alfalab/icons-glyph/LetterTCompactMIcon';",
     "android": "glyph_letter_t_compact_m",
-    "ios": "glyph_letter_tCompact_m",
-    "middle": "glyph_letter_t-compact_m",
-    "cdn": "glyph_letter_t-compact_m",
-    "url": "https://alfabank.servicecdn.ru/icons/glyph_letter_t-compact_m.svg"
+    "ios": "glyph_letterTCompact_m",
+    "middle": "glyph_letter-t-compact_m",
+    "cdn": "glyph_letter-t-compact_m",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_letter-t-compact_m.svg"
   },
   "LetterTCompactSIcon": {
-    "description": "",
-    "basename": "glyph_letter_t-compact_s",
+    "description": "t, test, т, тест, компакт",
+    "basename": "glyph_letter-t-compact_s",
     "web": "LetterTCompactSIcon",
     "webComponent": "import { LetterTCompactSIcon } from '@alfalab/icons-glyph/LetterTCompactSIcon';",
     "android": "glyph_letter_t_compact_s",
-    "ios": "glyph_letter_tCompact_s",
-    "middle": "glyph_letter_t-compact_s",
-    "cdn": "glyph_letter_t-compact_s",
-    "url": "https://alfabank.servicecdn.ru/icons/glyph_letter_t-compact_s.svg"
+    "ios": "glyph_letterTCompact_s",
+    "middle": "glyph_letter-t-compact_s",
+    "cdn": "glyph_letter-t-compact_s",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_letter-t-compact_s.svg"
   },
   "LifeSaverMIcon": {
     "description": "",
