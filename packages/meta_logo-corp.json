@@ -31,5 +31,38 @@
     "middle": "logo-corp_account-details-sign-box-thinline_20",
     "cdn": "logo-corp_account-details-sign-box-thinline_20",
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_account-details-sign-box-thinline_20.svg"
+  },
+  "AccountLimitationsSignBoxLine20Icon": {
+    "description": "Ограничения по счёту",
+    "basename": "logo-corp_account-limitations-sign-box-line_20",
+    "web": "AccountLimitationsSignBoxLine20Icon",
+    "webComponent": "import { AccountLimitationsSignBoxLine20Icon } from '@alfalab/icons-logo-corp/AccountLimitationsSignBoxLine20Icon';",
+    "android": "logo_corp_account_limitations_sign_box_line_20",
+    "ios": "logoCorp_accountLimitationsSignBoxLine_20",
+    "middle": "logo-corp_account-limitations-sign-box-line_20",
+    "cdn": "logo-corp_account-limitations-sign-box-line_20",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_account-limitations-sign-box-line_20.svg"
+  },
+  "AccountLimitationsSignBoxLine24Icon": {
+    "description": "Ограничения по счёту",
+    "basename": "logo-corp_account-limitations-sign-box-line_24",
+    "web": "AccountLimitationsSignBoxLine24Icon",
+    "webComponent": "import { AccountLimitationsSignBoxLine24Icon } from '@alfalab/icons-logo-corp/AccountLimitationsSignBoxLine24Icon';",
+    "android": "logo_corp_account_limitations_sign_box_line_24",
+    "ios": "logoCorp_accountLimitationsSignBoxLine_24",
+    "middle": "logo-corp_account-limitations-sign-box-line_24",
+    "cdn": "logo-corp_account-limitations-sign-box-line_24",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_account-limitations-sign-box-line_24.svg"
+  },
+  "AccountLimitationsSignBoxThinline20Icon": {
+    "description": "Ограничения по счёту",
+    "basename": "logo-corp_account-limitations-sign-box-thinline_20",
+    "web": "AccountLimitationsSignBoxThinline20Icon",
+    "webComponent": "import { AccountLimitationsSignBoxThinline20Icon } from '@alfalab/icons-logo-corp/AccountLimitationsSignBoxThinline20Icon';",
+    "android": "logo_corp_account_limitations_sign_box_thinline_20",
+    "ios": "logoCorp_accountLimitationsSignBoxThinline_20",
+    "middle": "logo-corp_account-limitations-sign-box-thinline_20",
+    "cdn": "logo-corp_account-limitations-sign-box-thinline_20",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_account-limitations-sign-box-thinline_20.svg"
   }
 }
