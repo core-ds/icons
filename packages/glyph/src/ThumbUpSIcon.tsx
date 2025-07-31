@@ -9,12 +9,12 @@ export const ThumbUpSIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
         role="img"
         focusable="false"
         fill="currentColor"
-        width="18"
-        height="18"
-        viewBox="0 0 18 18"
+        width="16"
+        height="16"
+        viewBox="0 0 16 16"
         {...props}
     >
-        <path d="M6.75 1.5a3 3 0 013 3V6h4.98a1.5 1.5 0 011.479 1.747l-1 6A1.5 1.5 0 0113.729 15H6l.75-13.5zM1.5 15V7.5h3.417L4.5 15h-3z" />
+        <path d="M5.99 1c1.575 0 2.85 1.26 2.85 2.815v1.407h4.733c.88 0 1.551.781 1.406 1.639l-.95 5.63a1.42 1.42 0 01-1.406 1.176H5.276L5.99 1zM1 13.667V6.63h3.247l-.396 7.037H1z" />
     </svg>
 );
 

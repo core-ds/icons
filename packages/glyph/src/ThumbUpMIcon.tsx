@@ -14,7 +14,7 @@ export const ThumbUpMIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
         viewBox="0 0 24 24"
         {...props}
     >
-        <path d="M9 2a4 4 0 014 4v2h6.64a2 2 0 011.972 2.329l-1.333 8A2 2 0 0118.306 20H8L9 2zM2 20V10h4.556L6 20H2z" />
+        <path d="M8.485 2c2.362 0 4.277 1.89 4.277 4.222v2.111h7.099c1.321 0 2.327 1.172 2.11 2.458l-1.426 8.445A2.13 2.13 0 0118.435 21H7.415l1.07-19zM1 21V10.444h4.871L5.277 21H1z" />
     </svg>
 );
 
