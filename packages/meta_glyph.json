@@ -3981,6 +3981,28 @@
     "cdn": "glyph_copy_m",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_copy_m.svg"
   },
+  "CopySIcon": {
+    "description": "копировать, скопировать",
+    "basename": "glyph_copy_s",
+    "web": "CopySIcon",
+    "webComponent": "import { CopySIcon } from '@alfalab/icons-glyph/CopySIcon';",
+    "android": "glyph_copy_s",
+    "ios": "glyph_copy_s",
+    "middle": "glyph_copy_s",
+    "cdn": "glyph_copy_s",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_copy_s.svg"
+  },
+  "CopyXxlIcon": {
+    "description": "копировать, скопировать",
+    "basename": "glyph_copy_xxl",
+    "web": "CopyXxlIcon",
+    "webComponent": "import { CopyXxlIcon } from '@alfalab/icons-glyph/CopyXxlIcon';",
+    "android": "glyph_copy_xxl",
+    "ios": "glyph_copy_xxl",
+    "middle": "glyph_copy_xxl",
+    "cdn": "glyph_copy_xxl",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_copy_xxl.svg"
+  },
   "CreditCardLogoMIcon": {
     "description": "",
     "basename": "glyph_credit-card-logo_m",
@@ -8315,6 +8337,17 @@
     "cdn": "glyph_percent_m",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_percent_m.svg"
   },
+  "PercentSIcon": {
+    "description": "процент",
+    "basename": "glyph_percent_s",
+    "web": "PercentSIcon",
+    "webComponent": "import { PercentSIcon } from '@alfalab/icons-glyph/PercentSIcon';",
+    "android": "glyph_percent_s",
+    "ios": "glyph_percent_s",
+    "middle": "glyph_percent_s",
+    "cdn": "glyph_percent_s",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_percent_s.svg"
+  },
   "PerekrestokSIcon": {
     "description": "",
     "basename": "glyph_perekrestok_s",
@@ -11384,6 +11417,17 @@
     "cdn": "glyph_terminal-stationary_m",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_terminal-stationary_m.svg"
   },
+  "TerminalVendingMIcon": {
+    "description": "терминал",
+    "basename": "glyph_terminal-vending_m",
+    "web": "TerminalVendingMIcon",
+    "webComponent": "import { TerminalVendingMIcon } from '@alfalab/icons-glyph/TerminalVendingMIcon';",
+    "android": "glyph_terminal_vending_m",
+    "ios": "glyph_terminalVending_m",
+    "middle": "glyph_terminal-vending_m",
+    "cdn": "glyph_terminal-vending_m",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_terminal-vending_m.svg"
+  },
   "TerminalWirelessMIcon": {
     "description": "",
     "basename": "glyph_terminal-wireless_m",
@@ -11658,6 +11702,17 @@
     "middle": "glyph_train-subway_m",
     "cdn": "glyph_train-subway_m",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_train-subway_m.svg"
+  },
+  "TrainMIcon": {
+    "description": "поезд, электричка",
+    "basename": "glyph_train_m",
+    "web": "TrainMIcon",
+    "webComponent": "import { TrainMIcon } from '@alfalab/icons-glyph/TrainMIcon';",
+    "android": "glyph_train_m",
+    "ios": "glyph_train_m",
+    "middle": "glyph_train_m",
+    "cdn": "glyph_train_m",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_train_m.svg"
   },
   "TrainSIcon": {
     "description": "поезд, электричка",
