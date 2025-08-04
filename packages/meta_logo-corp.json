@@ -99,7 +99,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_account-details-sign-box-thinline_20.svg"
   },
   "AccountLimitationsSignBoxLine20Icon": {
-    "description": "Ограничения по счёту",
+    "description": "Ограничения по счёту",
     "basename": "logo-corp_account-limitations-sign-box-line_20",
     "web": "AccountLimitationsSignBoxLine20Icon",
     "webComponent": "import { AccountLimitationsSignBoxLine20Icon } from '@alfalab/icons-logo-corp/AccountLimitationsSignBoxLine20Icon';",
@@ -110,7 +110,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_account-limitations-sign-box-line_20.svg"
   },
   "AccountLimitationsSignBoxLine24Icon": {
-    "description": "Ограничения по счёту",
+    "description": "Ограничения по счёту",
     "basename": "logo-corp_account-limitations-sign-box-line_24",
     "web": "AccountLimitationsSignBoxLine24Icon",
     "webComponent": "import { AccountLimitationsSignBoxLine24Icon } from '@alfalab/icons-logo-corp/AccountLimitationsSignBoxLine24Icon';",
@@ -121,7 +121,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_account-limitations-sign-box-line_24.svg"
   },
   "AccountLimitationsSignBoxThinline20Icon": {
-    "description": "Ограничения по счёту",
+    "description": "Ограничения по счёту",
     "basename": "logo-corp_account-limitations-sign-box-thinline_20",
     "web": "AccountLimitationsSignBoxThinline20Icon",
     "webComponent": "import { AccountLimitationsSignBoxThinline20Icon } from '@alfalab/icons-logo-corp/AccountLimitationsSignBoxThinline20Icon';",
@@ -2871,7 +2871,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_import-currency-transfers-sign-box-thinline_20.svg"
   },
   "ImportPaymentsSignBoxLine20Icon": {
-    "description": "Импорт платежей и реестров",
+    "description": "Импорт платежей и реестров",
     "basename": "logo-corp_import-payments-sign-box-line_20",
     "web": "ImportPaymentsSignBoxLine20Icon",
     "webComponent": "import { ImportPaymentsSignBoxLine20Icon } from '@alfalab/icons-logo-corp/ImportPaymentsSignBoxLine20Icon';",
@@ -2882,7 +2882,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_import-payments-sign-box-line_20.svg"
   },
   "ImportPaymentsSignBoxLine24Icon": {
-    "description": "Импорт платежей и реестров",
+    "description": "Импорт платежей и реестров",
     "basename": "logo-corp_import-payments-sign-box-line_24",
     "web": "ImportPaymentsSignBoxLine24Icon",
     "webComponent": "import { ImportPaymentsSignBoxLine24Icon } from '@alfalab/icons-logo-corp/ImportPaymentsSignBoxLine24Icon';",
@@ -2893,7 +2893,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_import-payments-sign-box-line_24.svg"
   },
   "ImportPaymentsSignBoxThinline20Icon": {
-    "description": "Импорт платежей и реестров",
+    "description": "Импорт платежей и реестров",
     "basename": "logo-corp_import-payments-sign-box-thinline_20",
     "web": "ImportPaymentsSignBoxThinline20Icon",
     "webComponent": "import { ImportPaymentsSignBoxThinline20Icon } from '@alfalab/icons-logo-corp/ImportPaymentsSignBoxThinline20Icon';",
@@ -3102,7 +3102,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_industry-solutions-retail-sign-box-thinline_20.svg"
   },
   "IndustrySolutionsSignBoxLine20Icon": {
-    "description": "Для вашей отрасли (отраслевые решения)",
+    "description": "Для вашей отрасли (отраслевые решения)",
     "basename": "logo-corp_industry-solutions-sign-box-line_20",
     "web": "IndustrySolutionsSignBoxLine20Icon",
     "webComponent": "import { IndustrySolutionsSignBoxLine20Icon } from '@alfalab/icons-logo-corp/IndustrySolutionsSignBoxLine20Icon';",
@@ -3113,7 +3113,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_industry-solutions-sign-box-line_20.svg"
   },
   "IndustrySolutionsSignBoxLine24Icon": {
-    "description": "Для вашей отрасли (отраслевые решения)",
+    "description": "Для вашей отрасли (отраслевые решения)",
     "basename": "logo-corp_industry-solutions-sign-box-line_24",
     "web": "IndustrySolutionsSignBoxLine24Icon",
     "webComponent": "import { IndustrySolutionsSignBoxLine24Icon } from '@alfalab/icons-logo-corp/IndustrySolutionsSignBoxLine24Icon';",
@@ -3124,7 +3124,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_industry-solutions-sign-box-line_24.svg"
   },
   "IndustrySolutionsSignBoxThinline20Icon": {
-    "description": "Для вашей отрасли (отраслевые решения)",
+    "description": "Для вашей отрасли (отраслевые решения)",
     "basename": "logo-corp_industry-solutions-sign-box-thinline_20",
     "web": "IndustrySolutionsSignBoxThinline20Icon",
     "webComponent": "import { IndustrySolutionsSignBoxThinline20Icon } from '@alfalab/icons-logo-corp/IndustrySolutionsSignBoxThinline20Icon';",
@@ -4158,7 +4158,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_payment-identification-sign-box-thinline_20.svg"
   },
   "PaymentReceiptSignBoxLine20Icon": {
-    "description": "Квитанция по платежу",
+    "description": "Квитанция по платежу",
     "basename": "logo-corp_payment-receipt-sign-box-line_20",
     "web": "PaymentReceiptSignBoxLine20Icon",
     "webComponent": "import { PaymentReceiptSignBoxLine20Icon } from '@alfalab/icons-logo-corp/PaymentReceiptSignBoxLine20Icon';",
@@ -4169,7 +4169,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_payment-receipt-sign-box-line_20.svg"
   },
   "PaymentReceiptSignBoxLine24Icon": {
-    "description": "Квитанция по платежу",
+    "description": "Квитанция по платежу",
     "basename": "logo-corp_payment-receipt-sign-box-line_24",
     "web": "PaymentReceiptSignBoxLine24Icon",
     "webComponent": "import { PaymentReceiptSignBoxLine24Icon } from '@alfalab/icons-logo-corp/PaymentReceiptSignBoxLine24Icon';",
@@ -4180,7 +4180,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_payment-receipt-sign-box-line_24.svg"
   },
   "PaymentReceiptSignBoxThinline20Icon": {
-    "description": "Квитанция по платежу",
+    "description": "Квитанция по платежу",
     "basename": "logo-corp_payment-receipt-sign-box-thinline_20",
     "web": "PaymentReceiptSignBoxThinline20Icon",
     "webComponent": "import { PaymentReceiptSignBoxThinline20Icon } from '@alfalab/icons-logo-corp/PaymentReceiptSignBoxThinline20Icon';",

@@ -61,9 +61,29 @@ done
 # Смотрим, были ли какие-то изменения в search.json
 changed_json=`git diff --name-only HEAD HEAD~1 | grep search.json`
 
+# Проверка изменений в файлах meta_*.json
+changed_meta_files=$(git diff --name-only | grep 'meta_.*\.json$')
+
 #Релизим агрегирующий пакет, если были измнения в подпакетах
 if [ -z "$changed_packages" ]
 then
+    if [ "$changed_meta_files" ]
+    then
+        echo "Publish updated meta files"
+        echo "changed meta files: $changed_meta_files"
+
+        npm version patch --git-tag-version false
+
+        cp package.json dist/package.json
+
+        #  Добавляем каждый файл в staging
+        echo "$changed_meta_files" | tr '\n' '\0' | xargs -0 git add
+        git commit -m "chore(*): update meta files"
+
+        # Публикуем пакет
+        npm publish dist
+    fi
+
     if [ "$changed_json" ]
     then
         echo "Publish updated search.json"
