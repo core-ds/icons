@@ -1,0 +1,39 @@
+# Запускает CI в ручном режиме (иногда необходимо для некоторых кейсов, например обновление файлов meta_*.json)
+name: MANUAL CI
+
+on: workflow_dispatch
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check permissions
+        if: ${{ contains(fromJSON('["fulcanellee"]'), github.actor) == false }}
+        uses: actions/github-script@v6
+        with:
+          script: |
+            core.setFailed("You don't have permission to run this workflow!");
+
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v1
+        with:
+          node-version: '12.x'
+
+      - name: Set NPM Token Action
+        uses: filipstefansson/set-npm-token-action@v1
+        with:
+          token: ${{ secrets.NPM_TOKEN }}
+
+      - run: npm set registry https://registry.npmjs.org
+
+      - run: npm run ci
+        env:
+          FIGMA_TOKEN: ${{ secrets.FIGMA_TOKEN }}
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.BOT_AUTH_TOKEN }}
+          tags: true
+
+      - run: curl -X POST -u '${{secrets.PAT_USERNAME}}:${{secrets.PAT_TOKEN}}' -H 'Accept:\ application/vnd.github.everest-preview+json' -H 'Content-Type:\ application/json' https://api.github.com/repos/core-ds/icons-demo/dispatches --data '{"event_type":"build_application"}'
