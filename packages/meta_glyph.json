@@ -3563,6 +3563,17 @@
     "cdn": "glyph_cinema-camera_m",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_cinema-camera_m.svg"
   },
+  "CircleChartMIcon": {
+    "description": "",
+    "basename": "glyph_circle-chart_m",
+    "web": "CircleChartMIcon",
+    "webComponent": "import { CircleChartMIcon } from '@alfalab/icons-glyph/CircleChartMIcon';",
+    "android": "glyph_circle_chart_m",
+    "ios": "glyph_circleChart_m",
+    "middle": "glyph_circle-chart_m",
+    "cdn": "glyph_circle-chart_m",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_circle-chart_m.svg"
+  },
   "CircleMIcon": {
     "description": "",
     "basename": "glyph_circle_m",
