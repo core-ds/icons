@@ -6082,6 +6082,17 @@
     "cdn": "glyph_huf_m",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_huf_m.svg"
   },
+  "IcebergLineMIcon": {
+    "description": "айсберг",
+    "basename": "glyph_iceberg-line_m",
+    "web": "IcebergLineMIcon",
+    "webComponent": "import { IcebergLineMIcon } from '@alfalab/icons-glyph/IcebergLineMIcon';",
+    "android": "glyph_iceberg_line_m",
+    "ios": "glyph_icebergLine_m",
+    "middle": "glyph_iceberg-line_m",
+    "cdn": "glyph_iceberg-line_m",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_iceberg-line_m.svg"
+  },
   "InformationCircleLineMIcon": {
     "description": "информация, инфо, info",
     "basename": "glyph_information-circle-line_m",
