@@ -5433,6 +5433,28 @@
     "cdn": "glyph_filter_m",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_filter_m.svg"
   },
+  "FingerPrintLineMIcon": {
+    "description": "",
+    "basename": "glyph_finger-print-line_m",
+    "web": "FingerPrintLineMIcon",
+    "webComponent": "import { FingerPrintLineMIcon } from '@alfalab/icons-glyph/FingerPrintLineMIcon';",
+    "android": "glyph_finger_print_line_m",
+    "ios": "glyph_fingerPrintLine_m",
+    "middle": "glyph_finger-print-line_m",
+    "cdn": "glyph_finger-print-line_m",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_finger-print-line_m.svg"
+  },
+  "FingerPrintLineSIcon": {
+    "description": "",
+    "basename": "glyph_finger-print-line_s",
+    "web": "FingerPrintLineSIcon",
+    "webComponent": "import { FingerPrintLineSIcon } from '@alfalab/icons-glyph/FingerPrintLineSIcon';",
+    "android": "glyph_finger_print_line_s",
+    "ios": "glyph_fingerPrintLine_s",
+    "middle": "glyph_finger-print-line_s",
+    "cdn": "glyph_finger-print-line_s",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_finger-print-line_s.svg"
+  },
   "FirecrackerMIcon": {
     "description": "хлопушка, праздник",
     "basename": "glyph_firecracker_m",
