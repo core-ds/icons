@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Check permissions
-        if: ${{ contains(fromJSON('["fulcanellee"]'), github.actor) == false }}
+        if: ${{ contains(fromJSON('["fulcanellee", "hextion", "dHIM24", "SiebenSieben"]'), github.actor) == false }}
         uses: actions/github-script@v6
         with:
           script: |
