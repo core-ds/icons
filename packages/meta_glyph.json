@@ -3564,7 +3564,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/glyph_cinema-camera_m.svg"
   },
   "CircleChartMIcon": {
-    "description": "",
+    "description": "graph, invest, монета, график, копилка, coin, инвест, монета",
     "basename": "glyph_circle-chart_m",
     "web": "CircleChartMIcon",
     "webComponent": "import { CircleChartMIcon } from '@alfalab/icons-glyph/CircleChartMIcon';",
@@ -5434,7 +5434,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/glyph_filter_m.svg"
   },
   "FingerPrintLineMIcon": {
-    "description": "",
+    "description": "отпечаток пальца, палец, отпечаток, биометрия, биометрический, finger print, fingerprint, print, imprint, biometrics, biometric, аштпук зкште, аштпукзкште, зкште, шьзкште, ишщьуекшсы, ишщьуекшс",
     "basename": "glyph_finger-print-line_m",
     "web": "FingerPrintLineMIcon",
     "webComponent": "import { FingerPrintLineMIcon } from '@alfalab/icons-glyph/FingerPrintLineMIcon';",
@@ -5445,7 +5445,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/glyph_finger-print-line_m.svg"
   },
   "FingerPrintLineSIcon": {
-    "description": "",
+    "description": "отпечаток пальца, палец, отпечаток, биометрия, биометрический, finger print, fingerprint, print, imprint, biometrics, biometric, аштпук зкште, аштпукзкште, зкште, шьзкште, ишщьуекшсы, ишщьуекшс",
     "basename": "glyph_finger-print-line_s",
     "web": "FingerPrintLineSIcon",
     "webComponent": "import { FingerPrintLineSIcon } from '@alfalab/icons-glyph/FingerPrintLineSIcon';",
