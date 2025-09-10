@@ -263,6 +263,17 @@
     "cdn": "glyph_arrow-down-bold-container_m",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_arrow-down-bold-container_m.svg"
   },
+  "ArrowDownBoldContainerSIcon": {
+    "description": "скачать, загрузка",
+    "basename": "glyph_arrow-down-bold-container_s",
+    "web": "ArrowDownBoldContainerSIcon",
+    "webComponent": "import { ArrowDownBoldContainerSIcon } from '@alfalab/icons-glyph/ArrowDownBoldContainerSIcon';",
+    "android": "glyph_arrow_down_bold_container_s",
+    "ios": "glyph_arrowDownBoldContainer_s",
+    "middle": "glyph_arrow-down-bold-container_s",
+    "cdn": "glyph_arrow-down-bold-container_s",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_arrow-down-bold-container_s.svg"
+  },
   "ArrowDownCircleMIcon": {
     "description": "стрелка вниз, стрелочка вниз",
     "basename": "glyph_arrow-down-circle_m",
