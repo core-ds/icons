@@ -3618,6 +3618,39 @@
     "cdn": "logo-corp_industry-solutions-builders-line_24",
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_industry-solutions-builders-line_24.svg"
   },
+  "IndustrySolutionsBuildersSignBoxLine20Icon": {
+    "description": "Для строительного бизнеса",
+    "basename": "logo-corp_industry-solutions-builders-sign-box-line_20",
+    "web": "IndustrySolutionsBuildersSignBoxLine20Icon",
+    "webComponent": "import { IndustrySolutionsBuildersSignBoxLine20Icon } from '@alfalab/icons-logo-corp/IndustrySolutionsBuildersSignBoxLine20Icon';",
+    "android": "logo_corp_industry_solutions_builders_sign_box_line_20",
+    "ios": "logoCorp_industrySolutionsBuildersSignBoxLine_20",
+    "middle": "logo-corp_industry-solutions-builders-sign-box-line_20",
+    "cdn": "logo-corp_industry-solutions-builders-sign-box-line_20",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_industry-solutions-builders-sign-box-line_20.svg"
+  },
+  "IndustrySolutionsBuildersSignBoxLine24Icon": {
+    "description": "Для строительного бизнеса",
+    "basename": "logo-corp_industry-solutions-builders-sign-box-line_24",
+    "web": "IndustrySolutionsBuildersSignBoxLine24Icon",
+    "webComponent": "import { IndustrySolutionsBuildersSignBoxLine24Icon } from '@alfalab/icons-logo-corp/IndustrySolutionsBuildersSignBoxLine24Icon';",
+    "android": "logo_corp_industry_solutions_builders_sign_box_line_24",
+    "ios": "logoCorp_industrySolutionsBuildersSignBoxLine_24",
+    "middle": "logo-corp_industry-solutions-builders-sign-box-line_24",
+    "cdn": "logo-corp_industry-solutions-builders-sign-box-line_24",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_industry-solutions-builders-sign-box-line_24.svg"
+  },
+  "IndustrySolutionsBuildersSignBoxThinline20Icon": {
+    "description": "Для строительного бизнеса",
+    "basename": "logo-corp_industry-solutions-builders-sign-box-thinline_20",
+    "web": "IndustrySolutionsBuildersSignBoxThinline20Icon",
+    "webComponent": "import { IndustrySolutionsBuildersSignBoxThinline20Icon } from '@alfalab/icons-logo-corp/IndustrySolutionsBuildersSignBoxThinline20Icon';",
+    "android": "logo_corp_industry_solutions_builders_sign_box_thinline_20",
+    "ios": "logoCorp_industrySolutionsBuildersSignBoxThinline_20",
+    "middle": "logo-corp_industry-solutions-builders-sign-box-thinline_20",
+    "cdn": "logo-corp_industry-solutions-builders-sign-box-thinline_20",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_industry-solutions-builders-sign-box-thinline_20.svg"
+  },
   "IndustrySolutionsBuildersThinline20Icon": {
     "description": "",
     "basename": "logo-corp_industry-solutions-builders-thinline_20",
