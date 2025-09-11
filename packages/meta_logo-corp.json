@@ -330,7 +330,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_alfa-api-sign-box-thinline_20.svg"
   },
   "AlfaBusinessTripLine20Icon": {
-    "description": "Альфа-Командировки",
+    "description": "",
     "basename": "logo-corp_alfa-business-trip-line_20",
     "web": "AlfaBusinessTripLine20Icon",
     "webComponent": "import { AlfaBusinessTripLine20Icon } from '@alfalab/icons-logo-corp/AlfaBusinessTripLine20Icon';",
@@ -341,7 +341,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_alfa-business-trip-line_20.svg"
   },
   "AlfaBusinessTripLine24Icon": {
-    "description": "Альфа-Командировки",
+    "description": "",
     "basename": "logo-corp_alfa-business-trip-line_24",
     "web": "AlfaBusinessTripLine24Icon",
     "webComponent": "import { AlfaBusinessTripLine24Icon } from '@alfalab/icons-logo-corp/AlfaBusinessTripLine24Icon';",
@@ -351,8 +351,41 @@
     "cdn": "logo-corp_alfa-business-trip-line_24",
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_alfa-business-trip-line_24.svg"
   },
-  "AlfaBusinessTripThinline20Icon": {
+  "AlfaBusinessTripSignBoxLine20Icon": {
     "description": "Альфа-Командировки",
+    "basename": "logo-corp_alfa-business-trip-sign-box-line_20",
+    "web": "AlfaBusinessTripSignBoxLine20Icon",
+    "webComponent": "import { AlfaBusinessTripSignBoxLine20Icon } from '@alfalab/icons-logo-corp/AlfaBusinessTripSignBoxLine20Icon';",
+    "android": "logo_corp_alfa_business_trip_sign_box_line_20",
+    "ios": "logoCorp_alfaBusinessTripSignBoxLine_20",
+    "middle": "logo-corp_alfa-business-trip-sign-box-line_20",
+    "cdn": "logo-corp_alfa-business-trip-sign-box-line_20",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_alfa-business-trip-sign-box-line_20.svg"
+  },
+  "AlfaBusinessTripSignBoxLine24Icon": {
+    "description": "Альфа-Командировки",
+    "basename": "logo-corp_alfa-business-trip-sign-box-line_24",
+    "web": "AlfaBusinessTripSignBoxLine24Icon",
+    "webComponent": "import { AlfaBusinessTripSignBoxLine24Icon } from '@alfalab/icons-logo-corp/AlfaBusinessTripSignBoxLine24Icon';",
+    "android": "logo_corp_alfa_business_trip_sign_box_line_24",
+    "ios": "logoCorp_alfaBusinessTripSignBoxLine_24",
+    "middle": "logo-corp_alfa-business-trip-sign-box-line_24",
+    "cdn": "logo-corp_alfa-business-trip-sign-box-line_24",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_alfa-business-trip-sign-box-line_24.svg"
+  },
+  "AlfaBusinessTripSignBoxThinline20Icon": {
+    "description": "Альфа-Командировки",
+    "basename": "logo-corp_alfa-business-trip-sign-box-thinline_20",
+    "web": "AlfaBusinessTripSignBoxThinline20Icon",
+    "webComponent": "import { AlfaBusinessTripSignBoxThinline20Icon } from '@alfalab/icons-logo-corp/AlfaBusinessTripSignBoxThinline20Icon';",
+    "android": "logo_corp_alfa_business_trip_sign_box_thinline_20",
+    "ios": "logoCorp_alfaBusinessTripSignBoxThinline_20",
+    "middle": "logo-corp_alfa-business-trip-sign-box-thinline_20",
+    "cdn": "logo-corp_alfa-business-trip-sign-box-thinline_20",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_alfa-business-trip-sign-box-thinline_20.svg"
+  },
+  "AlfaBusinessTripThinline20Icon": {
+    "description": "",
     "basename": "logo-corp_alfa-business-trip-thinline_20",
     "web": "AlfaBusinessTripThinline20Icon",
     "webComponent": "import { AlfaBusinessTripThinline20Icon } from '@alfalab/icons-logo-corp/AlfaBusinessTripThinline20Icon';",
@@ -429,7 +462,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_alfa-link-sign-box-thinline_20.svg"
   },
   "AlfaLogistLine20Icon": {
-    "description": "Альфа-Логист",
+    "description": "",
     "basename": "logo-corp_alfa-logist-line_20",
     "web": "AlfaLogistLine20Icon",
     "webComponent": "import { AlfaLogistLine20Icon } from '@alfalab/icons-logo-corp/AlfaLogistLine20Icon';",
@@ -440,7 +473,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_alfa-logist-line_20.svg"
   },
   "AlfaLogistLine24Icon": {
-    "description": "Альфа-Логист",
+    "description": "",
     "basename": "logo-corp_alfa-logist-line_24",
     "web": "AlfaLogistLine24Icon",
     "webComponent": "import { AlfaLogistLine24Icon } from '@alfalab/icons-logo-corp/AlfaLogistLine24Icon';",
@@ -450,8 +483,41 @@
     "cdn": "logo-corp_alfa-logist-line_24",
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_alfa-logist-line_24.svg"
   },
-  "AlfaLogistThinline20Icon": {
+  "AlfaLogistSignBoxLine20Icon": {
     "description": "Альфа-Логист",
+    "basename": "logo-corp_alfa-logist-sign-box-line_20",
+    "web": "AlfaLogistSignBoxLine20Icon",
+    "webComponent": "import { AlfaLogistSignBoxLine20Icon } from '@alfalab/icons-logo-corp/AlfaLogistSignBoxLine20Icon';",
+    "android": "logo_corp_alfa_logist_sign_box_line_20",
+    "ios": "logoCorp_alfaLogistSignBoxLine_20",
+    "middle": "logo-corp_alfa-logist-sign-box-line_20",
+    "cdn": "logo-corp_alfa-logist-sign-box-line_20",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_alfa-logist-sign-box-line_20.svg"
+  },
+  "AlfaLogistSignBoxLine24Icon": {
+    "description": "Альфа-Логист",
+    "basename": "logo-corp_alfa-logist-sign-box-line_24",
+    "web": "AlfaLogistSignBoxLine24Icon",
+    "webComponent": "import { AlfaLogistSignBoxLine24Icon } from '@alfalab/icons-logo-corp/AlfaLogistSignBoxLine24Icon';",
+    "android": "logo_corp_alfa_logist_sign_box_line_24",
+    "ios": "logoCorp_alfaLogistSignBoxLine_24",
+    "middle": "logo-corp_alfa-logist-sign-box-line_24",
+    "cdn": "logo-corp_alfa-logist-sign-box-line_24",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_alfa-logist-sign-box-line_24.svg"
+  },
+  "AlfaLogistSignBoxThinline20Icon": {
+    "description": "Альфа-Логист",
+    "basename": "logo-corp_alfa-logist-sign-box-thinline_20",
+    "web": "AlfaLogistSignBoxThinline20Icon",
+    "webComponent": "import { AlfaLogistSignBoxThinline20Icon } from '@alfalab/icons-logo-corp/AlfaLogistSignBoxThinline20Icon';",
+    "android": "logo_corp_alfa_logist_sign_box_thinline_20",
+    "ios": "logoCorp_alfaLogistSignBoxThinline_20",
+    "middle": "logo-corp_alfa-logist-sign-box-thinline_20",
+    "cdn": "logo-corp_alfa-logist-sign-box-thinline_20",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_alfa-logist-sign-box-thinline_20.svg"
+  },
+  "AlfaLogistThinline20Icon": {
+    "description": "",
     "basename": "logo-corp_alfa-logist-thinline_20",
     "web": "AlfaLogistThinline20Icon",
     "webComponent": "import { AlfaLogistThinline20Icon } from '@alfalab/icons-logo-corp/AlfaLogistThinline20Icon';",
@@ -858,7 +924,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_bsc-sign-box-thinline_20.svg"
   },
   "BuilderLine20Icon": {
-    "description": "Конструктор сайтов",
+    "description": "",
     "basename": "logo-corp_builder-line_20",
     "web": "BuilderLine20Icon",
     "webComponent": "import { BuilderLine20Icon } from '@alfalab/icons-logo-corp/BuilderLine20Icon';",
@@ -869,7 +935,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_builder-line_20.svg"
   },
   "BuilderLine24Icon": {
-    "description": "Конструктор сайтов",
+    "description": "",
     "basename": "logo-corp_builder-line_24",
     "web": "BuilderLine24Icon",
     "webComponent": "import { BuilderLine24Icon } from '@alfalab/icons-logo-corp/BuilderLine24Icon';",
@@ -879,8 +945,41 @@
     "cdn": "logo-corp_builder-line_24",
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_builder-line_24.svg"
   },
-  "BuilderThinline20Icon": {
+  "BuilderSignBoxLine20Icon": {
     "description": "Конструктор сайтов",
+    "basename": "logo-corp_builder-sign-box-line_20",
+    "web": "BuilderSignBoxLine20Icon",
+    "webComponent": "import { BuilderSignBoxLine20Icon } from '@alfalab/icons-logo-corp/BuilderSignBoxLine20Icon';",
+    "android": "logo_corp_builder_sign_box_line_20",
+    "ios": "logoCorp_builderSignBoxLine_20",
+    "middle": "logo-corp_builder-sign-box-line_20",
+    "cdn": "logo-corp_builder-sign-box-line_20",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_builder-sign-box-line_20.svg"
+  },
+  "BuilderSignBoxLine24Icon": {
+    "description": "Конструктор сайтов",
+    "basename": "logo-corp_builder-sign-box-line_24",
+    "web": "BuilderSignBoxLine24Icon",
+    "webComponent": "import { BuilderSignBoxLine24Icon } from '@alfalab/icons-logo-corp/BuilderSignBoxLine24Icon';",
+    "android": "logo_corp_builder_sign_box_line_24",
+    "ios": "logoCorp_builderSignBoxLine_24",
+    "middle": "logo-corp_builder-sign-box-line_24",
+    "cdn": "logo-corp_builder-sign-box-line_24",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_builder-sign-box-line_24.svg"
+  },
+  "BuilderSignBoxThinline20Icon": {
+    "description": "Конструктор сайтов",
+    "basename": "logo-corp_builder-sign-box-thinline_20",
+    "web": "BuilderSignBoxThinline20Icon",
+    "webComponent": "import { BuilderSignBoxThinline20Icon } from '@alfalab/icons-logo-corp/BuilderSignBoxThinline20Icon';",
+    "android": "logo_corp_builder_sign_box_thinline_20",
+    "ios": "logoCorp_builderSignBoxThinline_20",
+    "middle": "logo-corp_builder-sign-box-thinline_20",
+    "cdn": "logo-corp_builder-sign-box-thinline_20",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_builder-sign-box-thinline_20.svg"
+  },
+  "BuilderThinline20Icon": {
+    "description": "",
     "basename": "logo-corp_builder-thinline_20",
     "web": "BuilderThinline20Icon",
     "webComponent": "import { BuilderThinline20Icon } from '@alfalab/icons-logo-corp/BuilderThinline20Icon';",
@@ -1716,7 +1815,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_commercial-property-insurance-sign-box-thinline_20.svg"
   },
   "CommunalServicesSignBoxLine20Icon": {
-    "description": "",
+    "description": "Оплата ЖКУ",
     "basename": "logo-corp_communal-services-sign-box-line_20",
     "web": "CommunalServicesSignBoxLine20Icon",
     "webComponent": "import { CommunalServicesSignBoxLine20Icon } from '@alfalab/icons-logo-corp/CommunalServicesSignBoxLine20Icon';",
@@ -1727,7 +1826,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_communal-services-sign-box-line_20.svg"
   },
   "CommunalServicesSignBoxLine24Icon": {
-    "description": "",
+    "description": "Оплата ЖКУ",
     "basename": "logo-corp_communal-services-sign-box-line_24",
     "web": "CommunalServicesSignBoxLine24Icon",
     "webComponent": "import { CommunalServicesSignBoxLine24Icon } from '@alfalab/icons-logo-corp/CommunalServicesSignBoxLine24Icon';",
@@ -1738,7 +1837,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_communal-services-sign-box-line_24.svg"
   },
   "CommunalServicesSignBoxThinline20Icon": {
-    "description": "",
+    "description": "Оплата ЖКУ",
     "basename": "logo-corp_communal-services-sign-box-thinline_20",
     "web": "CommunalServicesSignBoxThinline20Icon",
     "webComponent": "import { CommunalServicesSignBoxThinline20Icon } from '@alfalab/icons-logo-corp/CommunalServicesSignBoxThinline20Icon';",
@@ -1914,7 +2013,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_corporate-korus-sign-box-thinline_20.svg"
   },
   "CreateAutoPaymentSignBoxLine20Icon": {
-    "description": "",
+    "description": "Создать автоплатёж",
     "basename": "logo-corp_create-auto-payment-sign-box-line_20",
     "web": "CreateAutoPaymentSignBoxLine20Icon",
     "webComponent": "import { CreateAutoPaymentSignBoxLine20Icon } from '@alfalab/icons-logo-corp/CreateAutoPaymentSignBoxLine20Icon';",
@@ -1925,7 +2024,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_create-auto-payment-sign-box-line_20.svg"
   },
   "CreateAutoPaymentSignBoxLine24Icon": {
-    "description": "",
+    "description": "Создать автоплатёж",
     "basename": "logo-corp_create-auto-payment-sign-box-line_24",
     "web": "CreateAutoPaymentSignBoxLine24Icon",
     "webComponent": "import { CreateAutoPaymentSignBoxLine24Icon } from '@alfalab/icons-logo-corp/CreateAutoPaymentSignBoxLine24Icon';",
@@ -1936,7 +2035,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_create-auto-payment-sign-box-line_24.svg"
   },
   "CreateAutoPaymentSignBoxThinline20Icon": {
-    "description": "",
+    "description": "Создать автоплатёж",
     "basename": "logo-corp_create-auto-payment-sign-box-thinline_20",
     "web": "CreateAutoPaymentSignBoxThinline20Icon",
     "webComponent": "import { CreateAutoPaymentSignBoxThinline20Icon } from '@alfalab/icons-logo-corp/CreateAutoPaymentSignBoxThinline20Icon';",
@@ -2178,7 +2277,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_deposit-sign-box-thinline_20.svg"
   },
   "DigitalFinancialAssetsLine20Icon": {
-    "description": "Цифровые финансовые активы",
+    "description": "",
     "basename": "logo-corp_digital-financial-assets-line_20",
     "web": "DigitalFinancialAssetsLine20Icon",
     "webComponent": "import { DigitalFinancialAssetsLine20Icon } from '@alfalab/icons-logo-corp/DigitalFinancialAssetsLine20Icon';",
@@ -2189,7 +2288,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_digital-financial-assets-line_20.svg"
   },
   "DigitalFinancialAssetsLine24Icon": {
-    "description": "Цифровые финансовые активы",
+    "description": "",
     "basename": "logo-corp_digital-financial-assets-line_24",
     "web": "DigitalFinancialAssetsLine24Icon",
     "webComponent": "import { DigitalFinancialAssetsLine24Icon } from '@alfalab/icons-logo-corp/DigitalFinancialAssetsLine24Icon';",
@@ -2199,8 +2298,41 @@
     "cdn": "logo-corp_digital-financial-assets-line_24",
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_digital-financial-assets-line_24.svg"
   },
-  "DigitalFinancialAssetsThinline20Icon": {
+  "DigitalFinancialAssetsSignBoxLine20Icon": {
     "description": "Цифровые финансовые активы",
+    "basename": "logo-corp_digital-financial-assets-sign-box-line_20",
+    "web": "DigitalFinancialAssetsSignBoxLine20Icon",
+    "webComponent": "import { DigitalFinancialAssetsSignBoxLine20Icon } from '@alfalab/icons-logo-corp/DigitalFinancialAssetsSignBoxLine20Icon';",
+    "android": "logo_corp_digital_financial_assets_sign_box_line_20",
+    "ios": "logoCorp_digitalFinancialAssetsSignBoxLine_20",
+    "middle": "logo-corp_digital-financial-assets-sign-box-line_20",
+    "cdn": "logo-corp_digital-financial-assets-sign-box-line_20",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_digital-financial-assets-sign-box-line_20.svg"
+  },
+  "DigitalFinancialAssetsSignBoxLine24Icon": {
+    "description": "Цифровые финансовые активы",
+    "basename": "logo-corp_digital-financial-assets-sign-box-line_24",
+    "web": "DigitalFinancialAssetsSignBoxLine24Icon",
+    "webComponent": "import { DigitalFinancialAssetsSignBoxLine24Icon } from '@alfalab/icons-logo-corp/DigitalFinancialAssetsSignBoxLine24Icon';",
+    "android": "logo_corp_digital_financial_assets_sign_box_line_24",
+    "ios": "logoCorp_digitalFinancialAssetsSignBoxLine_24",
+    "middle": "logo-corp_digital-financial-assets-sign-box-line_24",
+    "cdn": "logo-corp_digital-financial-assets-sign-box-line_24",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_digital-financial-assets-sign-box-line_24.svg"
+  },
+  "DigitalFinancialAssetsSignBoxThinline20Icon": {
+    "description": "Цифровые финансовые активы",
+    "basename": "logo-corp_digital-financial-assets-sign-box-thinline_20",
+    "web": "DigitalFinancialAssetsSignBoxThinline20Icon",
+    "webComponent": "import { DigitalFinancialAssetsSignBoxThinline20Icon } from '@alfalab/icons-logo-corp/DigitalFinancialAssetsSignBoxThinline20Icon';",
+    "android": "logo_corp_digital_financial_assets_sign_box_thinline_20",
+    "ios": "logoCorp_digitalFinancialAssetsSignBoxThinline_20",
+    "middle": "logo-corp_digital-financial-assets-sign-box-thinline_20",
+    "cdn": "logo-corp_digital-financial-assets-sign-box-thinline_20",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_digital-financial-assets-sign-box-thinline_20.svg"
+  },
+  "DigitalFinancialAssetsThinline20Icon": {
+    "description": "",
     "basename": "logo-corp_digital-financial-assets-thinline_20",
     "web": "DigitalFinancialAssetsThinline20Icon",
     "webComponent": "import { DigitalFinancialAssetsThinline20Icon } from '@alfalab/icons-logo-corp/DigitalFinancialAssetsThinline20Icon';",
@@ -2376,7 +2508,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_edo-sign-box-thinline_20.svg"
   },
   "EgrulEgripLine20Icon": {
-    "description": "Смена данных ИП и ООО в ФНС",
+    "description": "",
     "basename": "logo-corp_egrul-egrip-line_20",
     "web": "EgrulEgripLine20Icon",
     "webComponent": "import { EgrulEgripLine20Icon } from '@alfalab/icons-logo-corp/EgrulEgripLine20Icon';",
@@ -2387,7 +2519,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_egrul-egrip-line_20.svg"
   },
   "EgrulEgripLine24Icon": {
-    "description": "Смена данных ИП и ООО в ФНС",
+    "description": "",
     "basename": "logo-corp_egrul-egrip-line_24",
     "web": "EgrulEgripLine24Icon",
     "webComponent": "import { EgrulEgripLine24Icon } from '@alfalab/icons-logo-corp/EgrulEgripLine24Icon';",
@@ -2397,8 +2529,41 @@
     "cdn": "logo-corp_egrul-egrip-line_24",
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_egrul-egrip-line_24.svg"
   },
-  "EgrulEgripThinline20Icon": {
+  "EgrulEgripSignBoxLine20Icon": {
     "description": "Смена данных ИП и ООО в ФНС",
+    "basename": "logo-corp_egrul-egrip-sign-box-line_20",
+    "web": "EgrulEgripSignBoxLine20Icon",
+    "webComponent": "import { EgrulEgripSignBoxLine20Icon } from '@alfalab/icons-logo-corp/EgrulEgripSignBoxLine20Icon';",
+    "android": "logo_corp_egrul_egrip_sign_box_line_20",
+    "ios": "logoCorp_egrulEgripSignBoxLine_20",
+    "middle": "logo-corp_egrul-egrip-sign-box-line_20",
+    "cdn": "logo-corp_egrul-egrip-sign-box-line_20",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_egrul-egrip-sign-box-line_20.svg"
+  },
+  "EgrulEgripSignBoxLine24Icon": {
+    "description": "Смена данных ИП и ООО в ФНС",
+    "basename": "logo-corp_egrul-egrip-sign-box-line_24",
+    "web": "EgrulEgripSignBoxLine24Icon",
+    "webComponent": "import { EgrulEgripSignBoxLine24Icon } from '@alfalab/icons-logo-corp/EgrulEgripSignBoxLine24Icon';",
+    "android": "logo_corp_egrul_egrip_sign_box_line_24",
+    "ios": "logoCorp_egrulEgripSignBoxLine_24",
+    "middle": "logo-corp_egrul-egrip-sign-box-line_24",
+    "cdn": "logo-corp_egrul-egrip-sign-box-line_24",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_egrul-egrip-sign-box-line_24.svg"
+  },
+  "EgrulEgripSignBoxThinline20Icon": {
+    "description": "Смена данных ИП и ООО в ФНС",
+    "basename": "logo-corp_egrul-egrip-sign-box-thinline_20",
+    "web": "EgrulEgripSignBoxThinline20Icon",
+    "webComponent": "import { EgrulEgripSignBoxThinline20Icon } from '@alfalab/icons-logo-corp/EgrulEgripSignBoxThinline20Icon';",
+    "android": "logo_corp_egrul_egrip_sign_box_thinline_20",
+    "ios": "logoCorp_egrulEgripSignBoxThinline_20",
+    "middle": "logo-corp_egrul-egrip-sign-box-thinline_20",
+    "cdn": "logo-corp_egrul-egrip-sign-box-thinline_20",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_egrul-egrip-sign-box-thinline_20.svg"
+  },
+  "EgrulEgripThinline20Icon": {
+    "description": "",
     "basename": "logo-corp_egrul-egrip-thinline_20",
     "web": "EgrulEgripThinline20Icon",
     "webComponent": "import { EgrulEgripThinline20Icon } from '@alfalab/icons-logo-corp/EgrulEgripThinline20Icon';",
@@ -3003,7 +3168,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_guaranty-sign-box-thinline_20.svg"
   },
   "HedgingLine20Icon": {
-    "description": "Хеджирование валютных и процентных рисков",
+    "description": "",
     "basename": "logo-corp_hedging-line_20",
     "web": "HedgingLine20Icon",
     "webComponent": "import { HedgingLine20Icon } from '@alfalab/icons-logo-corp/HedgingLine20Icon';",
@@ -3014,7 +3179,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_hedging-line_20.svg"
   },
   "HedgingLine24Icon": {
-    "description": "Хеджирование валютных и процентных рисков",
+    "description": "",
     "basename": "logo-corp_hedging-line_24",
     "web": "HedgingLine24Icon",
     "webComponent": "import { HedgingLine24Icon } from '@alfalab/icons-logo-corp/HedgingLine24Icon';",
@@ -3057,8 +3222,41 @@
     "cdn": "logo-corp_hedging-onboarding-sign-box-thinline_20",
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_hedging-onboarding-sign-box-thinline_20.svg"
   },
-  "HedgingThinline20Icon": {
+  "HedgingSignBoxLine20Icon": {
     "description": "Хеджирование валютных и процентных рисков",
+    "basename": "logo-corp_hedging-sign-box-line_20",
+    "web": "HedgingSignBoxLine20Icon",
+    "webComponent": "import { HedgingSignBoxLine20Icon } from '@alfalab/icons-logo-corp/HedgingSignBoxLine20Icon';",
+    "android": "logo_corp_hedging_sign_box_line_20",
+    "ios": "logoCorp_hedgingSignBoxLine_20",
+    "middle": "logo-corp_hedging-sign-box-line_20",
+    "cdn": "logo-corp_hedging-sign-box-line_20",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_hedging-sign-box-line_20.svg"
+  },
+  "HedgingSignBoxLine24Icon": {
+    "description": "Хеджирование валютных и процентных рисков",
+    "basename": "logo-corp_hedging-sign-box-line_24",
+    "web": "HedgingSignBoxLine24Icon",
+    "webComponent": "import { HedgingSignBoxLine24Icon } from '@alfalab/icons-logo-corp/HedgingSignBoxLine24Icon';",
+    "android": "logo_corp_hedging_sign_box_line_24",
+    "ios": "logoCorp_hedgingSignBoxLine_24",
+    "middle": "logo-corp_hedging-sign-box-line_24",
+    "cdn": "logo-corp_hedging-sign-box-line_24",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_hedging-sign-box-line_24.svg"
+  },
+  "HedgingSignBoxThinline20Icon": {
+    "description": "Хеджирование валютных и процентных рисков",
+    "basename": "logo-corp_hedging-sign-box-thinline_20",
+    "web": "HedgingSignBoxThinline20Icon",
+    "webComponent": "import { HedgingSignBoxThinline20Icon } from '@alfalab/icons-logo-corp/HedgingSignBoxThinline20Icon';",
+    "android": "logo_corp_hedging_sign_box_thinline_20",
+    "ios": "logoCorp_hedgingSignBoxThinline_20",
+    "middle": "logo-corp_hedging-sign-box-thinline_20",
+    "cdn": "logo-corp_hedging-sign-box-thinline_20",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_hedging-sign-box-thinline_20.svg"
+  },
+  "HedgingThinline20Icon": {
+    "description": "",
     "basename": "logo-corp_hedging-thinline_20",
     "web": "HedgingThinline20Icon",
     "webComponent": "import { HedgingThinline20Icon } from '@alfalab/icons-logo-corp/HedgingThinline20Icon';",
@@ -3102,7 +3300,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_holding-sign-box-thinline_20.svg"
   },
   "ImpersonalMetalAccountLine20Icon": {
-    "description": "Обезличенный металлический счёт",
+    "description": "",
     "basename": "logo-corp_impersonal-metal-account-line_20",
     "web": "ImpersonalMetalAccountLine20Icon",
     "webComponent": "import { ImpersonalMetalAccountLine20Icon } from '@alfalab/icons-logo-corp/ImpersonalMetalAccountLine20Icon';",
@@ -3113,7 +3311,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_impersonal-metal-account-line_20.svg"
   },
   "ImpersonalMetalAccountLine24Icon": {
-    "description": "Обезличенный металлический счёт",
+    "description": "",
     "basename": "logo-corp_impersonal-metal-account-line_24",
     "web": "ImpersonalMetalAccountLine24Icon",
     "webComponent": "import { ImpersonalMetalAccountLine24Icon } from '@alfalab/icons-logo-corp/ImpersonalMetalAccountLine24Icon';",
@@ -3123,8 +3321,41 @@
     "cdn": "logo-corp_impersonal-metal-account-line_24",
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_impersonal-metal-account-line_24.svg"
   },
-  "ImpersonalMetalAccountThinline20Icon": {
+  "ImpersonalMetalAccountSignBoxLine20Icon": {
     "description": "Обезличенный металлический счёт",
+    "basename": "logo-corp_impersonal-metal-account-sign-box-line_20",
+    "web": "ImpersonalMetalAccountSignBoxLine20Icon",
+    "webComponent": "import { ImpersonalMetalAccountSignBoxLine20Icon } from '@alfalab/icons-logo-corp/ImpersonalMetalAccountSignBoxLine20Icon';",
+    "android": "logo_corp_impersonal_metal_account_sign_box_line_20",
+    "ios": "logoCorp_impersonalMetalAccountSignBoxLine_20",
+    "middle": "logo-corp_impersonal-metal-account-sign-box-line_20",
+    "cdn": "logo-corp_impersonal-metal-account-sign-box-line_20",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_impersonal-metal-account-sign-box-line_20.svg"
+  },
+  "ImpersonalMetalAccountSignBoxLine24Icon": {
+    "description": "Обезличенный металлический счёт",
+    "basename": "logo-corp_impersonal-metal-account-sign-box-line_24",
+    "web": "ImpersonalMetalAccountSignBoxLine24Icon",
+    "webComponent": "import { ImpersonalMetalAccountSignBoxLine24Icon } from '@alfalab/icons-logo-corp/ImpersonalMetalAccountSignBoxLine24Icon';",
+    "android": "logo_corp_impersonal_metal_account_sign_box_line_24",
+    "ios": "logoCorp_impersonalMetalAccountSignBoxLine_24",
+    "middle": "logo-corp_impersonal-metal-account-sign-box-line_24",
+    "cdn": "logo-corp_impersonal-metal-account-sign-box-line_24",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_impersonal-metal-account-sign-box-line_24.svg"
+  },
+  "ImpersonalMetalAccountSignBoxThinline20Icon": {
+    "description": "Обезличенный металлический счёт",
+    "basename": "logo-corp_impersonal-metal-account-sign-box-thinline_20",
+    "web": "ImpersonalMetalAccountSignBoxThinline20Icon",
+    "webComponent": "import { ImpersonalMetalAccountSignBoxThinline20Icon } from '@alfalab/icons-logo-corp/ImpersonalMetalAccountSignBoxThinline20Icon';",
+    "android": "logo_corp_impersonal_metal_account_sign_box_thinline_20",
+    "ios": "logoCorp_impersonalMetalAccountSignBoxThinline_20",
+    "middle": "logo-corp_impersonal-metal-account-sign-box-thinline_20",
+    "cdn": "logo-corp_impersonal-metal-account-sign-box-thinline_20",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_impersonal-metal-account-sign-box-thinline_20.svg"
+  },
+  "ImpersonalMetalAccountThinline20Icon": {
+    "description": "",
     "basename": "logo-corp_impersonal-metal-account-thinline_20",
     "web": "ImpersonalMetalAccountThinline20Icon",
     "webComponent": "import { ImpersonalMetalAccountThinline20Icon } from '@alfalab/icons-logo-corp/ImpersonalMetalAccountThinline20Icon';",
@@ -3234,7 +3465,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_in-progress-sign-box-thinline_20.svg"
   },
   "IncomingGuaranteeLine20Icon": {
-    "description": "Входящие гарантии",
+    "description": "",
     "basename": "logo-corp_incoming-guarantee-line_20",
     "web": "IncomingGuaranteeLine20Icon",
     "webComponent": "import { IncomingGuaranteeLine20Icon } from '@alfalab/icons-logo-corp/IncomingGuaranteeLine20Icon';",
@@ -3245,7 +3476,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_incoming-guarantee-line_20.svg"
   },
   "IncomingGuaranteeLine24Icon": {
-    "description": "Входящие гарантии",
+    "description": "",
     "basename": "logo-corp_incoming-guarantee-line_24",
     "web": "IncomingGuaranteeLine24Icon",
     "webComponent": "import { IncomingGuaranteeLine24Icon } from '@alfalab/icons-logo-corp/IncomingGuaranteeLine24Icon';",
@@ -3255,8 +3486,41 @@
     "cdn": "logo-corp_incoming-guarantee-line_24",
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_incoming-guarantee-line_24.svg"
   },
-  "IncomingGuaranteeThinline20Icon": {
+  "IncomingGuaranteeSignBoxLine20Icon": {
     "description": "Входящие гарантии",
+    "basename": "logo-corp_incoming-guarantee-sign-box-line_20",
+    "web": "IncomingGuaranteeSignBoxLine20Icon",
+    "webComponent": "import { IncomingGuaranteeSignBoxLine20Icon } from '@alfalab/icons-logo-corp/IncomingGuaranteeSignBoxLine20Icon';",
+    "android": "logo_corp_incoming_guarantee_sign_box_line_20",
+    "ios": "logoCorp_incomingGuaranteeSignBoxLine_20",
+    "middle": "logo-corp_incoming-guarantee-sign-box-line_20",
+    "cdn": "logo-corp_incoming-guarantee-sign-box-line_20",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_incoming-guarantee-sign-box-line_20.svg"
+  },
+  "IncomingGuaranteeSignBoxLine24Icon": {
+    "description": "Входящие гарантии",
+    "basename": "logo-corp_incoming-guarantee-sign-box-line_24",
+    "web": "IncomingGuaranteeSignBoxLine24Icon",
+    "webComponent": "import { IncomingGuaranteeSignBoxLine24Icon } from '@alfalab/icons-logo-corp/IncomingGuaranteeSignBoxLine24Icon';",
+    "android": "logo_corp_incoming_guarantee_sign_box_line_24",
+    "ios": "logoCorp_incomingGuaranteeSignBoxLine_24",
+    "middle": "logo-corp_incoming-guarantee-sign-box-line_24",
+    "cdn": "logo-corp_incoming-guarantee-sign-box-line_24",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_incoming-guarantee-sign-box-line_24.svg"
+  },
+  "IncomingGuaranteeSignBoxThinline20Icon": {
+    "description": "Входящие гарантии",
+    "basename": "logo-corp_incoming-guarantee-sign-box-thinline_20",
+    "web": "IncomingGuaranteeSignBoxThinline20Icon",
+    "webComponent": "import { IncomingGuaranteeSignBoxThinline20Icon } from '@alfalab/icons-logo-corp/IncomingGuaranteeSignBoxThinline20Icon';",
+    "android": "logo_corp_incoming_guarantee_sign_box_thinline_20",
+    "ios": "logoCorp_incomingGuaranteeSignBoxThinline_20",
+    "middle": "logo-corp_incoming-guarantee-sign-box-thinline_20",
+    "cdn": "logo-corp_incoming-guarantee-sign-box-thinline_20",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_incoming-guarantee-sign-box-thinline_20.svg"
+  },
+  "IncomingGuaranteeThinline20Icon": {
+    "description": "",
     "basename": "logo-corp_incoming-guarantee-thinline_20",
     "web": "IncomingGuaranteeThinline20Icon",
     "webComponent": "import { IncomingGuaranteeThinline20Icon } from '@alfalab/icons-logo-corp/IncomingGuaranteeThinline20Icon';",
@@ -3333,7 +3597,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_industry-solutions-beauty-sign-box-thinline_20.svg"
   },
   "IndustrySolutionsBuildersLine20Icon": {
-    "description": "Для строительного бизнеса",
+    "description": "",
     "basename": "logo-corp_industry-solutions-builders-line_20",
     "web": "IndustrySolutionsBuildersLine20Icon",
     "webComponent": "import { IndustrySolutionsBuildersLine20Icon } from '@alfalab/icons-logo-corp/IndustrySolutionsBuildersLine20Icon';",
@@ -3344,7 +3608,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_industry-solutions-builders-line_20.svg"
   },
   "IndustrySolutionsBuildersLine24Icon": {
-    "description": "Для строительного бизнеса",
+    "description": "",
     "basename": "logo-corp_industry-solutions-builders-line_24",
     "web": "IndustrySolutionsBuildersLine24Icon",
     "webComponent": "import { IndustrySolutionsBuildersLine24Icon } from '@alfalab/icons-logo-corp/IndustrySolutionsBuildersLine24Icon';",
@@ -3355,7 +3619,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_industry-solutions-builders-line_24.svg"
   },
   "IndustrySolutionsBuildersThinline20Icon": {
-    "description": "Для строительного бизнеса",
+    "description": "",
     "basename": "logo-corp_industry-solutions-builders-thinline_20",
     "web": "IndustrySolutionsBuildersThinline20Icon",
     "webComponent": "import { IndustrySolutionsBuildersThinline20Icon } from '@alfalab/icons-logo-corp/IndustrySolutionsBuildersThinline20Icon';",
@@ -3993,7 +4257,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_marketplace-analytics-sign-box-thinline_20.svg"
   },
   "MedicalInsuranceLine20Icon": {
-    "description": "ДМС",
+    "description": "",
     "basename": "logo-corp_medical-insurance-line_20",
     "web": "MedicalInsuranceLine20Icon",
     "webComponent": "import { MedicalInsuranceLine20Icon } from '@alfalab/icons-logo-corp/MedicalInsuranceLine20Icon';",
@@ -4004,7 +4268,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_medical-insurance-line_20.svg"
   },
   "MedicalInsuranceLine24Icon": {
-    "description": "ДМС",
+    "description": "",
     "basename": "logo-corp_medical-insurance-line_24",
     "web": "MedicalInsuranceLine24Icon",
     "webComponent": "import { MedicalInsuranceLine24Icon } from '@alfalab/icons-logo-corp/MedicalInsuranceLine24Icon';",
@@ -4014,8 +4278,41 @@
     "cdn": "logo-corp_medical-insurance-line_24",
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_medical-insurance-line_24.svg"
   },
-  "MedicalInsuranceThinline20Icon": {
+  "MedicalInsuranceSignBoxLine20Icon": {
     "description": "ДМС",
+    "basename": "logo-corp_medical-insurance-sign-box-line_20",
+    "web": "MedicalInsuranceSignBoxLine20Icon",
+    "webComponent": "import { MedicalInsuranceSignBoxLine20Icon } from '@alfalab/icons-logo-corp/MedicalInsuranceSignBoxLine20Icon';",
+    "android": "logo_corp_medical_insurance_sign_box_line_20",
+    "ios": "logoCorp_medicalInsuranceSignBoxLine_20",
+    "middle": "logo-corp_medical-insurance-sign-box-line_20",
+    "cdn": "logo-corp_medical-insurance-sign-box-line_20",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_medical-insurance-sign-box-line_20.svg"
+  },
+  "MedicalInsuranceSignBoxLine24Icon": {
+    "description": "ДМС",
+    "basename": "logo-corp_medical-insurance-sign-box-line_24",
+    "web": "MedicalInsuranceSignBoxLine24Icon",
+    "webComponent": "import { MedicalInsuranceSignBoxLine24Icon } from '@alfalab/icons-logo-corp/MedicalInsuranceSignBoxLine24Icon';",
+    "android": "logo_corp_medical_insurance_sign_box_line_24",
+    "ios": "logoCorp_medicalInsuranceSignBoxLine_24",
+    "middle": "logo-corp_medical-insurance-sign-box-line_24",
+    "cdn": "logo-corp_medical-insurance-sign-box-line_24",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_medical-insurance-sign-box-line_24.svg"
+  },
+  "MedicalInsuranceSignBoxThinline20Icon": {
+    "description": "ДМС",
+    "basename": "logo-corp_medical-insurance-sign-box-thinline_20",
+    "web": "MedicalInsuranceSignBoxThinline20Icon",
+    "webComponent": "import { MedicalInsuranceSignBoxThinline20Icon } from '@alfalab/icons-logo-corp/MedicalInsuranceSignBoxThinline20Icon';",
+    "android": "logo_corp_medical_insurance_sign_box_thinline_20",
+    "ios": "logoCorp_medicalInsuranceSignBoxThinline_20",
+    "middle": "logo-corp_medical-insurance-sign-box-thinline_20",
+    "cdn": "logo-corp_medical-insurance-sign-box-thinline_20",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_medical-insurance-sign-box-thinline_20.svg"
+  },
+  "MedicalInsuranceThinline20Icon": {
+    "description": "",
     "basename": "logo-corp_medical-insurance-thinline_20",
     "web": "MedicalInsuranceThinline20Icon",
     "webComponent": "import { MedicalInsuranceThinline20Icon } from '@alfalab/icons-logo-corp/MedicalInsuranceThinline20Icon';",
@@ -4719,7 +5016,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_power-attorney-sign-box-thinline_20.svg"
   },
   "PreferentialCreditLine20Icon": {
-    "description": "Льготный кредит",
+    "description": "",
     "basename": "logo-corp_preferential-credit-line_20",
     "web": "PreferentialCreditLine20Icon",
     "webComponent": "import { PreferentialCreditLine20Icon } from '@alfalab/icons-logo-corp/PreferentialCreditLine20Icon';",
@@ -4730,7 +5027,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_preferential-credit-line_20.svg"
   },
   "PreferentialCreditLine24Icon": {
-    "description": "Льготный кредит",
+    "description": "",
     "basename": "logo-corp_preferential-credit-line_24",
     "web": "PreferentialCreditLine24Icon",
     "webComponent": "import { PreferentialCreditLine24Icon } from '@alfalab/icons-logo-corp/PreferentialCreditLine24Icon';",
@@ -4740,8 +5037,41 @@
     "cdn": "logo-corp_preferential-credit-line_24",
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_preferential-credit-line_24.svg"
   },
-  "PreferentialCreditThinline20Icon": {
+  "PreferentialCreditSignBoxLine20Icon": {
     "description": "Льготный кредит",
+    "basename": "logo-corp_preferential-credit-sign-box-line_20",
+    "web": "PreferentialCreditSignBoxLine20Icon",
+    "webComponent": "import { PreferentialCreditSignBoxLine20Icon } from '@alfalab/icons-logo-corp/PreferentialCreditSignBoxLine20Icon';",
+    "android": "logo_corp_preferential_credit_sign_box_line_20",
+    "ios": "logoCorp_preferentialCreditSignBoxLine_20",
+    "middle": "logo-corp_preferential-credit-sign-box-line_20",
+    "cdn": "logo-corp_preferential-credit-sign-box-line_20",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_preferential-credit-sign-box-line_20.svg"
+  },
+  "PreferentialCreditSignBoxLine24Icon": {
+    "description": "Льготный кредит",
+    "basename": "logo-corp_preferential-credit-sign-box-line_24",
+    "web": "PreferentialCreditSignBoxLine24Icon",
+    "webComponent": "import { PreferentialCreditSignBoxLine24Icon } from '@alfalab/icons-logo-corp/PreferentialCreditSignBoxLine24Icon';",
+    "android": "logo_corp_preferential_credit_sign_box_line_24",
+    "ios": "logoCorp_preferentialCreditSignBoxLine_24",
+    "middle": "logo-corp_preferential-credit-sign-box-line_24",
+    "cdn": "logo-corp_preferential-credit-sign-box-line_24",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_preferential-credit-sign-box-line_24.svg"
+  },
+  "PreferentialCreditSignBoxThinline20Icon": {
+    "description": "Льготный кредит",
+    "basename": "logo-corp_preferential-credit-sign-box-thinline_20",
+    "web": "PreferentialCreditSignBoxThinline20Icon",
+    "webComponent": "import { PreferentialCreditSignBoxThinline20Icon } from '@alfalab/icons-logo-corp/PreferentialCreditSignBoxThinline20Icon';",
+    "android": "logo_corp_preferential_credit_sign_box_thinline_20",
+    "ios": "logoCorp_preferentialCreditSignBoxThinline_20",
+    "middle": "logo-corp_preferential-credit-sign-box-thinline_20",
+    "cdn": "logo-corp_preferential-credit-sign-box-thinline_20",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_preferential-credit-sign-box-thinline_20.svg"
+  },
+  "PreferentialCreditThinline20Icon": {
+    "description": "",
     "basename": "logo-corp_preferential-credit-thinline_20",
     "web": "PreferentialCreditThinline20Icon",
     "webComponent": "import { PreferentialCreditThinline20Icon } from '@alfalab/icons-logo-corp/PreferentialCreditThinline20Icon';",
@@ -4851,7 +5181,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_procurement-sign-box-thinline_20.svg"
   },
   "QrPayLine20Icon": {
-    "description": "Оплата счёта по QR",
+    "description": "",
     "basename": "logo-corp_qr-pay-line_20",
     "web": "QrPayLine20Icon",
     "webComponent": "import { QrPayLine20Icon } from '@alfalab/icons-logo-corp/QrPayLine20Icon';",
@@ -4862,7 +5192,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_qr-pay-line_20.svg"
   },
   "QrPayLine24Icon": {
-    "description": "Оплата счёта по QR",
+    "description": "",
     "basename": "logo-corp_qr-pay-line_24",
     "web": "QrPayLine24Icon",
     "webComponent": "import { QrPayLine24Icon } from '@alfalab/icons-logo-corp/QrPayLine24Icon';",
@@ -4872,8 +5202,41 @@
     "cdn": "logo-corp_qr-pay-line_24",
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_qr-pay-line_24.svg"
   },
-  "QrPayThinline20Icon": {
+  "QrPaySignBoxLine20Icon": {
     "description": "Оплата счёта по QR",
+    "basename": "logo-corp_qr-pay-sign-box-line_20",
+    "web": "QrPaySignBoxLine20Icon",
+    "webComponent": "import { QrPaySignBoxLine20Icon } from '@alfalab/icons-logo-corp/QrPaySignBoxLine20Icon';",
+    "android": "logo_corp_qr_pay_sign_box_line_20",
+    "ios": "logoCorp_qrPaySignBoxLine_20",
+    "middle": "logo-corp_qr-pay-sign-box-line_20",
+    "cdn": "logo-corp_qr-pay-sign-box-line_20",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_qr-pay-sign-box-line_20.svg"
+  },
+  "QrPaySignBoxLine24Icon": {
+    "description": "Оплата счёта по QR",
+    "basename": "logo-corp_qr-pay-sign-box-line_24",
+    "web": "QrPaySignBoxLine24Icon",
+    "webComponent": "import { QrPaySignBoxLine24Icon } from '@alfalab/icons-logo-corp/QrPaySignBoxLine24Icon';",
+    "android": "logo_corp_qr_pay_sign_box_line_24",
+    "ios": "logoCorp_qrPaySignBoxLine_24",
+    "middle": "logo-corp_qr-pay-sign-box-line_24",
+    "cdn": "logo-corp_qr-pay-sign-box-line_24",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_qr-pay-sign-box-line_24.svg"
+  },
+  "QrPaySignBoxThinline20Icon": {
+    "description": "Оплата счёта по QR",
+    "basename": "logo-corp_qr-pay-sign-box-thinline_20",
+    "web": "QrPaySignBoxThinline20Icon",
+    "webComponent": "import { QrPaySignBoxThinline20Icon } from '@alfalab/icons-logo-corp/QrPaySignBoxThinline20Icon';",
+    "android": "logo_corp_qr_pay_sign_box_thinline_20",
+    "ios": "logoCorp_qrPaySignBoxThinline_20",
+    "middle": "logo-corp_qr-pay-sign-box-thinline_20",
+    "cdn": "logo-corp_qr-pay-sign-box-thinline_20",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_qr-pay-sign-box-thinline_20.svg"
+  },
+  "QrPayThinline20Icon": {
+    "description": "",
     "basename": "logo-corp_qr-pay-thinline_20",
     "web": "QrPayThinline20Icon",
     "webComponent": "import { QrPayThinline20Icon } from '@alfalab/icons-logo-corp/QrPayThinline20Icon';",
@@ -5577,7 +5940,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_self-encashment-sign-box-thinline_20.svg"
   },
   "SendByNumberSignBoxLine20ColorIcon": {
-    "description": "",
+    "description": "Перевести по номеру телефона",
     "basename": "logo-corp_send-by-number-sign-box-line_20_color",
     "web": "SendByNumberSignBoxLine20ColorIcon",
     "webComponent": "import { SendByNumberSignBoxLine20ColorIcon } from '@alfalab/icons-logo-corp/SendByNumberSignBoxLine20ColorIcon';",
@@ -5588,7 +5951,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_send-by-number-sign-box-line_20_color.svg"
   },
   "SendByNumberSignBoxLine24ColorIcon": {
-    "description": "",
+    "description": "Перевести по номеру телефона",
     "basename": "logo-corp_send-by-number-sign-box-line_24_color",
     "web": "SendByNumberSignBoxLine24ColorIcon",
     "webComponent": "import { SendByNumberSignBoxLine24ColorIcon } from '@alfalab/icons-logo-corp/SendByNumberSignBoxLine24ColorIcon';",
@@ -5599,7 +5962,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_send-by-number-sign-box-line_24_color.svg"
   },
   "SendByNumberSignBoxThinline20ColorIcon": {
-    "description": "",
+    "description": "Перевести по номеру телефона",
     "basename": "logo-corp_send-by-number-sign-box-thinline_20_color",
     "web": "SendByNumberSignBoxThinline20ColorIcon",
     "webComponent": "import { SendByNumberSignBoxThinline20ColorIcon } from '@alfalab/icons-logo-corp/SendByNumberSignBoxThinline20ColorIcon';",
