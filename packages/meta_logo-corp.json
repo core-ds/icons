@@ -1715,6 +1715,39 @@
     "cdn": "logo-corp_commercial-property-insurance-sign-box-thinline_20",
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_commercial-property-insurance-sign-box-thinline_20.svg"
   },
+  "CommunalServicesSignBoxLine20Icon": {
+    "description": "",
+    "basename": "logo-corp_communal-services-sign-box-line_20",
+    "web": "CommunalServicesSignBoxLine20Icon",
+    "webComponent": "import { CommunalServicesSignBoxLine20Icon } from '@alfalab/icons-logo-corp/CommunalServicesSignBoxLine20Icon';",
+    "android": "logo_corp_communal_services_sign_box_line_20",
+    "ios": "logoCorp_communalServicesSignBoxLine_20",
+    "middle": "logo-corp_communal-services-sign-box-line_20",
+    "cdn": "logo-corp_communal-services-sign-box-line_20",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_communal-services-sign-box-line_20.svg"
+  },
+  "CommunalServicesSignBoxLine24Icon": {
+    "description": "",
+    "basename": "logo-corp_communal-services-sign-box-line_24",
+    "web": "CommunalServicesSignBoxLine24Icon",
+    "webComponent": "import { CommunalServicesSignBoxLine24Icon } from '@alfalab/icons-logo-corp/CommunalServicesSignBoxLine24Icon';",
+    "android": "logo_corp_communal_services_sign_box_line_24",
+    "ios": "logoCorp_communalServicesSignBoxLine_24",
+    "middle": "logo-corp_communal-services-sign-box-line_24",
+    "cdn": "logo-corp_communal-services-sign-box-line_24",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_communal-services-sign-box-line_24.svg"
+  },
+  "CommunalServicesSignBoxThinline20Icon": {
+    "description": "",
+    "basename": "logo-corp_communal-services-sign-box-thinline_20",
+    "web": "CommunalServicesSignBoxThinline20Icon",
+    "webComponent": "import { CommunalServicesSignBoxThinline20Icon } from '@alfalab/icons-logo-corp/CommunalServicesSignBoxThinline20Icon';",
+    "android": "logo_corp_communal_services_sign_box_thinline_20",
+    "ios": "logoCorp_communalServicesSignBoxThinline_20",
+    "middle": "logo-corp_communal-services-sign-box-thinline_20",
+    "cdn": "logo-corp_communal-services-sign-box-thinline_20",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_communal-services-sign-box-thinline_20.svg"
+  },
   "CompanySignBoxLine20Icon": {
     "description": "Компания",
     "basename": "logo-corp_company-sign-box-line_20",
@@ -1879,6 +1912,39 @@
     "middle": "logo-corp_corporate-korus-sign-box-thinline_20",
     "cdn": "logo-corp_corporate-korus-sign-box-thinline_20",
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_corporate-korus-sign-box-thinline_20.svg"
+  },
+  "CreateAutoPaymentSignBoxLine20Icon": {
+    "description": "",
+    "basename": "logo-corp_create-auto-payment-sign-box-line_20",
+    "web": "CreateAutoPaymentSignBoxLine20Icon",
+    "webComponent": "import { CreateAutoPaymentSignBoxLine20Icon } from '@alfalab/icons-logo-corp/CreateAutoPaymentSignBoxLine20Icon';",
+    "android": "logo_corp_create_auto_payment_sign_box_line_20",
+    "ios": "logoCorp_createAutoPaymentSignBoxLine_20",
+    "middle": "logo-corp_create-auto-payment-sign-box-line_20",
+    "cdn": "logo-corp_create-auto-payment-sign-box-line_20",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_create-auto-payment-sign-box-line_20.svg"
+  },
+  "CreateAutoPaymentSignBoxLine24Icon": {
+    "description": "",
+    "basename": "logo-corp_create-auto-payment-sign-box-line_24",
+    "web": "CreateAutoPaymentSignBoxLine24Icon",
+    "webComponent": "import { CreateAutoPaymentSignBoxLine24Icon } from '@alfalab/icons-logo-corp/CreateAutoPaymentSignBoxLine24Icon';",
+    "android": "logo_corp_create_auto_payment_sign_box_line_24",
+    "ios": "logoCorp_createAutoPaymentSignBoxLine_24",
+    "middle": "logo-corp_create-auto-payment-sign-box-line_24",
+    "cdn": "logo-corp_create-auto-payment-sign-box-line_24",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_create-auto-payment-sign-box-line_24.svg"
+  },
+  "CreateAutoPaymentSignBoxThinline20Icon": {
+    "description": "",
+    "basename": "logo-corp_create-auto-payment-sign-box-thinline_20",
+    "web": "CreateAutoPaymentSignBoxThinline20Icon",
+    "webComponent": "import { CreateAutoPaymentSignBoxThinline20Icon } from '@alfalab/icons-logo-corp/CreateAutoPaymentSignBoxThinline20Icon';",
+    "android": "logo_corp_create_auto_payment_sign_box_thinline_20",
+    "ios": "logoCorp_createAutoPaymentSignBoxThinline_20",
+    "middle": "logo-corp_create-auto-payment-sign-box-thinline_20",
+    "cdn": "logo-corp_create-auto-payment-sign-box-thinline_20",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_create-auto-payment-sign-box-thinline_20.svg"
   },
   "CreateCurrencyTransferSignBoxLine20Icon": {
     "description": "Создать валютный перевод",
@@ -5509,6 +5575,39 @@
     "middle": "logo-corp_self-encashment-sign-box-thinline_20",
     "cdn": "logo-corp_self-encashment-sign-box-thinline_20",
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_self-encashment-sign-box-thinline_20.svg"
+  },
+  "SendByNumberSignBoxLine20ColorIcon": {
+    "description": "",
+    "basename": "logo-corp_send-by-number-sign-box-line_20_color",
+    "web": "SendByNumberSignBoxLine20ColorIcon",
+    "webComponent": "import { SendByNumberSignBoxLine20ColorIcon } from '@alfalab/icons-logo-corp/SendByNumberSignBoxLine20ColorIcon';",
+    "android": "logo_corp_send_by_number_sign_box_line_20_color",
+    "ios": "logoCorp_sendByNumberSignBoxLine_20_color",
+    "middle": "logo-corp_send-by-number-sign-box-line_20_color",
+    "cdn": "logo-corp_send-by-number-sign-box-line_20_color",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_send-by-number-sign-box-line_20_color.svg"
+  },
+  "SendByNumberSignBoxLine24ColorIcon": {
+    "description": "",
+    "basename": "logo-corp_send-by-number-sign-box-line_24_color",
+    "web": "SendByNumberSignBoxLine24ColorIcon",
+    "webComponent": "import { SendByNumberSignBoxLine24ColorIcon } from '@alfalab/icons-logo-corp/SendByNumberSignBoxLine24ColorIcon';",
+    "android": "logo_corp_send_by_number_sign_box_line_24_color",
+    "ios": "logoCorp_sendByNumberSignBoxLine_24_color",
+    "middle": "logo-corp_send-by-number-sign-box-line_24_color",
+    "cdn": "logo-corp_send-by-number-sign-box-line_24_color",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_send-by-number-sign-box-line_24_color.svg"
+  },
+  "SendByNumberSignBoxThinline20ColorIcon": {
+    "description": "",
+    "basename": "logo-corp_send-by-number-sign-box-thinline_20_color",
+    "web": "SendByNumberSignBoxThinline20ColorIcon",
+    "webComponent": "import { SendByNumberSignBoxThinline20ColorIcon } from '@alfalab/icons-logo-corp/SendByNumberSignBoxThinline20ColorIcon';",
+    "android": "logo_corp_send_by_number_sign_box_thinline_20_color",
+    "ios": "logoCorp_sendByNumberSignBoxThinline_20_color",
+    "middle": "logo-corp_send-by-number-sign-box-thinline_20_color",
+    "cdn": "logo-corp_send-by-number-sign-box-thinline_20_color",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_send-by-number-sign-box-thinline_20_color.svg"
   },
   "SendDetailsSignBoxLine20Icon": {
     "description": "Отправить реквизиты",
