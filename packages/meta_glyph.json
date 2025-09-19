@@ -4377,6 +4377,28 @@
     "cdn": "glyph_digit-one-off-circle_xxl",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_digit-one-off-circle_xxl.svg"
   },
+  "DisplayLineMIcon": {
+    "description": "настольный компьютер, desktop",
+    "basename": "glyph_display-line_m",
+    "web": "DisplayLineMIcon",
+    "webComponent": "import { DisplayLineMIcon } from '@alfalab/icons-glyph/DisplayLineMIcon';",
+    "android": "glyph_display_line_m",
+    "ios": "glyph_displayLine_m",
+    "middle": "glyph_display-line_m",
+    "cdn": "glyph_display-line_m",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_display-line_m.svg"
+  },
+  "DisplayLineSIcon": {
+    "description": "настольный компьютер, desktop",
+    "basename": "glyph_display-line_s",
+    "web": "DisplayLineSIcon",
+    "webComponent": "import { DisplayLineSIcon } from '@alfalab/icons-glyph/DisplayLineSIcon';",
+    "android": "glyph_display_line_s",
+    "ios": "glyph_displayLine_s",
+    "middle": "glyph_display-line_s",
+    "cdn": "glyph_display-line_s",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_display-line_s.svg"
+  },
   "DisplayMIcon": {
     "description": "настольный компьютер, desktop",
     "basename": "glyph_display_m",
@@ -7643,6 +7665,17 @@
     "middle": "glyph_mobile-phone-line_m",
     "cdn": "glyph_mobile-phone-line_m",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_mobile-phone-line_m.svg"
+  },
+  "MobilePhoneLineSIcon": {
+    "description": "мобильный телефон, смартфон",
+    "basename": "glyph_mobile-phone-line_s",
+    "web": "MobilePhoneLineSIcon",
+    "webComponent": "import { MobilePhoneLineSIcon } from '@alfalab/icons-glyph/MobilePhoneLineSIcon';",
+    "android": "glyph_mobile_phone_line_s",
+    "ios": "glyph_mobilePhoneLine_s",
+    "middle": "glyph_mobile-phone-line_s",
+    "cdn": "glyph_mobile-phone-line_s",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_mobile-phone-line_s.svg"
   },
   "MobilePhoneMIcon": {
     "description": "мобильный телефон, смартфон",
@@ -11416,6 +11449,28 @@
     "middle": "glyph_t-shirt_m",
     "cdn": "glyph_t-shirt_m",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_t-shirt_m.svg"
+  },
+  "TabletHorizontalLineMIcon": {
+    "description": "мобильный телефон, смартфон",
+    "basename": "glyph_tablet-horizontal-line_m",
+    "web": "TabletHorizontalLineMIcon",
+    "webComponent": "import { TabletHorizontalLineMIcon } from '@alfalab/icons-glyph/TabletHorizontalLineMIcon';",
+    "android": "glyph_tablet_horizontal_line_m",
+    "ios": "glyph_tabletHorizontalLine_m",
+    "middle": "glyph_tablet-horizontal-line_m",
+    "cdn": "glyph_tablet-horizontal-line_m",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_tablet-horizontal-line_m.svg"
+  },
+  "TabletHorizontalLineSIcon": {
+    "description": "мобильный телефон, смартфон",
+    "basename": "glyph_tablet-horizontal-line_s",
+    "web": "TabletHorizontalLineSIcon",
+    "webComponent": "import { TabletHorizontalLineSIcon } from '@alfalab/icons-glyph/TabletHorizontalLineSIcon';",
+    "android": "glyph_tablet_horizontal_line_s",
+    "ios": "glyph_tabletHorizontalLine_s",
+    "middle": "glyph_tablet-horizontal-line_s",
+    "cdn": "glyph_tablet-horizontal-line_s",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_tablet-horizontal-line_s.svg"
   },
   "TaxiMIcon": {
     "description": "такси",
