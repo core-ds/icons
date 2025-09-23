@@ -40,15 +40,8 @@ mkdir dist
 # Генерируем dist для общего пакета @alfalab/icons.
 lerna exec --parallel -- $(pwd)/bin/build-root-package.sh \$LERNA_PACKAGE_NAME
 
-# Генерируем вспомогательный json-файл для поиска в витрине иконок
-yarn generate-json
-
 # Генерируем вспомогательные файлы, необходимые для работы демо-страницы
 yarn generate-meta
-
-# Копируем в dist search.json
-cp -r packages/search.json dist/search.json
-cp -r README.md dist/README.md
 
 # Копируем в dist файлы meta_*.json
 for file in packages/meta_*.json; do
@@ -57,9 +50,6 @@ for file in packages/meta_*.json; do
     cp "$file" dist/
   fi
 done
-
-# Смотрим, были ли какие-то изменения в search.json
-changed_json=`git diff --name-only HEAD HEAD~1 | grep search.json`
 
 # Проверка изменений в файлах meta_*.json
 changed_meta_files=$(git diff --name-only | grep 'meta_.*\.json$')
@@ -82,22 +72,6 @@ then
 
         # Публикуем пакет
         npm publish dist
-    fi
-
-    if [ "$changed_json" ]
-    then
-        echo "Publish updated search.json"
-        npm version patch --git-tag-version false
-
-        cp package.json dist/package.json
-
-        git add packages/search.json
-        git commit -m "chore(*): update search.json"
-
-        # Публикуем пакет
-        npm publish dist
-    else
-        echo "No new icons added"
     fi
 
 else
