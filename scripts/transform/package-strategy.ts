@@ -10,9 +10,7 @@ type PackageTransformer = (
 export const getTransformer = (packageName: string): PackageTransformer => {
     switch (packageName) {
         case PACKAGES.ANDROID:
-            return (basename: string, componentName: string) => ({
-                web: componentName,
-                webComponent: `import { ${componentName} } from '@alfalab/icons-${packageName}/${componentName}';`,
+            return (basename: string) => ({
                 android: transformBaseNameToAndroid(basename),
                 middle: basename,
             });
@@ -31,6 +29,15 @@ export const getTransformer = (packageName: string): PackageTransformer => {
             return (basename: string) => ({
                 android: transformBaseNameToAndroid(basename),
                 ios: transformBaseNameToIos(basename),
+                middle: basename,
+                cdn: basename,
+                url: `https://alfabank.servicecdn.ru/icons/${basename}.svg`,
+            });
+
+        case PACKAGES.SITE:
+            return (basename: string, componentName: string) => ({
+                web: componentName,
+                webComponent: `import { ${componentName} } from '@alfalab/icons-${packageName}/${componentName}';`,
                 middle: basename,
                 cdn: basename,
                 url: `https://alfabank.servicecdn.ru/icons/${basename}.svg`,

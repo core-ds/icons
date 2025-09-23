@@ -24,7 +24,6 @@ const generateMeta = (pkg: string, collection: MetaCollection) => {
             ...acc,
             [componentName]: {
                 description,
-                basename,
                 ...transformer(basename, componentName),
             },
         };
