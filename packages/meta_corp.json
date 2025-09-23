@@ -1,7 +1,6 @@
 {
   "AScoresCircleMIcon": {
     "description": "",
-    "basename": "corp_a-scores-circle_m",
     "web": "AScoresCircleMIcon",
     "webComponent": "import { AScoresCircleMIcon } from '@alfalab/icons-corp/AScoresCircleMIcon';",
     "android": "corp_a_scores_circle_m",
@@ -12,7 +11,6 @@
   },
   "AllServicesCompactMIcon": {
     "description": "Cервисы, все сервисы, services, all services",
-    "basename": "corp_all-services-compact_m",
     "web": "AllServicesCompactMIcon",
     "webComponent": "import { AllServicesCompactMIcon } from '@alfalab/icons-corp/AllServicesCompactMIcon';",
     "android": "corp_all_services_compact_m",
@@ -23,7 +21,6 @@
   },
   "ArrowAscBoldMIcon": {
     "description": "Альфа бизнес пипл, Alfa Business People",
-    "basename": "corp_arrow-asc-bold_m",
     "web": "ArrowAscBoldMIcon",
     "webComponent": "import { ArrowAscBoldMIcon } from '@alfalab/icons-corp/ArrowAscBoldMIcon';",
     "android": "corp_arrow_asc_bold_m",
@@ -34,7 +31,6 @@
   },
   "ArrowRiseMIcon": {
     "description": "",
-    "basename": "corp_arrow-rise_m",
     "web": "ArrowRiseMIcon",
     "webComponent": "import { ArrowRiseMIcon } from '@alfalab/icons-corp/ArrowRiseMIcon';",
     "android": "corp_arrow_rise_m",
@@ -45,7 +41,6 @@
   },
   "ArtificialIntelligenceMIcon": {
     "description": "Искусственный интеллект, нейросеть",
-    "basename": "corp_artificial-intelligence_m",
     "web": "ArtificialIntelligenceMIcon",
     "webComponent": "import { ArtificialIntelligenceMIcon } from '@alfalab/icons-corp/ArtificialIntelligenceMIcon';",
     "android": "corp_artificial_intelligence_m",
@@ -56,7 +51,6 @@
   },
   "ArtificialIntelligenceSIcon": {
     "description": "Искусственный интеллект, нейросеть",
-    "basename": "corp_artificial-intelligence_s",
     "web": "ArtificialIntelligenceSIcon",
     "webComponent": "import { ArtificialIntelligenceSIcon } from '@alfalab/icons-corp/ArtificialIntelligenceSIcon';",
     "android": "corp_artificial_intelligence_s",
@@ -67,7 +61,6 @@
   },
   "AtmMIcon": {
     "description": "",
-    "basename": "corp_atm_m",
     "web": "AtmMIcon",
     "webComponent": "import { AtmMIcon } from '@alfalab/icons-corp/AtmMIcon';",
     "android": "corp_atm_m",
@@ -78,7 +71,6 @@
   },
   "BankGearMIcon": {
     "description": "Банк, шестерёнка",
-    "basename": "corp_bank-gear_m",
     "web": "BankGearMIcon",
     "webComponent": "import { BankGearMIcon } from '@alfalab/icons-corp/BankGearMIcon';",
     "android": "corp_bank_gear_m",
@@ -89,7 +81,6 @@
   },
   "BankShieldMIcon": {
     "description": "",
-    "basename": "corp_bank-shield_m",
     "web": "BankShieldMIcon",
     "webComponent": "import { BankShieldMIcon } from '@alfalab/icons-corp/BankShieldMIcon';",
     "android": "corp_bank_shield_m",
@@ -100,7 +91,6 @@
   },
   "BankWithShieldMIcon": {
     "description": "",
-    "basename": "corp_bank-with-shield_m",
     "web": "BankWithShieldMIcon",
     "webComponent": "import { BankWithShieldMIcon } from '@alfalab/icons-corp/BankWithShieldMIcon';",
     "android": "corp_bank_with_shield_m",
@@ -111,7 +101,6 @@
   },
   "BanknoteStackMIcon": {
     "description": "купюры, стопка, деньги, оплатить, дела в работе",
-    "basename": "corp_banknote-stack_m",
     "web": "BanknoteStackMIcon",
     "webComponent": "import { BanknoteStackMIcon } from '@alfalab/icons-corp/BanknoteStackMIcon';",
     "android": "corp_banknote_stack_m",
@@ -122,7 +111,6 @@
   },
   "BanknotesMIcon": {
     "description": "",
-    "basename": "corp_banknotes_m",
     "web": "BanknotesMIcon",
     "webComponent": "import { BanknotesMIcon } from '@alfalab/icons-corp/BanknotesMIcon';",
     "android": "corp_banknotes_m",
@@ -133,7 +121,6 @@
   },
   "BellAddMIcon": {
     "description": "",
-    "basename": "corp_bell-add_m",
     "web": "BellAddMIcon",
     "webComponent": "import { BellAddMIcon } from '@alfalab/icons-corp/BellAddMIcon';",
     "android": "corp_bell_add_m",
@@ -144,7 +131,6 @@
   },
   "BellPlusMIcon": {
     "description": "",
-    "basename": "corp_bell-plus_m",
     "web": "BellPlusMIcon",
     "webComponent": "import { BellPlusMIcon } from '@alfalab/icons-corp/BellPlusMIcon';",
     "android": "corp_bell_plus_m",
@@ -155,7 +141,6 @@
   },
   "BellMIcon": {
     "description": "",
-    "basename": "corp_bell_m",
     "web": "BellMIcon",
     "webComponent": "import { BellMIcon } from '@alfalab/icons-corp/BellMIcon';",
     "android": "corp_bell_m",
@@ -166,7 +151,6 @@
   },
   "BriefcaseGearMIcon": {
     "description": "",
-    "basename": "corp_briefcase-gear_m",
     "web": "BriefcaseGearMIcon",
     "webComponent": "import { BriefcaseGearMIcon } from '@alfalab/icons-corp/BriefcaseGearMIcon';",
     "android": "corp_briefcase_gear_m",
@@ -177,7 +161,6 @@
   },
   "BubblePhoneMIcon": {
     "description": "",
-    "basename": "corp_bubble-phone_m",
     "web": "BubblePhoneMIcon",
     "webComponent": "import { BubblePhoneMIcon } from '@alfalab/icons-corp/BubblePhoneMIcon';",
     "android": "corp_bubble_phone_m",
@@ -188,7 +171,6 @@
   },
   "CalculatorUserMIcon": {
     "description": "калькулятор, персона, человек, юзер, бухгалтерия аутсорс",
-    "basename": "corp_calculator-user_m",
     "web": "CalculatorUserMIcon",
     "webComponent": "import { CalculatorUserMIcon } from '@alfalab/icons-corp/CalculatorUserMIcon';",
     "android": "corp_calculator_user_m",
@@ -199,7 +181,6 @@
   },
   "CalculatorMIcon": {
     "description": "",
-    "basename": "corp_calculator_m",
     "web": "CalculatorMIcon",
     "webComponent": "import { CalculatorMIcon } from '@alfalab/icons-corp/CalculatorMIcon';",
     "android": "corp_calculator_m",
@@ -210,7 +191,6 @@
   },
   "CalendarBanknoteMIcon": {
     "description": "календарь, кеш, кэш, деньги, зарплата каждый день",
-    "basename": "corp_calendar-banknote_m",
     "web": "CalendarBanknoteMIcon",
     "webComponent": "import { CalendarBanknoteMIcon } from '@alfalab/icons-corp/CalendarBanknoteMIcon';",
     "android": "corp_calendar_banknote_m",
@@ -221,7 +201,6 @@
   },
   "CalendarCashMIcon": {
     "description": "",
-    "basename": "corp_calendar-cash_m",
     "web": "CalendarCashMIcon",
     "webComponent": "import { CalendarCashMIcon } from '@alfalab/icons-corp/CalendarCashMIcon';",
     "android": "corp_calendar_cash_m",
@@ -232,7 +211,6 @@
   },
   "CalendarMIcon": {
     "description": "",
-    "basename": "corp_calendar_m",
     "web": "CalendarMIcon",
     "webComponent": "import { CalendarMIcon } from '@alfalab/icons-corp/CalendarMIcon';",
     "android": "corp_calendar_m",
@@ -243,7 +221,6 @@
   },
   "CashMoneyMIcon": {
     "description": "",
-    "basename": "corp_cash-money_m",
     "web": "CashMoneyMIcon",
     "webComponent": "import { CashMoneyMIcon } from '@alfalab/icons-corp/CashMoneyMIcon';",
     "android": "corp_cash_money_m",
@@ -254,7 +231,6 @@
   },
   "CashRegisterMIcon": {
     "description": "касса, онлайн-касса",
-    "basename": "corp_cash-register_m",
     "web": "CashRegisterMIcon",
     "webComponent": "import { CashRegisterMIcon } from '@alfalab/icons-corp/CashRegisterMIcon';",
     "android": "corp_cash_register_m",
@@ -265,7 +241,6 @@
   },
   "ClockHandsMIcon": {
     "description": "",
-    "basename": "corp_clock-hands_m",
     "web": "ClockHandsMIcon",
     "webComponent": "import { ClockHandsMIcon } from '@alfalab/icons-corp/ClockHandsMIcon';",
     "android": "corp_clock_hands_m",
@@ -276,7 +251,6 @@
   },
   "CoffeeCupMIcon": {
     "description": "чай, кофе, tea, чаевые, сервис безналичных чаевых",
-    "basename": "corp_coffee-cup_m",
     "web": "CoffeeCupMIcon",
     "webComponent": "import { CoffeeCupMIcon } from '@alfalab/icons-corp/CoffeeCupMIcon';",
     "android": "corp_coffee_cup_m",
@@ -287,7 +261,6 @@
   },
   "CorpArrowsRightLeftCurvedBoldMIcon": {
     "description": "",
-    "basename": "corp_corp_arrows-right-left-curved-bold_m",
     "web": "CorpArrowsRightLeftCurvedBoldMIcon",
     "webComponent": "import { CorpArrowsRightLeftCurvedBoldMIcon } from '@alfalab/icons-corp/CorpArrowsRightLeftCurvedBoldMIcon';",
     "android": "corp_corp_arrows_right_left_curved_bold_m",
@@ -298,7 +271,6 @@
   },
   "CryptoproMIcon": {
     "description": "",
-    "basename": "corp_cryptopro_m",
     "web": "CryptoproMIcon",
     "webComponent": "import { CryptoproMIcon } from '@alfalab/icons-corp/CryptoproMIcon';",
     "android": "corp_cryptopro_m",
@@ -309,7 +281,6 @@
   },
   "CursorClickMIcon": {
     "description": "курсор, клик, click, paybyclick",
-    "basename": "corp_cursor-click_m",
     "web": "CursorClickMIcon",
     "webComponent": "import { CursorClickMIcon } from '@alfalab/icons-corp/CursorClickMIcon';",
     "android": "corp_cursor_click_m",
@@ -320,7 +291,6 @@
   },
   "DocumentALogoMIcon": {
     "description": "",
-    "basename": "corp_document-a-logo_m",
     "web": "DocumentALogoMIcon",
     "webComponent": "import { DocumentALogoMIcon } from '@alfalab/icons-corp/DocumentALogoMIcon';",
     "android": "corp_document_a_logo_m",
@@ -331,7 +301,6 @@
   },
   "DocumentArrowsCwMIcon": {
     "description": "постоянные поручения, платёжка повторяется, повтор документа, повтор, документ",
-    "basename": "corp_document-arrows-cw_m",
     "web": "DocumentArrowsCwMIcon",
     "webComponent": "import { DocumentArrowsCwMIcon } from '@alfalab/icons-corp/DocumentArrowsCwMIcon';",
     "android": "corp_document_arrows_cw_m",
@@ -342,7 +311,6 @@
   },
   "DocumentEagleMIcon": {
     "description": "герб, документ, орёл, специальный счёт",
-    "basename": "corp_document-eagle_m",
     "web": "DocumentEagleMIcon",
     "webComponent": "import { DocumentEagleMIcon } from '@alfalab/icons-corp/DocumentEagleMIcon';",
     "android": "corp_document_eagle_m",
@@ -353,7 +321,6 @@
   },
   "DocumentHorizontalMIcon": {
     "description": "",
-    "basename": "corp_document-horizontal_m",
     "web": "DocumentHorizontalMIcon",
     "webComponent": "import { DocumentHorizontalMIcon } from '@alfalab/icons-corp/DocumentHorizontalMIcon';",
     "android": "corp_document_horizontal_m",
@@ -364,7 +331,6 @@
   },
   "DocumentHouseMIcon": {
     "description": "",
-    "basename": "corp_document-house_m",
     "web": "DocumentHouseMIcon",
     "webComponent": "import { DocumentHouseMIcon } from '@alfalab/icons-corp/DocumentHouseMIcon';",
     "android": "corp_document_house_m",
@@ -375,7 +341,6 @@
   },
   "DocumentShieldMIcon": {
     "description": "",
-    "basename": "corp_document-shield_m",
     "web": "DocumentShieldMIcon",
     "webComponent": "import { DocumentShieldMIcon } from '@alfalab/icons-corp/DocumentShieldMIcon';",
     "android": "corp_document_shield_m",
@@ -386,7 +351,6 @@
   },
   "DocumentStampMIcon": {
     "description": "",
-    "basename": "corp_document-stamp_m",
     "web": "DocumentStampMIcon",
     "webComponent": "import { DocumentStampMIcon } from '@alfalab/icons-corp/DocumentStampMIcon';",
     "android": "corp_document_stamp_m",
@@ -397,7 +361,6 @@
   },
   "DocumentUserMIcon": {
     "description": "документ, юзер, пользователь, доверенность",
-    "basename": "corp_document-user_m",
     "web": "DocumentUserMIcon",
     "webComponent": "import { DocumentUserMIcon } from '@alfalab/icons-corp/DocumentUserMIcon';",
     "android": "corp_document_user_m",
@@ -408,7 +371,6 @@
   },
   "DocumentWorldMIcon": {
     "description": "документ, мир, планета, вэд, валютный расчётный счёт",
-    "basename": "corp_document-world_m",
     "web": "DocumentWorldMIcon",
     "webComponent": "import { DocumentWorldMIcon } from '@alfalab/icons-corp/DocumentWorldMIcon';",
     "android": "corp_document_world_m",
@@ -419,7 +381,6 @@
   },
   "DocumentsAlfaMIcon": {
     "description": "",
-    "basename": "corp_documents-alfa_m",
     "web": "DocumentsAlfaMIcon",
     "webComponent": "import { DocumentsAlfaMIcon } from '@alfalab/icons-corp/DocumentsAlfaMIcon';",
     "android": "corp_documents_alfa_m",
@@ -430,7 +391,6 @@
   },
   "DocumentsDollarMIcon": {
     "description": "",
-    "basename": "corp_documents-dollar_m",
     "web": "DocumentsDollarMIcon",
     "webComponent": "import { DocumentsDollarMIcon } from '@alfalab/icons-corp/DocumentsDollarMIcon';",
     "android": "corp_documents_dollar_m",
@@ -441,7 +401,6 @@
   },
   "DocumentsUsdMIcon": {
     "description": "документ, доллар, документы, импортировать валютные реестры, валюта",
-    "basename": "corp_documents-usd_m",
     "web": "DocumentsUsdMIcon",
     "webComponent": "import { DocumentsUsdMIcon } from '@alfalab/icons-corp/DocumentsUsdMIcon';",
     "android": "corp_documents_usd_m",
@@ -452,7 +411,6 @@
   },
   "DocumentsMIcon": {
     "description": "",
-    "basename": "corp_documents_m",
     "web": "DocumentsMIcon",
     "webComponent": "import { DocumentsMIcon } from '@alfalab/icons-corp/DocumentsMIcon';",
     "android": "corp_documents_m",
@@ -463,7 +421,6 @@
   },
   "DollarEuroMIcon": {
     "description": "",
-    "basename": "corp_dollar-euro_m",
     "web": "DollarEuroMIcon",
     "webComponent": "import { DollarEuroMIcon } from '@alfalab/icons-corp/DollarEuroMIcon';",
     "android": "corp_dollar_euro_m",
@@ -474,7 +431,6 @@
   },
   "DoorOpenMIcon": {
     "description": "",
-    "basename": "corp_door-open_m",
     "web": "DoorOpenMIcon",
     "webComponent": "import { DoorOpenMIcon } from '@alfalab/icons-corp/DoorOpenMIcon';",
     "android": "corp_door_open_m",
@@ -485,7 +441,6 @@
   },
   "DotsHorizontalCompactMIcon": {
     "description": "документ, доллар, документы, импортировать валютные реестры, валюта",
-    "basename": "corp_dots-horizontal-compact_m",
     "web": "DotsHorizontalCompactMIcon",
     "webComponent": "import { DotsHorizontalCompactMIcon } from '@alfalab/icons-corp/DotsHorizontalCompactMIcon';",
     "android": "corp_dots_horizontal_compact_m",
@@ -496,7 +451,6 @@
   },
   "EagleMIcon": {
     "description": "",
-    "basename": "corp_eagle_m",
     "web": "EagleMIcon",
     "webComponent": "import { EagleMIcon } from '@alfalab/icons-corp/EagleMIcon';",
     "android": "corp_eagle_m",
@@ -507,7 +461,6 @@
   },
   "EnteraLogoMIcon": {
     "description": "сервис Entera, Энтера",
-    "basename": "corp_entera-logo_m",
     "web": "EnteraLogoMIcon",
     "webComponent": "import { EnteraLogoMIcon } from '@alfalab/icons-corp/EnteraLogoMIcon';",
     "android": "corp_entera_logo_m",
@@ -518,7 +471,6 @@
   },
   "EurUsdCoinsMIcon": {
     "description": "",
-    "basename": "corp_eur-usd-coins_m",
     "web": "EurUsdCoinsMIcon",
     "webComponent": "import { EurUsdCoinsMIcon } from '@alfalab/icons-corp/EurUsdCoinsMIcon';",
     "android": "corp_eur_usd_coins_m",
@@ -529,7 +481,6 @@
   },
   "FlameMIcon": {
     "description": "огонь, fire, заработать на банке",
-    "basename": "corp_flame_m",
     "web": "FlameMIcon",
     "webComponent": "import { FlameMIcon } from '@alfalab/icons-corp/FlameMIcon';",
     "android": "corp_flame_m",
@@ -540,7 +491,6 @@
   },
   "FlowchartMIcon": {
     "description": "",
-    "basename": "corp_flowchart_m",
     "web": "FlowchartMIcon",
     "webComponent": "import { FlowchartMIcon } from '@alfalab/icons-corp/FlowchartMIcon';",
     "android": "corp_flowchart_m",
@@ -551,7 +501,6 @@
   },
   "FolderMagnifierMIcon": {
     "description": "папка, лупа, административные проверки",
-    "basename": "corp_folder-magnifier_m",
     "web": "FolderMagnifierMIcon",
     "webComponent": "import { FolderMagnifierMIcon } from '@alfalab/icons-corp/FolderMagnifierMIcon';",
     "android": "corp_folder_magnifier_m",
@@ -562,7 +511,6 @@
   },
   "GavelMIcon": {
     "description": "",
-    "basename": "corp_gavel_m",
     "web": "GavelMIcon",
     "webComponent": "import { GavelMIcon } from '@alfalab/icons-corp/GavelMIcon';",
     "android": "corp_gavel_m",
@@ -573,7 +521,6 @@
   },
   "HandHeartMIcon": {
     "description": "",
-    "basename": "corp_hand-heart_m",
     "web": "HandHeartMIcon",
     "webComponent": "import { HandHeartMIcon } from '@alfalab/icons-corp/HandHeartMIcon';",
     "android": "corp_hand_heart_m",
@@ -584,7 +531,6 @@
   },
   "HandMoneyBagMIcon": {
     "description": "",
-    "basename": "corp_hand-money-bag_m",
     "web": "HandMoneyBagMIcon",
     "webComponent": "import { HandMoneyBagMIcon } from '@alfalab/icons-corp/HandMoneyBagMIcon';",
     "android": "corp_hand_money_bag_m",
@@ -595,7 +541,6 @@
   },
   "HandWithMoneyBagMIcon": {
     "description": "",
-    "basename": "corp_hand-with-money-bag_m",
     "web": "HandWithMoneyBagMIcon",
     "webComponent": "import { HandWithMoneyBagMIcon } from '@alfalab/icons-corp/HandWithMoneyBagMIcon';",
     "android": "corp_hand_with_money_bag_m",
@@ -606,7 +551,6 @@
   },
   "HouseDocumentMIcon": {
     "description": "",
-    "basename": "corp_house-document_m",
     "web": "HouseDocumentMIcon",
     "webComponent": "import { HouseDocumentMIcon } from '@alfalab/icons-corp/HouseDocumentMIcon';",
     "android": "corp_house_document_m",
@@ -617,7 +561,6 @@
   },
   "HousePercentMIcon": {
     "description": "дом, процент, кредит с залогом, кредит, credit",
-    "basename": "corp_house-percent_m",
     "web": "HousePercentMIcon",
     "webComponent": "import { HousePercentMIcon } from '@alfalab/icons-corp/HousePercentMIcon';",
     "android": "corp_house_percent_m",
@@ -628,7 +571,6 @@
   },
   "HousesGearMIcon": {
     "description": "",
-    "basename": "corp_houses-gear_m",
     "web": "HousesGearMIcon",
     "webComponent": "import { HousesGearMIcon } from '@alfalab/icons-corp/HousesGearMIcon';",
     "android": "corp_houses_gear_m",
@@ -639,7 +581,6 @@
   },
   "HousesPercentMIcon": {
     "description": "дома, процент, Бизнес-Ипотека",
-    "basename": "corp_houses-percent_m",
     "web": "HousesPercentMIcon",
     "webComponent": "import { HousesPercentMIcon } from '@alfalab/icons-corp/HousesPercentMIcon';",
     "android": "corp_houses_percent_m",
@@ -650,7 +591,6 @@
   },
   "JudgeHammerMIcon": {
     "description": "",
-    "basename": "corp_judge-hammer_m",
     "web": "JudgeHammerMIcon",
     "webComponent": "import { JudgeHammerMIcon } from '@alfalab/icons-corp/JudgeHammerMIcon';",
     "android": "corp_judge_hammer_m",
@@ -661,7 +601,6 @@
   },
   "LaptopMIcon": {
     "description": "ноутбук, компьютер, интернет-эквайринг",
-    "basename": "corp_laptop_m",
     "web": "LaptopMIcon",
     "webComponent": "import { LaptopMIcon } from '@alfalab/icons-corp/LaptopMIcon';",
     "android": "corp_laptop_m",
@@ -672,7 +611,6 @@
   },
   "LightningMIcon": {
     "description": "",
-    "basename": "corp_lightning_m",
     "web": "LightningMIcon",
     "webComponent": "import { LightningMIcon } from '@alfalab/icons-corp/LightningMIcon';",
     "android": "corp_lightning_m",
@@ -683,7 +621,6 @@
   },
   "LogOutMIcon": {
     "description": "",
-    "basename": "corp_log-out_m",
     "web": "LogOutMIcon",
     "webComponent": "import { LogOutMIcon } from '@alfalab/icons-corp/LogOutMIcon';",
     "android": "corp_log_out_m",
@@ -694,7 +631,6 @@
   },
   "MailArrowRightMIcon": {
     "description": "",
-    "basename": "corp_mail-arrow-right_m",
     "web": "MailArrowRightMIcon",
     "webComponent": "import { MailArrowRightMIcon } from '@alfalab/icons-corp/MailArrowRightMIcon';",
     "android": "corp_mail_arrow_right_m",
@@ -705,7 +641,6 @@
   },
   "MailMIcon": {
     "description": "",
-    "basename": "corp_mail_m",
     "web": "MailMIcon",
     "webComponent": "import { MailMIcon } from '@alfalab/icons-corp/MailMIcon';",
     "android": "corp_mail_m",
@@ -716,7 +651,6 @@
   },
   "MaxLogoMIcon": {
     "description": "сервис макс, max",
-    "basename": "corp_max-logo_m",
     "web": "MaxLogoMIcon",
     "webComponent": "import { MaxLogoMIcon } from '@alfalab/icons-corp/MaxLogoMIcon';",
     "android": "corp_max_logo_m",
@@ -727,7 +661,6 @@
   },
   "PayControlMIcon": {
     "description": "",
-    "basename": "corp_pay-control_m",
     "web": "PayControlMIcon",
     "webComponent": "import { PayControlMIcon } from '@alfalab/icons-corp/PayControlMIcon';",
     "android": "corp_pay_control_m",
@@ -738,7 +671,6 @@
   },
   "PaypassMIcon": {
     "description": "",
-    "basename": "corp_paypass_m",
     "web": "PaypassMIcon",
     "webComponent": "import { PaypassMIcon } from '@alfalab/icons-corp/PaypassMIcon';",
     "android": "corp_paypass_m",
@@ -749,7 +681,6 @@
   },
   "PencilLineMIcon": {
     "description": "карандаш, подписать, подпись, дела в работе",
-    "basename": "corp_pencil-line_m",
     "web": "PencilLineMIcon",
     "webComponent": "import { PencilLineMIcon } from '@alfalab/icons-corp/PencilLineMIcon';",
     "android": "corp_pencil_line_m",
@@ -760,7 +691,6 @@
   },
   "PencilLineSIcon": {
     "description": "карандаш, подписать, подпись, дела в работе",
-    "basename": "corp_pencil-line_s",
     "web": "PencilLineSIcon",
     "webComponent": "import { PencilLineSIcon } from '@alfalab/icons-corp/PencilLineSIcon';",
     "android": "corp_pencil_line_s",
@@ -771,7 +701,6 @@
   },
   "PencilUnderlineMIcon": {
     "description": "карандаш, подписать, подпись, дела в работе",
-    "basename": "corp_pencil-underline_m",
     "web": "PencilUnderlineMIcon",
     "webComponent": "import { PencilUnderlineMIcon } from '@alfalab/icons-corp/PencilUnderlineMIcon';",
     "android": "corp_pencil_underline_m",
@@ -782,7 +711,6 @@
   },
   "PercentMIcon": {
     "description": "",
-    "basename": "corp_percent_m",
     "web": "PercentMIcon",
     "webComponent": "import { PercentMIcon } from '@alfalab/icons-corp/PercentMIcon';",
     "android": "corp_percent_m",
@@ -793,7 +721,6 @@
   },
   "PhoneBubbleMIcon": {
     "description": "",
-    "basename": "corp_phone-bubble_m",
     "web": "PhoneBubbleMIcon",
     "webComponent": "import { PhoneBubbleMIcon } from '@alfalab/icons-corp/PhoneBubbleMIcon';",
     "android": "corp_phone_bubble_m",
@@ -804,7 +731,6 @@
   },
   "PinLocationMIcon": {
     "description": "навигация, расположение, местоположение, адрес, точка на карте, маркер, пункт назначения, геолокация, pin, location, gps, maps",
-    "basename": "corp_pin-location_m",
     "web": "PinLocationMIcon",
     "webComponent": "import { PinLocationMIcon } from '@alfalab/icons-corp/PinLocationMIcon';",
     "android": "corp_pin_location_m",
@@ -815,7 +741,6 @@
   },
   "PinLocationSIcon": {
     "description": "навигация, расположение, местоположение, адрес, точка на карте, маркер, пункт назначения, геолокация, pin, location, gps, maps",
-    "basename": "corp_pin-location_s",
     "web": "PinLocationSIcon",
     "webComponent": "import { PinLocationSIcon } from '@alfalab/icons-corp/PinLocationSIcon';",
     "android": "corp_pin_location_s",
@@ -826,7 +751,6 @@
   },
   "PoliceCapMIcon": {
     "description": "фуражка, полиция, проверка надзорных органов",
-    "basename": "corp_police-cap_m",
     "web": "PoliceCapMIcon",
     "webComponent": "import { PoliceCapMIcon } from '@alfalab/icons-corp/PoliceCapMIcon';",
     "android": "corp_police_cap_m",
@@ -837,7 +761,6 @@
   },
   "ReceiptPlusMIcon": {
     "description": "",
-    "basename": "corp_receipt-plus_m",
     "web": "ReceiptPlusMIcon",
     "webComponent": "import { ReceiptPlusMIcon } from '@alfalab/icons-corp/ReceiptPlusMIcon';",
     "android": "corp_receipt_plus_m",
@@ -848,7 +771,6 @@
   },
   "SafeBoxMIcon": {
     "description": "",
-    "basename": "corp_safe-box_m",
     "web": "SafeBoxMIcon",
     "webComponent": "import { SafeBoxMIcon } from '@alfalab/icons-corp/SafeBoxMIcon';",
     "android": "corp_safe_box_m",
@@ -859,7 +781,6 @@
   },
   "ScalesMIcon": {
     "description": "",
-    "basename": "corp_scales_m",
     "web": "ScalesMIcon",
     "webComponent": "import { ScalesMIcon } from '@alfalab/icons-corp/ScalesMIcon';",
     "android": "corp_scales_m",
@@ -870,7 +791,6 @@
   },
   "ScheduleMIcon": {
     "description": "",
-    "basename": "corp_schedule_m",
     "web": "ScheduleMIcon",
     "webComponent": "import { ScheduleMIcon } from '@alfalab/icons-corp/ScheduleMIcon';",
     "android": "corp_schedule_m",
@@ -881,7 +801,6 @@
   },
   "ShieldDocumentMIcon": {
     "description": "",
-    "basename": "corp_shield-document_m",
     "web": "ShieldDocumentMIcon",
     "webComponent": "import { ShieldDocumentMIcon } from '@alfalab/icons-corp/ShieldDocumentMIcon';",
     "android": "corp_shield_document_m",
@@ -892,7 +811,6 @@
   },
   "ShieldRiskAverageMIcon": {
     "description": "щит",
-    "basename": "corp_shield-risk-average_m",
     "web": "ShieldRiskAverageMIcon",
     "webComponent": "import { ShieldRiskAverageMIcon } from '@alfalab/icons-corp/ShieldRiskAverageMIcon';",
     "android": "corp_shield_risk_average_m",
@@ -903,7 +821,6 @@
   },
   "ShieldRiskAverageSIcon": {
     "description": "щит",
-    "basename": "corp_shield-risk-average_s",
     "web": "ShieldRiskAverageSIcon",
     "webComponent": "import { ShieldRiskAverageSIcon } from '@alfalab/icons-corp/ShieldRiskAverageSIcon';",
     "android": "corp_shield_risk_average_s",
@@ -914,7 +831,6 @@
   },
   "ShieldRiskFreeMIcon": {
     "description": "щит",
-    "basename": "corp_shield-risk-free_m",
     "web": "ShieldRiskFreeMIcon",
     "webComponent": "import { ShieldRiskFreeMIcon } from '@alfalab/icons-corp/ShieldRiskFreeMIcon';",
     "android": "corp_shield_risk_free_m",
@@ -925,7 +841,6 @@
   },
   "ShieldRiskFreeSIcon": {
     "description": "щит",
-    "basename": "corp_shield-risk-free_s",
     "web": "ShieldRiskFreeSIcon",
     "webComponent": "import { ShieldRiskFreeSIcon } from '@alfalab/icons-corp/ShieldRiskFreeSIcon';",
     "android": "corp_shield_risk_free_s",
@@ -936,7 +851,6 @@
   },
   "ShieldRiskHighMIcon": {
     "description": "щит",
-    "basename": "corp_shield-risk-high_m",
     "web": "ShieldRiskHighMIcon",
     "webComponent": "import { ShieldRiskHighMIcon } from '@alfalab/icons-corp/ShieldRiskHighMIcon';",
     "android": "corp_shield_risk_high_m",
@@ -947,7 +861,6 @@
   },
   "ShieldRiskHighSIcon": {
     "description": "щит",
-    "basename": "corp_shield-risk-high_s",
     "web": "ShieldRiskHighSIcon",
     "webComponent": "import { ShieldRiskHighSIcon } from '@alfalab/icons-corp/ShieldRiskHighSIcon';",
     "android": "corp_shield_risk_high_s",
@@ -958,7 +871,6 @@
   },
   "ShieldRiskUnknownMIcon": {
     "description": "щит",
-    "basename": "corp_shield-risk-unknown_m",
     "web": "ShieldRiskUnknownMIcon",
     "webComponent": "import { ShieldRiskUnknownMIcon } from '@alfalab/icons-corp/ShieldRiskUnknownMIcon';",
     "android": "corp_shield_risk_unknown_m",
@@ -969,7 +881,6 @@
   },
   "ShieldRiskUnknownSIcon": {
     "description": "щит",
-    "basename": "corp_shield-risk-unknown_s",
     "web": "ShieldRiskUnknownSIcon",
     "webComponent": "import { ShieldRiskUnknownSIcon } from '@alfalab/icons-corp/ShieldRiskUnknownSIcon';",
     "android": "corp_shield_risk_unknown_s",
@@ -980,7 +891,6 @@
   },
   "ShieldRubMIcon": {
     "description": "щит",
-    "basename": "corp_shield-rub_m",
     "web": "ShieldRubMIcon",
     "webComponent": "import { ShieldRubMIcon } from '@alfalab/icons-corp/ShieldRubMIcon';",
     "android": "corp_shield_rub_m",
@@ -991,7 +901,6 @@
   },
   "ShieldRubSIcon": {
     "description": "щит",
-    "basename": "corp_shield-rub_s",
     "web": "ShieldRubSIcon",
     "webComponent": "import { ShieldRubSIcon } from '@alfalab/icons-corp/ShieldRubSIcon';",
     "android": "corp_shield_rub_s",
@@ -1002,7 +911,6 @@
   },
   "ShieldRubXxlIcon": {
     "description": "щит",
-    "basename": "corp_shield-rub_xxl",
     "web": "ShieldRubXxlIcon",
     "webComponent": "import { ShieldRubXxlIcon } from '@alfalab/icons-corp/ShieldRubXxlIcon';",
     "android": "corp_shield_rub_xxl",
@@ -1013,7 +921,6 @@
   },
   "ShieldWorldMIcon": {
     "description": "щит, мир, планета, земля, вэд, валютный контроль",
-    "basename": "corp_shield-world_m",
     "web": "ShieldWorldMIcon",
     "webComponent": "import { ShieldWorldMIcon } from '@alfalab/icons-corp/ShieldWorldMIcon';",
     "android": "corp_shield_world_m",
@@ -1024,7 +931,6 @@
   },
   "ShopMIcon": {
     "description": "",
-    "basename": "corp_shop_m",
     "web": "ShopMIcon",
     "webComponent": "import { ShopMIcon } from '@alfalab/icons-corp/ShopMIcon';",
     "android": "corp_shop_m",
@@ -1035,7 +941,6 @@
   },
   "SignatureSquareMIcon": {
     "description": "подпись, lite эдо, sign",
-    "basename": "corp_signature-square_m",
     "web": "SignatureSquareMIcon",
     "webComponent": "import { SignatureSquareMIcon } from '@alfalab/icons-corp/SignatureSquareMIcon';",
     "android": "corp_signature_square_m",
@@ -1046,7 +951,6 @@
   },
   "SlidersMIcon": {
     "description": "Фильтрблок, GeneralFilterTag, FiltersBlock",
-    "basename": "corp_sliders_m",
     "web": "SlidersMIcon",
     "webComponent": "import { SlidersMIcon } from '@alfalab/icons-corp/SlidersMIcon';",
     "android": "corp_sliders_m",
@@ -1057,7 +961,6 @@
   },
   "SlidersSIcon": {
     "description": "Фильтрблок, GeneralFilterTag, FiltersBlock",
-    "basename": "corp_sliders_s",
     "web": "SlidersSIcon",
     "webComponent": "import { SlidersSIcon } from '@alfalab/icons-corp/SlidersSIcon';",
     "android": "corp_sliders_s",
@@ -1068,7 +971,6 @@
   },
   "SquareLinesRoundedMIcon": {
     "description": "",
-    "basename": "corp_square-lines-rounded_m",
     "web": "SquareLinesRoundedMIcon",
     "webComponent": "import { SquareLinesRoundedMIcon } from '@alfalab/icons-corp/SquareLinesRoundedMIcon';",
     "android": "corp_square_lines_rounded_m",
@@ -1079,7 +981,6 @@
   },
   "SquareLinesSquareMediumMIcon": {
     "description": "",
-    "basename": "corp_square-lines-square-medium_m",
     "web": "SquareLinesSquareMediumMIcon",
     "webComponent": "import { SquareLinesSquareMediumMIcon } from '@alfalab/icons-corp/SquareLinesSquareMediumMIcon';",
     "android": "corp_square_lines_square_medium_m",
@@ -1090,7 +991,6 @@
   },
   "StackOfCoinsMIcon": {
     "description": "",
-    "basename": "corp_stack-of-coins_m",
     "web": "StackOfCoinsMIcon",
     "webComponent": "import { StackOfCoinsMIcon } from '@alfalab/icons-corp/StackOfCoinsMIcon';",
     "android": "corp_stack_of_coins_m",
@@ -1101,7 +1001,6 @@
   },
   "SupermarketTrolleyMIcon": {
     "description": "",
-    "basename": "corp_supermarket-trolley_m",
     "web": "SupermarketTrolleyMIcon",
     "webComponent": "import { SupermarketTrolleyMIcon } from '@alfalab/icons-corp/SupermarketTrolleyMIcon';",
     "android": "corp_supermarket_trolley_m",
@@ -1112,7 +1011,6 @@
   },
   "SwapHorizontalMIcon": {
     "description": "",
-    "basename": "corp_swap-horizontal_m",
     "web": "SwapHorizontalMIcon",
     "webComponent": "import { SwapHorizontalMIcon } from '@alfalab/icons-corp/SwapHorizontalMIcon';",
     "android": "corp_swap_horizontal_m",
@@ -1123,7 +1021,6 @@
   },
   "TrafficControllersBatonMIcon": {
     "description": "",
-    "basename": "corp_traffic-controllers-baton_m",
     "web": "TrafficControllersBatonMIcon",
     "webComponent": "import { TrafficControllersBatonMIcon } from '@alfalab/icons-corp/TrafficControllersBatonMIcon';",
     "android": "corp_traffic_controllers_baton_m",
@@ -1134,7 +1031,6 @@
   },
   "TrashCanCompactLineMIcon": {
     "description": "корзина, мусорка, урна, удалить, trash can\n\n\n[trash-can-compact-line]",
-    "basename": "corp_trash-can-compact-line_m",
     "web": "TrashCanCompactLineMIcon",
     "webComponent": "import { TrashCanCompactLineMIcon } from '@alfalab/icons-corp/TrashCanCompactLineMIcon';",
     "android": "corp_trash_can_compact_line_m",
@@ -1145,7 +1041,6 @@
   },
   "TrashCanCompactLineSIcon": {
     "description": "корзина, мусорка, урна, удалить, trash can\n\n\n[trash-can-compact-line]",
-    "basename": "corp_trash-can-compact-line_s",
     "web": "TrashCanCompactLineSIcon",
     "webComponent": "import { TrashCanCompactLineSIcon } from '@alfalab/icons-corp/TrashCanCompactLineSIcon';",
     "android": "corp_trash_can_compact_line_s",
@@ -1156,7 +1051,6 @@
   },
   "TwoPersonsMIcon": {
     "description": "",
-    "basename": "corp_two-persons_m",
     "web": "TwoPersonsMIcon",
     "webComponent": "import { TwoPersonsMIcon } from '@alfalab/icons-corp/TwoPersonsMIcon';",
     "android": "corp_two_persons_m",
@@ -1167,7 +1061,6 @@
   },
   "TwoUsersTieMIcon": {
     "description": "",
-    "basename": "corp_two-users-tie_m",
     "web": "TwoUsersTieMIcon",
     "webComponent": "import { TwoUsersTieMIcon } from '@alfalab/icons-corp/TwoUsersTieMIcon';",
     "android": "corp_two_users_tie_m",
@@ -1178,7 +1071,6 @@
   },
   "UserWorldMIcon": {
     "description": "планета, земля, вэд, человек, сопровождение вэд",
-    "basename": "corp_user-world_m",
     "web": "UserWorldMIcon",
     "webComponent": "import { UserWorldMIcon } from '@alfalab/icons-corp/UserWorldMIcon';",
     "android": "corp_user_world_m",
@@ -1189,7 +1081,6 @@
   },
   "ViewModeCardsMIcon": {
     "description": "карточки, карточный вид данных, длинные карточки, cards mode, cards data, cards view",
-    "basename": "corp_view-mode-cards_m",
     "web": "ViewModeCardsMIcon",
     "webComponent": "import { ViewModeCardsMIcon } from '@alfalab/icons-corp/ViewModeCardsMIcon';",
     "android": "corp_view_mode_cards_m",
@@ -1200,7 +1091,6 @@
   },
   "ViewModeCardsSIcon": {
     "description": "карточки, карточный вид данных, длинные карточки, cards mode, cards data, cards view",
-    "basename": "corp_view-mode-cards_s",
     "web": "ViewModeCardsSIcon",
     "webComponent": "import { ViewModeCardsSIcon } from '@alfalab/icons-corp/ViewModeCardsSIcon';",
     "android": "corp_view_mode_cards_s",
@@ -1211,7 +1101,6 @@
   },
   "ViewModeTableMIcon": {
     "description": "таблица, табличный вид данных, table, table view, table mode",
-    "basename": "corp_view-mode-table_m",
     "web": "ViewModeTableMIcon",
     "webComponent": "import { ViewModeTableMIcon } from '@alfalab/icons-corp/ViewModeTableMIcon';",
     "android": "corp_view_mode_table_m",
@@ -1222,7 +1111,6 @@
   },
   "ViewModeTableSIcon": {
     "description": "таблица, табличный вид данных, table, table view, table mode",
-    "basename": "corp_view-mode-table_s",
     "web": "ViewModeTableSIcon",
     "webComponent": "import { ViewModeTableSIcon } from '@alfalab/icons-corp/ViewModeTableSIcon';",
     "android": "corp_view_mode_table_s",
@@ -1233,7 +1121,6 @@
   },
   "WalletMIcon": {
     "description": "",
-    "basename": "corp_wallet_m",
     "web": "WalletMIcon",
     "webComponent": "import { WalletMIcon } from '@alfalab/icons-corp/WalletMIcon';",
     "android": "corp_wallet_m",
@@ -1244,7 +1131,6 @@
   },
   "WindowGearMIcon": {
     "description": "",
-    "basename": "corp_window-gear_m",
     "web": "WindowGearMIcon",
     "webComponent": "import { WindowGearMIcon } from '@alfalab/icons-corp/WindowGearMIcon';",
     "android": "corp_window_gear_m",
@@ -1255,7 +1141,6 @@
   },
   "WorldCashMIcon": {
     "description": "",
-    "basename": "corp_world-cash_m",
     "web": "WorldCashMIcon",
     "webComponent": "import { WorldCashMIcon } from '@alfalab/icons-corp/WorldCashMIcon';",
     "android": "corp_world_cash_m",
@@ -1266,7 +1151,6 @@
   },
   "WorldChevronLeftRightMIcon": {
     "description": "мир, планета, вэд, валютные операции",
-    "basename": "corp_world-chevron-left-right_m",
     "web": "WorldChevronLeftRightMIcon",
     "webComponent": "import { WorldChevronLeftRightMIcon } from '@alfalab/icons-corp/WorldChevronLeftRightMIcon';",
     "android": "corp_world_chevron_left_right_m",
@@ -1277,7 +1161,6 @@
   },
   "WorldDocumentMIcon": {
     "description": "",
-    "basename": "corp_world-document_m",
     "web": "WorldDocumentMIcon",
     "webComponent": "import { WorldDocumentMIcon } from '@alfalab/icons-corp/WorldDocumentMIcon';",
     "android": "corp_world_document_m",
@@ -1288,7 +1171,6 @@
   },
   "WorldPlusMIcon": {
     "description": "",
-    "basename": "corp_world-plus_m",
     "web": "WorldPlusMIcon",
     "webComponent": "import { WorldPlusMIcon } from '@alfalab/icons-corp/WorldPlusMIcon';",
     "android": "corp_world_plus_m",

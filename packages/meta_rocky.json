@@ -1,7 +1,6 @@
 {
   "AScoresCircleMIcon": {
     "description": "альфа баллы, кешбэк, сантики, cashback, a scrore",
-    "basename": "rocky_a-scores-circle_m",
     "web": "AScoresCircleMIcon",
     "webComponent": "import { AScoresCircleMIcon } from '@alfalab/icons-rocky/AScoresCircleMIcon';",
     "android": "rocky_a_scores_circle_m",
@@ -12,7 +11,6 @@
   },
   "AirdropMIcon": {
     "description": "",
-    "basename": "rocky_airdrop_m",
     "web": "AirdropMIcon",
     "webComponent": "import { AirdropMIcon } from '@alfalab/icons-rocky/AirdropMIcon';",
     "android": "rocky_airdrop_m",
@@ -23,7 +21,6 @@
   },
   "AirplaneMIcon": {
     "description": "qr-код,qr-code",
-    "basename": "rocky_airplane_m",
     "web": "AirplaneMIcon",
     "webComponent": "import { AirplaneMIcon } from '@alfalab/icons-rocky/AirplaneMIcon';",
     "android": "rocky_airplane_m",
@@ -34,7 +31,6 @@
   },
   "ArrowDownMIcon": {
     "description": "",
-    "basename": "rocky_arrow-down_m",
     "web": "ArrowDownMIcon",
     "webComponent": "import { ArrowDownMIcon } from '@alfalab/icons-rocky/ArrowDownMIcon';",
     "android": "rocky_arrow_down_m",
@@ -45,7 +41,6 @@
   },
   "ArrowLeftMIcon": {
     "description": "",
-    "basename": "rocky_arrow-left_m",
     "web": "ArrowLeftMIcon",
     "webComponent": "import { ArrowLeftMIcon } from '@alfalab/icons-rocky/ArrowLeftMIcon';",
     "android": "rocky_arrow_left_m",
@@ -56,7 +51,6 @@
   },
   "ArrowUpMIcon": {
     "description": "",
-    "basename": "rocky_arrow-up_m",
     "web": "ArrowUpMIcon",
     "webComponent": "import { ArrowUpMIcon } from '@alfalab/icons-rocky/ArrowUpMIcon';",
     "android": "rocky_arrow_up_m",
@@ -67,7 +61,6 @@
   },
   "ArrowsLeftRightMIcon": {
     "description": "",
-    "basename": "rocky_arrows-left-right_m",
     "web": "ArrowsLeftRightMIcon",
     "webComponent": "import { ArrowsLeftRightMIcon } from '@alfalab/icons-rocky/ArrowsLeftRightMIcon';",
     "android": "rocky_arrows_left_right_m",
@@ -78,7 +71,6 @@
   },
   "ArrowsUpDownMIcon": {
     "description": "",
-    "basename": "rocky_arrows-up-down_m",
     "web": "ArrowsUpDownMIcon",
     "webComponent": "import { ArrowsUpDownMIcon } from '@alfalab/icons-rocky/ArrowsUpDownMIcon';",
     "android": "rocky_arrows_up_down_m",
@@ -89,7 +81,6 @@
   },
   "BankMIcon": {
     "description": "",
-    "basename": "rocky_bank_m",
     "web": "BankMIcon",
     "webComponent": "import { BankMIcon } from '@alfalab/icons-rocky/BankMIcon';",
     "android": "rocky_bank_m",
@@ -100,7 +91,6 @@
   },
   "BanknoteArrowDownLineUpMIcon": {
     "description": "",
-    "basename": "rocky_banknote-arrow-down-line-up_m",
     "web": "BanknoteArrowDownLineUpMIcon",
     "webComponent": "import { BanknoteArrowDownLineUpMIcon } from '@alfalab/icons-rocky/BanknoteArrowDownLineUpMIcon';",
     "android": "rocky_banknote_arrow_down_line_up_m",
@@ -111,7 +101,6 @@
   },
   "BanknoteArrowUpLineUpMIcon": {
     "description": "",
-    "basename": "rocky_banknote-arrow-up-line-up_m",
     "web": "BanknoteArrowUpLineUpMIcon",
     "webComponent": "import { BanknoteArrowUpLineUpMIcon } from '@alfalab/icons-rocky/BanknoteArrowUpLineUpMIcon';",
     "android": "rocky_banknote_arrow_up_line_up_m",
@@ -122,7 +111,6 @@
   },
   "BanknoteInMIcon": {
     "description": "",
-    "basename": "rocky_banknote-in_m",
     "web": "BanknoteInMIcon",
     "webComponent": "import { BanknoteInMIcon } from '@alfalab/icons-rocky/BanknoteInMIcon';",
     "android": "rocky_banknote_in_m",
@@ -133,7 +121,6 @@
   },
   "BanknoteOutMIcon": {
     "description": "",
-    "basename": "rocky_banknote-out_m",
     "web": "BanknoteOutMIcon",
     "webComponent": "import { BanknoteOutMIcon } from '@alfalab/icons-rocky/BanknoteOutMIcon';",
     "android": "rocky_banknote_out_m",
@@ -144,7 +131,6 @@
   },
   "BanknoteMIcon": {
     "description": "",
-    "basename": "rocky_banknote_m",
     "web": "BanknoteMIcon",
     "webComponent": "import { BanknoteMIcon } from '@alfalab/icons-rocky/BanknoteMIcon';",
     "android": "rocky_banknote_m",
@@ -155,7 +141,6 @@
   },
   "BanknotesCompactMIcon": {
     "description": "деньги, купюры, банкноты, наличка, money",
-    "basename": "rocky_banknotes-compact_m",
     "web": "BanknotesCompactMIcon",
     "webComponent": "import { BanknotesCompactMIcon } from '@alfalab/icons-rocky/BanknotesCompactMIcon';",
     "android": "rocky_banknotes_compact_m",
@@ -166,7 +151,6 @@
   },
   "BanknotesMIcon": {
     "description": "",
-    "basename": "rocky_banknotes_m",
     "web": "BanknotesMIcon",
     "webComponent": "import { BanknotesMIcon } from '@alfalab/icons-rocky/BanknotesMIcon';",
     "android": "rocky_banknotes_m",
@@ -177,7 +161,6 @@
   },
   "BasketMIcon": {
     "description": "",
-    "basename": "rocky_basket_m",
     "web": "BasketMIcon",
     "webComponent": "import { BasketMIcon } from '@alfalab/icons-rocky/BasketMIcon';",
     "android": "rocky_basket_m",
@@ -188,7 +171,6 @@
   },
   "BellMIcon": {
     "description": "",
-    "basename": "rocky_bell_m",
     "web": "BellMIcon",
     "webComponent": "import { BellMIcon } from '@alfalab/icons-rocky/BellMIcon';",
     "android": "rocky_bell_m",
@@ -199,7 +181,6 @@
   },
   "BookOpenMIcon": {
     "description": "",
-    "basename": "rocky_book-open_m",
     "web": "BookOpenMIcon",
     "webComponent": "import { BookOpenMIcon } from '@alfalab/icons-rocky/BookOpenMIcon';",
     "android": "rocky_book_open_m",
@@ -210,7 +191,6 @@
   },
   "BookmarkMIcon": {
     "description": "",
-    "basename": "rocky_bookmark_m",
     "web": "BookmarkMIcon",
     "webComponent": "import { BookmarkMIcon } from '@alfalab/icons-rocky/BookmarkMIcon';",
     "android": "rocky_bookmark_m",
@@ -221,7 +201,6 @@
   },
   "BriefcaseCompactMIcon": {
     "description": "портфель, чемодан, сумка, кейс, bag, case",
-    "basename": "rocky_briefcase-compact_m",
     "web": "BriefcaseCompactMIcon",
     "webComponent": "import { BriefcaseCompactMIcon } from '@alfalab/icons-rocky/BriefcaseCompactMIcon';",
     "android": "rocky_briefcase_compact_m",
@@ -232,7 +211,6 @@
   },
   "BriefcaseMIcon": {
     "description": "",
-    "basename": "rocky_briefcase_m",
     "web": "BriefcaseMIcon",
     "webComponent": "import { BriefcaseMIcon } from '@alfalab/icons-rocky/BriefcaseMIcon';",
     "android": "rocky_briefcase_m",
@@ -243,7 +221,6 @@
   },
   "BrushMIcon": {
     "description": "",
-    "basename": "rocky_brush_m",
     "web": "BrushMIcon",
     "webComponent": "import { BrushMIcon } from '@alfalab/icons-rocky/BrushMIcon';",
     "android": "rocky_brush_m",
@@ -254,7 +231,6 @@
   },
   "BubbleInfoMIcon": {
     "description": "",
-    "basename": "rocky_bubble-info_m",
     "web": "BubbleInfoMIcon",
     "webComponent": "import { BubbleInfoMIcon } from '@alfalab/icons-rocky/BubbleInfoMIcon';",
     "android": "rocky_bubble_info_m",
@@ -265,7 +241,6 @@
   },
   "BurgerMIcon": {
     "description": "",
-    "basename": "rocky_burger_m",
     "web": "BurgerMIcon",
     "webComponent": "import { BurgerMIcon } from '@alfalab/icons-rocky/BurgerMIcon';",
     "android": "rocky_burger_m",
@@ -276,7 +251,6 @@
   },
   "BusMIcon": {
     "description": "",
-    "basename": "rocky_bus_m",
     "web": "BusMIcon",
     "webComponent": "import { BusMIcon } from '@alfalab/icons-rocky/BusMIcon';",
     "android": "rocky_bus_m",
@@ -287,7 +261,6 @@
   },
   "CalculatorMIcon": {
     "description": "скрыть клавиатуру, keyboard hide",
-    "basename": "rocky_calculator_m",
     "web": "CalculatorMIcon",
     "webComponent": "import { CalculatorMIcon } from '@alfalab/icons-rocky/CalculatorMIcon';",
     "android": "rocky_calculator_m",
@@ -298,7 +271,6 @@
   },
   "CalendarMIcon": {
     "description": "",
-    "basename": "rocky_calendar_m",
     "web": "CalendarMIcon",
     "webComponent": "import { CalendarMIcon } from '@alfalab/icons-rocky/CalendarMIcon';",
     "android": "rocky_calendar_m",
@@ -309,7 +281,6 @@
   },
   "CanisterMIcon": {
     "description": "",
-    "basename": "rocky_canister_m",
     "web": "CanisterMIcon",
     "webComponent": "import { CanisterMIcon } from '@alfalab/icons-rocky/CanisterMIcon';",
     "android": "rocky_canister_m",
@@ -320,7 +291,6 @@
   },
   "CapAcademicMIcon": {
     "description": "",
-    "basename": "rocky_cap-academic_m",
     "web": "CapAcademicMIcon",
     "webComponent": "import { CapAcademicMIcon } from '@alfalab/icons-rocky/CapAcademicMIcon';",
     "android": "rocky_cap_academic_m",
@@ -331,7 +301,6 @@
   },
   "CapMIcon": {
     "description": "",
-    "basename": "rocky_cap_m",
     "web": "CapMIcon",
     "webComponent": "import { CapMIcon } from '@alfalab/icons-rocky/CapMIcon';",
     "android": "rocky_cap_m",
@@ -342,7 +311,6 @@
   },
   "CarKeyMIcon": {
     "description": "",
-    "basename": "rocky_car-key_m",
     "web": "CarKeyMIcon",
     "webComponent": "import { CarKeyMIcon } from '@alfalab/icons-rocky/CarKeyMIcon';",
     "android": "rocky_car_key_m",
@@ -353,7 +321,6 @@
   },
   "CarMIcon": {
     "description": "",
-    "basename": "rocky_car_m",
     "web": "CarMIcon",
     "webComponent": "import { CarMIcon } from '@alfalab/icons-rocky/CarMIcon';",
     "android": "rocky_car_m",
@@ -364,7 +331,6 @@
   },
   "CardCompactMIcon": {
     "description": "карта, продукт, credit card, кредитная карта, пластиковая карта, пластик",
-    "basename": "rocky_card-compact_m",
     "web": "CardCompactMIcon",
     "webComponent": "import { CardCompactMIcon } from '@alfalab/icons-rocky/CardCompactMIcon';",
     "android": "rocky_card_compact_m",
@@ -375,7 +341,6 @@
   },
   "CardOffMIcon": {
     "description": "",
-    "basename": "rocky_card-off_m",
     "web": "CardOffMIcon",
     "webComponent": "import { CardOffMIcon } from '@alfalab/icons-rocky/CardOffMIcon';",
     "android": "rocky_card_off_m",
@@ -386,7 +351,6 @@
   },
   "CardPlusMIcon": {
     "description": "",
-    "basename": "rocky_card-plus_m",
     "web": "CardPlusMIcon",
     "webComponent": "import { CardPlusMIcon } from '@alfalab/icons-rocky/CardPlusMIcon';",
     "android": "rocky_card_plus_m",
@@ -397,7 +361,6 @@
   },
   "CardMIcon": {
     "description": "",
-    "basename": "rocky_card_m",
     "web": "CardMIcon",
     "webComponent": "import { CardMIcon } from '@alfalab/icons-rocky/CardMIcon';",
     "android": "rocky_card_m",
@@ -408,7 +371,6 @@
   },
   "CardsMIcon": {
     "description": "",
-    "basename": "rocky_cards_m",
     "web": "CardsMIcon",
     "webComponent": "import { CardsMIcon } from '@alfalab/icons-rocky/CardsMIcon';",
     "android": "rocky_cards_m",
@@ -419,7 +381,6 @@
   },
   "CarouselMIcon": {
     "description": "",
-    "basename": "rocky_carousel_m",
     "web": "CarouselMIcon",
     "webComponent": "import { CarouselMIcon } from '@alfalab/icons-rocky/CarouselMIcon';",
     "android": "rocky_carousel_m",
@@ -430,7 +391,6 @@
   },
   "ChamomileMIcon": {
     "description": "flower",
-    "basename": "rocky_chamomile_m",
     "web": "ChamomileMIcon",
     "webComponent": "import { ChamomileMIcon } from '@alfalab/icons-rocky/ChamomileMIcon';",
     "android": "rocky_chamomile_m",
@@ -441,7 +401,6 @@
   },
   "ChartAreaAscArrowMIcon": {
     "description": "",
-    "basename": "rocky_chart-area-asc-arrow_m",
     "web": "ChartAreaAscArrowMIcon",
     "webComponent": "import { ChartAreaAscArrowMIcon } from '@alfalab/icons-rocky/ChartAreaAscArrowMIcon';",
     "android": "rocky_chart_area_asc_arrow_m",
@@ -452,7 +411,6 @@
   },
   "ChartAreaMIcon": {
     "description": "",
-    "basename": "rocky_chart-area_m",
     "web": "ChartAreaMIcon",
     "webComponent": "import { ChartAreaMIcon } from '@alfalab/icons-rocky/ChartAreaMIcon';",
     "android": "rocky_chart_area_m",
@@ -463,7 +421,6 @@
   },
   "ChartColumnThreeAscMIcon": {
     "description": "",
-    "basename": "rocky_chart-column-three-asc_m",
     "web": "ChartColumnThreeAscMIcon",
     "webComponent": "import { ChartColumnThreeAscMIcon } from '@alfalab/icons-rocky/ChartColumnThreeAscMIcon';",
     "android": "rocky_chart_column_three_asc_m",
@@ -474,7 +431,6 @@
   },
   "ChartColumnThreeMIcon": {
     "description": "",
-    "basename": "rocky_chart-column-three_m",
     "web": "ChartColumnThreeMIcon",
     "webComponent": "import { ChartColumnThreeMIcon } from '@alfalab/icons-rocky/ChartColumnThreeMIcon';",
     "android": "rocky_chart_column_three_m",
@@ -485,7 +441,6 @@
   },
   "ChartColumnTwoAscMIcon": {
     "description": "",
-    "basename": "rocky_chart-column-two-asc_m",
     "web": "ChartColumnTwoAscMIcon",
     "webComponent": "import { ChartColumnTwoAscMIcon } from '@alfalab/icons-rocky/ChartColumnTwoAscMIcon';",
     "android": "rocky_chart_column_two_asc_m",
@@ -496,7 +451,6 @@
   },
   "ChartPieCompactMIcon": {
     "description": "круговая диаграмма, chart, pie, диаграмма",
-    "basename": "rocky_chart-pie-compact_m",
     "web": "ChartPieCompactMIcon",
     "webComponent": "import { ChartPieCompactMIcon } from '@alfalab/icons-rocky/ChartPieCompactMIcon';",
     "android": "rocky_chart_pie_compact_m",
@@ -507,7 +461,6 @@
   },
   "ChartPieMIcon": {
     "description": "",
-    "basename": "rocky_chart-pie_m",
     "web": "ChartPieMIcon",
     "webComponent": "import { ChartPieMIcon } from '@alfalab/icons-rocky/ChartPieMIcon';",
     "android": "rocky_chart_pie_m",
@@ -518,7 +471,6 @@
   },
   "ClockCoinMIcon": {
     "description": "",
-    "basename": "rocky_clock-coin_m",
     "web": "ClockCoinMIcon",
     "webComponent": "import { ClockCoinMIcon } from '@alfalab/icons-rocky/ClockCoinMIcon';",
     "android": "rocky_clock_coin_m",
@@ -529,7 +481,6 @@
   },
   "ClockMIcon": {
     "description": "Часы",
-    "basename": "rocky_clock_m",
     "web": "ClockMIcon",
     "webComponent": "import { ClockMIcon } from '@alfalab/icons-rocky/ClockMIcon';",
     "android": "rocky_clock_m",
@@ -540,7 +491,6 @@
   },
   "ClockSIcon": {
     "description": "Часы",
-    "basename": "rocky_clock_s",
     "web": "ClockSIcon",
     "webComponent": "import { ClockSIcon } from '@alfalab/icons-rocky/ClockSIcon';",
     "android": "rocky_clock_s",
@@ -551,7 +501,6 @@
   },
   "CnyMIcon": {
     "description": "",
-    "basename": "rocky_cny_m",
     "web": "CnyMIcon",
     "webComponent": "import { CnyMIcon } from '@alfalab/icons-rocky/CnyMIcon';",
     "android": "rocky_cny_m",
@@ -562,7 +511,6 @@
   },
   "CopyMIcon": {
     "description": "",
-    "basename": "rocky_copy_m",
     "web": "CopyMIcon",
     "webComponent": "import { CopyMIcon } from '@alfalab/icons-rocky/CopyMIcon';",
     "android": "rocky_copy_m",
@@ -573,7 +521,6 @@
   },
   "CupSportMIcon": {
     "description": "",
-    "basename": "rocky_cup-sport_m",
     "web": "CupSportMIcon",
     "webComponent": "import { CupSportMIcon } from '@alfalab/icons-rocky/CupSportMIcon';",
     "android": "rocky_cup_sport_m",
@@ -584,7 +531,6 @@
   },
   "CupSportSIcon": {
     "description": "",
-    "basename": "rocky_cup-sport_s",
     "web": "CupSportSIcon",
     "webComponent": "import { CupSportSIcon } from '@alfalab/icons-rocky/CupSportSIcon';",
     "android": "rocky_cup_sport_s",
@@ -595,7 +541,6 @@
   },
   "CupSportXxlIcon": {
     "description": "",
-    "basename": "rocky_cup-sport_xxl",
     "web": "CupSportXxlIcon",
     "webComponent": "import { CupSportXxlIcon } from '@alfalab/icons-rocky/CupSportXxlIcon';",
     "android": "rocky_cup_sport_xxl",
@@ -606,7 +551,6 @@
   },
   "CupMIcon": {
     "description": "",
-    "basename": "rocky_cup_m",
     "web": "CupMIcon",
     "webComponent": "import { CupMIcon } from '@alfalab/icons-rocky/CupMIcon';",
     "android": "rocky_cup_m",
@@ -617,7 +561,6 @@
   },
   "DiamondMIcon": {
     "description": "",
-    "basename": "rocky_diamond_m",
     "web": "DiamondMIcon",
     "webComponent": "import { DiamondMIcon } from '@alfalab/icons-rocky/DiamondMIcon';",
     "android": "rocky_diamond_m",
@@ -628,7 +571,6 @@
   },
   "DisplayMIcon": {
     "description": "",
-    "basename": "rocky_display_m",
     "web": "DisplayMIcon",
     "webComponent": "import { DisplayMIcon } from '@alfalab/icons-rocky/DisplayMIcon';",
     "android": "rocky_display_m",
@@ -639,7 +581,6 @@
   },
   "DocumentExclamationMIcon": {
     "description": "",
-    "basename": "rocky_document-exclamation_m",
     "web": "DocumentExclamationMIcon",
     "webComponent": "import { DocumentExclamationMIcon } from '@alfalab/icons-rocky/DocumentExclamationMIcon';",
     "android": "rocky_document_exclamation_m",
@@ -650,7 +591,6 @@
   },
   "DocumentInfoMIcon": {
     "description": "",
-    "basename": "rocky_document-info_m",
     "web": "DocumentInfoMIcon",
     "webComponent": "import { DocumentInfoMIcon } from '@alfalab/icons-rocky/DocumentInfoMIcon';",
     "android": "rocky_document_info_m",
@@ -661,7 +601,6 @@
   },
   "DocumentLinesHorizontalMIcon": {
     "description": "",
-    "basename": "rocky_document-lines-horizontal_m",
     "web": "DocumentLinesHorizontalMIcon",
     "webComponent": "import { DocumentLinesHorizontalMIcon } from '@alfalab/icons-rocky/DocumentLinesHorizontalMIcon';",
     "android": "rocky_document_lines_horizontal_m",
@@ -672,7 +611,6 @@
   },
   "DocumentStampMIcon": {
     "description": "",
-    "basename": "rocky_document-stamp_m",
     "web": "DocumentStampMIcon",
     "webComponent": "import { DocumentStampMIcon } from '@alfalab/icons-rocky/DocumentStampMIcon';",
     "android": "rocky_document_stamp_m",
@@ -683,7 +621,6 @@
   },
   "DocumentMIcon": {
     "description": "",
-    "basename": "rocky_document_m",
     "web": "DocumentMIcon",
     "webComponent": "import { DocumentMIcon } from '@alfalab/icons-rocky/DocumentMIcon';",
     "android": "rocky_document_m",
@@ -694,7 +631,6 @@
   },
   "DocumentsStampMIcon": {
     "description": "",
-    "basename": "rocky_documents-stamp_m",
     "web": "DocumentsStampMIcon",
     "webComponent": "import { DocumentsStampMIcon } from '@alfalab/icons-rocky/DocumentsStampMIcon';",
     "android": "rocky_documents_stamp_m",
@@ -705,7 +641,6 @@
   },
   "DocumentsMIcon": {
     "description": "",
-    "basename": "rocky_documents_m",
     "web": "DocumentsMIcon",
     "webComponent": "import { DocumentsMIcon } from '@alfalab/icons-rocky/DocumentsMIcon';",
     "android": "rocky_documents_m",
@@ -716,7 +651,6 @@
   },
   "DoorOpenMIcon": {
     "description": "",
-    "basename": "rocky_door-open_m",
     "web": "DoorOpenMIcon",
     "webComponent": "import { DoorOpenMIcon } from '@alfalab/icons-rocky/DoorOpenMIcon';",
     "android": "rocky_door_open_m",
@@ -727,7 +661,6 @@
   },
   "DotsHorizontalMIcon": {
     "description": "",
-    "basename": "rocky_dots-horizontal_m",
     "web": "DotsHorizontalMIcon",
     "webComponent": "import { DotsHorizontalMIcon } from '@alfalab/icons-rocky/DotsHorizontalMIcon';",
     "android": "rocky_dots_horizontal_m",
@@ -738,7 +671,6 @@
   },
   "DropMIcon": {
     "description": "",
-    "basename": "rocky_drop_m",
     "web": "DropMIcon",
     "webComponent": "import { DropMIcon } from '@alfalab/icons-rocky/DropMIcon';",
     "android": "rocky_drop_m",
@@ -749,7 +681,6 @@
   },
   "EagleMIcon": {
     "description": "",
-    "basename": "rocky_eagle_m",
     "web": "EagleMIcon",
     "webComponent": "import { EagleMIcon } from '@alfalab/icons-rocky/EagleMIcon';",
     "android": "rocky_eagle_m",
@@ -760,7 +691,6 @@
   },
   "EurMIcon": {
     "description": "",
-    "basename": "rocky_eur_m",
     "web": "EurMIcon",
     "webComponent": "import { EurMIcon } from '@alfalab/icons-rocky/EurMIcon';",
     "android": "rocky_eur_m",
@@ -771,7 +701,6 @@
   },
   "ExclamationCircleMIcon": {
     "description": "",
-    "basename": "rocky_exclamation-circle_m",
     "web": "ExclamationCircleMIcon",
     "webComponent": "import { ExclamationCircleMIcon } from '@alfalab/icons-rocky/ExclamationCircleMIcon';",
     "android": "rocky_exclamation_circle_m",
@@ -782,7 +711,6 @@
   },
   "EyeOffMIcon": {
     "description": "",
-    "basename": "rocky_eye-off_m",
     "web": "EyeOffMIcon",
     "webComponent": "import { EyeOffMIcon } from '@alfalab/icons-rocky/EyeOffMIcon';",
     "android": "rocky_eye_off_m",
@@ -793,7 +721,6 @@
   },
   "EyeMIcon": {
     "description": "",
-    "basename": "rocky_eye_m",
     "web": "EyeMIcon",
     "webComponent": "import { EyeMIcon } from '@alfalab/icons-rocky/EyeMIcon';",
     "android": "rocky_eye_m",
@@ -804,7 +731,6 @@
   },
   "FlagMIcon": {
     "description": "",
-    "basename": "rocky_flag_m",
     "web": "FlagMIcon",
     "webComponent": "import { FlagMIcon } from '@alfalab/icons-rocky/FlagMIcon';",
     "android": "rocky_flag_m",
@@ -815,7 +741,6 @@
   },
   "FlameMIcon": {
     "description": "fuel",
-    "basename": "rocky_flame_m",
     "web": "FlameMIcon",
     "webComponent": "import { FlameMIcon } from '@alfalab/icons-rocky/FlameMIcon';",
     "android": "rocky_flame_m",
@@ -826,7 +751,6 @@
   },
   "FlameSIcon": {
     "description": "fuel",
-    "basename": "rocky_flame_s",
     "web": "FlameSIcon",
     "webComponent": "import { FlameSIcon } from '@alfalab/icons-rocky/FlameSIcon';",
     "android": "rocky_flame_s",
@@ -837,7 +761,6 @@
   },
   "FlameXxlIcon": {
     "description": "fuel",
-    "basename": "rocky_flame_xxl",
     "web": "FlameXxlIcon",
     "webComponent": "import { FlameXxlIcon } from '@alfalab/icons-rocky/FlameXxlIcon';",
     "android": "rocky_flame_xxl",
@@ -848,7 +771,6 @@
   },
   "FlashMIcon": {
     "description": "молния, lightning",
-    "basename": "rocky_flash_m",
     "web": "FlashMIcon",
     "webComponent": "import { FlashMIcon } from '@alfalab/icons-rocky/FlashMIcon';",
     "android": "rocky_flash_m",
@@ -859,7 +781,6 @@
   },
   "FlashSIcon": {
     "description": "молния, lightning",
-    "basename": "rocky_flash_s",
     "web": "FlashSIcon",
     "webComponent": "import { FlashSIcon } from '@alfalab/icons-rocky/FlashSIcon';",
     "android": "rocky_flash_s",
@@ -870,7 +791,6 @@
   },
   "GamepadMIcon": {
     "description": "",
-    "basename": "rocky_gamepad_m",
     "web": "GamepadMIcon",
     "webComponent": "import { GamepadMIcon } from '@alfalab/icons-rocky/GamepadMIcon';",
     "android": "rocky_gamepad_m",
@@ -881,7 +801,6 @@
   },
   "GlassMIcon": {
     "description": "",
-    "basename": "rocky_glass_m",
     "web": "GlassMIcon",
     "webComponent": "import { GlassMIcon } from '@alfalab/icons-rocky/GlassMIcon';",
     "android": "rocky_glass_m",
@@ -892,7 +811,6 @@
   },
   "GlassesMIcon": {
     "description": "",
-    "basename": "rocky_glasses_m",
     "web": "GlassesMIcon",
     "webComponent": "import { GlassesMIcon } from '@alfalab/icons-rocky/GlassesMIcon';",
     "android": "rocky_glasses_m",
@@ -903,7 +821,6 @@
   },
   "HandlebarMIcon": {
     "description": "wheel, staring wheel, руль, авто, ву, водительское удостоверения, автомобиль, машина",
-    "basename": "rocky_handlebar_m",
     "web": "HandlebarMIcon",
     "webComponent": "import { HandlebarMIcon } from '@alfalab/icons-rocky/HandlebarMIcon';",
     "android": "rocky_handlebar_m",
@@ -914,7 +831,6 @@
   },
   "HeartMIcon": {
     "description": "",
-    "basename": "rocky_heart_m",
     "web": "HeartMIcon",
     "webComponent": "import { HeartMIcon } from '@alfalab/icons-rocky/HeartMIcon';",
     "android": "rocky_heart_m",
@@ -925,7 +841,6 @@
   },
   "HorseMIcon": {
     "description": "",
-    "basename": "rocky_horse_m",
     "web": "HorseMIcon",
     "webComponent": "import { HorseMIcon } from '@alfalab/icons-rocky/HorseMIcon';",
     "android": "rocky_horse_m",
@@ -936,7 +851,6 @@
   },
   "HouseBackMIcon": {
     "description": "",
-    "basename": "rocky_house-back_m",
     "web": "HouseBackMIcon",
     "webComponent": "import { HouseBackMIcon } from '@alfalab/icons-rocky/HouseBackMIcon';",
     "android": "rocky_house_back_m",
@@ -947,7 +861,6 @@
   },
   "HouseCompactMIcon": {
     "description": "дом, house",
-    "basename": "rocky_house-compact_m",
     "web": "HouseCompactMIcon",
     "webComponent": "import { HouseCompactMIcon } from '@alfalab/icons-rocky/HouseCompactMIcon';",
     "android": "rocky_house_compact_m",
@@ -958,7 +871,6 @@
   },
   "HouseMIcon": {
     "description": "",
-    "basename": "rocky_house_m",
     "web": "HouseMIcon",
     "webComponent": "import { HouseMIcon } from '@alfalab/icons-rocky/HouseMIcon';",
     "android": "rocky_house_m",
@@ -969,7 +881,6 @@
   },
   "HousesMIcon": {
     "description": "",
-    "basename": "rocky_houses_m",
     "web": "HousesMIcon",
     "webComponent": "import { HousesMIcon } from '@alfalab/icons-rocky/HousesMIcon';",
     "android": "rocky_houses_m",
@@ -980,7 +891,6 @@
   },
   "IngotsMIcon": {
     "description": "",
-    "basename": "rocky_ingots_m",
     "web": "IngotsMIcon",
     "webComponent": "import { IngotsMIcon } from '@alfalab/icons-rocky/IngotsMIcon';",
     "android": "rocky_ingots_m",
@@ -991,7 +901,6 @@
   },
   "InternetMIcon": {
     "description": "",
-    "basename": "rocky_internet_m",
     "web": "InternetMIcon",
     "webComponent": "import { InternetMIcon } from '@alfalab/icons-rocky/InternetMIcon';",
     "android": "rocky_internet_m",
@@ -1002,7 +911,6 @@
   },
   "JudgeHammerMIcon": {
     "description": "",
-    "basename": "rocky_judge-hammer_m",
     "web": "JudgeHammerMIcon",
     "webComponent": "import { JudgeHammerMIcon } from '@alfalab/icons-rocky/JudgeHammerMIcon';",
     "android": "rocky_judge_hammer_m",
@@ -1013,7 +921,6 @@
   },
   "KremlinMIcon": {
     "description": "",
-    "basename": "rocky_kremlin_m",
     "web": "KremlinMIcon",
     "webComponent": "import { KremlinMIcon } from '@alfalab/icons-rocky/KremlinMIcon';",
     "android": "rocky_kremlin_m",
@@ -1024,7 +931,6 @@
   },
   "LampMIcon": {
     "description": "",
-    "basename": "rocky_lamp_m",
     "web": "LampMIcon",
     "webComponent": "import { LampMIcon } from '@alfalab/icons-rocky/LampMIcon';",
     "android": "rocky_lamp_m",
@@ -1035,7 +941,6 @@
   },
   "LightningMIcon": {
     "description": "",
-    "basename": "rocky_lightning_m",
     "web": "LightningMIcon",
     "webComponent": "import { LightningMIcon } from '@alfalab/icons-rocky/LightningMIcon';",
     "android": "rocky_lightning_m",
@@ -1046,7 +951,6 @@
   },
   "LightningSIcon": {
     "description": "",
-    "basename": "rocky_lightning_s",
     "web": "LightningSIcon",
     "webComponent": "import { LightningSIcon } from '@alfalab/icons-rocky/LightningSIcon';",
     "android": "rocky_lightning_s",
@@ -1057,7 +961,6 @@
   },
   "LinesTwoHexagonMIcon": {
     "description": "Шестиугольник с двумя линиями, Госуслуги, Hexagon",
-    "basename": "rocky_lines-two-hexagon_m",
     "web": "LinesTwoHexagonMIcon",
     "webComponent": "import { LinesTwoHexagonMIcon } from '@alfalab/icons-rocky/LinesTwoHexagonMIcon';",
     "android": "rocky_lines_two_hexagon_m",
@@ -1068,7 +971,6 @@
   },
   "LipstickMIcon": {
     "description": "",
-    "basename": "rocky_lipstick_m",
     "web": "LipstickMIcon",
     "webComponent": "import { LipstickMIcon } from '@alfalab/icons-rocky/LipstickMIcon';",
     "android": "rocky_lipstick_m",
@@ -1079,7 +981,6 @@
   },
   "LockClosedMIcon": {
     "description": "",
-    "basename": "rocky_lock-closed_m",
     "web": "LockClosedMIcon",
     "webComponent": "import { LockClosedMIcon } from '@alfalab/icons-rocky/LockClosedMIcon';",
     "android": "rocky_lock_closed_m",
@@ -1090,7 +991,6 @@
   },
   "LockClosedSIcon": {
     "description": "",
-    "basename": "rocky_lock-closed_s",
     "web": "LockClosedSIcon",
     "webComponent": "import { LockClosedSIcon } from '@alfalab/icons-rocky/LockClosedSIcon';",
     "android": "rocky_lock_closed_s",
@@ -1101,7 +1001,6 @@
   },
   "LockClosedXxlIcon": {
     "description": "",
-    "basename": "rocky_lock-closed_xxl",
     "web": "LockClosedXxlIcon",
     "webComponent": "import { LockClosedXxlIcon } from '@alfalab/icons-rocky/LockClosedXxlIcon';",
     "android": "rocky_lock_closed_xxl",
@@ -1112,7 +1011,6 @@
   },
   "LockOpenMIcon": {
     "description": "",
-    "basename": "rocky_lock-open_m",
     "web": "LockOpenMIcon",
     "webComponent": "import { LockOpenMIcon } from '@alfalab/icons-rocky/LockOpenMIcon';",
     "android": "rocky_lock_open_m",
@@ -1123,7 +1021,6 @@
   },
   "LockOpenSIcon": {
     "description": "",
-    "basename": "rocky_lock-open_s",
     "web": "LockOpenSIcon",
     "webComponent": "import { LockOpenSIcon } from '@alfalab/icons-rocky/LockOpenSIcon';",
     "android": "rocky_lock_open_s",
@@ -1134,7 +1031,6 @@
   },
   "LockOpenXxlIcon": {
     "description": "",
-    "basename": "rocky_lock-open_xxl",
     "web": "LockOpenXxlIcon",
     "webComponent": "import { LockOpenXxlIcon } from '@alfalab/icons-rocky/LockOpenXxlIcon';",
     "android": "rocky_lock_open_xxl",
@@ -1145,7 +1041,6 @@
   },
   "MailMIcon": {
     "description": "",
-    "basename": "rocky_mail_m",
     "web": "MailMIcon",
     "webComponent": "import { MailMIcon } from '@alfalab/icons-rocky/MailMIcon';",
     "android": "rocky_mail_m",
@@ -1156,7 +1051,6 @@
   },
   "MicrochipMIcon": {
     "description": "",
-    "basename": "rocky_microchip_m",
     "web": "MicrochipMIcon",
     "webComponent": "import { MicrochipMIcon } from '@alfalab/icons-rocky/MicrochipMIcon';",
     "android": "rocky_microchip_m",
@@ -1167,7 +1061,6 @@
   },
   "MinusMIcon": {
     "description": "",
-    "basename": "rocky_minus_m",
     "web": "MinusMIcon",
     "webComponent": "import { MinusMIcon } from '@alfalab/icons-rocky/MinusMIcon';",
     "android": "rocky_minus_m",
@@ -1178,7 +1071,6 @@
   },
   "MobilePhoneMIcon": {
     "description": "",
-    "basename": "rocky_mobile-phone_m",
     "web": "MobilePhoneMIcon",
     "webComponent": "import { MobilePhoneMIcon } from '@alfalab/icons-rocky/MobilePhoneMIcon';",
     "android": "rocky_mobile_phone_m",
@@ -1189,7 +1081,6 @@
   },
   "MoleculeMIcon": {
     "description": "",
-    "basename": "rocky_molecule_m",
     "web": "MoleculeMIcon",
     "webComponent": "import { MoleculeMIcon } from '@alfalab/icons-rocky/MoleculeMIcon';",
     "android": "rocky_molecule_m",
@@ -1200,7 +1091,6 @@
   },
   "MusicMIcon": {
     "description": "",
-    "basename": "rocky_music_m",
     "web": "MusicMIcon",
     "webComponent": "import { MusicMIcon } from '@alfalab/icons-rocky/MusicMIcon';",
     "android": "rocky_music_m",
@@ -1211,7 +1101,6 @@
   },
   "NfcMIcon": {
     "description": "",
-    "basename": "rocky_nfc_m",
     "web": "NfcMIcon",
     "webComponent": "import { NfcMIcon } from '@alfalab/icons-rocky/NfcMIcon';",
     "android": "rocky_nfc_m",
@@ -1222,7 +1111,6 @@
   },
   "PalmMIcon": {
     "description": "",
-    "basename": "rocky_palm_m",
     "web": "PalmMIcon",
     "webComponent": "import { PalmMIcon } from '@alfalab/icons-rocky/PalmMIcon';",
     "android": "rocky_palm_m",
@@ -1233,7 +1121,6 @@
   },
   "PawMIcon": {
     "description": "",
-    "basename": "rocky_paw_m",
     "web": "PawMIcon",
     "webComponent": "import { PawMIcon } from '@alfalab/icons-rocky/PawMIcon';",
     "android": "rocky_paw_m",
@@ -1244,7 +1131,6 @@
   },
   "PencilMIcon": {
     "description": "",
-    "basename": "rocky_pencil_m",
     "web": "PencilMIcon",
     "webComponent": "import { PencilMIcon } from '@alfalab/icons-rocky/PencilMIcon';",
     "android": "rocky_pencil_m",
@@ -1255,7 +1141,6 @@
   },
   "PercentMIcon": {
     "description": "",
-    "basename": "rocky_percent_m",
     "web": "PercentMIcon",
     "webComponent": "import { PercentMIcon } from '@alfalab/icons-rocky/PercentMIcon';",
     "android": "rocky_percent_m",
@@ -1266,7 +1151,6 @@
   },
   "PerekrestokMIcon": {
     "description": "",
-    "basename": "rocky_perekrestok_m",
     "web": "PerekrestokMIcon",
     "webComponent": "import { PerekrestokMIcon } from '@alfalab/icons-rocky/PerekrestokMIcon';",
     "android": "rocky_perekrestok_m",
@@ -1277,7 +1161,6 @@
   },
   "PhoneMIcon": {
     "description": "",
-    "basename": "rocky_phone_m",
     "web": "PhoneMIcon",
     "webComponent": "import { PhoneMIcon } from '@alfalab/icons-rocky/PhoneMIcon';",
     "android": "rocky_phone_m",
@@ -1288,7 +1171,6 @@
   },
   "PlayMIcon": {
     "description": "",
-    "basename": "rocky_play_m",
     "web": "PlayMIcon",
     "webComponent": "import { PlayMIcon } from '@alfalab/icons-rocky/PlayMIcon';",
     "android": "rocky_play_m",
@@ -1299,7 +1181,6 @@
   },
   "PlusMedicineMIcon": {
     "description": "",
-    "basename": "rocky_plus-medicine_m",
     "web": "PlusMedicineMIcon",
     "webComponent": "import { PlusMedicineMIcon } from '@alfalab/icons-rocky/PlusMedicineMIcon';",
     "android": "rocky_plus_medicine_m",
@@ -1310,7 +1191,6 @@
   },
   "PlusMIcon": {
     "description": "",
-    "basename": "rocky_plus_m",
     "web": "PlusMIcon",
     "webComponent": "import { PlusMIcon } from '@alfalab/icons-rocky/PlusMIcon';",
     "android": "rocky_plus_m",
@@ -1321,7 +1201,6 @@
   },
   "PocketMIcon": {
     "description": "",
-    "basename": "rocky_pocket_m",
     "web": "PocketMIcon",
     "webComponent": "import { PocketMIcon } from '@alfalab/icons-rocky/PocketMIcon';",
     "android": "rocky_pocket_m",
@@ -1332,7 +1211,6 @@
   },
   "PrivilegesMIcon": {
     "description": "",
-    "basename": "rocky_privileges_m",
     "web": "PrivilegesMIcon",
     "webComponent": "import { PrivilegesMIcon } from '@alfalab/icons-rocky/PrivilegesMIcon';",
     "android": "rocky_privileges_m",
@@ -1343,7 +1221,6 @@
   },
   "PuzzleMIcon": {
     "description": "",
-    "basename": "rocky_puzzle_m",
     "web": "PuzzleMIcon",
     "webComponent": "import { PuzzleMIcon } from '@alfalab/icons-rocky/PuzzleMIcon';",
     "android": "rocky_puzzle_m",
@@ -1354,7 +1231,6 @@
   },
   "QrCodeMIcon": {
     "description": "",
-    "basename": "rocky_qr-code_m",
     "web": "QrCodeMIcon",
     "webComponent": "import { QrCodeMIcon } from '@alfalab/icons-rocky/QrCodeMIcon';",
     "android": "rocky_qr_code_m",
@@ -1365,7 +1241,6 @@
   },
   "QuestionMIcon": {
     "description": "",
-    "basename": "rocky_question_m",
     "web": "QuestionMIcon",
     "webComponent": "import { QuestionMIcon } from '@alfalab/icons-rocky/QuestionMIcon';",
     "android": "rocky_question_m",
@@ -1376,7 +1251,6 @@
   },
   "ReceiptCheckmarkMIcon": {
     "description": "",
-    "basename": "rocky_receipt-checkmark_m",
     "web": "ReceiptCheckmarkMIcon",
     "webComponent": "import { ReceiptCheckmarkMIcon } from '@alfalab/icons-rocky/ReceiptCheckmarkMIcon';",
     "android": "rocky_receipt_checkmark_m",
@@ -1387,7 +1261,6 @@
   },
   "ReceiptMIcon": {
     "description": "",
-    "basename": "rocky_receipt_m",
     "web": "ReceiptMIcon",
     "webComponent": "import { ReceiptMIcon } from '@alfalab/icons-rocky/ReceiptMIcon';",
     "android": "rocky_receipt_m",
@@ -1398,7 +1271,6 @@
   },
   "RectanglesStackMIcon": {
     "description": "",
-    "basename": "rocky_rectangles-stack_m",
     "web": "RectanglesStackMIcon",
     "webComponent": "import { RectanglesStackMIcon } from '@alfalab/icons-rocky/RectanglesStackMIcon';",
     "android": "rocky_rectangles_stack_m",
@@ -1409,7 +1281,6 @@
   },
   "RobotMIcon": {
     "description": "",
-    "basename": "rocky_robot_m",
     "web": "RobotMIcon",
     "webComponent": "import { RobotMIcon } from '@alfalab/icons-rocky/RobotMIcon';",
     "android": "rocky_robot_m",
@@ -1420,7 +1291,6 @@
   },
   "RocketMIcon": {
     "description": "",
-    "basename": "rocky_rocket_m",
     "web": "RocketMIcon",
     "webComponent": "import { RocketMIcon } from '@alfalab/icons-rocky/RocketMIcon';",
     "android": "rocky_rocket_m",
@@ -1431,7 +1301,6 @@
   },
   "RubMIcon": {
     "description": "",
-    "basename": "rocky_rub_m",
     "web": "RubMIcon",
     "webComponent": "import { RubMIcon } from '@alfalab/icons-rocky/RubMIcon';",
     "android": "rocky_rub_m",
@@ -1442,7 +1311,6 @@
   },
   "SafeBoxCompactMIcon": {
     "description": "сейф, safe, box, хранение, защита",
-    "basename": "rocky_safe-box-compact_m",
     "web": "SafeBoxCompactMIcon",
     "webComponent": "import { SafeBoxCompactMIcon } from '@alfalab/icons-rocky/SafeBoxCompactMIcon';",
     "android": "rocky_safe_box_compact_m",
@@ -1453,7 +1321,6 @@
   },
   "SafeBoxMIcon": {
     "description": "",
-    "basename": "rocky_safe-box_m",
     "web": "SafeBoxMIcon",
     "webComponent": "import { SafeBoxMIcon } from '@alfalab/icons-rocky/SafeBoxMIcon';",
     "android": "rocky_safe_box_m",
@@ -1464,7 +1331,6 @@
   },
   "ScalesMIcon": {
     "description": "",
-    "basename": "rocky_scales_m",
     "web": "ScalesMIcon",
     "webComponent": "import { ScalesMIcon } from '@alfalab/icons-rocky/ScalesMIcon';",
     "android": "rocky_scales_m",
@@ -1475,7 +1341,6 @@
   },
   "ScanMIcon": {
     "description": "",
-    "basename": "rocky_scan_m",
     "web": "ScanMIcon",
     "webComponent": "import { ScanMIcon } from '@alfalab/icons-rocky/ScanMIcon';",
     "android": "rocky_scan_m",
@@ -1486,7 +1351,6 @@
   },
   "ShieldCompactMIcon": {
     "description": "щит, защита, страховка",
-    "basename": "rocky_shield-compact_m",
     "web": "ShieldCompactMIcon",
     "webComponent": "import { ShieldCompactMIcon } from '@alfalab/icons-rocky/ShieldCompactMIcon';",
     "android": "rocky_shield_compact_m",
@@ -1497,7 +1361,6 @@
   },
   "ShieldMIcon": {
     "description": "",
-    "basename": "rocky_shield_m",
     "web": "ShieldMIcon",
     "webComponent": "import { ShieldMIcon } from '@alfalab/icons-rocky/ShieldMIcon';",
     "android": "rocky_shield_m",
@@ -1508,7 +1371,6 @@
   },
   "SocketPlugMIcon": {
     "description": "",
-    "basename": "rocky_socket-plug_m",
     "web": "SocketPlugMIcon",
     "webComponent": "import { SocketPlugMIcon } from '@alfalab/icons-rocky/SocketPlugMIcon';",
     "android": "rocky_socket_plug_m",
@@ -1519,7 +1381,6 @@
   },
   "StarMIcon": {
     "description": "",
-    "basename": "rocky_star_m",
     "web": "StarMIcon",
     "webComponent": "import { StarMIcon } from '@alfalab/icons-rocky/StarMIcon';",
     "android": "rocky_star_m",
@@ -1530,7 +1391,6 @@
   },
   "SuitcaseMIcon": {
     "description": "",
-    "basename": "rocky_suitcase_m",
     "web": "SuitcaseMIcon",
     "webComponent": "import { SuitcaseMIcon } from '@alfalab/icons-rocky/SuitcaseMIcon';",
     "android": "rocky_suitcase_m",
@@ -1541,7 +1401,6 @@
   },
   "SumMIcon": {
     "description": "",
-    "basename": "rocky_sum_m",
     "web": "SumMIcon",
     "webComponent": "import { SumMIcon } from '@alfalab/icons-rocky/SumMIcon';",
     "android": "rocky_sum_m",
@@ -1552,7 +1411,6 @@
   },
   "SwiftMIcon": {
     "description": "",
-    "basename": "rocky_swift_m",
     "web": "SwiftMIcon",
     "webComponent": "import { SwiftMIcon } from '@alfalab/icons-rocky/SwiftMIcon';",
     "android": "rocky_swift_m",
@@ -1563,7 +1421,6 @@
   },
   "SwitchMIcon": {
     "description": "",
-    "basename": "rocky_switch_m",
     "web": "SwitchMIcon",
     "webComponent": "import { SwitchMIcon } from '@alfalab/icons-rocky/SwitchMIcon';",
     "android": "rocky_switch_m",
@@ -1574,7 +1431,6 @@
   },
   "TShirtMIcon": {
     "description": "",
-    "basename": "rocky_t-shirt_m",
     "web": "TShirtMIcon",
     "webComponent": "import { TShirtMIcon } from '@alfalab/icons-rocky/TShirtMIcon';",
     "android": "rocky_t_shirt_m",
@@ -1585,7 +1441,6 @@
   },
   "TaxiMIcon": {
     "description": "",
-    "basename": "rocky_taxi_m",
     "web": "TaxiMIcon",
     "webComponent": "import { TaxiMIcon } from '@alfalab/icons-rocky/TaxiMIcon';",
     "android": "rocky_taxi_m",
@@ -1596,7 +1451,6 @@
   },
   "TennisRacketMIcon": {
     "description": "",
-    "basename": "rocky_tennis-racket_m",
     "web": "TennisRacketMIcon",
     "webComponent": "import { TennisRacketMIcon } from '@alfalab/icons-rocky/TennisRacketMIcon';",
     "android": "rocky_tennis_racket_m",
@@ -1607,7 +1461,6 @@
   },
   "ThumbDownMIcon": {
     "description": "",
-    "basename": "rocky_thumb-down_m",
     "web": "ThumbDownMIcon",
     "webComponent": "import { ThumbDownMIcon } from '@alfalab/icons-rocky/ThumbDownMIcon';",
     "android": "rocky_thumb_down_m",
@@ -1618,7 +1471,6 @@
   },
   "ThumbUpMIcon": {
     "description": "",
-    "basename": "rocky_thumb-up_m",
     "web": "ThumbUpMIcon",
     "webComponent": "import { ThumbUpMIcon } from '@alfalab/icons-rocky/ThumbUpMIcon';",
     "android": "rocky_thumb_up_m",
@@ -1629,7 +1481,6 @@
   },
   "TicketMIcon": {
     "description": "",
-    "basename": "rocky_ticket_m",
     "web": "TicketMIcon",
     "webComponent": "import { TicketMIcon } from '@alfalab/icons-rocky/TicketMIcon';",
     "android": "rocky_ticket_m",
@@ -1640,7 +1491,6 @@
   },
   "TileMIcon": {
     "description": "",
-    "basename": "rocky_tile_m",
     "web": "TileMIcon",
     "webComponent": "import { TileMIcon } from '@alfalab/icons-rocky/TileMIcon';",
     "android": "rocky_tile_m",
@@ -1651,7 +1501,6 @@
   },
   "TrainMIcon": {
     "description": "",
-    "basename": "rocky_train_m",
     "web": "TrainMIcon",
     "webComponent": "import { TrainMIcon } from '@alfalab/icons-rocky/TrainMIcon';",
     "android": "rocky_train_m",
@@ -1662,7 +1511,6 @@
   },
   "TrashCanMIcon": {
     "description": "",
-    "basename": "rocky_trash-can_m",
     "web": "TrashCanMIcon",
     "webComponent": "import { TrashCanMIcon } from '@alfalab/icons-rocky/TrashCanMIcon';",
     "android": "rocky_trash_can_m",
@@ -1673,7 +1521,6 @@
   },
   "TshirtMIcon": {
     "description": "",
-    "basename": "rocky_tshirt_m",
     "web": "TshirtMIcon",
     "webComponent": "import { TshirtMIcon } from '@alfalab/icons-rocky/TshirtMIcon';",
     "android": "rocky_tshirt_m",
@@ -1684,7 +1531,6 @@
   },
   "TulipMIcon": {
     "description": "",
-    "basename": "rocky_tulip_m",
     "web": "TulipMIcon",
     "webComponent": "import { TulipMIcon } from '@alfalab/icons-rocky/TulipMIcon';",
     "android": "rocky_tulip_m",
@@ -1695,7 +1541,6 @@
   },
   "UsdMIcon": {
     "description": "",
-    "basename": "rocky_usd_m",
     "web": "UsdMIcon",
     "webComponent": "import { UsdMIcon } from '@alfalab/icons-rocky/UsdMIcon';",
     "android": "rocky_usd_m",
@@ -1706,7 +1551,6 @@
   },
   "UserTieMIcon": {
     "description": "",
-    "basename": "rocky_user-tie_m",
     "web": "UserTieMIcon",
     "webComponent": "import { UserTieMIcon } from '@alfalab/icons-rocky/UserTieMIcon';",
     "android": "rocky_user_tie_m",
@@ -1717,7 +1561,6 @@
   },
   "UserMIcon": {
     "description": "",
-    "basename": "rocky_user_m",
     "web": "UserMIcon",
     "webComponent": "import { UserMIcon } from '@alfalab/icons-rocky/UserMIcon';",
     "android": "rocky_user_m",
@@ -1728,7 +1571,6 @@
   },
   "VialMIcon": {
     "description": "bottle",
-    "basename": "rocky_vial_m",
     "web": "VialMIcon",
     "webComponent": "import { VialMIcon } from '@alfalab/icons-rocky/VialMIcon';",
     "android": "rocky_vial_m",
@@ -1739,7 +1581,6 @@
   },
   "WalletCompactMIcon": {
     "description": "кошелёк, бумажник, портмоне",
-    "basename": "rocky_wallet-compact_m",
     "web": "WalletCompactMIcon",
     "webComponent": "import { WalletCompactMIcon } from '@alfalab/icons-rocky/WalletCompactMIcon';",
     "android": "rocky_wallet_compact_m",
@@ -1750,7 +1591,6 @@
   },
   "WalletMIcon": {
     "description": "",
-    "basename": "rocky_wallet_m",
     "web": "WalletMIcon",
     "webComponent": "import { WalletMIcon } from '@alfalab/icons-rocky/WalletMIcon';",
     "android": "rocky_wallet_m",
@@ -1761,7 +1601,6 @@
   },
   "WheatMIcon": {
     "description": "",
-    "basename": "rocky_wheat_m",
     "web": "WheatMIcon",
     "webComponent": "import { WheatMIcon } from '@alfalab/icons-rocky/WheatMIcon';",
     "android": "rocky_wheat_m",
@@ -1772,7 +1611,6 @@
   },
   "WorldMIcon": {
     "description": "",
-    "basename": "rocky_world_m",
     "web": "WorldMIcon",
     "webComponent": "import { WorldMIcon } from '@alfalab/icons-rocky/WorldMIcon';",
     "android": "rocky_world_m",

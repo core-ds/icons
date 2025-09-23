@@ -1,7 +1,6 @@
 {
   "AlfaPay2024EnMBlackWhiteIcon": {
     "description": "[logo_alfa-pay-2024-en_m_black-white]",
-    "basename": "logo_alfa-pay-2024-en_m_black-white",
     "android": "logo_alfa_pay_2024_en_m_black_white",
     "ios": "logo_alfaPay2024En_m_blackWhite",
     "middle": "logo_alfa-pay-2024-en_m_black-white",
@@ -10,7 +9,6 @@
   },
   "AlfaPay2024EnMColorIcon": {
     "description": "[logo_alfa-pay-2024-en_m_color]",
-    "basename": "logo_alfa-pay-2024-en_m_color",
     "android": "logo_alfa_pay_2024_en_m_color",
     "ios": "logo_alfaPay2024En_m_color",
     "middle": "logo_alfa-pay-2024-en_m_color",
@@ -19,7 +17,6 @@
   },
   "AlfaPay2024EnMRedWhiteIcon": {
     "description": "[logo_alfa-pay-2024-en_m_red-white]",
-    "basename": "logo_alfa-pay-2024-en_m_red-white",
     "android": "logo_alfa_pay_2024_en_m_red_white",
     "ios": "logo_alfaPay2024En_m_redWhite",
     "middle": "logo_alfa-pay-2024-en_m_red-white",
@@ -28,7 +25,6 @@
   },
   "AlfaPay2024EnMWhiteBlackIcon": {
     "description": "[logo_alfa-pay-2024-en_m_white-black]",
-    "basename": "logo_alfa-pay-2024-en_m_white-black",
     "android": "logo_alfa_pay_2024_en_m_white_black",
     "ios": "logo_alfaPay2024En_m_whiteBlack",
     "middle": "logo_alfa-pay-2024-en_m_white-black",
@@ -37,7 +33,6 @@
   },
   "AlfaPay2024EnMWhiteRedIcon": {
     "description": "[logo_alfa-pay-2024-en_m_white-red]",
-    "basename": "logo_alfa-pay-2024-en_m_white-red",
     "android": "logo_alfa_pay_2024_en_m_white_red",
     "ios": "logo_alfaPay2024En_m_whiteRed",
     "middle": "logo_alfa-pay-2024-en_m_white-red",
@@ -46,7 +41,6 @@
   },
   "AlfaPay2024SimplifiedBoxMBlackWhiteIcon": {
     "description": "[logo_alfa-pay-2024-simplified-box_m_black-white]",
-    "basename": "logo_alfa-pay-2024-simplified-box_m_black-white",
     "android": "logo_alfa_pay_2024_simplified_box_m_black_white",
     "ios": "logo_alfaPay2024SimplifiedBox_m_blackWhite",
     "middle": "logo_alfa-pay-2024-simplified-box_m_black-white",
@@ -55,7 +49,6 @@
   },
   "AlfaPay2024SimplifiedBoxMColorIcon": {
     "description": "[logo_alfa-pay-2024-simplified-box_m_color]",
-    "basename": "logo_alfa-pay-2024-simplified-box_m_color",
     "android": "logo_alfa_pay_2024_simplified_box_m_color",
     "ios": "logo_alfaPay2024SimplifiedBox_m_color",
     "middle": "logo_alfa-pay-2024-simplified-box_m_color",
@@ -64,7 +57,6 @@
   },
   "AlfaPay2024SimplifiedBoxMRedWhiteIcon": {
     "description": "[logo_alfa-pay-2024-simplified-box_m_red-white]",
-    "basename": "logo_alfa-pay-2024-simplified-box_m_red-white",
     "android": "logo_alfa_pay_2024_simplified_box_m_red_white",
     "ios": "logo_alfaPay2024SimplifiedBox_m_redWhite",
     "middle": "logo_alfa-pay-2024-simplified-box_m_red-white",
@@ -73,7 +65,6 @@
   },
   "AlfaPay2024SimplifiedBoxMWhiteBlackIcon": {
     "description": "[logo_alfa-pay-2024-simplified-box_m_white-black]",
-    "basename": "logo_alfa-pay-2024-simplified-box_m_white-black",
     "android": "logo_alfa_pay_2024_simplified_box_m_white_black",
     "ios": "logo_alfaPay2024SimplifiedBox_m_whiteBlack",
     "middle": "logo_alfa-pay-2024-simplified-box_m_white-black",
@@ -82,7 +73,6 @@
   },
   "AlfaPay2024SimplifiedBoxMWhiteRedIcon": {
     "description": "[logo_alfa-pay-2024-simplified-box_m_white-red]",
-    "basename": "logo_alfa-pay-2024-simplified-box_m_white-red",
     "android": "logo_alfa_pay_2024_simplified_box_m_white_red",
     "ios": "logo_alfaPay2024SimplifiedBox_m_whiteRed",
     "middle": "logo_alfa-pay-2024-simplified-box_m_white-red",
@@ -91,7 +81,6 @@
   },
   "AlfaPay2024SimplifiedMBlackWhiteIcon": {
     "description": "[logo_alfa-pay-2024-simplified_m_black-white]",
-    "basename": "logo_alfa-pay-2024-simplified_m_black-white",
     "android": "logo_alfa_pay_2024_simplified_m_black_white",
     "ios": "logo_alfaPay2024Simplified_m_blackWhite",
     "middle": "logo_alfa-pay-2024-simplified_m_black-white",
@@ -100,7 +89,6 @@
   },
   "AlfaPay2024SimplifiedMColorIcon": {
     "description": "[logo_alfa-pay-2024-simplified_m_color]",
-    "basename": "logo_alfa-pay-2024-simplified_m_color",
     "android": "logo_alfa_pay_2024_simplified_m_color",
     "ios": "logo_alfaPay2024Simplified_m_color",
     "middle": "logo_alfa-pay-2024-simplified_m_color",
@@ -109,7 +97,6 @@
   },
   "AlfaPay2024SimplifiedMRedWhiteIcon": {
     "description": "[logo_alfa-pay-2024-simplified_m_red-white]",
-    "basename": "logo_alfa-pay-2024-simplified_m_red-white",
     "android": "logo_alfa_pay_2024_simplified_m_red_white",
     "ios": "logo_alfaPay2024Simplified_m_redWhite",
     "middle": "logo_alfa-pay-2024-simplified_m_red-white",
@@ -118,7 +105,6 @@
   },
   "AlfaPay2024SimplifiedMWhiteBlackIcon": {
     "description": "[logo_alfa-pay-2024-simplified_m_white-black]",
-    "basename": "logo_alfa-pay-2024-simplified_m_white-black",
     "android": "logo_alfa_pay_2024_simplified_m_white_black",
     "ios": "logo_alfaPay2024Simplified_m_whiteBlack",
     "middle": "logo_alfa-pay-2024-simplified_m_white-black",
@@ -127,7 +113,6 @@
   },
   "AlfaPay2024SimplifiedMWhiteRedIcon": {
     "description": "[logo_alfa-pay-2024-simplified_m_white-red]",
-    "basename": "logo_alfa-pay-2024-simplified_m_white-red",
     "android": "logo_alfa_pay_2024_simplified_m_white_red",
     "ios": "logo_alfaPay2024Simplified_m_whiteRed",
     "middle": "logo_alfa-pay-2024-simplified_m_white-red",
@@ -136,7 +121,6 @@
   },
   "AlfaPay2024MBlackWhiteIcon": {
     "description": "[logo_alfa-pay-2024_m_black-white]",
-    "basename": "logo_alfa-pay-2024_m_black-white",
     "android": "logo_alfa_pay_2024_m_black_white",
     "ios": "logo_alfaPay2024_m_blackWhite",
     "middle": "logo_alfa-pay-2024_m_black-white",
@@ -145,7 +129,6 @@
   },
   "AlfaPay2024MColorIcon": {
     "description": "[logo_alfa-pay-2024_m_color]",
-    "basename": "logo_alfa-pay-2024_m_color",
     "android": "logo_alfa_pay_2024_m_color",
     "ios": "logo_alfaPay2024_m_color",
     "middle": "logo_alfa-pay-2024_m_color",
@@ -154,7 +137,6 @@
   },
   "AlfaPay2024MRedWhiteIcon": {
     "description": "[logo_alfa-pay-2024_m_red-white]",
-    "basename": "logo_alfa-pay-2024_m_red-white",
     "android": "logo_alfa_pay_2024_m_red_white",
     "ios": "logo_alfaPay2024_m_redWhite",
     "middle": "logo_alfa-pay-2024_m_red-white",
@@ -163,7 +145,6 @@
   },
   "AlfaPay2024MWhiteBlackIcon": {
     "description": "[logo_alfa-pay-2024_m_white-black]",
-    "basename": "logo_alfa-pay-2024_m_white-black",
     "android": "logo_alfa_pay_2024_m_white_black",
     "ios": "logo_alfaPay2024_m_whiteBlack",
     "middle": "logo_alfa-pay-2024_m_white-black",
@@ -172,7 +153,6 @@
   },
   "AlfaPay2024MWhiteRedIcon": {
     "description": "[logo_alfa-pay-2024_m_white-red]",
-    "basename": "logo_alfa-pay-2024_m_white-red",
     "android": "logo_alfa_pay_2024_m_white_red",
     "ios": "logo_alfaPay2024_m_whiteRed",
     "middle": "logo_alfa-pay-2024_m_white-red",
@@ -181,7 +161,6 @@
   },
   "PochtaBankBoxMColorIcon": {
     "description": "[logo_pochta-bank-box_m_color]",
-    "basename": "logo_pochta-bank-box_m_color",
     "android": "logo_pochta_bank_box_m_color",
     "ios": "logo_pochtaBankBox_m_color",
     "middle": "logo_pochta-bank-box_m_color",
@@ -190,7 +169,6 @@
   },
   "PochtaBankBoxMWhiteIcon": {
     "description": "[logo_pochta-bank-box_m_white]",
-    "basename": "logo_pochta-bank-box_m_white",
     "android": "logo_pochta_bank_box_m_white",
     "ios": "logo_pochtaBankBox_m_white",
     "middle": "logo_pochta-bank-box_m_white",
@@ -199,7 +177,6 @@
   },
   "SubwaySaintPetersburgSignBoxMIcon": {
     "description": "[logo_subway-saint-petersburg-sign-box_m]",
-    "basename": "logo_subway-saint-petersburg-sign-box_m",
     "android": "logo_subway_saint_petersburg_sign_box_m",
     "ios": "logo_subwaySaintPetersburgSignBox_m",
     "middle": "logo_subway-saint-petersburg-sign-box_m",

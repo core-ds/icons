@@ -1,7 +1,6 @@
 {
   "AlfaScoresMIcon": {
     "description": "",
-    "basename": "alfa-scores_m",
     "web": "AlfaScoresMIcon",
     "webComponent": "import { AlfaScoresMIcon } from '@alfalab/icons-ios/AlfaScoresMIcon';",
     "ios": "alfaScores_m",
@@ -11,7 +10,6 @@
   },
   "BubbleXxlIcon": {
     "description": "",
-    "basename": "bubble_xxl",
     "web": "BubbleXxlIcon",
     "webComponent": "import { BubbleXxlIcon } from '@alfalab/icons-ios/BubbleXxlIcon';",
     "ios": "bubble_xxl",
@@ -21,7 +19,6 @@
   },
   "BynSquareMediumMIcon": {
     "description": "свинка, хрюшка, свинья, копилка, pig, piggy bank",
-    "basename": "byn-square-medium_m",
     "web": "BynSquareMediumMIcon",
     "webComponent": "import { BynSquareMediumMIcon } from '@alfalab/icons-ios/BynSquareMediumMIcon';",
     "ios": "bynSquareMedium_m",
@@ -31,7 +28,6 @@
   },
   "ChevronLeftShiftLeftMIcon": {
     "description": "",
-    "basename": "chevron-left-shift-left_m",
     "web": "ChevronLeftShiftLeftMIcon",
     "webComponent": "import { ChevronLeftShiftLeftMIcon } from '@alfalab/icons-ios/ChevronLeftShiftLeftMIcon';",
     "ios": "chevronLeftShiftLeft_m",
@@ -41,7 +37,6 @@
   },
   "ChevronLeftMIcon": {
     "description": "",
-    "basename": "chevron-left_m",
     "web": "ChevronLeftMIcon",
     "webComponent": "import { ChevronLeftMIcon } from '@alfalab/icons-ios/ChevronLeftMIcon';",
     "ios": "chevronLeft_m",
@@ -51,7 +46,6 @@
   },
   "ChfSquareMediumMIcon": {
     "description": "свинка, хрюшка, свинья, копилка, pig, piggy bank",
-    "basename": "chf-square-medium_m",
     "web": "ChfSquareMediumMIcon",
     "webComponent": "import { ChfSquareMediumMIcon } from '@alfalab/icons-ios/ChfSquareMediumMIcon';",
     "ios": "chfSquareMedium_m",
@@ -61,7 +55,6 @@
   },
   "ChfMIcon": {
     "description": "",
-    "basename": "chf_m",
     "web": "ChfMIcon",
     "webComponent": "import { ChfMIcon } from '@alfalab/icons-ios/ChfMIcon';",
     "ios": "chf_m",
@@ -71,7 +64,6 @@
   },
   "CnySquareMediumMIcon": {
     "description": "свинка, хрюшка, свинья, копилка, pig, piggy bank",
-    "basename": "cny-square-medium_m",
     "web": "CnySquareMediumMIcon",
     "webComponent": "import { CnySquareMediumMIcon } from '@alfalab/icons-ios/CnySquareMediumMIcon';",
     "ios": "cnySquareMedium_m",
@@ -81,7 +73,6 @@
   },
   "CrossCircleMIcon": {
     "description": "",
-    "basename": "cross-circle_m",
     "web": "CrossCircleMIcon",
     "webComponent": "import { CrossCircleMIcon } from '@alfalab/icons-ios/CrossCircleMIcon';",
     "ios": "crossCircle_m",
@@ -91,7 +82,6 @@
   },
   "CrossLightMIcon": {
     "description": "",
-    "basename": "cross-light_m",
     "web": "CrossLightMIcon",
     "webComponent": "import { CrossLightMIcon } from '@alfalab/icons-ios/CrossLightMIcon';",
     "ios": "crossLight_m",
@@ -101,7 +91,6 @@
   },
   "DotsGridXxlIcon": {
     "description": "",
-    "basename": "dots-grid_xxl",
     "web": "DotsGridXxlIcon",
     "webComponent": "import { DotsGridXxlIcon } from '@alfalab/icons-ios/DotsGridXxlIcon';",
     "ios": "dotsGrid_xxl",
@@ -111,7 +100,6 @@
   },
   "DotsHorizontalCircleMIcon": {
     "description": "",
-    "basename": "dots-horizontal-circle_m",
     "web": "DotsHorizontalCircleMIcon",
     "webComponent": "import { DotsHorizontalCircleMIcon } from '@alfalab/icons-ios/DotsHorizontalCircleMIcon';",
     "ios": "dotsHorizontalCircle_m",
@@ -121,7 +109,6 @@
   },
   "EurSquareMediumMIcon": {
     "description": "свинка, хрюшка, свинья, копилка, pig, piggy bank",
-    "basename": "eur-square-medium_m",
     "web": "EurSquareMediumMIcon",
     "webComponent": "import { EurSquareMediumMIcon } from '@alfalab/icons-ios/EurSquareMediumMIcon';",
     "ios": "eurSquareMedium_m",
@@ -131,7 +118,6 @@
   },
   "EurMIcon": {
     "description": "",
-    "basename": "eur_m",
     "web": "EurMIcon",
     "webComponent": "import { EurMIcon } from '@alfalab/icons-ios/EurMIcon';",
     "ios": "eur_m",
@@ -141,7 +127,6 @@
   },
   "FaceIdMIcon": {
     "description": "",
-    "basename": "face-id_m",
     "web": "FaceIdMIcon",
     "webComponent": "import { FaceIdMIcon } from '@alfalab/icons-ios/FaceIdMIcon';",
     "ios": "faceId_m",
@@ -151,7 +136,6 @@
   },
   "FaceIdXxlIcon": {
     "description": "",
-    "basename": "face-id_xxl",
     "web": "FaceIdXxlIcon",
     "webComponent": "import { FaceIdXxlIcon } from '@alfalab/icons-ios/FaceIdXxlIcon';",
     "ios": "faceId_xxl",
@@ -161,7 +145,6 @@
   },
   "GbpSquareMediumMIcon": {
     "description": "свинка, хрюшка, свинья, копилка, pig, piggy bank",
-    "basename": "gbp-square-medium_m",
     "web": "GbpSquareMediumMIcon",
     "webComponent": "import { GbpSquareMediumMIcon } from '@alfalab/icons-ios/GbpSquareMediumMIcon';",
     "ios": "gbpSquareMedium_m",
@@ -171,7 +154,6 @@
   },
   "GbpMIcon": {
     "description": "",
-    "basename": "gbp_m",
     "web": "GbpMIcon",
     "webComponent": "import { GbpMIcon } from '@alfalab/icons-ios/GbpMIcon';",
     "ios": "gbp_m",
@@ -181,7 +163,6 @@
   },
   "GelSquareMediumMIcon": {
     "description": "свинка, хрюшка, свинья, копилка, pig, piggy bank",
-    "basename": "gel-square-medium_m",
     "web": "GelSquareMediumMIcon",
     "webComponent": "import { GelSquareMediumMIcon } from '@alfalab/icons-ios/GelSquareMediumMIcon';",
     "ios": "gelSquareMedium_m",
@@ -191,7 +172,6 @@
   },
   "JpySquareMediumMIcon": {
     "description": "свинка, хрюшка, свинья, копилка, pig, piggy bank",
-    "basename": "jpy-square-medium_m",
     "web": "JpySquareMediumMIcon",
     "webComponent": "import { JpySquareMediumMIcon } from '@alfalab/icons-ios/JpySquareMediumMIcon';",
     "ios": "jpySquareMedium_m",
@@ -201,7 +181,6 @@
   },
   "KztSquareMediumMIcon": {
     "description": "свинка, хрюшка, свинья, копилка, pig, piggy bank",
-    "basename": "kzt-square-medium_m",
     "web": "KztSquareMediumMIcon",
     "webComponent": "import { KztSquareMediumMIcon } from '@alfalab/icons-ios/KztSquareMediumMIcon';",
     "ios": "kztSquareMedium_m",
@@ -211,7 +190,6 @@
   },
   "LinesThreeMIcon": {
     "description": "",
-    "basename": "lines-three_m",
     "web": "LinesThreeMIcon",
     "webComponent": "import { LinesThreeMIcon } from '@alfalab/icons-ios/LinesThreeMIcon';",
     "ios": "linesThree_m",
@@ -221,7 +199,6 @@
   },
   "MicOffXxlIcon": {
     "description": "",
-    "basename": "mic-off_xxl",
     "web": "MicOffXxlIcon",
     "webComponent": "import { MicOffXxlIcon } from '@alfalab/icons-ios/MicOffXxlIcon';",
     "ios": "micOff_xxl",
@@ -231,7 +208,6 @@
   },
   "PhoneDownXxlIcon": {
     "description": "",
-    "basename": "phone-down_xxl",
     "web": "PhoneDownXxlIcon",
     "webComponent": "import { PhoneDownXxlIcon } from '@alfalab/icons-ios/PhoneDownXxlIcon';",
     "ios": "phoneDown_xxl",
@@ -241,7 +217,6 @@
   },
   "PhoneXxlIcon": {
     "description": "",
-    "basename": "phone_xxl",
     "web": "PhoneXxlIcon",
     "webComponent": "import { PhoneXxlIcon } from '@alfalab/icons-ios/PhoneXxlIcon';",
     "ios": "phone_xxl",
@@ -251,7 +226,6 @@
   },
   "PipEnterMIcon": {
     "description": "pip, режим картинка в картинке",
-    "basename": "pip-enter_m",
     "web": "PipEnterMIcon",
     "webComponent": "import { PipEnterMIcon } from '@alfalab/icons-ios/PipEnterMIcon';",
     "ios": "pipEnter_m",
@@ -261,7 +235,6 @@
   },
   "PipExitMIcon": {
     "description": "pip, режим картинка в картинке",
-    "basename": "pip-exit_m",
     "web": "PipExitMIcon",
     "webComponent": "import { PipExitMIcon } from '@alfalab/icons-ios/PipExitMIcon';",
     "ios": "pipExit_m",
@@ -271,7 +244,6 @@
   },
   "RubDigitalSquareMediumMIcon": {
     "description": "[ios_digital_rub_square_medium_m]",
-    "basename": "rub-digital-square-medium_m",
     "web": "RubDigitalSquareMediumMIcon",
     "webComponent": "import { RubDigitalSquareMediumMIcon } from '@alfalab/icons-ios/RubDigitalSquareMediumMIcon';",
     "ios": "rubDigitalSquareMedium_m",
@@ -281,7 +253,6 @@
   },
   "RubSquareMediumMIcon": {
     "description": "свинка, хрюшка, свинья, копилка, pig, piggy bank",
-    "basename": "rub-square-medium_m",
     "web": "RubSquareMediumMIcon",
     "webComponent": "import { RubSquareMediumMIcon } from '@alfalab/icons-ios/RubSquareMediumMIcon';",
     "ios": "rubSquareMedium_m",
@@ -291,7 +262,6 @@
   },
   "RubMIcon": {
     "description": "",
-    "basename": "rub_m",
     "web": "RubMIcon",
     "webComponent": "import { RubMIcon } from '@alfalab/icons-ios/RubMIcon';",
     "ios": "rub_m",
@@ -301,7 +271,6 @@
   },
   "SoundXxlIcon": {
     "description": "",
-    "basename": "sound_xxl",
     "web": "SoundXxlIcon",
     "webComponent": "import { SoundXxlIcon } from '@alfalab/icons-ios/SoundXxlIcon';",
     "ios": "sound_xxl",
@@ -311,7 +280,6 @@
   },
   "TouchIdXxlIcon": {
     "description": "",
-    "basename": "touch-id_xxl",
     "web": "TouchIdXxlIcon",
     "webComponent": "import { TouchIdXxlIcon } from '@alfalab/icons-ios/TouchIdXxlIcon';",
     "ios": "touchId_xxl",
@@ -321,7 +289,6 @@
   },
   "TrySquareMediumMIcon": {
     "description": "свинка, хрюшка, свинья, копилка, pig, piggy bank",
-    "basename": "try-square-medium_m",
     "web": "TrySquareMediumMIcon",
     "webComponent": "import { TrySquareMediumMIcon } from '@alfalab/icons-ios/TrySquareMediumMIcon';",
     "ios": "trySquareMedium_m",
@@ -331,7 +298,6 @@
   },
   "UsdSquareMediumMIcon": {
     "description": "свинка, хрюшка, свинья, копилка, pig, piggy bank",
-    "basename": "usd-square-medium_m",
     "web": "UsdSquareMediumMIcon",
     "webComponent": "import { UsdSquareMediumMIcon } from '@alfalab/icons-ios/UsdSquareMediumMIcon';",
     "ios": "usdSquareMedium_m",
@@ -341,7 +307,6 @@
   },
   "UsdMIcon": {
     "description": "",
-    "basename": "usd_m",
     "web": "UsdMIcon",
     "webComponent": "import { UsdMIcon } from '@alfalab/icons-ios/UsdMIcon';",
     "ios": "usd_m",

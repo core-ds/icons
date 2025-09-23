@@ -1,225 +1,141 @@
 {
   "ArrowLeftMIcon": {
     "description": "",
-    "basename": "arrow-left_m",
-    "web": "ArrowLeftMIcon",
-    "webComponent": "import { ArrowLeftMIcon } from '@alfalab/icons-android/ArrowLeftMIcon';",
     "android": "arrow_left_m",
     "middle": "arrow-left_m"
   },
   "BackspaceMIcon": {
     "description": "стереть, удалить, delete",
-    "basename": "backspace_m",
-    "web": "BackspaceMIcon",
-    "webComponent": "import { BackspaceMIcon } from '@alfalab/icons-android/BackspaceMIcon';",
     "android": "backspace_m",
     "middle": "backspace_m"
   },
   "BynSquareMediumMIcon": {
     "description": "свинка, хрюшка, свинья, копилка, pig, piggy bank",
-    "basename": "byn-square-medium_m",
-    "web": "BynSquareMediumMIcon",
-    "webComponent": "import { BynSquareMediumMIcon } from '@alfalab/icons-android/BynSquareMediumMIcon';",
     "android": "byn_square_medium_m",
     "middle": "byn-square-medium_m"
   },
   "ChfSquareMediumMIcon": {
     "description": "свинка, хрюшка, свинья, копилка, pig, piggy bank",
-    "basename": "chf-square-medium_m",
-    "web": "ChfSquareMediumMIcon",
-    "webComponent": "import { ChfSquareMediumMIcon } from '@alfalab/icons-android/ChfSquareMediumMIcon';",
     "android": "chf_square_medium_m",
     "middle": "chf-square-medium_m"
   },
   "ChfMIcon": {
     "description": "",
-    "basename": "chf_m",
-    "web": "ChfMIcon",
-    "webComponent": "import { ChfMIcon } from '@alfalab/icons-android/ChfMIcon';",
     "android": "chf_m",
     "middle": "chf_m"
   },
   "CnySquareMediumMIcon": {
     "description": "свинка, хрюшка, свинья, копилка, pig, piggy bank",
-    "basename": "cny-square-medium_m",
-    "web": "CnySquareMediumMIcon",
-    "webComponent": "import { CnySquareMediumMIcon } from '@alfalab/icons-android/CnySquareMediumMIcon';",
     "android": "cny_square_medium_m",
     "middle": "cny-square-medium_m"
   },
   "CrossMIcon": {
     "description": "",
-    "basename": "cross_m",
-    "web": "CrossMIcon",
-    "webComponent": "import { CrossMIcon } from '@alfalab/icons-android/CrossMIcon';",
     "android": "cross_m",
     "middle": "cross_m"
   },
   "DevicesMIcon": {
     "description": "устройства, девайсы, ноутбук, телефон",
-    "basename": "devices_m",
-    "web": "DevicesMIcon",
-    "webComponent": "import { DevicesMIcon } from '@alfalab/icons-android/DevicesMIcon';",
     "android": "devices_m",
     "middle": "devices_m"
   },
   "DotsVerticalCompactMIcon": {
     "description": "",
-    "basename": "dots-vertical-compact_m",
-    "web": "DotsVerticalCompactMIcon",
-    "webComponent": "import { DotsVerticalCompactMIcon } from '@alfalab/icons-android/DotsVerticalCompactMIcon';",
     "android": "dots_vertical_compact_m",
     "middle": "dots-vertical-compact_m"
   },
   "EurSquareMediumMIcon": {
     "description": "свинка, хрюшка, свинья, копилка, pig, piggy bank",
-    "basename": "eur-square-medium_m",
-    "web": "EurSquareMediumMIcon",
-    "webComponent": "import { EurSquareMediumMIcon } from '@alfalab/icons-android/EurSquareMediumMIcon';",
     "android": "eur_square_medium_m",
     "middle": "eur-square-medium_m"
   },
   "EurMIcon": {
     "description": "",
-    "basename": "eur_m",
-    "web": "EurMIcon",
-    "webComponent": "import { EurMIcon } from '@alfalab/icons-android/EurMIcon';",
     "android": "eur_m",
     "middle": "eur_m"
   },
   "GbpSquareMediumMIcon": {
     "description": "свинка, хрюшка, свинья, копилка, pig, piggy bank",
-    "basename": "gbp-square-medium_m",
-    "web": "GbpSquareMediumMIcon",
-    "webComponent": "import { GbpSquareMediumMIcon } from '@alfalab/icons-android/GbpSquareMediumMIcon';",
     "android": "gbp_square_medium_m",
     "middle": "gbp-square-medium_m"
   },
   "GbpMIcon": {
     "description": "",
-    "basename": "gbp_m",
-    "web": "GbpMIcon",
-    "webComponent": "import { GbpMIcon } from '@alfalab/icons-android/GbpMIcon';",
     "android": "gbp_m",
     "middle": "gbp_m"
   },
   "GelSquareMediumMIcon": {
     "description": "свинка, хрюшка, свинья, копилка, pig, piggy bank",
-    "basename": "gel-square-medium_m",
-    "web": "GelSquareMediumMIcon",
-    "webComponent": "import { GelSquareMediumMIcon } from '@alfalab/icons-android/GelSquareMediumMIcon';",
     "android": "gel_square_medium_m",
     "middle": "gel-square-medium_m"
   },
   "JpySquareMediumMIcon": {
     "description": "свинка, хрюшка, свинья, копилка, pig, piggy bank",
-    "basename": "jpy-square-medium_m",
-    "web": "JpySquareMediumMIcon",
-    "webComponent": "import { JpySquareMediumMIcon } from '@alfalab/icons-android/JpySquareMediumMIcon';",
     "android": "jpy_square_medium_m",
     "middle": "jpy-square-medium_m"
   },
   "KztSquareMediumMIcon": {
     "description": "свинка, хрюшка, свинья, копилка, pig, piggy bank",
-    "basename": "kzt-square-medium_m",
-    "web": "KztSquareMediumMIcon",
-    "webComponent": "import { KztSquareMediumMIcon } from '@alfalab/icons-android/KztSquareMediumMIcon';",
     "android": "kzt_square_medium_m",
     "middle": "kzt-square-medium_m"
   },
   "LinesTwoMIcon": {
     "description": "",
-    "basename": "lines-two_m",
-    "web": "LinesTwoMIcon",
-    "webComponent": "import { LinesTwoMIcon } from '@alfalab/icons-android/LinesTwoMIcon';",
     "android": "lines_two_m",
     "middle": "lines-two_m"
   },
   "PauseMIcon": {
     "description": "свинка, хрюшка, свинья, копилка, pig, piggy bank",
-    "basename": "pause_m",
-    "web": "PauseMIcon",
-    "webComponent": "import { PauseMIcon } from '@alfalab/icons-android/PauseMIcon';",
     "android": "pause_m",
     "middle": "pause_m"
   },
   "PipEnterMIcon": {
     "description": "свинка, хрюшка, свинья, копилка, pig, piggy bank",
-    "basename": "pip-enter_m",
-    "web": "PipEnterMIcon",
-    "webComponent": "import { PipEnterMIcon } from '@alfalab/icons-android/PipEnterMIcon';",
     "android": "pip_enter_m",
     "middle": "pip-enter_m"
   },
   "PipExitMIcon": {
     "description": "свинка, хрюшка, свинья, копилка, pig, piggy bank",
-    "basename": "pip-exit_m",
-    "web": "PipExitMIcon",
-    "webComponent": "import { PipExitMIcon } from '@alfalab/icons-android/PipExitMIcon';",
     "android": "pip_exit_m",
     "middle": "pip-exit_m"
   },
   "PlayMIcon": {
     "description": "свинка, хрюшка, свинья, копилка, pig, piggy bank",
-    "basename": "play_m",
-    "web": "PlayMIcon",
-    "webComponent": "import { PlayMIcon } from '@alfalab/icons-android/PlayMIcon';",
     "android": "play_m",
     "middle": "play_m"
   },
   "RubDigitalSquareMediumMIcon": {
     "description": "[android_kzt_square_medium_m]",
-    "basename": "rub-digital-square-medium_m",
-    "web": "RubDigitalSquareMediumMIcon",
-    "webComponent": "import { RubDigitalSquareMediumMIcon } from '@alfalab/icons-android/RubDigitalSquareMediumMIcon';",
     "android": "rub_digital_square_medium_m",
     "middle": "rub-digital-square-medium_m"
   },
   "RubSquareMediumMIcon": {
     "description": "свинка, хрюшка, свинья, копилка, pig, piggy bank",
-    "basename": "rub-square-medium_m",
-    "web": "RubSquareMediumMIcon",
-    "webComponent": "import { RubSquareMediumMIcon } from '@alfalab/icons-android/RubSquareMediumMIcon';",
     "android": "rub_square_medium_m",
     "middle": "rub-square-medium_m"
   },
   "RubMIcon": {
     "description": "",
-    "basename": "rub_m",
-    "web": "RubMIcon",
-    "webComponent": "import { RubMIcon } from '@alfalab/icons-android/RubMIcon';",
     "android": "rub_m",
     "middle": "rub_m"
   },
   "ShareMIcon": {
     "description": "",
-    "basename": "share_m",
-    "web": "ShareMIcon",
-    "webComponent": "import { ShareMIcon } from '@alfalab/icons-android/ShareMIcon';",
     "android": "share_m",
     "middle": "share_m"
   },
   "TrySquareMediumMIcon": {
     "description": "свинка, хрюшка, свинья, копилка, pig, piggy bank",
-    "basename": "try-square-medium_m",
-    "web": "TrySquareMediumMIcon",
-    "webComponent": "import { TrySquareMediumMIcon } from '@alfalab/icons-android/TrySquareMediumMIcon';",
     "android": "try_square_medium_m",
     "middle": "try-square-medium_m"
   },
   "UsdSquareMediumMIcon": {
     "description": "свинка, хрюшка, свинья, копилка, pig, piggy bank",
-    "basename": "usd-square-medium_m",
-    "web": "UsdSquareMediumMIcon",
-    "webComponent": "import { UsdSquareMediumMIcon } from '@alfalab/icons-android/UsdSquareMediumMIcon';",
     "android": "usd_square_medium_m",
     "middle": "usd-square-medium_m"
   },
   "UsdMIcon": {
     "description": "",
-    "basename": "usd_m",
-    "web": "UsdMIcon",
-    "webComponent": "import { UsdMIcon } from '@alfalab/icons-android/UsdMIcon';",
     "android": "usd_m",
     "middle": "usd_m"
   }

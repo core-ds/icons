@@ -1,7 +1,6 @@
 {
   "AbkhaziaMColorIcon": {
     "description": "[flag_abkhazia_m_color]",
-    "basename": "flag_abkhazia_m_color",
     "web": "AbkhaziaMColorIcon",
     "webComponent": "import { AbkhaziaMColorIcon } from '@alfalab/icons-flag/AbkhaziaMColorIcon';",
     "android": "flag_abkhazia_m_color",
@@ -12,7 +11,6 @@
   },
   "AfghanistanMColorIcon": {
     "description": "[flag_afghanistan_m_color]",
-    "basename": "flag_afghanistan_m_color",
     "web": "AfghanistanMColorIcon",
     "webComponent": "import { AfghanistanMColorIcon } from '@alfalab/icons-flag/AfghanistanMColorIcon';",
     "android": "flag_afghanistan_m_color",
@@ -23,7 +21,6 @@
   },
   "AlandIslandsMColorIcon": {
     "description": "[flag_aland_islands_m_color]",
-    "basename": "flag_aland-islands_m_color",
     "web": "AlandIslandsMColorIcon",
     "webComponent": "import { AlandIslandsMColorIcon } from '@alfalab/icons-flag/AlandIslandsMColorIcon';",
     "android": "flag_aland_islands_m_color",
@@ -34,7 +31,6 @@
   },
   "AlbaniaMColorIcon": {
     "description": "[flag_albania_m_color]",
-    "basename": "flag_albania_m_color",
     "web": "AlbaniaMColorIcon",
     "webComponent": "import { AlbaniaMColorIcon } from '@alfalab/icons-flag/AlbaniaMColorIcon';",
     "android": "flag_albania_m_color",
@@ -45,7 +41,6 @@
   },
   "AlgeriaMColorIcon": {
     "description": "[flag_algeria_m_color]",
-    "basename": "flag_algeria_m_color",
     "web": "AlgeriaMColorIcon",
     "webComponent": "import { AlgeriaMColorIcon } from '@alfalab/icons-flag/AlgeriaMColorIcon';",
     "android": "flag_algeria_m_color",
@@ -56,7 +51,6 @@
   },
   "AmericanSamoaMColorIcon": {
     "description": "[flag_american_samoa_m_color]",
-    "basename": "flag_american-samoa_m_color",
     "web": "AmericanSamoaMColorIcon",
     "webComponent": "import { AmericanSamoaMColorIcon } from '@alfalab/icons-flag/AmericanSamoaMColorIcon';",
     "android": "flag_american_samoa_m_color",
@@ -67,7 +61,6 @@
   },
   "AndorraMColorIcon": {
     "description": "[flag_andorra_m_color]",
-    "basename": "flag_andorra_m_color",
     "web": "AndorraMColorIcon",
     "webComponent": "import { AndorraMColorIcon } from '@alfalab/icons-flag/AndorraMColorIcon';",
     "android": "flag_andorra_m_color",
@@ -78,7 +71,6 @@
   },
   "AngolaMColorIcon": {
     "description": "[flag_angola_m_color]",
-    "basename": "flag_angola_m_color",
     "web": "AngolaMColorIcon",
     "webComponent": "import { AngolaMColorIcon } from '@alfalab/icons-flag/AngolaMColorIcon';",
     "android": "flag_angola_m_color",
@@ -89,7 +81,6 @@
   },
   "AnguillaMColorIcon": {
     "description": "[flag_anguilla_m_color]",
-    "basename": "flag_anguilla_m_color",
     "web": "AnguillaMColorIcon",
     "webComponent": "import { AnguillaMColorIcon } from '@alfalab/icons-flag/AnguillaMColorIcon';",
     "android": "flag_anguilla_m_color",
@@ -100,7 +91,6 @@
   },
   "AntiguaAndBarbudaMColorIcon": {
     "description": "[flag_antigua_and_barbuda_m_color]",
-    "basename": "flag_antigua-and-barbuda_m_color",
     "web": "AntiguaAndBarbudaMColorIcon",
     "webComponent": "import { AntiguaAndBarbudaMColorIcon } from '@alfalab/icons-flag/AntiguaAndBarbudaMColorIcon';",
     "android": "flag_antigua_and_barbuda_m_color",
@@ -111,7 +101,6 @@
   },
   "ArgentinaMColorIcon": {
     "description": "[flag_argentina_m_color]",
-    "basename": "flag_argentina_m_color",
     "web": "ArgentinaMColorIcon",
     "webComponent": "import { ArgentinaMColorIcon } from '@alfalab/icons-flag/ArgentinaMColorIcon';",
     "android": "flag_argentina_m_color",
@@ -122,7 +111,6 @@
   },
   "ArmeniaMColorIcon": {
     "description": "[flag_armenia_m_color]",
-    "basename": "flag_armenia_m_color",
     "web": "ArmeniaMColorIcon",
     "webComponent": "import { ArmeniaMColorIcon } from '@alfalab/icons-flag/ArmeniaMColorIcon';",
     "android": "flag_armenia_m_color",
@@ -133,7 +121,6 @@
   },
   "ArubaMColorIcon": {
     "description": "[flag_aruba_m_color]",
-    "basename": "flag_aruba_m_color",
     "web": "ArubaMColorIcon",
     "webComponent": "import { ArubaMColorIcon } from '@alfalab/icons-flag/ArubaMColorIcon';",
     "android": "flag_aruba_m_color",
@@ -144,7 +131,6 @@
   },
   "AustraliaMColorIcon": {
     "description": "[flag_australia_m_color]",
-    "basename": "flag_australia_m_color",
     "web": "AustraliaMColorIcon",
     "webComponent": "import { AustraliaMColorIcon } from '@alfalab/icons-flag/AustraliaMColorIcon';",
     "android": "flag_australia_m_color",
@@ -155,7 +141,6 @@
   },
   "AustriaMColorIcon": {
     "description": "[flag_austria_m_color]",
-    "basename": "flag_austria_m_color",
     "web": "AustriaMColorIcon",
     "webComponent": "import { AustriaMColorIcon } from '@alfalab/icons-flag/AustriaMColorIcon';",
     "android": "flag_austria_m_color",
@@ -166,7 +151,6 @@
   },
   "AzerbaijanMColorIcon": {
     "description": "[flag_azerbaijan_m_color]",
-    "basename": "flag_azerbaijan_m_color",
     "web": "AzerbaijanMColorIcon",
     "webComponent": "import { AzerbaijanMColorIcon } from '@alfalab/icons-flag/AzerbaijanMColorIcon';",
     "android": "flag_azerbaijan_m_color",
@@ -177,7 +161,6 @@
   },
   "AzoresIslandsMColorIcon": {
     "description": "[flag_azores_islands_m_color]",
-    "basename": "flag_azores-islands_m_color",
     "web": "AzoresIslandsMColorIcon",
     "webComponent": "import { AzoresIslandsMColorIcon } from '@alfalab/icons-flag/AzoresIslandsMColorIcon';",
     "android": "flag_azores_islands_m_color",
@@ -188,7 +171,6 @@
   },
   "BahamasMColorIcon": {
     "description": "[flag_bahamas_m_color]",
-    "basename": "flag_bahamas_m_color",
     "web": "BahamasMColorIcon",
     "webComponent": "import { BahamasMColorIcon } from '@alfalab/icons-flag/BahamasMColorIcon';",
     "android": "flag_bahamas_m_color",
@@ -199,7 +181,6 @@
   },
   "BahrainMColorIcon": {
     "description": "[flag_bahrain_m_color]",
-    "basename": "flag_bahrain_m_color",
     "web": "BahrainMColorIcon",
     "webComponent": "import { BahrainMColorIcon } from '@alfalab/icons-flag/BahrainMColorIcon';",
     "android": "flag_bahrain_m_color",
@@ -210,7 +191,6 @@
   },
   "BalearicIslandsMColorIcon": {
     "description": "[flag_balearic_islands_m_color]",
-    "basename": "flag_balearic-islands_m_color",
     "web": "BalearicIslandsMColorIcon",
     "webComponent": "import { BalearicIslandsMColorIcon } from '@alfalab/icons-flag/BalearicIslandsMColorIcon';",
     "android": "flag_balearic_islands_m_color",
@@ -221,7 +201,6 @@
   },
   "BangladeshMColorIcon": {
     "description": "[flag_bangladesh_m_color]",
-    "basename": "flag_bangladesh_m_color",
     "web": "BangladeshMColorIcon",
     "webComponent": "import { BangladeshMColorIcon } from '@alfalab/icons-flag/BangladeshMColorIcon';",
     "android": "flag_bangladesh_m_color",
@@ -232,7 +211,6 @@
   },
   "BarbadosMColorIcon": {
     "description": "[flag_barbados_m_color]",
-    "basename": "flag_barbados_m_color",
     "web": "BarbadosMColorIcon",
     "webComponent": "import { BarbadosMColorIcon } from '@alfalab/icons-flag/BarbadosMColorIcon';",
     "android": "flag_barbados_m_color",
@@ -243,7 +221,6 @@
   },
   "BasqueCountryMColorIcon": {
     "description": "[flag_basque_country_m_color]",
-    "basename": "flag_basque-country_m_color",
     "web": "BasqueCountryMColorIcon",
     "webComponent": "import { BasqueCountryMColorIcon } from '@alfalab/icons-flag/BasqueCountryMColorIcon';",
     "android": "flag_basque_country_m_color",
@@ -254,7 +231,6 @@
   },
   "BelarusMColorIcon": {
     "description": "[flag_belarus_m_color]",
-    "basename": "flag_belarus_m_color",
     "web": "BelarusMColorIcon",
     "webComponent": "import { BelarusMColorIcon } from '@alfalab/icons-flag/BelarusMColorIcon';",
     "android": "flag_belarus_m_color",
@@ -265,7 +241,6 @@
   },
   "BelgiumMColorIcon": {
     "description": "[flag_belgium_m_color]",
-    "basename": "flag_belgium_m_color",
     "web": "BelgiumMColorIcon",
     "webComponent": "import { BelgiumMColorIcon } from '@alfalab/icons-flag/BelgiumMColorIcon';",
     "android": "flag_belgium_m_color",
@@ -276,7 +251,6 @@
   },
   "BelizeMColorIcon": {
     "description": "[flag_belize_m_color]",
-    "basename": "flag_belize_m_color",
     "web": "BelizeMColorIcon",
     "webComponent": "import { BelizeMColorIcon } from '@alfalab/icons-flag/BelizeMColorIcon';",
     "android": "flag_belize_m_color",
@@ -287,7 +261,6 @@
   },
   "BeninMColorIcon": {
     "description": "[flag_benin_m_color]",
-    "basename": "flag_benin_m_color",
     "web": "BeninMColorIcon",
     "webComponent": "import { BeninMColorIcon } from '@alfalab/icons-flag/BeninMColorIcon';",
     "android": "flag_benin_m_color",
@@ -298,7 +271,6 @@
   },
   "BermudaMColorIcon": {
     "description": "[flag_bermuda_m_color]",
-    "basename": "flag_bermuda_m_color",
     "web": "BermudaMColorIcon",
     "webComponent": "import { BermudaMColorIcon } from '@alfalab/icons-flag/BermudaMColorIcon';",
     "android": "flag_bermuda_m_color",
@@ -309,7 +281,6 @@
   },
   "BhutanMColorIcon": {
     "description": "[flag_bhutan_m_color]",
-    "basename": "flag_bhutan_m_color",
     "web": "BhutanMColorIcon",
     "webComponent": "import { BhutanMColorIcon } from '@alfalab/icons-flag/BhutanMColorIcon';",
     "android": "flag_bhutan_m_color",
@@ -320,7 +291,6 @@
   },
   "BoliviaMColorIcon": {
     "description": "[flag_bolivia_m_color]",
-    "basename": "flag_bolivia_m_color",
     "web": "BoliviaMColorIcon",
     "webComponent": "import { BoliviaMColorIcon } from '@alfalab/icons-flag/BoliviaMColorIcon';",
     "android": "flag_bolivia_m_color",
@@ -331,7 +301,6 @@
   },
   "BonaireMColorIcon": {
     "description": "[flag_bonaire_m_color]",
-    "basename": "flag_bonaire_m_color",
     "web": "BonaireMColorIcon",
     "webComponent": "import { BonaireMColorIcon } from '@alfalab/icons-flag/BonaireMColorIcon';",
     "android": "flag_bonaire_m_color",
@@ -342,7 +311,6 @@
   },
   "BosniaAndHerzegovinaMColorIcon": {
     "description": "[flag_bosnia_and_herzegovina_m_color]",
-    "basename": "flag_bosnia-and-herzegovina_m_color",
     "web": "BosniaAndHerzegovinaMColorIcon",
     "webComponent": "import { BosniaAndHerzegovinaMColorIcon } from '@alfalab/icons-flag/BosniaAndHerzegovinaMColorIcon';",
     "android": "flag_bosnia_and_herzegovina_m_color",
@@ -353,7 +321,6 @@
   },
   "BotswanaMColorIcon": {
     "description": "[flag_botswana_m_color]",
-    "basename": "flag_botswana_m_color",
     "web": "BotswanaMColorIcon",
     "webComponent": "import { BotswanaMColorIcon } from '@alfalab/icons-flag/BotswanaMColorIcon';",
     "android": "flag_botswana_m_color",
@@ -364,7 +331,6 @@
   },
   "BrazilMColorIcon": {
     "description": "[flag_brazil_m_color]",
-    "basename": "flag_brazil_m_color",
     "web": "BrazilMColorIcon",
     "webComponent": "import { BrazilMColorIcon } from '@alfalab/icons-flag/BrazilMColorIcon';",
     "android": "flag_brazil_m_color",
@@ -375,7 +341,6 @@
   },
   "BritishColumbiaMColorIcon": {
     "description": "[flag_british_columbia_m_color]",
-    "basename": "flag_british-columbia_m_color",
     "web": "BritishColumbiaMColorIcon",
     "webComponent": "import { BritishColumbiaMColorIcon } from '@alfalab/icons-flag/BritishColumbiaMColorIcon';",
     "android": "flag_british_columbia_m_color",
@@ -386,7 +351,6 @@
   },
   "BritishIndianOceanTerritoryMColorIcon": {
     "description": "[flag_british_indian_ocean_territory_m_color]",
-    "basename": "flag_british-indian-ocean-territory_m_color",
     "web": "BritishIndianOceanTerritoryMColorIcon",
     "webComponent": "import { BritishIndianOceanTerritoryMColorIcon } from '@alfalab/icons-flag/BritishIndianOceanTerritoryMColorIcon';",
     "android": "flag_british_indian_ocean_territory_m_color",
@@ -397,7 +361,6 @@
   },
   "BritishVirginIslandsMColorIcon": {
     "description": "[flag_british_virgin_islands_m_color]",
-    "basename": "flag_british-virgin-islands_m_color",
     "web": "BritishVirginIslandsMColorIcon",
     "webComponent": "import { BritishVirginIslandsMColorIcon } from '@alfalab/icons-flag/BritishVirginIslandsMColorIcon';",
     "android": "flag_british_virgin_islands_m_color",
@@ -408,7 +371,6 @@
   },
   "BruneiMColorIcon": {
     "description": "[flag_brunei_m_color]",
-    "basename": "flag_brunei_m_color",
     "web": "BruneiMColorIcon",
     "webComponent": "import { BruneiMColorIcon } from '@alfalab/icons-flag/BruneiMColorIcon';",
     "android": "flag_brunei_m_color",
@@ -419,7 +381,6 @@
   },
   "BulgariaMColorIcon": {
     "description": "[flag_bulgaria_m_color]",
-    "basename": "flag_bulgaria_m_color",
     "web": "BulgariaMColorIcon",
     "webComponent": "import { BulgariaMColorIcon } from '@alfalab/icons-flag/BulgariaMColorIcon';",
     "android": "flag_bulgaria_m_color",
@@ -430,7 +391,6 @@
   },
   "BurkinaFasoMColorIcon": {
     "description": "[flag_burkina_faso_m_color]",
-    "basename": "flag_burkina-faso_m_color",
     "web": "BurkinaFasoMColorIcon",
     "webComponent": "import { BurkinaFasoMColorIcon } from '@alfalab/icons-flag/BurkinaFasoMColorIcon';",
     "android": "flag_burkina_faso_m_color",
@@ -441,7 +401,6 @@
   },
   "BurundiMColorIcon": {
     "description": "[flag_burundi_m_color]",
-    "basename": "flag_burundi_m_color",
     "web": "BurundiMColorIcon",
     "webComponent": "import { BurundiMColorIcon } from '@alfalab/icons-flag/BurundiMColorIcon';",
     "android": "flag_burundi_m_color",
@@ -452,7 +411,6 @@
   },
   "CambodiaMColorIcon": {
     "description": "[flag_cambodia_m_color]",
-    "basename": "flag_cambodia_m_color",
     "web": "CambodiaMColorIcon",
     "webComponent": "import { CambodiaMColorIcon } from '@alfalab/icons-flag/CambodiaMColorIcon';",
     "android": "flag_cambodia_m_color",
@@ -463,7 +421,6 @@
   },
   "CameroonMColorIcon": {
     "description": "[flag_cameroon_m_color]",
-    "basename": "flag_cameroon_m_color",
     "web": "CameroonMColorIcon",
     "webComponent": "import { CameroonMColorIcon } from '@alfalab/icons-flag/CameroonMColorIcon';",
     "android": "flag_cameroon_m_color",
@@ -474,7 +431,6 @@
   },
   "CanadaMColorIcon": {
     "description": "[flag_canada_m_color]",
-    "basename": "flag_canada_m_color",
     "web": "CanadaMColorIcon",
     "webComponent": "import { CanadaMColorIcon } from '@alfalab/icons-flag/CanadaMColorIcon';",
     "android": "flag_canada_m_color",
@@ -485,7 +441,6 @@
   },
   "CanaryIslandsMColorIcon": {
     "description": "[flag_canary_islands_m_color]",
-    "basename": "flag_canary-islands_m_color",
     "web": "CanaryIslandsMColorIcon",
     "webComponent": "import { CanaryIslandsMColorIcon } from '@alfalab/icons-flag/CanaryIslandsMColorIcon';",
     "android": "flag_canary_islands_m_color",
@@ -496,7 +451,6 @@
   },
   "CapeVerdeMColorIcon": {
     "description": "[flag_cape_verde_m_color]",
-    "basename": "flag_cape-verde_m_color",
     "web": "CapeVerdeMColorIcon",
     "webComponent": "import { CapeVerdeMColorIcon } from '@alfalab/icons-flag/CapeVerdeMColorIcon';",
     "android": "flag_cape_verde_m_color",
@@ -507,7 +461,6 @@
   },
   "CaymanIslandsMColorIcon": {
     "description": "[flag_cayman_islands_m_color]",
-    "basename": "flag_cayman-islands_m_color",
     "web": "CaymanIslandsMColorIcon",
     "webComponent": "import { CaymanIslandsMColorIcon } from '@alfalab/icons-flag/CaymanIslandsMColorIcon';",
     "android": "flag_cayman_islands_m_color",
@@ -518,7 +471,6 @@
   },
   "CentralAfricanRepublicMColorIcon": {
     "description": "[flag_central_african_republic_m_color]",
-    "basename": "flag_central-african-republic_m_color",
     "web": "CentralAfricanRepublicMColorIcon",
     "webComponent": "import { CentralAfricanRepublicMColorIcon } from '@alfalab/icons-flag/CentralAfricanRepublicMColorIcon';",
     "android": "flag_central_african_republic_m_color",
@@ -529,7 +481,6 @@
   },
   "CeutaMColorIcon": {
     "description": "[flag_ceuta_m_color]",
-    "basename": "flag_ceuta_m_color",
     "web": "CeutaMColorIcon",
     "webComponent": "import { CeutaMColorIcon } from '@alfalab/icons-flag/CeutaMColorIcon';",
     "android": "flag_ceuta_m_color",
@@ -540,7 +491,6 @@
   },
   "ChadMColorIcon": {
     "description": "[flag_chad_m_color]",
-    "basename": "flag_chad_m_color",
     "web": "ChadMColorIcon",
     "webComponent": "import { ChadMColorIcon } from '@alfalab/icons-flag/ChadMColorIcon';",
     "android": "flag_chad_m_color",
@@ -551,7 +501,6 @@
   },
   "ChileMColorIcon": {
     "description": "[flag_chile_m_color]",
-    "basename": "flag_chile_m_color",
     "web": "ChileMColorIcon",
     "webComponent": "import { ChileMColorIcon } from '@alfalab/icons-flag/ChileMColorIcon';",
     "android": "flag_chile_m_color",
@@ -562,7 +511,6 @@
   },
   "ChinaMColorIcon": {
     "description": "[flag_china_m_color]",
-    "basename": "flag_china_m_color",
     "web": "ChinaMColorIcon",
     "webComponent": "import { ChinaMColorIcon } from '@alfalab/icons-flag/ChinaMColorIcon';",
     "android": "flag_china_m_color",
@@ -573,7 +521,6 @@
   },
   "ChristmasIslandMColorIcon": {
     "description": "[flag_christmas_island_m_color]",
-    "basename": "flag_christmas-island_m_color",
     "web": "ChristmasIslandMColorIcon",
     "webComponent": "import { ChristmasIslandMColorIcon } from '@alfalab/icons-flag/ChristmasIslandMColorIcon';",
     "android": "flag_christmas_island_m_color",
@@ -584,7 +531,6 @@
   },
   "CocosIslandMColorIcon": {
     "description": "[flag_cocos_island_m_color]",
-    "basename": "flag_cocos-island_m_color",
     "web": "CocosIslandMColorIcon",
     "webComponent": "import { CocosIslandMColorIcon } from '@alfalab/icons-flag/CocosIslandMColorIcon';",
     "android": "flag_cocos_island_m_color",
@@ -595,7 +541,6 @@
   },
   "ColombiaMColorIcon": {
     "description": "[flag_colombia_m_color]",
-    "basename": "flag_colombia_m_color",
     "web": "ColombiaMColorIcon",
     "webComponent": "import { ColombiaMColorIcon } from '@alfalab/icons-flag/ColombiaMColorIcon';",
     "android": "flag_colombia_m_color",
@@ -606,7 +551,6 @@
   },
   "ComorosMColorIcon": {
     "description": "[flag_comoros_m_color]",
-    "basename": "flag_comoros_m_color",
     "web": "ComorosMColorIcon",
     "webComponent": "import { ComorosMColorIcon } from '@alfalab/icons-flag/ComorosMColorIcon';",
     "android": "flag_comoros_m_color",
@@ -617,7 +561,6 @@
   },
   "CookIslandsMColorIcon": {
     "description": "[flag_cook_islands_m_color]",
-    "basename": "flag_cook-islands_m_color",
     "web": "CookIslandsMColorIcon",
     "webComponent": "import { CookIslandsMColorIcon } from '@alfalab/icons-flag/CookIslandsMColorIcon';",
     "android": "flag_cook_islands_m_color",
@@ -628,7 +571,6 @@
   },
   "CorsicaMColorIcon": {
     "description": "[flag_corsica_m_color]",
-    "basename": "flag_corsica_m_color",
     "web": "CorsicaMColorIcon",
     "webComponent": "import { CorsicaMColorIcon } from '@alfalab/icons-flag/CorsicaMColorIcon';",
     "android": "flag_corsica_m_color",
@@ -639,7 +581,6 @@
   },
   "CostaRicaMColorIcon": {
     "description": "[flag_costa_rica_m_color]",
-    "basename": "flag_costa-rica_m_color",
     "web": "CostaRicaMColorIcon",
     "webComponent": "import { CostaRicaMColorIcon } from '@alfalab/icons-flag/CostaRicaMColorIcon';",
     "android": "flag_costa_rica_m_color",
@@ -650,7 +591,6 @@
   },
   "CroatiaMColorIcon": {
     "description": "[flag_croatia_m_color]",
-    "basename": "flag_croatia_m_color",
     "web": "CroatiaMColorIcon",
     "webComponent": "import { CroatiaMColorIcon } from '@alfalab/icons-flag/CroatiaMColorIcon';",
     "android": "flag_croatia_m_color",
@@ -661,7 +601,6 @@
   },
   "CubaMColorIcon": {
     "description": "[flag_cuba_m_color]",
-    "basename": "flag_cuba_m_color",
     "web": "CubaMColorIcon",
     "webComponent": "import { CubaMColorIcon } from '@alfalab/icons-flag/CubaMColorIcon';",
     "android": "flag_cuba_m_color",
@@ -672,7 +611,6 @@
   },
   "CuracaoMColorIcon": {
     "description": "[flag_curacao_m_color]",
-    "basename": "flag_curacao_m_color",
     "web": "CuracaoMColorIcon",
     "webComponent": "import { CuracaoMColorIcon } from '@alfalab/icons-flag/CuracaoMColorIcon';",
     "android": "flag_curacao_m_color",
@@ -683,7 +621,6 @@
   },
   "CyprusMColorIcon": {
     "description": "[flag_cyprus_m_color]",
-    "basename": "flag_cyprus_m_color",
     "web": "CyprusMColorIcon",
     "webComponent": "import { CyprusMColorIcon } from '@alfalab/icons-flag/CyprusMColorIcon';",
     "android": "flag_cyprus_m_color",
@@ -694,7 +631,6 @@
   },
   "CzechRepublicMColorIcon": {
     "description": "[flag_czech_republic_m_color]",
-    "basename": "flag_czech-republic_m_color",
     "web": "CzechRepublicMColorIcon",
     "webComponent": "import { CzechRepublicMColorIcon } from '@alfalab/icons-flag/CzechRepublicMColorIcon';",
     "android": "flag_czech_republic_m_color",
@@ -705,7 +641,6 @@
   },
   "DemocraticRepublicOfCongoMColorIcon": {
     "description": "[flag_democratic_republic_of_congo_m_color]",
-    "basename": "flag_democratic-republic-of-congo_m_color",
     "web": "DemocraticRepublicOfCongoMColorIcon",
     "webComponent": "import { DemocraticRepublicOfCongoMColorIcon } from '@alfalab/icons-flag/DemocraticRepublicOfCongoMColorIcon';",
     "android": "flag_democratic_republic_of_congo_m_color",
@@ -716,7 +651,6 @@
   },
   "DenmarkMColorIcon": {
     "description": "[flag_denmark_m_color]",
-    "basename": "flag_denmark_m_color",
     "web": "DenmarkMColorIcon",
     "webComponent": "import { DenmarkMColorIcon } from '@alfalab/icons-flag/DenmarkMColorIcon';",
     "android": "flag_denmark_m_color",
@@ -727,7 +661,6 @@
   },
   "DjiboutiMColorIcon": {
     "description": "[flag_djibouti_m_color]",
-    "basename": "flag_djibouti_m_color",
     "web": "DjiboutiMColorIcon",
     "webComponent": "import { DjiboutiMColorIcon } from '@alfalab/icons-flag/DjiboutiMColorIcon';",
     "android": "flag_djibouti_m_color",
@@ -738,7 +671,6 @@
   },
   "DominicaMColorIcon": {
     "description": "[flag_dominica_m_color]",
-    "basename": "flag_dominica_m_color",
     "web": "DominicaMColorIcon",
     "webComponent": "import { DominicaMColorIcon } from '@alfalab/icons-flag/DominicaMColorIcon';",
     "android": "flag_dominica_m_color",
@@ -749,7 +681,6 @@
   },
   "DominicanRepublicMColorIcon": {
     "description": "[flag_dominican_republic_m_color]",
-    "basename": "flag_dominican-republic_m_color",
     "web": "DominicanRepublicMColorIcon",
     "webComponent": "import { DominicanRepublicMColorIcon } from '@alfalab/icons-flag/DominicanRepublicMColorIcon';",
     "android": "flag_dominican_republic_m_color",
@@ -760,7 +691,6 @@
   },
   "EastTimorMColorIcon": {
     "description": "[flag_east_timor_m_color]",
-    "basename": "flag_east-timor_m_color",
     "web": "EastTimorMColorIcon",
     "webComponent": "import { EastTimorMColorIcon } from '@alfalab/icons-flag/EastTimorMColorIcon';",
     "android": "flag_east_timor_m_color",
@@ -771,7 +701,6 @@
   },
   "EcuadorMColorIcon": {
     "description": "[flag_ecuador_m_color]",
-    "basename": "flag_ecuador_m_color",
     "web": "EcuadorMColorIcon",
     "webComponent": "import { EcuadorMColorIcon } from '@alfalab/icons-flag/EcuadorMColorIcon';",
     "android": "flag_ecuador_m_color",
@@ -782,7 +711,6 @@
   },
   "EgyptMColorIcon": {
     "description": "[flag_egypt_m_color]",
-    "basename": "flag_egypt_m_color",
     "web": "EgyptMColorIcon",
     "webComponent": "import { EgyptMColorIcon } from '@alfalab/icons-flag/EgyptMColorIcon';",
     "android": "flag_egypt_m_color",
@@ -793,7 +721,6 @@
   },
   "ElSalvadorMColorIcon": {
     "description": "[flag_el_salvador_m_color]",
-    "basename": "flag_el-salvador_m_color",
     "web": "ElSalvadorMColorIcon",
     "webComponent": "import { ElSalvadorMColorIcon } from '@alfalab/icons-flag/ElSalvadorMColorIcon';",
     "android": "flag_el_salvador_m_color",
@@ -804,7 +731,6 @@
   },
   "EnglandMColorIcon": {
     "description": "[flag_england_m_color]",
-    "basename": "flag_england_m_color",
     "web": "EnglandMColorIcon",
     "webComponent": "import { EnglandMColorIcon } from '@alfalab/icons-flag/EnglandMColorIcon';",
     "android": "flag_england_m_color",
@@ -815,7 +741,6 @@
   },
   "EquatorialGuineaMColorIcon": {
     "description": "[flag_equatorial_guinea_m_color]",
-    "basename": "flag_equatorial-guinea_m_color",
     "web": "EquatorialGuineaMColorIcon",
     "webComponent": "import { EquatorialGuineaMColorIcon } from '@alfalab/icons-flag/EquatorialGuineaMColorIcon';",
     "android": "flag_equatorial_guinea_m_color",
@@ -826,7 +751,6 @@
   },
   "EritreaMColorIcon": {
     "description": "[flag_eritrea_m_color]",
-    "basename": "flag_eritrea_m_color",
     "web": "EritreaMColorIcon",
     "webComponent": "import { EritreaMColorIcon } from '@alfalab/icons-flag/EritreaMColorIcon';",
     "android": "flag_eritrea_m_color",
@@ -837,7 +761,6 @@
   },
   "EstoniaMColorIcon": {
     "description": "[flag_estonia_m_color]",
-    "basename": "flag_estonia_m_color",
     "web": "EstoniaMColorIcon",
     "webComponent": "import { EstoniaMColorIcon } from '@alfalab/icons-flag/EstoniaMColorIcon';",
     "android": "flag_estonia_m_color",
@@ -848,7 +771,6 @@
   },
   "EthiopiaMColorIcon": {
     "description": "[flag_ethiopia_m_color]",
-    "basename": "flag_ethiopia_m_color",
     "web": "EthiopiaMColorIcon",
     "webComponent": "import { EthiopiaMColorIcon } from '@alfalab/icons-flag/EthiopiaMColorIcon';",
     "android": "flag_ethiopia_m_color",
@@ -859,7 +781,6 @@
   },
   "EuropeanUnionMColorIcon": {
     "description": "[flag_european_union_m_color]",
-    "basename": "flag_european-union_m_color",
     "web": "EuropeanUnionMColorIcon",
     "webComponent": "import { EuropeanUnionMColorIcon } from '@alfalab/icons-flag/EuropeanUnionMColorIcon';",
     "android": "flag_european_union_m_color",
@@ -870,7 +791,6 @@
   },
   "FalklandIslandsMColorIcon": {
     "description": "[flag_falkland_islands_m_color]",
-    "basename": "flag_falkland-islands_m_color",
     "web": "FalklandIslandsMColorIcon",
     "webComponent": "import { FalklandIslandsMColorIcon } from '@alfalab/icons-flag/FalklandIslandsMColorIcon';",
     "android": "flag_falkland_islands_m_color",
@@ -881,7 +801,6 @@
   },
   "FaroeIslandsMColorIcon": {
     "description": "[flag_faroe_islands_m_color]",
-    "basename": "flag_faroe-islands_m_color",
     "web": "FaroeIslandsMColorIcon",
     "webComponent": "import { FaroeIslandsMColorIcon } from '@alfalab/icons-flag/FaroeIslandsMColorIcon';",
     "android": "flag_faroe_islands_m_color",
@@ -892,7 +811,6 @@
   },
   "FijiMColorIcon": {
     "description": "[flag_fiji_m_color]",
-    "basename": "flag_fiji_m_color",
     "web": "FijiMColorIcon",
     "webComponent": "import { FijiMColorIcon } from '@alfalab/icons-flag/FijiMColorIcon';",
     "android": "flag_fiji_m_color",
@@ -903,7 +821,6 @@
   },
   "FinlandMColorIcon": {
     "description": "[flag_finland_m_color]",
-    "basename": "flag_finland_m_color",
     "web": "FinlandMColorIcon",
     "webComponent": "import { FinlandMColorIcon } from '@alfalab/icons-flag/FinlandMColorIcon';",
     "android": "flag_finland_m_color",
@@ -914,7 +831,6 @@
   },
   "FranceMColorIcon": {
     "description": "[flag_france_m_color]",
-    "basename": "flag_france_m_color",
     "web": "FranceMColorIcon",
     "webComponent": "import { FranceMColorIcon } from '@alfalab/icons-flag/FranceMColorIcon';",
     "android": "flag_france_m_color",
@@ -925,7 +841,6 @@
   },
   "FrenchPolynesiaMColorIcon": {
     "description": "[flag_french_polynesia_m_color]",
-    "basename": "flag_french-polynesia_m_color",
     "web": "FrenchPolynesiaMColorIcon",
     "webComponent": "import { FrenchPolynesiaMColorIcon } from '@alfalab/icons-flag/FrenchPolynesiaMColorIcon';",
     "android": "flag_french_polynesia_m_color",
@@ -936,7 +851,6 @@
   },
   "GabonMColorIcon": {
     "description": "[flag_gabon_m_color]",
-    "basename": "flag_gabon_m_color",
     "web": "GabonMColorIcon",
     "webComponent": "import { GabonMColorIcon } from '@alfalab/icons-flag/GabonMColorIcon';",
     "android": "flag_gabon_m_color",
@@ -947,7 +861,6 @@
   },
   "GalapagosIslandsMColorIcon": {
     "description": "[flag_galapagos_islands_m_color]",
-    "basename": "flag_galapagos-islands_m_color",
     "web": "GalapagosIslandsMColorIcon",
     "webComponent": "import { GalapagosIslandsMColorIcon } from '@alfalab/icons-flag/GalapagosIslandsMColorIcon';",
     "android": "flag_galapagos_islands_m_color",
@@ -958,7 +871,6 @@
   },
   "GambiaMColorIcon": {
     "description": "[flag_gambia_m_color]",
-    "basename": "flag_gambia_m_color",
     "web": "GambiaMColorIcon",
     "webComponent": "import { GambiaMColorIcon } from '@alfalab/icons-flag/GambiaMColorIcon';",
     "android": "flag_gambia_m_color",
@@ -969,7 +881,6 @@
   },
   "GeorgiaMColorIcon": {
     "description": "[flag_georgia_m_color]",
-    "basename": "flag_georgia_m_color",
     "web": "GeorgiaMColorIcon",
     "webComponent": "import { GeorgiaMColorIcon } from '@alfalab/icons-flag/GeorgiaMColorIcon';",
     "android": "flag_georgia_m_color",
@@ -980,7 +891,6 @@
   },
   "GermanyMColorIcon": {
     "description": "[flag_germany_m_color]",
-    "basename": "flag_germany_m_color",
     "web": "GermanyMColorIcon",
     "webComponent": "import { GermanyMColorIcon } from '@alfalab/icons-flag/GermanyMColorIcon';",
     "android": "flag_germany_m_color",
@@ -991,7 +901,6 @@
   },
   "GhanaMColorIcon": {
     "description": "[flag_ghana_m_color]",
-    "basename": "flag_ghana_m_color",
     "web": "GhanaMColorIcon",
     "webComponent": "import { GhanaMColorIcon } from '@alfalab/icons-flag/GhanaMColorIcon';",
     "android": "flag_ghana_m_color",
@@ -1002,7 +911,6 @@
   },
   "GibraltarMColorIcon": {
     "description": "[flag_gibraltar_m_color]",
-    "basename": "flag_gibraltar_m_color",
     "web": "GibraltarMColorIcon",
     "webComponent": "import { GibraltarMColorIcon } from '@alfalab/icons-flag/GibraltarMColorIcon';",
     "android": "flag_gibraltar_m_color",
@@ -1013,7 +921,6 @@
   },
   "GreeceMColorIcon": {
     "description": "[flag_greece_m_color]",
-    "basename": "flag_greece_m_color",
     "web": "GreeceMColorIcon",
     "webComponent": "import { GreeceMColorIcon } from '@alfalab/icons-flag/GreeceMColorIcon';",
     "android": "flag_greece_m_color",
@@ -1024,7 +931,6 @@
   },
   "GreenlandMColorIcon": {
     "description": "[flag_greenland_m_color]",
-    "basename": "flag_greenland_m_color",
     "web": "GreenlandMColorIcon",
     "webComponent": "import { GreenlandMColorIcon } from '@alfalab/icons-flag/GreenlandMColorIcon';",
     "android": "flag_greenland_m_color",
@@ -1035,7 +941,6 @@
   },
   "GrenadaMColorIcon": {
     "description": "[flag_grenada_m_color]",
-    "basename": "flag_grenada_m_color",
     "web": "GrenadaMColorIcon",
     "webComponent": "import { GrenadaMColorIcon } from '@alfalab/icons-flag/GrenadaMColorIcon';",
     "android": "flag_grenada_m_color",
@@ -1046,7 +951,6 @@
   },
   "GuamMColorIcon": {
     "description": "[flag_guam_m_color]",
-    "basename": "flag_guam_m_color",
     "web": "GuamMColorIcon",
     "webComponent": "import { GuamMColorIcon } from '@alfalab/icons-flag/GuamMColorIcon';",
     "android": "flag_guam_m_color",
@@ -1057,7 +961,6 @@
   },
   "GuatemalaMColorIcon": {
     "description": "[flag_guatemala_m_color]",
-    "basename": "flag_guatemala_m_color",
     "web": "GuatemalaMColorIcon",
     "webComponent": "import { GuatemalaMColorIcon } from '@alfalab/icons-flag/GuatemalaMColorIcon';",
     "android": "flag_guatemala_m_color",
@@ -1068,7 +971,6 @@
   },
   "GuernseyMColorIcon": {
     "description": "[flag_guernsey_m_color]",
-    "basename": "flag_guernsey_m_color",
     "web": "GuernseyMColorIcon",
     "webComponent": "import { GuernseyMColorIcon } from '@alfalab/icons-flag/GuernseyMColorIcon';",
     "android": "flag_guernsey_m_color",
@@ -1079,7 +981,6 @@
   },
   "GuineaBissauMColorIcon": {
     "description": "[flag_guinea_bissau_m_color]",
-    "basename": "flag_guinea-bissau_m_color",
     "web": "GuineaBissauMColorIcon",
     "webComponent": "import { GuineaBissauMColorIcon } from '@alfalab/icons-flag/GuineaBissauMColorIcon';",
     "android": "flag_guinea_bissau_m_color",
@@ -1090,7 +991,6 @@
   },
   "GuineaMColorIcon": {
     "description": "[flag_guinea_m_color]",
-    "basename": "flag_guinea_m_color",
     "web": "GuineaMColorIcon",
     "webComponent": "import { GuineaMColorIcon } from '@alfalab/icons-flag/GuineaMColorIcon';",
     "android": "flag_guinea_m_color",
@@ -1101,7 +1001,6 @@
   },
   "GuyanaMColorIcon": {
     "description": "[flag_guyana_m_color]",
-    "basename": "flag_guyana_m_color",
     "web": "GuyanaMColorIcon",
     "webComponent": "import { GuyanaMColorIcon } from '@alfalab/icons-flag/GuyanaMColorIcon';",
     "android": "flag_guyana_m_color",
@@ -1112,7 +1011,6 @@
   },
   "HaitiMColorIcon": {
     "description": "[flag_haiti_m_color]",
-    "basename": "flag_haiti_m_color",
     "web": "HaitiMColorIcon",
     "webComponent": "import { HaitiMColorIcon } from '@alfalab/icons-flag/HaitiMColorIcon';",
     "android": "flag_haiti_m_color",
@@ -1123,7 +1021,6 @@
   },
   "HawaiiMColorIcon": {
     "description": "[flag_hawaii_m_color]",
-    "basename": "flag_hawaii_m_color",
     "web": "HawaiiMColorIcon",
     "webComponent": "import { HawaiiMColorIcon } from '@alfalab/icons-flag/HawaiiMColorIcon';",
     "android": "flag_hawaii_m_color",
@@ -1134,7 +1031,6 @@
   },
   "HondurasMColorIcon": {
     "description": "[flag_honduras_m_color]",
-    "basename": "flag_honduras_m_color",
     "web": "HondurasMColorIcon",
     "webComponent": "import { HondurasMColorIcon } from '@alfalab/icons-flag/HondurasMColorIcon';",
     "android": "flag_honduras_m_color",
@@ -1145,7 +1041,6 @@
   },
   "HongKongMColorIcon": {
     "description": "[flag_hong_kong_m_color]",
-    "basename": "flag_hong-kong_m_color",
     "web": "HongKongMColorIcon",
     "webComponent": "import { HongKongMColorIcon } from '@alfalab/icons-flag/HongKongMColorIcon';",
     "android": "flag_hong_kong_m_color",
@@ -1156,7 +1051,6 @@
   },
   "HungaryMColorIcon": {
     "description": "[flag_hungary_m_color]",
-    "basename": "flag_hungary_m_color",
     "web": "HungaryMColorIcon",
     "webComponent": "import { HungaryMColorIcon } from '@alfalab/icons-flag/HungaryMColorIcon';",
     "android": "flag_hungary_m_color",
@@ -1167,7 +1061,6 @@
   },
   "IcelandMColorIcon": {
     "description": "[flag_iceland_m_color]",
-    "basename": "flag_iceland_m_color",
     "web": "IcelandMColorIcon",
     "webComponent": "import { IcelandMColorIcon } from '@alfalab/icons-flag/IcelandMColorIcon';",
     "android": "flag_iceland_m_color",
@@ -1178,7 +1071,6 @@
   },
   "IndiaMColorIcon": {
     "description": "[flag_india_m_color]",
-    "basename": "flag_india_m_color",
     "web": "IndiaMColorIcon",
     "webComponent": "import { IndiaMColorIcon } from '@alfalab/icons-flag/IndiaMColorIcon';",
     "android": "flag_india_m_color",
@@ -1189,7 +1081,6 @@
   },
   "IndonesiaMColorIcon": {
     "description": "[flag_indonesia_m_color]",
-    "basename": "flag_indonesia_m_color",
     "web": "IndonesiaMColorIcon",
     "webComponent": "import { IndonesiaMColorIcon } from '@alfalab/icons-flag/IndonesiaMColorIcon';",
     "android": "flag_indonesia_m_color",
@@ -1200,7 +1091,6 @@
   },
   "IranMColorIcon": {
     "description": "[flag_iran_m_color]",
-    "basename": "flag_iran_m_color",
     "web": "IranMColorIcon",
     "webComponent": "import { IranMColorIcon } from '@alfalab/icons-flag/IranMColorIcon';",
     "android": "flag_iran_m_color",
@@ -1211,7 +1101,6 @@
   },
   "IraqMColorIcon": {
     "description": "[flag_iraq_m_color]",
-    "basename": "flag_iraq_m_color",
     "web": "IraqMColorIcon",
     "webComponent": "import { IraqMColorIcon } from '@alfalab/icons-flag/IraqMColorIcon';",
     "android": "flag_iraq_m_color",
@@ -1222,7 +1111,6 @@
   },
   "IrelandMColorIcon": {
     "description": "[flag_ireland_m_color]",
-    "basename": "flag_ireland_m_color",
     "web": "IrelandMColorIcon",
     "webComponent": "import { IrelandMColorIcon } from '@alfalab/icons-flag/IrelandMColorIcon';",
     "android": "flag_ireland_m_color",
@@ -1233,7 +1121,6 @@
   },
   "IsleOfManMColorIcon": {
     "description": "[flag_isle_of_man_m_color]",
-    "basename": "flag_isle-of-man_m_color",
     "web": "IsleOfManMColorIcon",
     "webComponent": "import { IsleOfManMColorIcon } from '@alfalab/icons-flag/IsleOfManMColorIcon';",
     "android": "flag_isle_of_man_m_color",
@@ -1244,7 +1131,6 @@
   },
   "IsraelMColorIcon": {
     "description": "[flag_israel_m_color]",
-    "basename": "flag_israel_m_color",
     "web": "IsraelMColorIcon",
     "webComponent": "import { IsraelMColorIcon } from '@alfalab/icons-flag/IsraelMColorIcon';",
     "android": "flag_israel_m_color",
@@ -1255,7 +1141,6 @@
   },
   "ItalyMColorIcon": {
     "description": "[flag_italy_m_color]",
-    "basename": "flag_italy_m_color",
     "web": "ItalyMColorIcon",
     "webComponent": "import { ItalyMColorIcon } from '@alfalab/icons-flag/ItalyMColorIcon';",
     "android": "flag_italy_m_color",
@@ -1266,7 +1151,6 @@
   },
   "IvoryCoastMColorIcon": {
     "description": "[flag_ivory_coast_m_color]",
-    "basename": "flag_ivory-coast_m_color",
     "web": "IvoryCoastMColorIcon",
     "webComponent": "import { IvoryCoastMColorIcon } from '@alfalab/icons-flag/IvoryCoastMColorIcon';",
     "android": "flag_ivory_coast_m_color",
@@ -1277,7 +1161,6 @@
   },
   "JamaicaMColorIcon": {
     "description": "[flag_jamaica_m_color]",
-    "basename": "flag_jamaica_m_color",
     "web": "JamaicaMColorIcon",
     "webComponent": "import { JamaicaMColorIcon } from '@alfalab/icons-flag/JamaicaMColorIcon';",
     "android": "flag_jamaica_m_color",
@@ -1288,7 +1171,6 @@
   },
   "JapanMColorIcon": {
     "description": "[flag_japan_m_color]",
-    "basename": "flag_japan_m_color",
     "web": "JapanMColorIcon",
     "webComponent": "import { JapanMColorIcon } from '@alfalab/icons-flag/JapanMColorIcon';",
     "android": "flag_japan_m_color",
@@ -1299,7 +1181,6 @@
   },
   "JerseyMColorIcon": {
     "description": "[flag_jersey_m_color]",
-    "basename": "flag_jersey_m_color",
     "web": "JerseyMColorIcon",
     "webComponent": "import { JerseyMColorIcon } from '@alfalab/icons-flag/JerseyMColorIcon';",
     "android": "flag_jersey_m_color",
@@ -1310,7 +1191,6 @@
   },
   "JordanMColorIcon": {
     "description": "[flag_jordan_m_color]",
-    "basename": "flag_jordan_m_color",
     "web": "JordanMColorIcon",
     "webComponent": "import { JordanMColorIcon } from '@alfalab/icons-flag/JordanMColorIcon';",
     "android": "flag_jordan_m_color",
@@ -1321,7 +1201,6 @@
   },
   "KazakhstanMColorIcon": {
     "description": "[flag_kazakhstan_m_color]",
-    "basename": "flag_kazakhstan_m_color",
     "web": "KazakhstanMColorIcon",
     "webComponent": "import { KazakhstanMColorIcon } from '@alfalab/icons-flag/KazakhstanMColorIcon';",
     "android": "flag_kazakhstan_m_color",
@@ -1332,7 +1211,6 @@
   },
   "KenyaMColorIcon": {
     "description": "[flag_kenya_m_color]",
-    "basename": "flag_kenya_m_color",
     "web": "KenyaMColorIcon",
     "webComponent": "import { KenyaMColorIcon } from '@alfalab/icons-flag/KenyaMColorIcon';",
     "android": "flag_kenya_m_color",
@@ -1343,7 +1221,6 @@
   },
   "KiribatiMColorIcon": {
     "description": "[flag_kiribati_m_color]",
-    "basename": "flag_kiribati_m_color",
     "web": "KiribatiMColorIcon",
     "webComponent": "import { KiribatiMColorIcon } from '@alfalab/icons-flag/KiribatiMColorIcon';",
     "android": "flag_kiribati_m_color",
@@ -1354,7 +1231,6 @@
   },
   "KosovoMColorIcon": {
     "description": "[flag_kosovo_m_color]",
-    "basename": "flag_kosovo_m_color",
     "web": "KosovoMColorIcon",
     "webComponent": "import { KosovoMColorIcon } from '@alfalab/icons-flag/KosovoMColorIcon';",
     "android": "flag_kosovo_m_color",
@@ -1365,7 +1241,6 @@
   },
   "KuwaitMColorIcon": {
     "description": "[flag_kuwait_m_color]",
-    "basename": "flag_kuwait_m_color",
     "web": "KuwaitMColorIcon",
     "webComponent": "import { KuwaitMColorIcon } from '@alfalab/icons-flag/KuwaitMColorIcon';",
     "android": "flag_kuwait_m_color",
@@ -1376,7 +1251,6 @@
   },
   "KwaitMColorIcon": {
     "description": "[flag_kwait_m_color]",
-    "basename": "flag_kwait_m_color",
     "web": "KwaitMColorIcon",
     "webComponent": "import { KwaitMColorIcon } from '@alfalab/icons-flag/KwaitMColorIcon';",
     "android": "flag_kwait_m_color",
@@ -1387,7 +1261,6 @@
   },
   "KyrgyzstanMColorIcon": {
     "description": "[flag_kyrgyzstan_m_color]",
-    "basename": "flag_kyrgyzstan_m_color",
     "web": "KyrgyzstanMColorIcon",
     "webComponent": "import { KyrgyzstanMColorIcon } from '@alfalab/icons-flag/KyrgyzstanMColorIcon';",
     "android": "flag_kyrgyzstan_m_color",
@@ -1398,7 +1271,6 @@
   },
   "LaosMColorIcon": {
     "description": "[flag_laos_m_color]",
-    "basename": "flag_laos_m_color",
     "web": "LaosMColorIcon",
     "webComponent": "import { LaosMColorIcon } from '@alfalab/icons-flag/LaosMColorIcon';",
     "android": "flag_laos_m_color",
@@ -1409,7 +1281,6 @@
   },
   "LatviaMColorIcon": {
     "description": "[flag_latvia_m_color]",
-    "basename": "flag_latvia_m_color",
     "web": "LatviaMColorIcon",
     "webComponent": "import { LatviaMColorIcon } from '@alfalab/icons-flag/LatviaMColorIcon';",
     "android": "flag_latvia_m_color",
@@ -1420,7 +1291,6 @@
   },
   "LebanonMColorIcon": {
     "description": "[flag_lebanon_m_color]",
-    "basename": "flag_lebanon_m_color",
     "web": "LebanonMColorIcon",
     "webComponent": "import { LebanonMColorIcon } from '@alfalab/icons-flag/LebanonMColorIcon';",
     "android": "flag_lebanon_m_color",
@@ -1431,7 +1301,6 @@
   },
   "LesothoMColorIcon": {
     "description": "[flag_lesotho_m_color]",
-    "basename": "flag_lesotho_m_color",
     "web": "LesothoMColorIcon",
     "webComponent": "import { LesothoMColorIcon } from '@alfalab/icons-flag/LesothoMColorIcon';",
     "android": "flag_lesotho_m_color",
@@ -1442,7 +1311,6 @@
   },
   "LiberiaMColorIcon": {
     "description": "[flag_liberia_m_color]",
-    "basename": "flag_liberia_m_color",
     "web": "LiberiaMColorIcon",
     "webComponent": "import { LiberiaMColorIcon } from '@alfalab/icons-flag/LiberiaMColorIcon';",
     "android": "flag_liberia_m_color",
@@ -1453,7 +1321,6 @@
   },
   "LibyaMColorIcon": {
     "description": "[flag_libya_m_color]",
-    "basename": "flag_libya_m_color",
     "web": "LibyaMColorIcon",
     "webComponent": "import { LibyaMColorIcon } from '@alfalab/icons-flag/LibyaMColorIcon';",
     "android": "flag_libya_m_color",
@@ -1464,7 +1331,6 @@
   },
   "LiechtensteinMColorIcon": {
     "description": "[flag_liechtenstein_m_color]",
-    "basename": "flag_liechtenstein_m_color",
     "web": "LiechtensteinMColorIcon",
     "webComponent": "import { LiechtensteinMColorIcon } from '@alfalab/icons-flag/LiechtensteinMColorIcon';",
     "android": "flag_liechtenstein_m_color",
@@ -1475,7 +1341,6 @@
   },
   "LithuaniaMColorIcon": {
     "description": "[flag_lithuania_m_color]",
-    "basename": "flag_lithuania_m_color",
     "web": "LithuaniaMColorIcon",
     "webComponent": "import { LithuaniaMColorIcon } from '@alfalab/icons-flag/LithuaniaMColorIcon';",
     "android": "flag_lithuania_m_color",
@@ -1486,7 +1351,6 @@
   },
   "LuxembourgMColorIcon": {
     "description": "[flag_luxembourg_m_color]",
-    "basename": "flag_luxembourg_m_color",
     "web": "LuxembourgMColorIcon",
     "webComponent": "import { LuxembourgMColorIcon } from '@alfalab/icons-flag/LuxembourgMColorIcon';",
     "android": "flag_luxembourg_m_color",
@@ -1497,7 +1361,6 @@
   },
   "MacaoMColorIcon": {
     "description": "[flag_macao_m_color]",
-    "basename": "flag_macao_m_color",
     "web": "MacaoMColorIcon",
     "webComponent": "import { MacaoMColorIcon } from '@alfalab/icons-flag/MacaoMColorIcon';",
     "android": "flag_macao_m_color",
@@ -1508,7 +1371,6 @@
   },
   "MadagascarMColorIcon": {
     "description": "[flag_madagascar_m_color]",
-    "basename": "flag_madagascar_m_color",
     "web": "MadagascarMColorIcon",
     "webComponent": "import { MadagascarMColorIcon } from '@alfalab/icons-flag/MadagascarMColorIcon';",
     "android": "flag_madagascar_m_color",
@@ -1519,7 +1381,6 @@
   },
   "MadeiraMColorIcon": {
     "description": "[flag_madeira_m_color]",
-    "basename": "flag_madeira_m_color",
     "web": "MadeiraMColorIcon",
     "webComponent": "import { MadeiraMColorIcon } from '@alfalab/icons-flag/MadeiraMColorIcon';",
     "android": "flag_madeira_m_color",
@@ -1530,7 +1391,6 @@
   },
   "MalasyaMColorIcon": {
     "description": "[flag_malasya_m_color]",
-    "basename": "flag_malasya_m_color",
     "web": "MalasyaMColorIcon",
     "webComponent": "import { MalasyaMColorIcon } from '@alfalab/icons-flag/MalasyaMColorIcon';",
     "android": "flag_malasya_m_color",
@@ -1541,7 +1401,6 @@
   },
   "MalawiMColorIcon": {
     "description": "[flag_malawi_m_color]",
-    "basename": "flag_malawi_m_color",
     "web": "MalawiMColorIcon",
     "webComponent": "import { MalawiMColorIcon } from '@alfalab/icons-flag/MalawiMColorIcon';",
     "android": "flag_malawi_m_color",
@@ -1552,7 +1411,6 @@
   },
   "MalaysiaMColorIcon": {
     "description": "[flag_malaysia_m_color]",
-    "basename": "flag_malaysia_m_color",
     "web": "MalaysiaMColorIcon",
     "webComponent": "import { MalaysiaMColorIcon } from '@alfalab/icons-flag/MalaysiaMColorIcon';",
     "android": "flag_malaysia_m_color",
@@ -1563,7 +1421,6 @@
   },
   "MaldivesMColorIcon": {
     "description": "[flag_maldives_m_color]",
-    "basename": "flag_maldives_m_color",
     "web": "MaldivesMColorIcon",
     "webComponent": "import { MaldivesMColorIcon } from '@alfalab/icons-flag/MaldivesMColorIcon';",
     "android": "flag_maldives_m_color",
@@ -1574,7 +1431,6 @@
   },
   "MaliMColorIcon": {
     "description": "[flag_mali_m_color]",
-    "basename": "flag_mali_m_color",
     "web": "MaliMColorIcon",
     "webComponent": "import { MaliMColorIcon } from '@alfalab/icons-flag/MaliMColorIcon';",
     "android": "flag_mali_m_color",
@@ -1585,7 +1441,6 @@
   },
   "MaltaMColorIcon": {
     "description": "[flag_malta_m_color]",
-    "basename": "flag_malta_m_color",
     "web": "MaltaMColorIcon",
     "webComponent": "import { MaltaMColorIcon } from '@alfalab/icons-flag/MaltaMColorIcon';",
     "android": "flag_malta_m_color",
@@ -1596,7 +1451,6 @@
   },
   "MarshallIslandMColorIcon": {
     "description": "[flag_marshall_island_m_color]",
-    "basename": "flag_marshall-island_m_color",
     "web": "MarshallIslandMColorIcon",
     "webComponent": "import { MarshallIslandMColorIcon } from '@alfalab/icons-flag/MarshallIslandMColorIcon';",
     "android": "flag_marshall_island_m_color",
@@ -1607,7 +1461,6 @@
   },
   "MartiniqueMColorIcon": {
     "description": "[flag_martinique_m_color]",
-    "basename": "flag_martinique_m_color",
     "web": "MartiniqueMColorIcon",
     "webComponent": "import { MartiniqueMColorIcon } from '@alfalab/icons-flag/MartiniqueMColorIcon';",
     "android": "flag_martinique_m_color",
@@ -1618,7 +1471,6 @@
   },
   "MauritaniaMColorIcon": {
     "description": "[flag_mauritania_m_color]",
-    "basename": "flag_mauritania_m_color",
     "web": "MauritaniaMColorIcon",
     "webComponent": "import { MauritaniaMColorIcon } from '@alfalab/icons-flag/MauritaniaMColorIcon';",
     "android": "flag_mauritania_m_color",
@@ -1629,7 +1481,6 @@
   },
   "MauritiusMColorIcon": {
     "description": "[flag_mauritius_m_color]",
-    "basename": "flag_mauritius_m_color",
     "web": "MauritiusMColorIcon",
     "webComponent": "import { MauritiusMColorIcon } from '@alfalab/icons-flag/MauritiusMColorIcon';",
     "android": "flag_mauritius_m_color",
@@ -1640,7 +1491,6 @@
   },
   "MelillaMColorIcon": {
     "description": "[flag_melilla_m_color]",
-    "basename": "flag_melilla_m_color",
     "web": "MelillaMColorIcon",
     "webComponent": "import { MelillaMColorIcon } from '@alfalab/icons-flag/MelillaMColorIcon';",
     "android": "flag_melilla_m_color",
@@ -1651,7 +1501,6 @@
   },
   "MexicoMColorIcon": {
     "description": "[flag_mexico_m_color]",
-    "basename": "flag_mexico_m_color",
     "web": "MexicoMColorIcon",
     "webComponent": "import { MexicoMColorIcon } from '@alfalab/icons-flag/MexicoMColorIcon';",
     "android": "flag_mexico_m_color",
@@ -1662,7 +1511,6 @@
   },
   "MicronesiaMColorIcon": {
     "description": "[flag_micronesia_m_color]",
-    "basename": "flag_micronesia_m_color",
     "web": "MicronesiaMColorIcon",
     "webComponent": "import { MicronesiaMColorIcon } from '@alfalab/icons-flag/MicronesiaMColorIcon';",
     "android": "flag_micronesia_m_color",
@@ -1673,7 +1521,6 @@
   },
   "MoldovaMColorIcon": {
     "description": "[flag_moldova_m_color]",
-    "basename": "flag_moldova_m_color",
     "web": "MoldovaMColorIcon",
     "webComponent": "import { MoldovaMColorIcon } from '@alfalab/icons-flag/MoldovaMColorIcon';",
     "android": "flag_moldova_m_color",
@@ -1684,7 +1531,6 @@
   },
   "MonacoMColorIcon": {
     "description": "[flag_monaco_m_color]",
-    "basename": "flag_monaco_m_color",
     "web": "MonacoMColorIcon",
     "webComponent": "import { MonacoMColorIcon } from '@alfalab/icons-flag/MonacoMColorIcon';",
     "android": "flag_monaco_m_color",
@@ -1695,7 +1541,6 @@
   },
   "MongoliaMColorIcon": {
     "description": "[flag_mongolia_m_color]",
-    "basename": "flag_mongolia_m_color",
     "web": "MongoliaMColorIcon",
     "webComponent": "import { MongoliaMColorIcon } from '@alfalab/icons-flag/MongoliaMColorIcon';",
     "android": "flag_mongolia_m_color",
@@ -1706,7 +1551,6 @@
   },
   "MontenegroMColorIcon": {
     "description": "[flag_montenegro_m_color]",
-    "basename": "flag_montenegro_m_color",
     "web": "MontenegroMColorIcon",
     "webComponent": "import { MontenegroMColorIcon } from '@alfalab/icons-flag/MontenegroMColorIcon';",
     "android": "flag_montenegro_m_color",
@@ -1717,7 +1561,6 @@
   },
   "MontserratMColorIcon": {
     "description": "[flag_montserrat_m_color]",
-    "basename": "flag_montserrat_m_color",
     "web": "MontserratMColorIcon",
     "webComponent": "import { MontserratMColorIcon } from '@alfalab/icons-flag/MontserratMColorIcon';",
     "android": "flag_montserrat_m_color",
@@ -1728,7 +1571,6 @@
   },
   "MoroccoMColorIcon": {
     "description": "[flag_morocco_m_color]",
-    "basename": "flag_morocco_m_color",
     "web": "MoroccoMColorIcon",
     "webComponent": "import { MoroccoMColorIcon } from '@alfalab/icons-flag/MoroccoMColorIcon';",
     "android": "flag_morocco_m_color",
@@ -1739,7 +1581,6 @@
   },
   "MozambiqueMColorIcon": {
     "description": "[flag_mozambique_m_color]",
-    "basename": "flag_mozambique_m_color",
     "web": "MozambiqueMColorIcon",
     "webComponent": "import { MozambiqueMColorIcon } from '@alfalab/icons-flag/MozambiqueMColorIcon';",
     "android": "flag_mozambique_m_color",
@@ -1750,7 +1591,6 @@
   },
   "MyanmarMColorIcon": {
     "description": "[flag_myanmar_m_color]",
-    "basename": "flag_myanmar_m_color",
     "web": "MyanmarMColorIcon",
     "webComponent": "import { MyanmarMColorIcon } from '@alfalab/icons-flag/MyanmarMColorIcon';",
     "android": "flag_myanmar_m_color",
@@ -1761,7 +1601,6 @@
   },
   "NamibiaMColorIcon": {
     "description": "[flag_namibia_m_color]",
-    "basename": "flag_namibia_m_color",
     "web": "NamibiaMColorIcon",
     "webComponent": "import { NamibiaMColorIcon } from '@alfalab/icons-flag/NamibiaMColorIcon';",
     "android": "flag_namibia_m_color",
@@ -1772,7 +1611,6 @@
   },
   "NatoMColorIcon": {
     "description": "[flag_nato_m_color]",
-    "basename": "flag_nato_m_color",
     "web": "NatoMColorIcon",
     "webComponent": "import { NatoMColorIcon } from '@alfalab/icons-flag/NatoMColorIcon';",
     "android": "flag_nato_m_color",
@@ -1783,7 +1621,6 @@
   },
   "NauruMColorIcon": {
     "description": "[flag_nauru_m_color]",
-    "basename": "flag_nauru_m_color",
     "web": "NauruMColorIcon",
     "webComponent": "import { NauruMColorIcon } from '@alfalab/icons-flag/NauruMColorIcon';",
     "android": "flag_nauru_m_color",
@@ -1794,7 +1631,6 @@
   },
   "NepalMColorIcon": {
     "description": "[flag_nepal_m_color]",
-    "basename": "flag_nepal_m_color",
     "web": "NepalMColorIcon",
     "webComponent": "import { NepalMColorIcon } from '@alfalab/icons-flag/NepalMColorIcon';",
     "android": "flag_nepal_m_color",
@@ -1805,7 +1641,6 @@
   },
   "NetherlandsMColorIcon": {
     "description": "[flag_netherlands_m_color]",
-    "basename": "flag_netherlands_m_color",
     "web": "NetherlandsMColorIcon",
     "webComponent": "import { NetherlandsMColorIcon } from '@alfalab/icons-flag/NetherlandsMColorIcon';",
     "android": "flag_netherlands_m_color",
@@ -1816,7 +1651,6 @@
   },
   "NewZealandMColorIcon": {
     "description": "[flag_new_zealand_m_color]",
-    "basename": "flag_new-zealand_m_color",
     "web": "NewZealandMColorIcon",
     "webComponent": "import { NewZealandMColorIcon } from '@alfalab/icons-flag/NewZealandMColorIcon';",
     "android": "flag_new_zealand_m_color",
@@ -1827,7 +1661,6 @@
   },
   "NicaraguaMColorIcon": {
     "description": "[flag_nicaragua_m_color]",
-    "basename": "flag_nicaragua_m_color",
     "web": "NicaraguaMColorIcon",
     "webComponent": "import { NicaraguaMColorIcon } from '@alfalab/icons-flag/NicaraguaMColorIcon';",
     "android": "flag_nicaragua_m_color",
@@ -1838,7 +1671,6 @@
   },
   "NigerMColorIcon": {
     "description": "[flag_niger_m_color]",
-    "basename": "flag_niger_m_color",
     "web": "NigerMColorIcon",
     "webComponent": "import { NigerMColorIcon } from '@alfalab/icons-flag/NigerMColorIcon';",
     "android": "flag_niger_m_color",
@@ -1849,7 +1681,6 @@
   },
   "NigeriaMColorIcon": {
     "description": "[flag_nigeria_m_color]",
-    "basename": "flag_nigeria_m_color",
     "web": "NigeriaMColorIcon",
     "webComponent": "import { NigeriaMColorIcon } from '@alfalab/icons-flag/NigeriaMColorIcon';",
     "android": "flag_nigeria_m_color",
@@ -1860,7 +1691,6 @@
   },
   "NiueMColorIcon": {
     "description": "[flag_niue_m_color]",
-    "basename": "flag_niue_m_color",
     "web": "NiueMColorIcon",
     "webComponent": "import { NiueMColorIcon } from '@alfalab/icons-flag/NiueMColorIcon';",
     "android": "flag_niue_m_color",
@@ -1871,7 +1701,6 @@
   },
   "NorfolkIslandMColorIcon": {
     "description": "[flag_norfolk_island_m_color]",
-    "basename": "flag_norfolk-island_m_color",
     "web": "NorfolkIslandMColorIcon",
     "webComponent": "import { NorfolkIslandMColorIcon } from '@alfalab/icons-flag/NorfolkIslandMColorIcon';",
     "android": "flag_norfolk_island_m_color",
@@ -1882,7 +1711,6 @@
   },
   "NorthKoreaMColorIcon": {
     "description": "[flag_north_korea_m_color]",
-    "basename": "flag_north-korea_m_color",
     "web": "NorthKoreaMColorIcon",
     "webComponent": "import { NorthKoreaMColorIcon } from '@alfalab/icons-flag/NorthKoreaMColorIcon';",
     "android": "flag_north_korea_m_color",
@@ -1893,7 +1721,6 @@
   },
   "NorthernCyprusMColorIcon": {
     "description": "[flag_northern_cyprus_m_color]",
-    "basename": "flag_northern-cyprus_m_color",
     "web": "NorthernCyprusMColorIcon",
     "webComponent": "import { NorthernCyprusMColorIcon } from '@alfalab/icons-flag/NorthernCyprusMColorIcon';",
     "android": "flag_northern_cyprus_m_color",
@@ -1904,7 +1731,6 @@
   },
   "NorthernMarianasIslandsMColorIcon": {
     "description": "[flag_northern_marianas_islands_m_color]",
-    "basename": "flag_northern-marianas-islands_m_color",
     "web": "NorthernMarianasIslandsMColorIcon",
     "webComponent": "import { NorthernMarianasIslandsMColorIcon } from '@alfalab/icons-flag/NorthernMarianasIslandsMColorIcon';",
     "android": "flag_northern_marianas_islands_m_color",
@@ -1915,7 +1741,6 @@
   },
   "NorwayMColorIcon": {
     "description": "[flag_norway_m_color]",
-    "basename": "flag_norway_m_color",
     "web": "NorwayMColorIcon",
     "webComponent": "import { NorwayMColorIcon } from '@alfalab/icons-flag/NorwayMColorIcon';",
     "android": "flag_norway_m_color",
@@ -1926,7 +1751,6 @@
   },
   "OmanMColorIcon": {
     "description": "[flag_oman_m_color]",
-    "basename": "flag_oman_m_color",
     "web": "OmanMColorIcon",
     "webComponent": "import { OmanMColorIcon } from '@alfalab/icons-flag/OmanMColorIcon';",
     "android": "flag_oman_m_color",
@@ -1937,7 +1761,6 @@
   },
   "OssetiaMColorIcon": {
     "description": "[flag_ossetia_m_color]",
-    "basename": "flag_ossetia_m_color",
     "web": "OssetiaMColorIcon",
     "webComponent": "import { OssetiaMColorIcon } from '@alfalab/icons-flag/OssetiaMColorIcon';",
     "android": "flag_ossetia_m_color",
@@ -1948,7 +1771,6 @@
   },
   "PakistanMColorIcon": {
     "description": "[flag_pakistan_m_color]",
-    "basename": "flag_pakistan_m_color",
     "web": "PakistanMColorIcon",
     "webComponent": "import { PakistanMColorIcon } from '@alfalab/icons-flag/PakistanMColorIcon';",
     "android": "flag_pakistan_m_color",
@@ -1959,7 +1781,6 @@
   },
   "PalauMColorIcon": {
     "description": "[flag_palau_m_color]",
-    "basename": "flag_palau_m_color",
     "web": "PalauMColorIcon",
     "webComponent": "import { PalauMColorIcon } from '@alfalab/icons-flag/PalauMColorIcon';",
     "android": "flag_palau_m_color",
@@ -1970,7 +1791,6 @@
   },
   "PalestineMColorIcon": {
     "description": "[flag_palestine_m_color]",
-    "basename": "flag_palestine_m_color",
     "web": "PalestineMColorIcon",
     "webComponent": "import { PalestineMColorIcon } from '@alfalab/icons-flag/PalestineMColorIcon';",
     "android": "flag_palestine_m_color",
@@ -1981,7 +1801,6 @@
   },
   "PanamaMColorIcon": {
     "description": "[flag_panama_m_color]",
-    "basename": "flag_panama_m_color",
     "web": "PanamaMColorIcon",
     "webComponent": "import { PanamaMColorIcon } from '@alfalab/icons-flag/PanamaMColorIcon';",
     "android": "flag_panama_m_color",
@@ -1992,7 +1811,6 @@
   },
   "PapuaNewGuineaMColorIcon": {
     "description": "[flag_papua_new_guinea_m_color]",
-    "basename": "flag_papua-new-guinea_m_color",
     "web": "PapuaNewGuineaMColorIcon",
     "webComponent": "import { PapuaNewGuineaMColorIcon } from '@alfalab/icons-flag/PapuaNewGuineaMColorIcon';",
     "android": "flag_papua_new_guinea_m_color",
@@ -2003,7 +1821,6 @@
   },
   "ParaguayMColorIcon": {
     "description": "[flag_paraguay_m_color]",
-    "basename": "flag_paraguay_m_color",
     "web": "ParaguayMColorIcon",
     "webComponent": "import { ParaguayMColorIcon } from '@alfalab/icons-flag/ParaguayMColorIcon';",
     "android": "flag_paraguay_m_color",
@@ -2014,7 +1831,6 @@
   },
   "PeruMColorIcon": {
     "description": "[flag_peru_m_color]",
-    "basename": "flag_peru_m_color",
     "web": "PeruMColorIcon",
     "webComponent": "import { PeruMColorIcon } from '@alfalab/icons-flag/PeruMColorIcon';",
     "android": "flag_peru_m_color",
@@ -2025,7 +1841,6 @@
   },
   "PhilippinesMColorIcon": {
     "description": "[flag_philippines_m_color]",
-    "basename": "flag_philippines_m_color",
     "web": "PhilippinesMColorIcon",
     "webComponent": "import { PhilippinesMColorIcon } from '@alfalab/icons-flag/PhilippinesMColorIcon';",
     "android": "flag_philippines_m_color",
@@ -2036,7 +1851,6 @@
   },
   "PitcairnIslandsMColorIcon": {
     "description": "[flag_pitcairn_islands_m_color]",
-    "basename": "flag_pitcairn-islands_m_color",
     "web": "PitcairnIslandsMColorIcon",
     "webComponent": "import { PitcairnIslandsMColorIcon } from '@alfalab/icons-flag/PitcairnIslandsMColorIcon';",
     "android": "flag_pitcairn_islands_m_color",
@@ -2047,7 +1861,6 @@
   },
   "PolandMColorIcon": {
     "description": "[flag_poland_m_color]",
-    "basename": "flag_poland_m_color",
     "web": "PolandMColorIcon",
     "webComponent": "import { PolandMColorIcon } from '@alfalab/icons-flag/PolandMColorIcon';",
     "android": "flag_poland_m_color",
@@ -2058,7 +1871,6 @@
   },
   "PortugalMColorIcon": {
     "description": "[flag_portugal_m_color]",
-    "basename": "flag_portugal_m_color",
     "web": "PortugalMColorIcon",
     "webComponent": "import { PortugalMColorIcon } from '@alfalab/icons-flag/PortugalMColorIcon';",
     "android": "flag_portugal_m_color",
@@ -2069,7 +1881,6 @@
   },
   "PuertoRicoMColorIcon": {
     "description": "[flag_puerto_rico_m_color]",
-    "basename": "flag_puerto-rico_m_color",
     "web": "PuertoRicoMColorIcon",
     "webComponent": "import { PuertoRicoMColorIcon } from '@alfalab/icons-flag/PuertoRicoMColorIcon';",
     "android": "flag_puerto_rico_m_color",
@@ -2080,7 +1891,6 @@
   },
   "QatarMColorIcon": {
     "description": "[flag_qatar_m_color]",
-    "basename": "flag_qatar_m_color",
     "web": "QatarMColorIcon",
     "webComponent": "import { QatarMColorIcon } from '@alfalab/icons-flag/QatarMColorIcon';",
     "android": "flag_qatar_m_color",
@@ -2091,7 +1901,6 @@
   },
   "RapaNuiMColorIcon": {
     "description": "[flag_rapa_nui_m_color]",
-    "basename": "flag_rapa-nui_m_color",
     "web": "RapaNuiMColorIcon",
     "webComponent": "import { RapaNuiMColorIcon } from '@alfalab/icons-flag/RapaNuiMColorIcon';",
     "android": "flag_rapa_nui_m_color",
@@ -2102,7 +1911,6 @@
   },
   "RepublicOfMacedoniaMColorIcon": {
     "description": "[flag_republic_of_macedonia_m_color]",
-    "basename": "flag_republic-of-macedonia_m_color",
     "web": "RepublicOfMacedoniaMColorIcon",
     "webComponent": "import { RepublicOfMacedoniaMColorIcon } from '@alfalab/icons-flag/RepublicOfMacedoniaMColorIcon';",
     "android": "flag_republic_of_macedonia_m_color",
@@ -2113,7 +1921,6 @@
   },
   "RepublicOfTheCongoMColorIcon": {
     "description": "[flag_republic_of_the_congo_m_color]",
-    "basename": "flag_republic-of-the-congo_m_color",
     "web": "RepublicOfTheCongoMColorIcon",
     "webComponent": "import { RepublicOfTheCongoMColorIcon } from '@alfalab/icons-flag/RepublicOfTheCongoMColorIcon';",
     "android": "flag_republic_of_the_congo_m_color",
@@ -2124,7 +1931,6 @@
   },
   "RomaniaMColorIcon": {
     "description": "[flag_romania_m_color]",
-    "basename": "flag_romania_m_color",
     "web": "RomaniaMColorIcon",
     "webComponent": "import { RomaniaMColorIcon } from '@alfalab/icons-flag/RomaniaMColorIcon';",
     "android": "flag_romania_m_color",
@@ -2135,7 +1941,6 @@
   },
   "RussiaMColorIcon": {
     "description": "[flag_russia_m_color]",
-    "basename": "flag_russia_m_color",
     "web": "RussiaMColorIcon",
     "webComponent": "import { RussiaMColorIcon } from '@alfalab/icons-flag/RussiaMColorIcon';",
     "android": "flag_russia_m_color",
@@ -2146,7 +1951,6 @@
   },
   "RwandaMColorIcon": {
     "description": "[flag_rwanda_m_color]",
-    "basename": "flag_rwanda_m_color",
     "web": "RwandaMColorIcon",
     "webComponent": "import { RwandaMColorIcon } from '@alfalab/icons-flag/RwandaMColorIcon';",
     "android": "flag_rwanda_m_color",
@@ -2157,7 +1961,6 @@
   },
   "SabaIslandMColorIcon": {
     "description": "[flag_saba_island_m_color]",
-    "basename": "flag_saba-island_m_color",
     "web": "SabaIslandMColorIcon",
     "webComponent": "import { SabaIslandMColorIcon } from '@alfalab/icons-flag/SabaIslandMColorIcon';",
     "android": "flag_saba_island_m_color",
@@ -2168,7 +1971,6 @@
   },
   "SahrawiArabDemocraticRepublicMColorIcon": {
     "description": "[flag_sahrawi_arab_democratic_republic_m_color]",
-    "basename": "flag_sahrawi-arab-democratic-republic_m_color",
     "web": "SahrawiArabDemocraticRepublicMColorIcon",
     "webComponent": "import { SahrawiArabDemocraticRepublicMColorIcon } from '@alfalab/icons-flag/SahrawiArabDemocraticRepublicMColorIcon';",
     "android": "flag_sahrawi_arab_democratic_republic_m_color",
@@ -2179,7 +1981,6 @@
   },
   "SaintKittsAndNevisMColorIcon": {
     "description": "[flag_saint_kitts_and_nevis_m_color]",
-    "basename": "flag_saint-kitts-and-nevis_m_color",
     "web": "SaintKittsAndNevisMColorIcon",
     "webComponent": "import { SaintKittsAndNevisMColorIcon } from '@alfalab/icons-flag/SaintKittsAndNevisMColorIcon';",
     "android": "flag_saint_kitts_and_nevis_m_color",
@@ -2190,7 +1991,6 @@
   },
   "SamoaMColorIcon": {
     "description": "[flag_samoa_m_color]",
-    "basename": "flag_samoa_m_color",
     "web": "SamoaMColorIcon",
     "webComponent": "import { SamoaMColorIcon } from '@alfalab/icons-flag/SamoaMColorIcon';",
     "android": "flag_samoa_m_color",
@@ -2201,7 +2001,6 @@
   },
   "SanMarinoMColorIcon": {
     "description": "[flag_san_marino_m_color]",
-    "basename": "flag_san-marino_m_color",
     "web": "SanMarinoMColorIcon",
     "webComponent": "import { SanMarinoMColorIcon } from '@alfalab/icons-flag/SanMarinoMColorIcon';",
     "android": "flag_san_marino_m_color",
@@ -2212,7 +2011,6 @@
   },
   "SaoTomeAndPrinceMColorIcon": {
     "description": "[flag_sao_tome_and_prince_m_color]",
-    "basename": "flag_sao-tome-and-prince_m_color",
     "web": "SaoTomeAndPrinceMColorIcon",
     "webComponent": "import { SaoTomeAndPrinceMColorIcon } from '@alfalab/icons-flag/SaoTomeAndPrinceMColorIcon';",
     "android": "flag_sao_tome_and_prince_m_color",
@@ -2223,7 +2021,6 @@
   },
   "SaoTomeAndPrincipeMColorIcon": {
     "description": "[flag_sao_tome_and_principe_m_color]",
-    "basename": "flag_sao-tome-and-principe_m_color",
     "web": "SaoTomeAndPrincipeMColorIcon",
     "webComponent": "import { SaoTomeAndPrincipeMColorIcon } from '@alfalab/icons-flag/SaoTomeAndPrincipeMColorIcon';",
     "android": "flag_sao_tome_and_principe_m_color",
@@ -2234,7 +2031,6 @@
   },
   "SardiniaMColorIcon": {
     "description": "[flag_sardinia_m_color]",
-    "basename": "flag_sardinia_m_color",
     "web": "SardiniaMColorIcon",
     "webComponent": "import { SardiniaMColorIcon } from '@alfalab/icons-flag/SardiniaMColorIcon';",
     "android": "flag_sardinia_m_color",
@@ -2245,7 +2041,6 @@
   },
   "SaudiArabiaMColorIcon": {
     "description": "[flag_saudi_arabia_m_color]",
-    "basename": "flag_saudi-arabia_m_color",
     "web": "SaudiArabiaMColorIcon",
     "webComponent": "import { SaudiArabiaMColorIcon } from '@alfalab/icons-flag/SaudiArabiaMColorIcon';",
     "android": "flag_saudi_arabia_m_color",
@@ -2256,7 +2051,6 @@
   },
   "ScotlandMColorIcon": {
     "description": "[flag_scotland_m_color]",
-    "basename": "flag_scotland_m_color",
     "web": "ScotlandMColorIcon",
     "webComponent": "import { ScotlandMColorIcon } from '@alfalab/icons-flag/ScotlandMColorIcon';",
     "android": "flag_scotland_m_color",
@@ -2267,7 +2061,6 @@
   },
   "SenegalMColorIcon": {
     "description": "[flag_senegal_m_color]",
-    "basename": "flag_senegal_m_color",
     "web": "SenegalMColorIcon",
     "webComponent": "import { SenegalMColorIcon } from '@alfalab/icons-flag/SenegalMColorIcon';",
     "android": "flag_senegal_m_color",
@@ -2278,7 +2071,6 @@
   },
   "SerbiaMColorIcon": {
     "description": "[flag_serbia_m_color]",
-    "basename": "flag_serbia_m_color",
     "web": "SerbiaMColorIcon",
     "webComponent": "import { SerbiaMColorIcon } from '@alfalab/icons-flag/SerbiaMColorIcon';",
     "android": "flag_serbia_m_color",
@@ -2289,7 +2081,6 @@
   },
   "SeychellesMColorIcon": {
     "description": "[flag_seychelles_m_color]",
-    "basename": "flag_seychelles_m_color",
     "web": "SeychellesMColorIcon",
     "webComponent": "import { SeychellesMColorIcon } from '@alfalab/icons-flag/SeychellesMColorIcon';",
     "android": "flag_seychelles_m_color",
@@ -2300,7 +2091,6 @@
   },
   "SicilyMColorIcon": {
     "description": "[flag_sicily_m_color]",
-    "basename": "flag_sicily_m_color",
     "web": "SicilyMColorIcon",
     "webComponent": "import { SicilyMColorIcon } from '@alfalab/icons-flag/SicilyMColorIcon';",
     "android": "flag_sicily_m_color",
@@ -2311,7 +2101,6 @@
   },
   "SierraLeoneMColorIcon": {
     "description": "[flag_sierra_leone_m_color]",
-    "basename": "flag_sierra-leone_m_color",
     "web": "SierraLeoneMColorIcon",
     "webComponent": "import { SierraLeoneMColorIcon } from '@alfalab/icons-flag/SierraLeoneMColorIcon';",
     "android": "flag_sierra_leone_m_color",
@@ -2322,7 +2111,6 @@
   },
   "SingaporeMColorIcon": {
     "description": "[flag_singapore_m_color]",
-    "basename": "flag_singapore_m_color",
     "web": "SingaporeMColorIcon",
     "webComponent": "import { SingaporeMColorIcon } from '@alfalab/icons-flag/SingaporeMColorIcon';",
     "android": "flag_singapore_m_color",
@@ -2333,7 +2121,6 @@
   },
   "SintEustatiusMColorIcon": {
     "description": "[flag_sint_eustatius_m_color]",
-    "basename": "flag_sint-eustatius_m_color",
     "web": "SintEustatiusMColorIcon",
     "webComponent": "import { SintEustatiusMColorIcon } from '@alfalab/icons-flag/SintEustatiusMColorIcon';",
     "android": "flag_sint_eustatius_m_color",
@@ -2344,7 +2131,6 @@
   },
   "SintMaartenMColorIcon": {
     "description": "[flag_sint_maarten_m_color]",
-    "basename": "flag_sint-maarten_m_color",
     "web": "SintMaartenMColorIcon",
     "webComponent": "import { SintMaartenMColorIcon } from '@alfalab/icons-flag/SintMaartenMColorIcon';",
     "android": "flag_sint_maarten_m_color",
@@ -2355,7 +2141,6 @@
   },
   "SlovakiaMColorIcon": {
     "description": "[flag_slovakia_m_color]",
-    "basename": "flag_slovakia_m_color",
     "web": "SlovakiaMColorIcon",
     "webComponent": "import { SlovakiaMColorIcon } from '@alfalab/icons-flag/SlovakiaMColorIcon';",
     "android": "flag_slovakia_m_color",
@@ -2366,7 +2151,6 @@
   },
   "SloveniaMColorIcon": {
     "description": "[flag_slovenia_m_color]",
-    "basename": "flag_slovenia_m_color",
     "web": "SloveniaMColorIcon",
     "webComponent": "import { SloveniaMColorIcon } from '@alfalab/icons-flag/SloveniaMColorIcon';",
     "android": "flag_slovenia_m_color",
@@ -2377,7 +2161,6 @@
   },
   "SolomonIslandsMColorIcon": {
     "description": "[flag_solomon_islands_m_color]",
-    "basename": "flag_solomon-islands_m_color",
     "web": "SolomonIslandsMColorIcon",
     "webComponent": "import { SolomonIslandsMColorIcon } from '@alfalab/icons-flag/SolomonIslandsMColorIcon';",
     "android": "flag_solomon_islands_m_color",
@@ -2388,7 +2171,6 @@
   },
   "SomaliaMColorIcon": {
     "description": "[flag_somalia_m_color]",
-    "basename": "flag_somalia_m_color",
     "web": "SomaliaMColorIcon",
     "webComponent": "import { SomaliaMColorIcon } from '@alfalab/icons-flag/SomaliaMColorIcon';",
     "android": "flag_somalia_m_color",
@@ -2399,7 +2181,6 @@
   },
   "SomalilandMColorIcon": {
     "description": "[flag_somaliland_m_color]",
-    "basename": "flag_somaliland_m_color",
     "web": "SomalilandMColorIcon",
     "webComponent": "import { SomalilandMColorIcon } from '@alfalab/icons-flag/SomalilandMColorIcon';",
     "android": "flag_somaliland_m_color",
@@ -2410,7 +2191,6 @@
   },
   "SouthAfricaMColorIcon": {
     "description": "[flag_south_africa_m_color]",
-    "basename": "flag_south-africa_m_color",
     "web": "SouthAfricaMColorIcon",
     "webComponent": "import { SouthAfricaMColorIcon } from '@alfalab/icons-flag/SouthAfricaMColorIcon';",
     "android": "flag_south_africa_m_color",
@@ -2421,7 +2201,6 @@
   },
   "SouthKoreaMColorIcon": {
     "description": "[flag_south_korea_m_color]",
-    "basename": "flag_south-korea_m_color",
     "web": "SouthKoreaMColorIcon",
     "webComponent": "import { SouthKoreaMColorIcon } from '@alfalab/icons-flag/SouthKoreaMColorIcon';",
     "android": "flag_south_korea_m_color",
@@ -2432,7 +2211,6 @@
   },
   "SouthSudanMColorIcon": {
     "description": "[flag_south_sudan_m_color]",
-    "basename": "flag_south-sudan_m_color",
     "web": "SouthSudanMColorIcon",
     "webComponent": "import { SouthSudanMColorIcon } from '@alfalab/icons-flag/SouthSudanMColorIcon';",
     "android": "flag_south_sudan_m_color",
@@ -2443,7 +2221,6 @@
   },
   "SpainMColorIcon": {
     "description": "[flag_spain_m_color]",
-    "basename": "flag_spain_m_color",
     "web": "SpainMColorIcon",
     "webComponent": "import { SpainMColorIcon } from '@alfalab/icons-flag/SpainMColorIcon';",
     "android": "flag_spain_m_color",
@@ -2454,7 +2231,6 @@
   },
   "SriLankaMColorIcon": {
     "description": "[flag_sri_lanka_m_color]",
-    "basename": "flag_sri-lanka_m_color",
     "web": "SriLankaMColorIcon",
     "webComponent": "import { SriLankaMColorIcon } from '@alfalab/icons-flag/SriLankaMColorIcon';",
     "android": "flag_sri_lanka_m_color",
@@ -2465,7 +2241,6 @@
   },
   "StBartsMColorIcon": {
     "description": "[flag_st_barts_m_color]",
-    "basename": "flag_st-barts_m_color",
     "web": "StBartsMColorIcon",
     "webComponent": "import { StBartsMColorIcon } from '@alfalab/icons-flag/StBartsMColorIcon';",
     "android": "flag_st_barts_m_color",
@@ -2476,7 +2251,6 @@
   },
   "StLuciaMColorIcon": {
     "description": "[flag_st_lucia_m_color]",
-    "basename": "flag_st-lucia_m_color",
     "web": "StLuciaMColorIcon",
     "webComponent": "import { StLuciaMColorIcon } from '@alfalab/icons-flag/StLuciaMColorIcon';",
     "android": "flag_st_lucia_m_color",
@@ -2487,7 +2261,6 @@
   },
   "StVincentAndTheGrenadinesMColorIcon": {
     "description": "[flag_st_vincent_and_the_grenadines_m_color]",
-    "basename": "flag_st-vincent-and-the-grenadines_m_color",
     "web": "StVincentAndTheGrenadinesMColorIcon",
     "webComponent": "import { StVincentAndTheGrenadinesMColorIcon } from '@alfalab/icons-flag/StVincentAndTheGrenadinesMColorIcon';",
     "android": "flag_st_vincent_and_the_grenadines_m_color",
@@ -2498,7 +2271,6 @@
   },
   "SudanMColorIcon": {
     "description": "[flag_sudan_m_color]",
-    "basename": "flag_sudan_m_color",
     "web": "SudanMColorIcon",
     "webComponent": "import { SudanMColorIcon } from '@alfalab/icons-flag/SudanMColorIcon';",
     "android": "flag_sudan_m_color",
@@ -2509,7 +2281,6 @@
   },
   "SurinameMColorIcon": {
     "description": "[flag_suriname_m_color]",
-    "basename": "flag_suriname_m_color",
     "web": "SurinameMColorIcon",
     "webComponent": "import { SurinameMColorIcon } from '@alfalab/icons-flag/SurinameMColorIcon';",
     "android": "flag_suriname_m_color",
@@ -2520,7 +2291,6 @@
   },
   "SwazilandMColorIcon": {
     "description": "[flag_swaziland_m_color]",
-    "basename": "flag_swaziland_m_color",
     "web": "SwazilandMColorIcon",
     "webComponent": "import { SwazilandMColorIcon } from '@alfalab/icons-flag/SwazilandMColorIcon';",
     "android": "flag_swaziland_m_color",
@@ -2531,7 +2301,6 @@
   },
   "SwedenMColorIcon": {
     "description": "[flag_sweden_m_color]",
-    "basename": "flag_sweden_m_color",
     "web": "SwedenMColorIcon",
     "webComponent": "import { SwedenMColorIcon } from '@alfalab/icons-flag/SwedenMColorIcon';",
     "android": "flag_sweden_m_color",
@@ -2542,7 +2311,6 @@
   },
   "SwitzerlandMColorIcon": {
     "description": "[flag_switzerland_m_color]",
-    "basename": "flag_switzerland_m_color",
     "web": "SwitzerlandMColorIcon",
     "webComponent": "import { SwitzerlandMColorIcon } from '@alfalab/icons-flag/SwitzerlandMColorIcon';",
     "android": "flag_switzerland_m_color",
@@ -2553,7 +2321,6 @@
   },
   "SyriaMColorIcon": {
     "description": "[flag_syria_m_color]",
-    "basename": "flag_syria_m_color",
     "web": "SyriaMColorIcon",
     "webComponent": "import { SyriaMColorIcon } from '@alfalab/icons-flag/SyriaMColorIcon';",
     "android": "flag_syria_m_color",
@@ -2564,7 +2331,6 @@
   },
   "TaiwanMColorIcon": {
     "description": "[flag_taiwan_m_color]",
-    "basename": "flag_taiwan_m_color",
     "web": "TaiwanMColorIcon",
     "webComponent": "import { TaiwanMColorIcon } from '@alfalab/icons-flag/TaiwanMColorIcon';",
     "android": "flag_taiwan_m_color",
@@ -2575,7 +2341,6 @@
   },
   "TajikistanMColorIcon": {
     "description": "[flag_tajikistan_m_color]",
-    "basename": "flag_tajikistan_m_color",
     "web": "TajikistanMColorIcon",
     "webComponent": "import { TajikistanMColorIcon } from '@alfalab/icons-flag/TajikistanMColorIcon';",
     "android": "flag_tajikistan_m_color",
@@ -2586,7 +2351,6 @@
   },
   "TanzaniaMColorIcon": {
     "description": "[flag_tanzania_m_color]",
-    "basename": "flag_tanzania_m_color",
     "web": "TanzaniaMColorIcon",
     "webComponent": "import { TanzaniaMColorIcon } from '@alfalab/icons-flag/TanzaniaMColorIcon';",
     "android": "flag_tanzania_m_color",
@@ -2597,7 +2361,6 @@
   },
   "ThailandMColorIcon": {
     "description": "[flag_thailand_m_color]",
-    "basename": "flag_thailand_m_color",
     "web": "ThailandMColorIcon",
     "webComponent": "import { ThailandMColorIcon } from '@alfalab/icons-flag/ThailandMColorIcon';",
     "android": "flag_thailand_m_color",
@@ -2608,7 +2371,6 @@
   },
   "TibetMColorIcon": {
     "description": "[flag_tibet_m_color]",
-    "basename": "flag_tibet_m_color",
     "web": "TibetMColorIcon",
     "webComponent": "import { TibetMColorIcon } from '@alfalab/icons-flag/TibetMColorIcon';",
     "android": "flag_tibet_m_color",
@@ -2619,7 +2381,6 @@
   },
   "TogoMColorIcon": {
     "description": "[flag_togo_m_color]",
-    "basename": "flag_togo_m_color",
     "web": "TogoMColorIcon",
     "webComponent": "import { TogoMColorIcon } from '@alfalab/icons-flag/TogoMColorIcon';",
     "android": "flag_togo_m_color",
@@ -2630,7 +2391,6 @@
   },
   "TokelauMColorIcon": {
     "description": "[flag_tokelau_m_color]",
-    "basename": "flag_tokelau_m_color",
     "web": "TokelauMColorIcon",
     "webComponent": "import { TokelauMColorIcon } from '@alfalab/icons-flag/TokelauMColorIcon';",
     "android": "flag_tokelau_m_color",
@@ -2641,7 +2401,6 @@
   },
   "TongaMColorIcon": {
     "description": "[flag_tonga_m_color]",
-    "basename": "flag_tonga_m_color",
     "web": "TongaMColorIcon",
     "webComponent": "import { TongaMColorIcon } from '@alfalab/icons-flag/TongaMColorIcon';",
     "android": "flag_tonga_m_color",
@@ -2652,7 +2411,6 @@
   },
   "TransnistriaMColorIcon": {
     "description": "[flag_transnistria_m_color]",
-    "basename": "flag_transnistria_m_color",
     "web": "TransnistriaMColorIcon",
     "webComponent": "import { TransnistriaMColorIcon } from '@alfalab/icons-flag/TransnistriaMColorIcon';",
     "android": "flag_transnistria_m_color",
@@ -2663,7 +2421,6 @@
   },
   "TrinidadAndTobagoMColorIcon": {
     "description": "[flag_trinidad_and_tobago_m_color]",
-    "basename": "flag_trinidad-and-tobago_m_color",
     "web": "TrinidadAndTobagoMColorIcon",
     "webComponent": "import { TrinidadAndTobagoMColorIcon } from '@alfalab/icons-flag/TrinidadAndTobagoMColorIcon';",
     "android": "flag_trinidad_and_tobago_m_color",
@@ -2674,7 +2431,6 @@
   },
   "TunisiaMColorIcon": {
     "description": "[flag_tunisia_m_color]",
-    "basename": "flag_tunisia_m_color",
     "web": "TunisiaMColorIcon",
     "webComponent": "import { TunisiaMColorIcon } from '@alfalab/icons-flag/TunisiaMColorIcon';",
     "android": "flag_tunisia_m_color",
@@ -2685,7 +2441,6 @@
   },
   "TurkeyMColorIcon": {
     "description": "[flag_turkey_m_color]",
-    "basename": "flag_turkey_m_color",
     "web": "TurkeyMColorIcon",
     "webComponent": "import { TurkeyMColorIcon } from '@alfalab/icons-flag/TurkeyMColorIcon';",
     "android": "flag_turkey_m_color",
@@ -2696,7 +2451,6 @@
   },
   "TurkmenistanMColorIcon": {
     "description": "[flag_turkmenistan_m_color]",
-    "basename": "flag_turkmenistan_m_color",
     "web": "TurkmenistanMColorIcon",
     "webComponent": "import { TurkmenistanMColorIcon } from '@alfalab/icons-flag/TurkmenistanMColorIcon';",
     "android": "flag_turkmenistan_m_color",
@@ -2707,7 +2461,6 @@
   },
   "TurksAndCaicosMColorIcon": {
     "description": "[flag_turks_and_caicos_m_color]",
-    "basename": "flag_turks-and-caicos_m_color",
     "web": "TurksAndCaicosMColorIcon",
     "webComponent": "import { TurksAndCaicosMColorIcon } from '@alfalab/icons-flag/TurksAndCaicosMColorIcon';",
     "android": "flag_turks_and_caicos_m_color",
@@ -2718,7 +2471,6 @@
   },
   "Tuvalu1MColorIcon": {
     "description": "[flag_tuvalu_1_m_color]",
-    "basename": "flag_tuvalu-1_m_color",
     "web": "Tuvalu1MColorIcon",
     "webComponent": "import { Tuvalu1MColorIcon } from '@alfalab/icons-flag/Tuvalu1MColorIcon';",
     "android": "flag_tuvalu_1_m_color",
@@ -2729,7 +2481,6 @@
   },
   "TuvaluMColorIcon": {
     "description": "[flag_tuvalu_m_color]",
-    "basename": "flag_tuvalu_m_color",
     "web": "TuvaluMColorIcon",
     "webComponent": "import { TuvaluMColorIcon } from '@alfalab/icons-flag/TuvaluMColorIcon';",
     "android": "flag_tuvalu_m_color",
@@ -2740,7 +2491,6 @@
   },
   "UgandaMColorIcon": {
     "description": "[flag_uganda_m_color]",
-    "basename": "flag_uganda_m_color",
     "web": "UgandaMColorIcon",
     "webComponent": "import { UgandaMColorIcon } from '@alfalab/icons-flag/UgandaMColorIcon';",
     "android": "flag_uganda_m_color",
@@ -2751,7 +2501,6 @@
   },
   "UkraineMColorIcon": {
     "description": "[flag_ukraine_m_color]",
-    "basename": "flag_ukraine_m_color",
     "web": "UkraineMColorIcon",
     "webComponent": "import { UkraineMColorIcon } from '@alfalab/icons-flag/UkraineMColorIcon';",
     "android": "flag_ukraine_m_color",
@@ -2762,7 +2511,6 @@
   },
   "UnitedArabEmiratesMColorIcon": {
     "description": "[flag_united_arab_emirates_m_color]",
-    "basename": "flag_united-arab-emirates_m_color",
     "web": "UnitedArabEmiratesMColorIcon",
     "webComponent": "import { UnitedArabEmiratesMColorIcon } from '@alfalab/icons-flag/UnitedArabEmiratesMColorIcon';",
     "android": "flag_united_arab_emirates_m_color",
@@ -2773,7 +2521,6 @@
   },
   "UnitedKingdomMColorIcon": {
     "description": "[flag_united_kingdom_m_color]",
-    "basename": "flag_united-kingdom_m_color",
     "web": "UnitedKingdomMColorIcon",
     "webComponent": "import { UnitedKingdomMColorIcon } from '@alfalab/icons-flag/UnitedKingdomMColorIcon';",
     "android": "flag_united_kingdom_m_color",
@@ -2784,7 +2531,6 @@
   },
   "UnitedNationsMColorIcon": {
     "description": "[flag_united_nations_m_color]",
-    "basename": "flag_united-nations_m_color",
     "web": "UnitedNationsMColorIcon",
     "webComponent": "import { UnitedNationsMColorIcon } from '@alfalab/icons-flag/UnitedNationsMColorIcon';",
     "android": "flag_united_nations_m_color",
@@ -2795,7 +2541,6 @@
   },
   "UnitedStatesMColorIcon": {
     "description": "[flag_united_states_m_color]",
-    "basename": "flag_united-states_m_color",
     "web": "UnitedStatesMColorIcon",
     "webComponent": "import { UnitedStatesMColorIcon } from '@alfalab/icons-flag/UnitedStatesMColorIcon';",
     "android": "flag_united_states_m_color",
@@ -2806,7 +2551,6 @@
   },
   "UruguayMColorIcon": {
     "description": "[flag_uruguay_m_color]",
-    "basename": "flag_uruguay_m_color",
     "web": "UruguayMColorIcon",
     "webComponent": "import { UruguayMColorIcon } from '@alfalab/icons-flag/UruguayMColorIcon';",
     "android": "flag_uruguay_m_color",
@@ -2817,7 +2561,6 @@
   },
   "UzbekistnMColorIcon": {
     "description": "[flag_uzbekistn_m_color]",
-    "basename": "flag_uzbekistn_m_color",
     "web": "UzbekistnMColorIcon",
     "webComponent": "import { UzbekistnMColorIcon } from '@alfalab/icons-flag/UzbekistnMColorIcon';",
     "android": "flag_uzbekistn_m_color",
@@ -2828,7 +2571,6 @@
   },
   "VanuatuMColorIcon": {
     "description": "[flag_vanuatu_m_color]",
-    "basename": "flag_vanuatu_m_color",
     "web": "VanuatuMColorIcon",
     "webComponent": "import { VanuatuMColorIcon } from '@alfalab/icons-flag/VanuatuMColorIcon';",
     "android": "flag_vanuatu_m_color",
@@ -2839,7 +2581,6 @@
   },
   "VaticanCityMColorIcon": {
     "description": "[flag_vatican_city_m_color]",
-    "basename": "flag_vatican-city_m_color",
     "web": "VaticanCityMColorIcon",
     "webComponent": "import { VaticanCityMColorIcon } from '@alfalab/icons-flag/VaticanCityMColorIcon';",
     "android": "flag_vatican_city_m_color",
@@ -2850,7 +2591,6 @@
   },
   "VenezuelaMColorIcon": {
     "description": "[flag_venezuela_m_color]",
-    "basename": "flag_venezuela_m_color",
     "web": "VenezuelaMColorIcon",
     "webComponent": "import { VenezuelaMColorIcon } from '@alfalab/icons-flag/VenezuelaMColorIcon';",
     "android": "flag_venezuela_m_color",
@@ -2861,7 +2601,6 @@
   },
   "VietnamMColorIcon": {
     "description": "[flag_vietnam_m_color]",
-    "basename": "flag_vietnam_m_color",
     "web": "VietnamMColorIcon",
     "webComponent": "import { VietnamMColorIcon } from '@alfalab/icons-flag/VietnamMColorIcon';",
     "android": "flag_vietnam_m_color",
@@ -2872,7 +2611,6 @@
   },
   "VirginIslandsMColorIcon": {
     "description": "[flag_virgin_islands_m_color]",
-    "basename": "flag_virgin-islands_m_color",
     "web": "VirginIslandsMColorIcon",
     "webComponent": "import { VirginIslandsMColorIcon } from '@alfalab/icons-flag/VirginIslandsMColorIcon';",
     "android": "flag_virgin_islands_m_color",
@@ -2883,7 +2621,6 @@
   },
   "WalesMColorIcon": {
     "description": "[flag_wales_m_color]",
-    "basename": "flag_wales_m_color",
     "web": "WalesMColorIcon",
     "webComponent": "import { WalesMColorIcon } from '@alfalab/icons-flag/WalesMColorIcon';",
     "android": "flag_wales_m_color",
@@ -2894,7 +2631,6 @@
   },
   "YemenMColorIcon": {
     "description": "[flag_yemen_m_color]",
-    "basename": "flag_yemen_m_color",
     "web": "YemenMColorIcon",
     "webComponent": "import { YemenMColorIcon } from '@alfalab/icons-flag/YemenMColorIcon';",
     "android": "flag_yemen_m_color",
@@ -2905,7 +2641,6 @@
   },
   "ZambiaMColorIcon": {
     "description": "[flag_zambia_m_color]",
-    "basename": "flag_zambia_m_color",
     "web": "ZambiaMColorIcon",
     "webComponent": "import { ZambiaMColorIcon } from '@alfalab/icons-flag/ZambiaMColorIcon';",
     "android": "flag_zambia_m_color",
@@ -2916,7 +2651,6 @@
   },
   "ZimbabweMColorIcon": {
     "description": "[flag_zimbabwe_m_color]",
-    "basename": "flag_zimbabwe_m_color",
     "web": "ZimbabweMColorIcon",
     "webComponent": "import { ZimbabweMColorIcon } from '@alfalab/icons-flag/ZimbabweMColorIcon';",
     "android": "flag_zimbabwe_m_color",
