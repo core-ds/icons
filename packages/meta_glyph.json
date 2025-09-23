@@ -1659,6 +1659,16 @@
     "cdn": "glyph_briefcase_m",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_briefcase_m.svg"
   },
+  "BriefcaseSIcon": {
+    "description": "чемодан с ручкой, портфель, portfolio",
+    "web": "BriefcaseSIcon",
+    "webComponent": "import { BriefcaseSIcon } from '@alfalab/icons-glyph/BriefcaseSIcon';",
+    "android": "glyph_briefcase_s",
+    "ios": "glyph_briefcase_s",
+    "middle": "glyph_briefcase_s",
+    "cdn": "glyph_briefcase_s",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_briefcase_s.svg"
+  },
   "BroomMIcon": {
     "description": "очистить, clear, метла",
     "web": "BroomMIcon",
@@ -3819,6 +3829,16 @@
     "cdn": "glyph_crown_m",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_crown_m.svg"
   },
+  "CrownSIcon": {
+    "description": "корона, вип",
+    "web": "CrownSIcon",
+    "webComponent": "import { CrownSIcon } from '@alfalab/icons-glyph/CrownSIcon';",
+    "android": "glyph_crown_s",
+    "ios": "glyph_crown_s",
+    "middle": "glyph_crown_s",
+    "cdn": "glyph_crown_s",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_crown_s.svg"
+  },
   "CzkMIcon": {
     "description": "валюта, венгерский форинт, форинт",
     "web": "CzkMIcon",
@@ -4898,6 +4918,16 @@
     "middle": "glyph_eye-off_s",
     "cdn": "glyph_eye-off_s",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_eye-off_s.svg"
+  },
+  "EyeScanMIcon": {
+    "description": "биометрия, оплата по биометрии, оплата взглядом",
+    "web": "EyeScanMIcon",
+    "webComponent": "import { EyeScanMIcon } from '@alfalab/icons-glyph/EyeScanMIcon';",
+    "android": "glyph_eye_scan_m",
+    "ios": "glyph_eyeScan_m",
+    "middle": "glyph_eye-scan_m",
+    "cdn": "glyph_eye-scan_m",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_eye-scan_m.svg"
   },
   "EyeMIcon": {
     "description": "глаз, показать, show",
