@@ -1,10 +1,10 @@
 {
     "name": "@alfalab/icons-invest",
-    "version": "1.4.0",
+    "version": "1.5.0",
     "license": "MIT",
     "peerDependencies": {
-        "react": "^16.13.0 || ^17.0.1",
-        "react-dom": "^16.13.0 || ^17.0.1"
+        "react": "^16.9.0 || ^17.0.1 || ^18.0.0",
+        "react-dom": "^16.9.0 || ^17.0.1 || ^18.0.0"
     },
     "main": "./index.js",
     "module": "./esm/index.js",

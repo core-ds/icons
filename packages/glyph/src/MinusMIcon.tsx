@@ -14,7 +14,7 @@ export const MinusMIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
         viewBox="0 0 24 24"
         {...props}
     >
-        <path d="M3 11h18v2H3z" />
+        <path d="M3 11h18v2H3v-2z" />
     </svg>
 );
 

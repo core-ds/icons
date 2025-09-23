@@ -1,6 +1,6 @@
 {
   "name": "@alfalab/icons",
-  "version": "3.378.1",
+  "version": "3.390.0",
   "description": "Design System UI Icons",
   "main": "index.js",
   "repository": "git@github.com:core-ds/icons.git",
@@ -51,7 +51,7 @@
     "ts-node": "^8.6.2",
     "tslib": "^2.0.0",
     "typescript": "^3.8.3",
-    "ui-primitives": "^30.13.0",
+    "ui-primitives": "^31.1.0",
     "util": "^0.12.2"
   },
   "lint-staged": {
@@ -63,5 +63,6 @@
         "eslint"
       ]
     }
-  }
+  },
+  "packageManager": "yarn@1.22.22"
 }
