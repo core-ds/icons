@@ -6639,6 +6639,16 @@
     "cdn": "glyph_magnifier-filled_m",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_magnifier-filled_m.svg"
   },
+  "MagnifierFlareMIcon": {
+    "description": "magic-magnifier, поиск, ai, искусственный интеллект, умный, звезда, ии, спаркл, sparkle, star, flare, smart",
+    "web": "MagnifierFlareMIcon",
+    "webComponent": "import { MagnifierFlareMIcon } from '@alfalab/icons-glyph/MagnifierFlareMIcon';",
+    "android": "glyph_magnifier_flare_m",
+    "ios": "glyph_magnifierFlare_m",
+    "middle": "glyph_magnifier-flare_m",
+    "cdn": "glyph_magnifier-flare_m",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_magnifier-flare_m.svg"
+  },
   "MagnifierMIcon": {
     "description": "поиск, search, лупа",
     "web": "MagnifierMIcon",
