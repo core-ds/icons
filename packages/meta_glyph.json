@@ -159,6 +159,26 @@
     "cdn": "glyph_amd_m",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_amd_m.svg"
   },
+  "AnchorMIcon": {
+    "description": "якорь, якорные, anchor, anchored, zrjhm, zrjhyst",
+    "web": "AnchorMIcon",
+    "webComponent": "import { AnchorMIcon } from '@alfalab/icons-glyph/AnchorMIcon';",
+    "android": "glyph_anchor_m",
+    "ios": "glyph_anchor_m",
+    "middle": "glyph_anchor_m",
+    "cdn": "glyph_anchor_m",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_anchor_m.svg"
+  },
+  "AnchorSIcon": {
+    "description": "якорь, якорные, anchor, anchored, zrjhm, zrjhyst",
+    "web": "AnchorSIcon",
+    "webComponent": "import { AnchorSIcon } from '@alfalab/icons-glyph/AnchorSIcon';",
+    "android": "glyph_anchor_s",
+    "ios": "glyph_anchor_s",
+    "middle": "glyph_anchor_s",
+    "cdn": "glyph_anchor_s",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_anchor_s.svg"
+  },
   "ApelsinMColorIcon": {
     "description": "бонусная программа апельсин х5, апельсин, апельсинки",
     "web": "ApelsinMColorIcon",
