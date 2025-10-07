@@ -1,6 +1,6 @@
 {
   "AScoresCircleMIcon": {
-    "description": "",
+    "description": "бонус, альфа-выгодно, баллы, bonus, кешбэк и бонусы",
     "web": "AScoresCircleMIcon",
     "webComponent": "import { AScoresCircleMIcon } from '@alfalab/icons-corp/AScoresCircleMIcon';",
     "android": "corp_a_scores_circle_m",
@@ -10,7 +10,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/corp_a-scores-circle_m.svg"
   },
   "AllServicesCompactMIcon": {
-    "description": "Cервисы, все сервисы, services, all services",
+    "description": "сервисы, все сервисы, services, all services",
     "web": "AllServicesCompactMIcon",
     "webComponent": "import { AllServicesCompactMIcon } from '@alfalab/icons-corp/AllServicesCompactMIcon';",
     "android": "corp_all_services_compact_m",
@@ -20,7 +20,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/corp_all-services-compact_m.svg"
   },
   "ArrowAscBoldMIcon": {
-    "description": "Альфа бизнес пипл, Alfa Business People",
+    "description": "альфа бизнес пипл, alfa business people",
     "web": "ArrowAscBoldMIcon",
     "webComponent": "import { ArrowAscBoldMIcon } from '@alfalab/icons-corp/ArrowAscBoldMIcon';",
     "android": "corp_arrow_asc_bold_m",
@@ -39,8 +39,18 @@
     "cdn": "corp_arrow-rise_m",
     "url": "https://alfabank.servicecdn.ru/icons/corp_arrow-rise_m.svg"
   },
+  "ArrowsRightLeftCurvedBoldMIcon": {
+    "description": "стрелки, кривые стрелки, arrows, платежи в работе",
+    "web": "ArrowsRightLeftCurvedBoldMIcon",
+    "webComponent": "import { ArrowsRightLeftCurvedBoldMIcon } from '@alfalab/icons-corp/ArrowsRightLeftCurvedBoldMIcon';",
+    "android": "corp_arrows_right_left_curved_bold_m",
+    "ios": "corp_arrowsRightLeftCurvedBold_m",
+    "middle": "corp_arrows-right-left-curved-bold_m",
+    "cdn": "corp_arrows-right-left-curved-bold_m",
+    "url": "https://alfabank.servicecdn.ru/icons/corp_arrows-right-left-curved-bold_m.svg"
+  },
   "ArtificialIntelligenceMIcon": {
-    "description": "Искусственный интеллект, нейросеть",
+    "description": "искусственный интеллект, нейросеть",
     "web": "ArtificialIntelligenceMIcon",
     "webComponent": "import { ArtificialIntelligenceMIcon } from '@alfalab/icons-corp/ArtificialIntelligenceMIcon';",
     "android": "corp_artificial_intelligence_m",
@@ -50,7 +60,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/corp_artificial-intelligence_m.svg"
   },
   "ArtificialIntelligenceSIcon": {
-    "description": "Искусственный интеллект, нейросеть",
+    "description": "искусственный интеллект, нейросеть",
     "web": "ArtificialIntelligenceSIcon",
     "webComponent": "import { ArtificialIntelligenceSIcon } from '@alfalab/icons-corp/ArtificialIntelligenceSIcon';",
     "android": "corp_artificial_intelligence_s",
@@ -60,7 +70,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/corp_artificial-intelligence_s.svg"
   },
   "AtmMIcon": {
-    "description": "",
+    "description": "банкомат, инкассация, самоинкассация, atm",
     "web": "AtmMIcon",
     "webComponent": "import { AtmMIcon } from '@alfalab/icons-corp/AtmMIcon';",
     "android": "corp_atm_m",
@@ -70,7 +80,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/corp_atm_m.svg"
   },
   "BankGearMIcon": {
-    "description": "Банк, шестерёнка",
+    "description": "банк, шестерёнка",
     "web": "BankGearMIcon",
     "webComponent": "import { BankGearMIcon } from '@alfalab/icons-corp/BankGearMIcon';",
     "android": "corp_bank_gear_m",
@@ -80,7 +90,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/corp_bank-gear_m.svg"
   },
   "BankShieldMIcon": {
-    "description": "",
+    "description": "банк с щитом, аккредитивы",
     "web": "BankShieldMIcon",
     "webComponent": "import { BankShieldMIcon } from '@alfalab/icons-corp/BankShieldMIcon';",
     "android": "corp_bank_shield_m",
@@ -110,7 +120,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/corp_banknote-stack_m.svg"
   },
   "BanknotesMIcon": {
-    "description": "",
+    "description": "заказ наличных, наличные, стопка наличных, кэш, cash, money, деньги",
     "web": "BanknotesMIcon",
     "webComponent": "import { BanknotesMIcon } from '@alfalab/icons-corp/BanknotesMIcon';",
     "android": "corp_banknotes_m",
@@ -130,7 +140,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/corp_bell-add_m.svg"
   },
   "BellPlusMIcon": {
-    "description": "",
+    "description": "колокольчик с плюсом, уведомление, notification",
     "web": "BellPlusMIcon",
     "webComponent": "import { BellPlusMIcon } from '@alfalab/icons-corp/BellPlusMIcon';",
     "android": "corp_bell_plus_m",
@@ -140,7 +150,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/corp_bell-plus_m.svg"
   },
   "BellMIcon": {
-    "description": "",
+    "description": "уведомления, колокольчик, нотификейшн, bell, notification",
     "web": "BellMIcon",
     "webComponent": "import { BellMIcon } from '@alfalab/icons-corp/BellMIcon';",
     "android": "corp_bell_m",
@@ -150,7 +160,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/corp_bell_m.svg"
   },
   "BriefcaseGearMIcon": {
-    "description": "",
+    "description": "компания, холдинг, тарифы, настройки компании, холодос, чемодан, шестерёнка, settings",
     "web": "BriefcaseGearMIcon",
     "webComponent": "import { BriefcaseGearMIcon } from '@alfalab/icons-corp/BriefcaseGearMIcon';",
     "android": "corp_briefcase_gear_m",
@@ -180,7 +190,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/corp_calculator-user_m.svg"
   },
   "CalculatorMIcon": {
-    "description": "",
+    "description": "сервис бухгалтерия, бухгалтерия, калькулятор",
     "web": "CalculatorMIcon",
     "webComponent": "import { CalculatorMIcon } from '@alfalab/icons-corp/CalculatorMIcon';",
     "android": "corp_calculator_m",
@@ -210,7 +220,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/corp_calendar-cash_m.svg"
   },
   "CalendarMIcon": {
-    "description": "",
+    "description": "календарь, письма, выбор даты, calendar",
     "web": "CalendarMIcon",
     "webComponent": "import { CalendarMIcon } from '@alfalab/icons-corp/CalendarMIcon';",
     "android": "corp_calendar_m",
@@ -218,6 +228,16 @@
     "middle": "corp_calendar_m",
     "cdn": "corp_calendar_m",
     "url": "https://alfabank.servicecdn.ru/icons/corp_calendar_m.svg"
+  },
+  "CardStarMIcon": {
+    "description": "карта со звездой, звезда, карта, card, star, платежи в работе",
+    "web": "CardStarMIcon",
+    "webComponent": "import { CardStarMIcon } from '@alfalab/icons-corp/CardStarMIcon';",
+    "android": "corp_card_star_m",
+    "ios": "corp_cardStar_m",
+    "middle": "corp_card-star_m",
+    "cdn": "corp_card-star_m",
+    "url": "https://alfabank.servicecdn.ru/icons/corp_card-star_m.svg"
   },
   "CashMoneyMIcon": {
     "description": "",
@@ -240,7 +260,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/corp_cash-register_m.svg"
   },
   "ClockHandsMIcon": {
-    "description": "",
+    "description": "часы, циферблат, clock, стрелки часов",
     "web": "ClockHandsMIcon",
     "webComponent": "import { ClockHandsMIcon } from '@alfalab/icons-corp/ClockHandsMIcon';",
     "android": "corp_clock_hands_m",
@@ -248,6 +268,26 @@
     "middle": "corp_clock-hands_m",
     "cdn": "corp_clock-hands_m",
     "url": "https://alfabank.servicecdn.ru/icons/corp_clock-hands_m.svg"
+  },
+  "CloudCheckmarkLineMIcon": {
+    "description": "Облако",
+    "web": "CloudCheckmarkLineMIcon",
+    "webComponent": "import { CloudCheckmarkLineMIcon } from '@alfalab/icons-corp/CloudCheckmarkLineMIcon';",
+    "android": "corp_cloud_checkmark_line_m",
+    "ios": "corp_cloudCheckmarkLine_m",
+    "middle": "corp_cloud-checkmark-line_m",
+    "cdn": "corp_cloud-checkmark-line_m",
+    "url": "https://alfabank.servicecdn.ru/icons/corp_cloud-checkmark-line_m.svg"
+  },
+  "CloudCrossLineMIcon": {
+    "description": "Облако",
+    "web": "CloudCrossLineMIcon",
+    "webComponent": "import { CloudCrossLineMIcon } from '@alfalab/icons-corp/CloudCrossLineMIcon';",
+    "android": "corp_cloud_cross_line_m",
+    "ios": "corp_cloudCrossLine_m",
+    "middle": "corp_cloud-cross-line_m",
+    "cdn": "corp_cloud-cross-line_m",
+    "url": "https://alfabank.servicecdn.ru/icons/corp_cloud-cross-line_m.svg"
   },
   "CoffeeCupMIcon": {
     "description": "чай, кофе, tea, чаевые, сервис безналичных чаевых",
@@ -270,7 +310,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/corp_corp_arrows-right-left-curved-bold_m.svg"
   },
   "CryptoproMIcon": {
-    "description": "",
+    "description": "крипто про, cryptopro",
     "web": "CryptoproMIcon",
     "webComponent": "import { CryptoproMIcon } from '@alfalab/icons-corp/CryptoproMIcon';",
     "android": "corp_cryptopro_m",
@@ -320,7 +360,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/corp_document-eagle_m.svg"
   },
   "DocumentHorizontalMIcon": {
-    "description": "",
+    "description": "документ, счета-фактуры",
     "web": "DocumentHorizontalMIcon",
     "webComponent": "import { DocumentHorizontalMIcon } from '@alfalab/icons-corp/DocumentHorizontalMIcon';",
     "android": "corp_document_horizontal_m",
@@ -330,7 +370,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/corp_document-horizontal_m.svg"
   },
   "DocumentHouseMIcon": {
-    "description": "",
+    "description": "счета эскроу 214-фз, дом",
     "web": "DocumentHouseMIcon",
     "webComponent": "import { DocumentHouseMIcon } from '@alfalab/icons-corp/DocumentHouseMIcon';",
     "android": "corp_document_house_m",
@@ -340,7 +380,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/corp_document-house_m.svg"
   },
   "DocumentShieldMIcon": {
-    "description": "",
+    "description": "документ, защита, щит, гарантия, secure, doc",
     "web": "DocumentShieldMIcon",
     "webComponent": "import { DocumentShieldMIcon } from '@alfalab/icons-corp/DocumentShieldMIcon';",
     "android": "corp_document_shield_m",
@@ -350,7 +390,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/corp_document-shield_m.svg"
   },
   "DocumentStampMIcon": {
-    "description": "",
+    "description": "документ с печатью, печать, stamp, выписка, сформировать выписку",
     "web": "DocumentStampMIcon",
     "webComponent": "import { DocumentStampMIcon } from '@alfalab/icons-corp/DocumentStampMIcon';",
     "android": "corp_document_stamp_m",
@@ -380,7 +420,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/corp_document-world_m.svg"
   },
   "DocumentsAlfaMIcon": {
-    "description": "",
+    "description": "справки",
     "web": "DocumentsAlfaMIcon",
     "webComponent": "import { DocumentsAlfaMIcon } from '@alfalab/icons-corp/DocumentsAlfaMIcon';",
     "android": "corp_documents_alfa_m",
@@ -400,7 +440,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/corp_documents-dollar_m.svg"
   },
   "DocumentsUsdMIcon": {
-    "description": "документ, доллар, документы, импортировать валютные реестры, валюта",
+    "description": "евро, доллар, конвертация, конвертировать валюту, валюта, USD, EUR",
     "web": "DocumentsUsdMIcon",
     "webComponent": "import { DocumentsUsdMIcon } from '@alfalab/icons-corp/DocumentsUsdMIcon';",
     "android": "corp_documents_usd_m",
@@ -410,7 +450,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/corp_documents-usd_m.svg"
   },
   "DocumentsMIcon": {
-    "description": "",
+    "description": "документы, стопка документов, реестр платежей",
     "web": "DocumentsMIcon",
     "webComponent": "import { DocumentsMIcon } from '@alfalab/icons-corp/DocumentsMIcon';",
     "android": "corp_documents_m",
@@ -430,7 +470,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/corp_dollar-euro_m.svg"
   },
   "DoorOpenMIcon": {
-    "description": "",
+    "description": "логаут, выход, дверка, door",
     "web": "DoorOpenMIcon",
     "webComponent": "import { DoorOpenMIcon } from '@alfalab/icons-corp/DoorOpenMIcon';",
     "android": "corp_door_open_m",
@@ -440,7 +480,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/corp_door-open_m.svg"
   },
   "DotsHorizontalCompactMIcon": {
-    "description": "документ, доллар, документы, импортировать валютные реестры, валюта",
+    "description": "три точки, кебаб, митбол, meatballs",
     "web": "DotsHorizontalCompactMIcon",
     "webComponent": "import { DotsHorizontalCompactMIcon } from '@alfalab/icons-corp/DotsHorizontalCompactMIcon';",
     "android": "corp_dots_horizontal_compact_m",
@@ -450,7 +490,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/corp_dots-horizontal-compact_m.svg"
   },
   "EagleMIcon": {
-    "description": "",
+    "description": "орёл, герб, gov, госзакупки",
     "web": "EagleMIcon",
     "webComponent": "import { EagleMIcon } from '@alfalab/icons-corp/EagleMIcon';",
     "android": "corp_eagle_m",
@@ -460,7 +500,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/corp_eagle_m.svg"
   },
   "EnteraLogoMIcon": {
-    "description": "сервис Entera, Энтера",
+    "description": "сервис entera, энтера",
     "web": "EnteraLogoMIcon",
     "webComponent": "import { EnteraLogoMIcon } from '@alfalab/icons-corp/EnteraLogoMIcon';",
     "android": "corp_entera_logo_m",
@@ -470,7 +510,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/corp_entera-logo_m.svg"
   },
   "EurUsdCoinsMIcon": {
-    "description": "",
+    "description": "евро, доллар, конвертация, конвертировать валюту, валюта, USD, EUR",
     "web": "EurUsdCoinsMIcon",
     "webComponent": "import { EurUsdCoinsMIcon } from '@alfalab/icons-corp/EurUsdCoinsMIcon';",
     "android": "corp_eur_usd_coins_m",
@@ -490,7 +530,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/corp_flame_m.svg"
   },
   "FlowchartMIcon": {
-    "description": "",
+    "description": "флоучарт, flowchart, eдиный остаток",
     "web": "FlowchartMIcon",
     "webComponent": "import { FlowchartMIcon } from '@alfalab/icons-corp/FlowchartMIcon';",
     "android": "corp_flowchart_m",
@@ -520,7 +560,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/corp_gavel_m.svg"
   },
   "HandHeartMIcon": {
-    "description": "",
+    "description": "благотворительность, charity",
     "web": "HandHeartMIcon",
     "webComponent": "import { HandHeartMIcon } from '@alfalab/icons-corp/HandHeartMIcon';",
     "android": "corp_hand_heart_m",
@@ -530,7 +570,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/corp_hand-heart_m.svg"
   },
   "HandMoneyBagMIcon": {
-    "description": "",
+    "description": "управление ликвидностью, рука, мешок",
     "web": "HandMoneyBagMIcon",
     "webComponent": "import { HandMoneyBagMIcon } from '@alfalab/icons-corp/HandMoneyBagMIcon';",
     "android": "corp_hand_money_bag_m",
@@ -570,7 +610,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/corp_house-percent_m.svg"
   },
   "HousesGearMIcon": {
-    "description": "",
+    "description": "холдинг, режим холдинга, holding",
     "web": "HousesGearMIcon",
     "webComponent": "import { HousesGearMIcon } from '@alfalab/icons-corp/HousesGearMIcon';",
     "android": "corp_houses_gear_m",
@@ -580,7 +620,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/corp_houses-gear_m.svg"
   },
   "HousesPercentMIcon": {
-    "description": "дома, процент, Бизнес-Ипотека",
+    "description": "дома, процент, бизнес-ипотека",
     "web": "HousesPercentMIcon",
     "webComponent": "import { HousesPercentMIcon } from '@alfalab/icons-corp/HousesPercentMIcon';",
     "android": "corp_houses_percent_m",
@@ -590,7 +630,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/corp_houses-percent_m.svg"
   },
   "JudgeHammerMIcon": {
-    "description": "",
+    "description": "тендерные займы, молоток, молот",
     "web": "JudgeHammerMIcon",
     "webComponent": "import { JudgeHammerMIcon } from '@alfalab/icons-corp/JudgeHammerMIcon';",
     "android": "corp_judge_hammer_m",
@@ -610,7 +650,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/corp_laptop_m.svg"
   },
   "LightningMIcon": {
-    "description": "",
+    "description": "молния, риски",
     "web": "LightningMIcon",
     "webComponent": "import { LightningMIcon } from '@alfalab/icons-corp/LightningMIcon';",
     "android": "corp_lightning_m",
@@ -630,7 +670,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/corp_log-out_m.svg"
   },
   "MailArrowRightMIcon": {
-    "description": "",
+    "description": "письмо в банк, конверт со стрелкой",
     "web": "MailArrowRightMIcon",
     "webComponent": "import { MailArrowRightMIcon } from '@alfalab/icons-corp/MailArrowRightMIcon';",
     "android": "corp_mail_arrow_right_m",
@@ -640,7 +680,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/corp_mail-arrow-right_m.svg"
   },
   "MailMIcon": {
-    "description": "",
+    "description": "конверт, письмо, почта",
     "web": "MailMIcon",
     "webComponent": "import { MailMIcon } from '@alfalab/icons-corp/MailMIcon';",
     "android": "corp_mail_m",
@@ -660,7 +700,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/corp_max-logo_m.svg"
   },
   "PayControlMIcon": {
-    "description": "",
+    "description": "пейконтроль, pay-control",
     "web": "PayControlMIcon",
     "webComponent": "import { PayControlMIcon } from '@alfalab/icons-corp/PayControlMIcon';",
     "android": "corp_pay_control_m",
@@ -670,7 +710,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/corp_pay-control_m.svg"
   },
   "PaypassMIcon": {
-    "description": "",
+    "description": "торговый эквайринг, эквайринг и касса",
     "web": "PaypassMIcon",
     "webComponent": "import { PaypassMIcon } from '@alfalab/icons-corp/PaypassMIcon';",
     "android": "corp_paypass_m",
@@ -710,7 +750,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/corp_pencil-underline_m.svg"
   },
   "PercentMIcon": {
-    "description": "",
+    "description": "процент, кредитная витрина, кредитные продукты",
     "web": "PercentMIcon",
     "webComponent": "import { PercentMIcon } from '@alfalab/icons-corp/PercentMIcon';",
     "android": "corp_percent_m",
@@ -720,7 +760,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/corp_percent_m.svg"
   },
   "PhoneBubbleMIcon": {
-    "description": "",
+    "description": "смс подпись, телефон с чатом, СМС подписание",
     "web": "PhoneBubbleMIcon",
     "webComponent": "import { PhoneBubbleMIcon } from '@alfalab/icons-corp/PhoneBubbleMIcon';",
     "android": "corp_phone_bubble_m",
@@ -760,7 +800,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/corp_police-cap_m.svg"
   },
   "ReceiptPlusMIcon": {
-    "description": "",
+    "description": "чек, receipt, плюс, выставить счёт",
     "web": "ReceiptPlusMIcon",
     "webComponent": "import { ReceiptPlusMIcon } from '@alfalab/icons-corp/ReceiptPlusMIcon';",
     "android": "corp_receipt_plus_m",
@@ -770,7 +810,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/corp_receipt-plus_m.svg"
   },
   "SafeBoxMIcon": {
-    "description": "",
+    "description": "депозиты, сейф",
     "web": "SafeBoxMIcon",
     "webComponent": "import { SafeBoxMIcon } from '@alfalab/icons-corp/SafeBoxMIcon';",
     "android": "corp_safe_box_m",
@@ -780,7 +820,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/corp_safe-box_m.svg"
   },
   "ScalesMIcon": {
-    "description": "",
+    "description": "весы, факторинг",
     "web": "ScalesMIcon",
     "webComponent": "import { ScalesMIcon } from '@alfalab/icons-corp/ScalesMIcon';",
     "android": "corp_scales_m",
@@ -790,7 +830,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/corp_scales_m.svg"
   },
   "ScheduleMIcon": {
-    "description": "",
+    "description": "инвестиционные продукты, график",
     "web": "ScheduleMIcon",
     "webComponent": "import { ScheduleMIcon } from '@alfalab/icons-corp/ScheduleMIcon';",
     "android": "corp_schedule_m",
@@ -810,7 +850,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/corp_shield-document_m.svg"
   },
   "ShieldRiskAverageMIcon": {
-    "description": "щит",
+    "description": "щит, молния",
     "web": "ShieldRiskAverageMIcon",
     "webComponent": "import { ShieldRiskAverageMIcon } from '@alfalab/icons-corp/ShieldRiskAverageMIcon';",
     "android": "corp_shield_risk_average_m",
@@ -820,7 +860,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/corp_shield-risk-average_m.svg"
   },
   "ShieldRiskAverageSIcon": {
-    "description": "щит",
+    "description": "щит, молния",
     "web": "ShieldRiskAverageSIcon",
     "webComponent": "import { ShieldRiskAverageSIcon } from '@alfalab/icons-corp/ShieldRiskAverageSIcon';",
     "android": "corp_shield_risk_average_s",
@@ -830,7 +870,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/corp_shield-risk-average_s.svg"
   },
   "ShieldRiskFreeMIcon": {
-    "description": "щит",
+    "description": "щит, галочка",
     "web": "ShieldRiskFreeMIcon",
     "webComponent": "import { ShieldRiskFreeMIcon } from '@alfalab/icons-corp/ShieldRiskFreeMIcon';",
     "android": "corp_shield_risk_free_m",
@@ -840,7 +880,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/corp_shield-risk-free_m.svg"
   },
   "ShieldRiskFreeSIcon": {
-    "description": "щит",
+    "description": "щит, галочка",
     "web": "ShieldRiskFreeSIcon",
     "webComponent": "import { ShieldRiskFreeSIcon } from '@alfalab/icons-corp/ShieldRiskFreeSIcon';",
     "android": "corp_shield_risk_free_s",
@@ -850,7 +890,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/corp_shield-risk-free_s.svg"
   },
   "ShieldRiskHighMIcon": {
-    "description": "щит",
+    "description": "щит, внимание",
     "web": "ShieldRiskHighMIcon",
     "webComponent": "import { ShieldRiskHighMIcon } from '@alfalab/icons-corp/ShieldRiskHighMIcon';",
     "android": "corp_shield_risk_high_m",
@@ -860,7 +900,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/corp_shield-risk-high_m.svg"
   },
   "ShieldRiskHighSIcon": {
-    "description": "щит",
+    "description": "щит, внимание",
     "web": "ShieldRiskHighSIcon",
     "webComponent": "import { ShieldRiskHighSIcon } from '@alfalab/icons-corp/ShieldRiskHighSIcon';",
     "android": "corp_shield_risk_high_s",
@@ -870,7 +910,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/corp_shield-risk-high_s.svg"
   },
   "ShieldRiskUnknownMIcon": {
-    "description": "щит",
+    "description": "щит, вопрос",
     "web": "ShieldRiskUnknownMIcon",
     "webComponent": "import { ShieldRiskUnknownMIcon } from '@alfalab/icons-corp/ShieldRiskUnknownMIcon';",
     "android": "corp_shield_risk_unknown_m",
@@ -880,7 +920,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/corp_shield-risk-unknown_m.svg"
   },
   "ShieldRiskUnknownSIcon": {
-    "description": "щит",
+    "description": "щит, вопрос",
     "web": "ShieldRiskUnknownSIcon",
     "webComponent": "import { ShieldRiskUnknownSIcon } from '@alfalab/icons-corp/ShieldRiskUnknownSIcon';",
     "android": "corp_shield_risk_unknown_s",
@@ -890,7 +930,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/corp_shield-risk-unknown_s.svg"
   },
   "ShieldRubMIcon": {
-    "description": "щит",
+    "description": "щит, рубль",
     "web": "ShieldRubMIcon",
     "webComponent": "import { ShieldRubMIcon } from '@alfalab/icons-corp/ShieldRubMIcon';",
     "android": "corp_shield_rub_m",
@@ -900,7 +940,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/corp_shield-rub_m.svg"
   },
   "ShieldRubSIcon": {
-    "description": "щит",
+    "description": "щит, рубль",
     "web": "ShieldRubSIcon",
     "webComponent": "import { ShieldRubSIcon } from '@alfalab/icons-corp/ShieldRubSIcon';",
     "android": "corp_shield_rub_s",
@@ -910,7 +950,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/corp_shield-rub_s.svg"
   },
   "ShieldRubXxlIcon": {
-    "description": "щит",
+    "description": "щит, рубль",
     "web": "ShieldRubXxlIcon",
     "webComponent": "import { ShieldRubXxlIcon } from '@alfalab/icons-corp/ShieldRubXxlIcon';",
     "android": "corp_shield_rub_xxl",
@@ -930,7 +970,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/corp_shield-world_m.svg"
   },
   "ShopMIcon": {
-    "description": "",
+    "description": "магазин, витрина, франчайзинг",
     "web": "ShopMIcon",
     "webComponent": "import { ShopMIcon } from '@alfalab/icons-corp/ShopMIcon';",
     "android": "corp_shop_m",
@@ -950,7 +990,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/corp_signature-square_m.svg"
   },
   "SlidersMIcon": {
-    "description": "Фильтрблок, GeneralFilterTag, FiltersBlock",
+    "description": "фильтрблок, GeneralFilterTag, FiltersBlock",
     "web": "SlidersMIcon",
     "webComponent": "import { SlidersMIcon } from '@alfalab/icons-corp/SlidersMIcon';",
     "android": "corp_sliders_m",
@@ -960,7 +1000,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/corp_sliders_m.svg"
   },
   "SlidersSIcon": {
-    "description": "Фильтрблок, GeneralFilterTag, FiltersBlock",
+    "description": "фильтрблок, GeneralFilterTag, FiltersBlock",
     "web": "SlidersSIcon",
     "webComponent": "import { SlidersSIcon } from '@alfalab/icons-corp/SlidersSIcon';",
     "android": "corp_sliders_s",
@@ -980,7 +1020,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/corp_square-lines-rounded_m.svg"
   },
   "SquareLinesSquareMediumMIcon": {
-    "description": "",
+    "description": "линии, счета",
     "web": "SquareLinesSquareMediumMIcon",
     "webComponent": "import { SquareLinesSquareMediumMIcon } from '@alfalab/icons-corp/SquareLinesSquareMediumMIcon';",
     "android": "corp_square_lines_square_medium_m",
@@ -990,7 +1030,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/corp_square-lines-square-medium_m.svg"
   },
   "StackOfCoinsMIcon": {
-    "description": "",
+    "description": "личный кабинет МФО",
     "web": "StackOfCoinsMIcon",
     "webComponent": "import { StackOfCoinsMIcon } from '@alfalab/icons-corp/StackOfCoinsMIcon';",
     "android": "corp_stack_of_coins_m",
@@ -1000,7 +1040,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/corp_stack-of-coins_m.svg"
   },
   "SupermarketTrolleyMIcon": {
-    "description": "",
+    "description": "витрина продуктов",
     "web": "SupermarketTrolleyMIcon",
     "webComponent": "import { SupermarketTrolleyMIcon } from '@alfalab/icons-corp/SupermarketTrolleyMIcon';",
     "android": "corp_supermarket_trolley_m",
@@ -1020,7 +1060,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/corp_swap-horizontal_m.svg"
   },
   "TrafficControllersBatonMIcon": {
-    "description": "",
+    "description": "штрафы ГИБДД",
     "web": "TrafficControllersBatonMIcon",
     "webComponent": "import { TrafficControllersBatonMIcon } from '@alfalab/icons-corp/TrafficControllersBatonMIcon';",
     "android": "corp_traffic_controllers_baton_m",
@@ -1030,7 +1070,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/corp_traffic-controllers-baton_m.svg"
   },
   "TrashCanCompactLineMIcon": {
-    "description": "корзина, мусорка, урна, удалить, trash can\n\n\n[trash-can-compact-line]",
+    "description": "корзина, мусорка, урна, удалить, trash can",
     "web": "TrashCanCompactLineMIcon",
     "webComponent": "import { TrashCanCompactLineMIcon } from '@alfalab/icons-corp/TrashCanCompactLineMIcon';",
     "android": "corp_trash_can_compact_line_m",
@@ -1040,7 +1080,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/corp_trash-can-compact-line_m.svg"
   },
   "TrashCanCompactLineSIcon": {
-    "description": "корзина, мусорка, урна, удалить, trash can\n\n\n[trash-can-compact-line]",
+    "description": "корзина, мусорка, урна, удалить, trash can",
     "web": "TrashCanCompactLineSIcon",
     "webComponent": "import { TrashCanCompactLineSIcon } from '@alfalab/icons-corp/TrashCanCompactLineSIcon';",
     "android": "corp_trash_can_compact_line_s",
@@ -1060,7 +1100,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/corp_two-persons_m.svg"
   },
   "TwoUsersTieMIcon": {
-    "description": "",
+    "description": "контрагенты",
     "web": "TwoUsersTieMIcon",
     "webComponent": "import { TwoUsersTieMIcon } from '@alfalab/icons-corp/TwoUsersTieMIcon';",
     "android": "corp_two_users_tie_m",
@@ -1120,7 +1160,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/corp_view-mode-table_s.svg"
   },
   "WalletMIcon": {
-    "description": "",
+    "description": "зарплатный проект",
     "web": "WalletMIcon",
     "webComponent": "import { WalletMIcon } from '@alfalab/icons-corp/WalletMIcon';",
     "android": "corp_wallet_m",
@@ -1130,7 +1170,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/corp_wallet_m.svg"
   },
   "WindowGearMIcon": {
-    "description": "",
+    "description": "настройка, окно",
     "web": "WindowGearMIcon",
     "webComponent": "import { WindowGearMIcon } from '@alfalab/icons-corp/WindowGearMIcon';",
     "android": "corp_window_gear_m",
@@ -1140,7 +1180,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/corp_window-gear_m.svg"
   },
   "WorldCashMIcon": {
-    "description": "",
+    "description": "ВЭД",
     "web": "WorldCashMIcon",
     "webComponent": "import { WorldCashMIcon } from '@alfalab/icons-corp/WorldCashMIcon';",
     "android": "corp_world_cash_m",
@@ -1160,7 +1200,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/corp_world-chevron-left-right_m.svg"
   },
   "WorldDocumentMIcon": {
-    "description": "",
+    "description": "планета, ВЭД, документ, сведения, о валютной операции",
     "web": "WorldDocumentMIcon",
     "webComponent": "import { WorldDocumentMIcon } from '@alfalab/icons-corp/WorldDocumentMIcon';",
     "android": "corp_world_document_m",
@@ -1170,7 +1210,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/corp_world-document_m.svg"
   },
   "WorldPlusMIcon": {
-    "description": "",
+    "description": "мир, плюс, создать, валютный платёж, ВЭД",
     "web": "WorldPlusMIcon",
     "webComponent": "import { WorldPlusMIcon } from '@alfalab/icons-corp/WorldPlusMIcon';",
     "android": "corp_world_plus_m",
