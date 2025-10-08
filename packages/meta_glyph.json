@@ -3859,6 +3859,36 @@
     "cdn": "glyph_crown_s",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_crown_s.svg"
   },
+  "CryptoBrokerMColorIcon": {
+    "description": "Криптовалюта, брокер",
+    "web": "CryptoBrokerMColorIcon",
+    "webComponent": "import { CryptoBrokerMColorIcon } from '@alfalab/icons-glyph/CryptoBrokerMColorIcon';",
+    "android": "glyph_crypto_broker_m_color",
+    "ios": "glyph_cryptoBroker_m_color",
+    "middle": "glyph_crypto-broker_m_color",
+    "cdn": "glyph_crypto-broker_m_color",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_crypto-broker_m_color.svg"
+  },
+  "CryptoBrokerSColorIcon": {
+    "description": "Криптовалюта, брокер",
+    "web": "CryptoBrokerSColorIcon",
+    "webComponent": "import { CryptoBrokerSColorIcon } from '@alfalab/icons-glyph/CryptoBrokerSColorIcon';",
+    "android": "glyph_crypto_broker_s_color",
+    "ios": "glyph_cryptoBroker_s_color",
+    "middle": "glyph_crypto-broker_s_color",
+    "cdn": "glyph_crypto-broker_s_color",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_crypto-broker_s_color.svg"
+  },
+  "CryptoBrokerXxlColorIcon": {
+    "description": "Криптовалюта, брокер",
+    "web": "CryptoBrokerXxlColorIcon",
+    "webComponent": "import { CryptoBrokerXxlColorIcon } from '@alfalab/icons-glyph/CryptoBrokerXxlColorIcon';",
+    "android": "glyph_crypto_broker_xxl_color",
+    "ios": "glyph_cryptoBroker_xxl_color",
+    "middle": "glyph_crypto-broker_xxl_color",
+    "cdn": "glyph_crypto-broker_xxl_color",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_crypto-broker_xxl_color.svg"
+  },
   "CzkMIcon": {
     "description": "валюта, венгерский форинт, форинт",
     "web": "CzkMIcon",
