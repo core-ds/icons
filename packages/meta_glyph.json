@@ -2749,6 +2749,16 @@
     "cdn": "glyph_checkmark-compact_xxl",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_checkmark-compact_xxl.svg"
   },
+  "CheckmarkDoubleMIcon": {
+    "description": "галка, галочка, прочитано",
+    "web": "CheckmarkDoubleMIcon",
+    "webComponent": "import { CheckmarkDoubleMIcon } from '@alfalab/icons-glyph/CheckmarkDoubleMIcon';",
+    "android": "glyph_checkmark_double_m",
+    "ios": "glyph_checkmarkDouble_m",
+    "middle": "glyph_checkmark-double_m",
+    "cdn": "glyph_checkmark-double_m",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_checkmark-double_m.svg"
+  },
   "CheckmarkHeavyMIcon": {
     "description": "",
     "web": "CheckmarkHeavyMIcon",
