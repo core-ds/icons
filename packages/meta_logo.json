@@ -4219,6 +4219,16 @@
     "cdn": "logo_net-monet_m_white",
     "url": "https://alfabank.servicecdn.ru/icons/logo_net-monet_m_white.svg"
   },
+  "NeuralAssistantSignCircleMColorIcon": {
+    "description": "Нейропомощник\n[logo_neural-assistant-sign-circle_m_color]",
+    "web": "NeuralAssistantSignCircleMColorIcon",
+    "webComponent": "import { NeuralAssistantSignCircleMColorIcon } from '@alfalab/icons-logo/NeuralAssistantSignCircleMColorIcon';",
+    "android": "logo_neural_assistant_sign_circle_m_color",
+    "ios": "logo_neuralAssistantSignCircle_m_color",
+    "middle": "logo_neural-assistant-sign-circle_m_color",
+    "cdn": "logo_neural-assistant-sign-circle_m_color",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_neural-assistant-sign-circle_m_color.svg"
+  },
   "OneBusinessSignBoxMColorIcon": {
     "description": "[logo_one-business-sign-box_m_color]",
     "web": "OneBusinessSignBoxMColorIcon",
