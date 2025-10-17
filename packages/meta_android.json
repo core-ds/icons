@@ -1,36 +1,36 @@
 {
   "ArrowLeftMIcon": {
-    "description": "",
+    "description": "стрелка влево, стрелка назад, back",
     "android": "arrow_left_m",
     "middle": "arrow-left_m"
   },
   "BackspaceMIcon": {
-    "description": "стереть, удалить, delete",
+    "description": "удалить, очистить",
     "android": "backspace_m",
     "middle": "backspace_m"
   },
   "BynSquareMediumMIcon": {
-    "description": "свинка, хрюшка, свинья, копилка, pig, piggy bank",
+    "description": "белорусские рубли, зайчики, валюта, rounded",
     "android": "byn_square_medium_m",
     "middle": "byn-square-medium_m"
   },
   "ChfSquareMediumMIcon": {
-    "description": "свинка, хрюшка, свинья, копилка, pig, piggy bank",
+    "description": "швейцарский франк, валюта, rounded",
     "android": "chf_square_medium_m",
     "middle": "chf-square-medium_m"
   },
   "ChfMIcon": {
-    "description": "",
+    "description": "швейцарский франк, валюта",
     "android": "chf_m",
     "middle": "chf_m"
   },
   "CnySquareMediumMIcon": {
-    "description": "свинка, хрюшка, свинья, копилка, pig, piggy bank",
+    "description": "китайские йены, валюта, rounded",
     "android": "cny_square_medium_m",
     "middle": "cny-square-medium_m"
   },
   "CrossMIcon": {
-    "description": "",
+    "description": "закрыть, крестик, cross, remove",
     "android": "cross_m",
     "middle": "cross_m"
   },
@@ -40,102 +40,102 @@
     "middle": "devices_m"
   },
   "DotsVerticalCompactMIcon": {
-    "description": "",
+    "description": "more, ещё, действия, kebab",
     "android": "dots_vertical_compact_m",
     "middle": "dots-vertical-compact_m"
   },
   "EurSquareMediumMIcon": {
-    "description": "свинка, хрюшка, свинья, копилка, pig, piggy bank",
+    "description": "евро, euro, валюта, rounded",
     "android": "eur_square_medium_m",
     "middle": "eur-square-medium_m"
   },
   "EurMIcon": {
-    "description": "",
+    "description": "евро, euro, валюта",
     "android": "eur_m",
     "middle": "eur_m"
   },
   "GbpSquareMediumMIcon": {
-    "description": "свинка, хрюшка, свинья, копилка, pig, piggy bank",
+    "description": "фунт стерлингов, funt, валюта, rounded",
     "android": "gbp_square_medium_m",
     "middle": "gbp-square-medium_m"
   },
   "GbpMIcon": {
-    "description": "",
+    "description": "фунт стерлингов, funt, валюта, rounded",
     "android": "gbp_m",
     "middle": "gbp_m"
   },
   "GelSquareMediumMIcon": {
-    "description": "свинка, хрюшка, свинья, копилка, pig, piggy bank",
+    "description": "лари, валюта, rounded",
     "android": "gel_square_medium_m",
     "middle": "gel-square-medium_m"
   },
   "JpySquareMediumMIcon": {
-    "description": "свинка, хрюшка, свинья, копилка, pig, piggy bank",
+    "description": "иена, японская иена, валюта, rounded",
     "android": "jpy_square_medium_m",
     "middle": "jpy-square-medium_m"
   },
   "KztSquareMediumMIcon": {
-    "description": "свинка, хрюшка, свинья, копилка, pig, piggy bank",
+    "description": "казахстанский тенге, валюта, rounded",
     "android": "kzt_square_medium_m",
     "middle": "kzt-square-medium_m"
   },
   "LinesTwoMIcon": {
-    "description": "",
+    "description": "bars, список, меню, бургер, menu, burger",
     "android": "lines_two_m",
     "middle": "lines-two_m"
   },
   "PauseMIcon": {
-    "description": "свинка, хрюшка, свинья, копилка, pig, piggy bank",
+    "description": "выключить, остановить, пауза, поставить на паузу",
     "android": "pause_m",
     "middle": "pause_m"
   },
   "PipEnterMIcon": {
-    "description": "свинка, хрюшка, свинья, копилка, pig, piggy bank",
+    "description": "картинка в картинке, picture in picture",
     "android": "pip_enter_m",
     "middle": "pip-enter_m"
   },
   "PipExitMIcon": {
-    "description": "свинка, хрюшка, свинья, копилка, pig, piggy bank",
+    "description": "выйти из режиме картинка в картинке, exit picture in picture",
     "android": "pip_exit_m",
     "middle": "pip-exit_m"
   },
   "PlayMIcon": {
-    "description": "свинка, хрюшка, свинья, копилка, pig, piggy bank",
+    "description": "video, возобновить, играть, включить, продолжить",
     "android": "play_m",
     "middle": "play_m"
   },
   "RubDigitalSquareMediumMIcon": {
-    "description": "[android_kzt_square_medium_m]",
+    "description": "рубль, диджитал, валюта",
     "android": "rub_digital_square_medium_m",
     "middle": "rub-digital-square-medium_m"
   },
   "RubSquareMediumMIcon": {
-    "description": "свинка, хрюшка, свинья, копилка, pig, piggy bank",
+    "description": "рубль, валюта, rounded",
     "android": "rub_square_medium_m",
     "middle": "rub-square-medium_m"
   },
   "RubMIcon": {
-    "description": "",
+    "description": "рубль, валюта",
     "android": "rub_m",
     "middle": "rub_m"
   },
   "ShareMIcon": {
-    "description": "",
+    "description": "поделиться",
     "android": "share_m",
     "middle": "share_m"
   },
   "TrySquareMediumMIcon": {
-    "description": "свинка, хрюшка, свинья, копилка, pig, piggy bank",
+    "description": "лира, валюта, rounded",
     "android": "try_square_medium_m",
     "middle": "try-square-medium_m"
   },
   "UsdSquareMediumMIcon": {
-    "description": "свинка, хрюшка, свинья, копилка, pig, piggy bank",
+    "description": "usd, доллар, dollar, валюта, rounded",
     "android": "usd_square_medium_m",
     "middle": "usd-square-medium_m"
   },
   "UsdMIcon": {
-    "description": "",
+    "description": "usd, доллар, dollar, валюта",
     "android": "usd_m",
     "middle": "usd_m"
   }

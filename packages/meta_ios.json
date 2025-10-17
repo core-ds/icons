@@ -1,6 +1,6 @@
 {
   "AlfaScoresMIcon": {
-    "description": "",
+    "description": "альфа-баллы",
     "web": "AlfaScoresMIcon",
     "webComponent": "import { AlfaScoresMIcon } from '@alfalab/icons-ios/AlfaScoresMIcon';",
     "ios": "alfaScores_m",
@@ -9,7 +9,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/alfa-scores_m.svg"
   },
   "BubbleXxlIcon": {
-    "description": "",
+    "description": "бабл, баббл, чат, комменты",
     "web": "BubbleXxlIcon",
     "webComponent": "import { BubbleXxlIcon } from '@alfalab/icons-ios/BubbleXxlIcon';",
     "ios": "bubble_xxl",
@@ -18,7 +18,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/bubble_xxl.svg"
   },
   "BynSquareMediumMIcon": {
-    "description": "свинка, хрюшка, свинья, копилка, pig, piggy bank",
+    "description": "белорусские рубли, зайчики, валюта",
     "web": "BynSquareMediumMIcon",
     "webComponent": "import { BynSquareMediumMIcon } from '@alfalab/icons-ios/BynSquareMediumMIcon';",
     "ios": "bynSquareMedium_m",
@@ -26,8 +26,17 @@
     "cdn": "byn-square-medium_m",
     "url": "https://alfabank.servicecdn.ru/icons/byn-square-medium_m.svg"
   },
+  "ChevronDownMIcon": {
+    "description": "шеврон вниз, шеврон, стрелка вниз, arrow, стрелка",
+    "web": "ChevronDownMIcon",
+    "webComponent": "import { ChevronDownMIcon } from '@alfalab/icons-ios/ChevronDownMIcon';",
+    "ios": "chevronDown_m",
+    "middle": "chevron-down_m",
+    "cdn": "chevron-down_m",
+    "url": "https://alfabank.servicecdn.ru/icons/chevron-down_m.svg"
+  },
   "ChevronLeftShiftLeftMIcon": {
-    "description": "",
+    "description": "стрелка влево, стрелка со сдвигом в лево, arrow, стрелка, шеврон со сдвигом влево, шеврон в лево, шеврон",
     "web": "ChevronLeftShiftLeftMIcon",
     "webComponent": "import { ChevronLeftShiftLeftMIcon } from '@alfalab/icons-ios/ChevronLeftShiftLeftMIcon';",
     "ios": "chevronLeftShiftLeft_m",
@@ -36,7 +45,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/chevron-left-shift-left_m.svg"
   },
   "ChevronLeftMIcon": {
-    "description": "",
+    "description": "шеврон влево",
     "web": "ChevronLeftMIcon",
     "webComponent": "import { ChevronLeftMIcon } from '@alfalab/icons-ios/ChevronLeftMIcon';",
     "ios": "chevronLeft_m",
@@ -45,7 +54,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/chevron-left_m.svg"
   },
   "ChfSquareMediumMIcon": {
-    "description": "свинка, хрюшка, свинья, копилка, pig, piggy bank",
+    "description": "швейцарский франк, валюта",
     "web": "ChfSquareMediumMIcon",
     "webComponent": "import { ChfSquareMediumMIcon } from '@alfalab/icons-ios/ChfSquareMediumMIcon';",
     "ios": "chfSquareMedium_m",
@@ -54,7 +63,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/chf-square-medium_m.svg"
   },
   "ChfMIcon": {
-    "description": "",
+    "description": "швейцарский франк, валюта",
     "web": "ChfMIcon",
     "webComponent": "import { ChfMIcon } from '@alfalab/icons-ios/ChfMIcon';",
     "ios": "chf_m",
@@ -63,7 +72,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/chf_m.svg"
   },
   "CnySquareMediumMIcon": {
-    "description": "свинка, хрюшка, свинья, копилка, pig, piggy bank",
+    "description": "китайские йены, валюта",
     "web": "CnySquareMediumMIcon",
     "webComponent": "import { CnySquareMediumMIcon } from '@alfalab/icons-ios/CnySquareMediumMIcon';",
     "ios": "cnySquareMedium_m",
@@ -72,7 +81,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/cny-square-medium_m.svg"
   },
   "CrossCircleMIcon": {
-    "description": "",
+    "description": "ошибка, remove, close, error",
     "web": "CrossCircleMIcon",
     "webComponent": "import { CrossCircleMIcon } from '@alfalab/icons-ios/CrossCircleMIcon';",
     "ios": "crossCircle_m",
@@ -81,7 +90,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/cross-circle_m.svg"
   },
   "CrossLightMIcon": {
-    "description": "",
+    "description": "закрыть, крестик, cross, remove",
     "web": "CrossLightMIcon",
     "webComponent": "import { CrossLightMIcon } from '@alfalab/icons-ios/CrossLightMIcon';",
     "ios": "crossLight_m",
@@ -89,8 +98,17 @@
     "cdn": "cross-light_m",
     "url": "https://alfabank.servicecdn.ru/icons/cross-light_m.svg"
   },
+  "CrossMIcon": {
+    "description": "закрыть, крестик, cross, remove",
+    "web": "CrossMIcon",
+    "webComponent": "import { CrossMIcon } from '@alfalab/icons-ios/CrossMIcon';",
+    "ios": "cross_m",
+    "middle": "cross_m",
+    "cdn": "cross_m",
+    "url": "https://alfabank.servicecdn.ru/icons/cross_m.svg"
+  },
   "DotsGridXxlIcon": {
-    "description": "",
+    "description": "сетка, грид, точки",
     "web": "DotsGridXxlIcon",
     "webComponent": "import { DotsGridXxlIcon } from '@alfalab/icons-ios/DotsGridXxlIcon';",
     "ios": "dotsGrid_xxl",
@@ -99,7 +117,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/dots-grid_xxl.svg"
   },
   "DotsHorizontalCircleMIcon": {
-    "description": "",
+    "description": "ещё, многоточие, точки, additional, dots, meatball, more, больше, меню, dots",
     "web": "DotsHorizontalCircleMIcon",
     "webComponent": "import { DotsHorizontalCircleMIcon } from '@alfalab/icons-ios/DotsHorizontalCircleMIcon';",
     "ios": "dotsHorizontalCircle_m",
@@ -108,7 +126,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/dots-horizontal-circle_m.svg"
   },
   "EurSquareMediumMIcon": {
-    "description": "свинка, хрюшка, свинья, копилка, pig, piggy bank",
+    "description": "евро, euro, валюта",
     "web": "EurSquareMediumMIcon",
     "webComponent": "import { EurSquareMediumMIcon } from '@alfalab/icons-ios/EurSquareMediumMIcon';",
     "ios": "eurSquareMedium_m",
@@ -117,7 +135,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/eur-square-medium_m.svg"
   },
   "EurMIcon": {
-    "description": "",
+    "description": "евро, euro, валюта",
     "web": "EurMIcon",
     "webComponent": "import { EurMIcon } from '@alfalab/icons-ios/EurMIcon';",
     "ios": "eur_m",
@@ -126,7 +144,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/eur_m.svg"
   },
   "FaceIdMIcon": {
-    "description": "",
+    "description": "фейс-ид",
     "web": "FaceIdMIcon",
     "webComponent": "import { FaceIdMIcon } from '@alfalab/icons-ios/FaceIdMIcon';",
     "ios": "faceId_m",
@@ -135,7 +153,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/face-id_m.svg"
   },
   "FaceIdXxlIcon": {
-    "description": "",
+    "description": "фейс-ид",
     "web": "FaceIdXxlIcon",
     "webComponent": "import { FaceIdXxlIcon } from '@alfalab/icons-ios/FaceIdXxlIcon';",
     "ios": "faceId_xxl",
@@ -144,7 +162,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/face-id_xxl.svg"
   },
   "GbpSquareMediumMIcon": {
-    "description": "свинка, хрюшка, свинья, копилка, pig, piggy bank",
+    "description": "фунт стерлингов, funt, валюта",
     "web": "GbpSquareMediumMIcon",
     "webComponent": "import { GbpSquareMediumMIcon } from '@alfalab/icons-ios/GbpSquareMediumMIcon';",
     "ios": "gbpSquareMedium_m",
@@ -153,7 +171,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/gbp-square-medium_m.svg"
   },
   "GbpMIcon": {
-    "description": "",
+    "description": "фунт стерлингов, funt, валюта",
     "web": "GbpMIcon",
     "webComponent": "import { GbpMIcon } from '@alfalab/icons-ios/GbpMIcon';",
     "ios": "gbp_m",
@@ -162,7 +180,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/gbp_m.svg"
   },
   "GelSquareMediumMIcon": {
-    "description": "свинка, хрюшка, свинья, копилка, pig, piggy bank",
+    "description": "лари, валюта",
     "web": "GelSquareMediumMIcon",
     "webComponent": "import { GelSquareMediumMIcon } from '@alfalab/icons-ios/GelSquareMediumMIcon';",
     "ios": "gelSquareMedium_m",
@@ -171,7 +189,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/gel-square-medium_m.svg"
   },
   "JpySquareMediumMIcon": {
-    "description": "свинка, хрюшка, свинья, копилка, pig, piggy bank",
+    "description": "иена, японская иена, валюта",
     "web": "JpySquareMediumMIcon",
     "webComponent": "import { JpySquareMediumMIcon } from '@alfalab/icons-ios/JpySquareMediumMIcon';",
     "ios": "jpySquareMedium_m",
@@ -180,7 +198,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/jpy-square-medium_m.svg"
   },
   "KztSquareMediumMIcon": {
-    "description": "свинка, хрюшка, свинья, копилка, pig, piggy bank",
+    "description": "казахстанский тенге, валюта",
     "web": "KztSquareMediumMIcon",
     "webComponent": "import { KztSquareMediumMIcon } from '@alfalab/icons-ios/KztSquareMediumMIcon';",
     "ios": "kztSquareMedium_m",
@@ -189,7 +207,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/kzt-square-medium_m.svg"
   },
   "LinesThreeMIcon": {
-    "description": "",
+    "description": "bars, список, меню, бургер, menu, burger",
     "web": "LinesThreeMIcon",
     "webComponent": "import { LinesThreeMIcon } from '@alfalab/icons-ios/LinesThreeMIcon';",
     "ios": "linesThree_m",
@@ -198,7 +216,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/lines-three_m.svg"
   },
   "MicOffXxlIcon": {
-    "description": "",
+    "description": "микрофон, звук, microphone, speaker, sound",
     "web": "MicOffXxlIcon",
     "webComponent": "import { MicOffXxlIcon } from '@alfalab/icons-ios/MicOffXxlIcon';",
     "ios": "micOff_xxl",
@@ -207,7 +225,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/mic-off_xxl.svg"
   },
   "PhoneDownXxlIcon": {
-    "description": "",
+    "description": "телефонная трубка, положить трубку, сбросить",
     "web": "PhoneDownXxlIcon",
     "webComponent": "import { PhoneDownXxlIcon } from '@alfalab/icons-ios/PhoneDownXxlIcon';",
     "ios": "phoneDown_xxl",
@@ -216,7 +234,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/phone-down_xxl.svg"
   },
   "PhoneXxlIcon": {
-    "description": "",
+    "description": "телефонная трубка, позвонить, звонок",
     "web": "PhoneXxlIcon",
     "webComponent": "import { PhoneXxlIcon } from '@alfalab/icons-ios/PhoneXxlIcon';",
     "ios": "phone_xxl",
@@ -225,7 +243,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/phone_xxl.svg"
   },
   "PipEnterMIcon": {
-    "description": "pip, режим картинка в картинке",
+    "description": "картинка в картинке, picture in picture",
     "web": "PipEnterMIcon",
     "webComponent": "import { PipEnterMIcon } from '@alfalab/icons-ios/PipEnterMIcon';",
     "ios": "pipEnter_m",
@@ -234,7 +252,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/pip-enter_m.svg"
   },
   "PipExitMIcon": {
-    "description": "pip, режим картинка в картинке",
+    "description": "выйти из режиме картинка в картинке, exit picture in picture",
     "web": "PipExitMIcon",
     "webComponent": "import { PipExitMIcon } from '@alfalab/icons-ios/PipExitMIcon';",
     "ios": "pipExit_m",
@@ -243,7 +261,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/pip-exit_m.svg"
   },
   "RubDigitalSquareMediumMIcon": {
-    "description": "[ios_digital_rub_square_medium_m]",
+    "description": "рубль, диджитал, валюта",
     "web": "RubDigitalSquareMediumMIcon",
     "webComponent": "import { RubDigitalSquareMediumMIcon } from '@alfalab/icons-ios/RubDigitalSquareMediumMIcon';",
     "ios": "rubDigitalSquareMedium_m",
@@ -252,7 +270,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/rub-digital-square-medium_m.svg"
   },
   "RubSquareMediumMIcon": {
-    "description": "свинка, хрюшка, свинья, копилка, pig, piggy bank",
+    "description": "рубль, валюта",
     "web": "RubSquareMediumMIcon",
     "webComponent": "import { RubSquareMediumMIcon } from '@alfalab/icons-ios/RubSquareMediumMIcon';",
     "ios": "rubSquareMedium_m",
@@ -261,7 +279,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/rub-square-medium_m.svg"
   },
   "RubMIcon": {
-    "description": "",
+    "description": "рубль, валюта",
     "web": "RubMIcon",
     "webComponent": "import { RubMIcon } from '@alfalab/icons-ios/RubMIcon';",
     "ios": "rub_m",
@@ -270,7 +288,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/rub_m.svg"
   },
   "SoundXxlIcon": {
-    "description": "",
+    "description": "динамик, звук",
     "web": "SoundXxlIcon",
     "webComponent": "import { SoundXxlIcon } from '@alfalab/icons-ios/SoundXxlIcon';",
     "ios": "sound_xxl",
@@ -279,7 +297,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/sound_xxl.svg"
   },
   "TouchIdXxlIcon": {
-    "description": "",
+    "description": "отпечаток пальца, тачайди",
     "web": "TouchIdXxlIcon",
     "webComponent": "import { TouchIdXxlIcon } from '@alfalab/icons-ios/TouchIdXxlIcon';",
     "ios": "touchId_xxl",
@@ -288,7 +306,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/touch-id_xxl.svg"
   },
   "TrySquareMediumMIcon": {
-    "description": "свинка, хрюшка, свинья, копилка, pig, piggy bank",
+    "description": "лира, компакт, валюта",
     "web": "TrySquareMediumMIcon",
     "webComponent": "import { TrySquareMediumMIcon } from '@alfalab/icons-ios/TrySquareMediumMIcon';",
     "ios": "trySquareMedium_m",
@@ -297,7 +315,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/try-square-medium_m.svg"
   },
   "UsdSquareMediumMIcon": {
-    "description": "свинка, хрюшка, свинья, копилка, pig, piggy bank",
+    "description": "usd, доллар, dollar, валюта",
     "web": "UsdSquareMediumMIcon",
     "webComponent": "import { UsdSquareMediumMIcon } from '@alfalab/icons-ios/UsdSquareMediumMIcon';",
     "ios": "usdSquareMedium_m",
@@ -306,7 +324,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/usd-square-medium_m.svg"
   },
   "UsdMIcon": {
-    "description": "",
+    "description": "usd, доллар, dollar, валюта",
     "web": "UsdMIcon",
     "webComponent": "import { UsdMIcon } from '@alfalab/icons-ios/UsdMIcon';",
     "ios": "usd_m",
