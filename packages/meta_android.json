@@ -1,4 +1,14 @@
 {
+  "AlfaScoresMIcon": {
+    "description": "альфа-баллы",
+    "android": "alfa_scores_m",
+    "middle": "alfa-scores_m"
+  },
+  "ArrowLeftCurvedBoldMIcon": {
+    "description": "большая стрелка влево, big arrow left",
+    "android": "arrow_left_curved_bold_m",
+    "middle": "arrow-left-curved-bold_m"
+  },
   "ArrowLeftMIcon": {
     "description": "стрелка влево, стрелка назад, back",
     "android": "arrow_left_m",
@@ -14,6 +24,11 @@
     "android": "byn_square_medium_m",
     "middle": "byn-square-medium_m"
   },
+  "ChevronDownMIcon": {
+    "description": "шеврон вниз, шеврон, стрелка вниз, arrow, стрелка",
+    "android": "chevron_down_m",
+    "middle": "chevron-down_m"
+  },
   "ChfSquareMediumMIcon": {
     "description": "швейцарский франк, валюта, rounded",
     "android": "chf_square_medium_m",
@@ -28,6 +43,16 @@
     "description": "китайские йены, валюта, rounded",
     "android": "cny_square_medium_m",
     "middle": "cny-square-medium_m"
+  },
+  "CopyLineMIcon": {
+    "description": "копировать, скопировать, обводка",
+    "android": "copy_line_m",
+    "middle": "copy-line_m"
+  },
+  "CopyMIcon": {
+    "description": "копировать, скопировать",
+    "android": "copy_m",
+    "middle": "copy_m"
   },
   "CrossMIcon": {
     "description": "закрыть, крестик, cross, remove",
@@ -103,6 +128,11 @@
     "description": "video, возобновить, играть, включить, продолжить",
     "android": "play_m",
     "middle": "play_m"
+  },
+  "RefreshMIcon": {
+    "description": "повторить, обновить, repeat, перезагрузить, повернуть, перевернуть, refresh, стрелки, круг, компактная",
+    "android": "refresh_m",
+    "middle": "refresh_m"
   },
   "RubDigitalSquareMediumMIcon": {
     "description": "рубль, диджитал, валюта",
