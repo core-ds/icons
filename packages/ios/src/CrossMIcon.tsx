@@ -4,7 +4,7 @@
  */
 import React, { SVGProps } from 'react';
 
-export const LinesThreeMIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
+export const CrossMIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
     <svg
         role="img"
         focusable="false"
@@ -14,8 +14,8 @@ export const LinesThreeMIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
         viewBox="0 0 24 24"
         {...props}
     >
-        <path d="M22 16v2H2v-2h20zm0-5v2H2v-2h20zm0-5v2H2V6h20z" />
+        <path d="M10.586 12l-7.072 7.072 1.414 1.414L12 13.414l7.072 7.072 1.414-1.414L13.414 12l7.072-7.072-1.414-1.414L12 10.586 4.928 3.514 3.514 4.928 10.586 12z" />
     </svg>
 );
 
-export default LinesThreeMIcon;
+export default CrossMIcon;
