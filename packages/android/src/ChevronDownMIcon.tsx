@@ -4,7 +4,7 @@
  */
 import React, { SVGProps } from 'react';
 
-export const PipEnterMIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
+export const ChevronDownMIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
     <svg
         role="img"
         focusable="false"
@@ -15,12 +15,11 @@ export const PipEnterMIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
         {...props}
     >
         <path
-            d="M20 6H4v12h16V6zM3.818 4C2.814 4 2 4.796 2 5.778v12.444C2 19.204 2.814 20 3.818 20H20.18c1.006 0 1.82-.796 1.82-1.778V5.778C22 4.796 21.186 4 20.18 4H3.818z"
+            d="M11.5 15.086L3.707 7.293 2.293 8.707l9.207 9.207 9.207-9.207-1.414-1.414-7.793 7.793z"
             fillRule="evenodd"
             clipRule="evenodd"
         />
-        <path d="M11 8h7v5h-7V8z" />
     </svg>
 );
 
-export default PipEnterMIcon;
+export default ChevronDownMIcon;
