@@ -509,6 +509,16 @@
     "cdn": "logotype_netmonet_s_color",
     "url": "https://alfabank.servicecdn.ru/icons/logotype_netmonet_s_color.svg"
   },
+  "NeuralAssistantSignCircleMColorIcon": {
+    "description": "Нейропомощник\n[logotype_neural-assistant-sign-circle_m_color]",
+    "web": "NeuralAssistantSignCircleMColorIcon",
+    "webComponent": "import { NeuralAssistantSignCircleMColorIcon } from '@alfalab/icons-logotype/NeuralAssistantSignCircleMColorIcon';",
+    "android": "logotype_neural_assistant_sign_circle_m_color",
+    "ios": "logotype_neuralAssistantSignCircle_m_color",
+    "middle": "logotype_neural-assistant-sign-circle_m_color",
+    "cdn": "logotype_neural-assistant-sign-circle_m_color",
+    "url": "https://alfabank.servicecdn.ru/icons/logotype_neural-assistant-sign-circle_m_color.svg"
+  },
   "OdnoklassnikiMIcon": {
     "description": "[logotype_odnoklassniki_m]",
     "web": "OdnoklassnikiMIcon",
