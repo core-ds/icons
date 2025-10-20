@@ -9209,6 +9209,26 @@
     "cdn": "glyph_rewind-15-cw_m",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_rewind-15-cw_m.svg"
   },
+  "RoadMIcon": {
+    "description": "дорога, шоссе, проезжая часть, автодор, путь, маршрут",
+    "web": "RoadMIcon",
+    "webComponent": "import { RoadMIcon } from '@alfalab/icons-glyph/RoadMIcon';",
+    "android": "glyph_road_m",
+    "ios": "glyph_road_m",
+    "middle": "glyph_road_m",
+    "cdn": "glyph_road_m",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_road_m.svg"
+  },
+  "RoadXxlIcon": {
+    "description": "дорога, шоссе, проезжая часть, автодор, путь, маршрут",
+    "web": "RoadXxlIcon",
+    "webComponent": "import { RoadXxlIcon } from '@alfalab/icons-glyph/RoadXxlIcon';",
+    "android": "glyph_road_xxl",
+    "ios": "glyph_road_xxl",
+    "middle": "glyph_road_xxl",
+    "cdn": "glyph_road_xxl",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_road_xxl.svg"
+  },
   "RobotMIcon": {
     "description": "робот, андроид, ассистент, альф, android, assist, alf",
     "web": "RobotMIcon",
