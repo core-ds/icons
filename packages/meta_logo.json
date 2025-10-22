@@ -1369,6 +1369,26 @@
     "cdn": "logo_city-drive_m_white",
     "url": "https://alfabank.servicecdn.ru/icons/logo_city-drive_m_white.svg"
   },
+  "ClaudeSonnetSignBoxMIcon": {
+    "description": "[logo_claude-sonnet-sign-box_m]",
+    "web": "ClaudeSonnetSignBoxMIcon",
+    "webComponent": "import { ClaudeSonnetSignBoxMIcon } from '@alfalab/icons-logo/ClaudeSonnetSignBoxMIcon';",
+    "android": "logo_claude_sonnet_sign_box_m",
+    "ios": "logo_claudeSonnetSignBox_m",
+    "middle": "logo_claude-sonnet-sign-box_m",
+    "cdn": "logo_claude-sonnet-sign-box_m",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_claude-sonnet-sign-box_m.svg"
+  },
+  "DeepseekSignBoxMIcon": {
+    "description": "[logo_deepseek-sign-box_m]",
+    "web": "DeepseekSignBoxMIcon",
+    "webComponent": "import { DeepseekSignBoxMIcon } from '@alfalab/icons-logo/DeepseekSignBoxMIcon';",
+    "android": "logo_deepseek_sign_box_m",
+    "ios": "logo_deepseekSignBox_m",
+    "middle": "logo_deepseek-sign-box_m",
+    "cdn": "logo_deepseek-sign-box_m",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_deepseek-sign-box_m.svg"
+  },
   "DelikateskaSignBoxMColorIcon": {
     "description": "[logo_delikateska-sign-box_m_color]",
     "web": "DelikateskaSignBoxMColorIcon",
@@ -1828,6 +1848,26 @@
     "middle": "logo_fivepost_m_white",
     "cdn": "logo_fivepost_m_white",
     "url": "https://alfabank.servicecdn.ru/icons/logo_fivepost_m_white.svg"
+  },
+  "FluxSignBoxMIcon": {
+    "description": "[logo_flux-sign-box_m]",
+    "web": "FluxSignBoxMIcon",
+    "webComponent": "import { FluxSignBoxMIcon } from '@alfalab/icons-logo/FluxSignBoxMIcon';",
+    "android": "logo_flux_sign_box_m",
+    "ios": "logo_fluxSignBox_m",
+    "middle": "logo_flux-sign-box_m",
+    "cdn": "logo_flux-sign-box_m",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_flux-sign-box_m.svg"
+  },
+  "GeminiSignBoxMColorIcon": {
+    "description": "",
+    "web": "GeminiSignBoxMColorIcon",
+    "webComponent": "import { GeminiSignBoxMColorIcon } from '@alfalab/icons-logo/GeminiSignBoxMColorIcon';",
+    "android": "logo_gemini_sign_box_m_color",
+    "ios": "logo_geminiSignBox_m_color",
+    "middle": "logo_gemini-sign-box_m_color",
+    "cdn": "logo_gemini-sign-box_m_color",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_gemini-sign-box_m_color.svg"
   },
   "GetcourseEnSignBoxMColorIcon": {
     "description": "[logo_getcourse-en-sign-box_m_color]",
@@ -4479,6 +4519,16 @@
     "cdn": "logo_open-service_m_white",
     "url": "https://alfabank.servicecdn.ru/icons/logo_open-service_m_white.svg"
   },
+  "OpenaiSignBoxMIcon": {
+    "description": "[logo_openai-sign-box_m]",
+    "web": "OpenaiSignBoxMIcon",
+    "webComponent": "import { OpenaiSignBoxMIcon } from '@alfalab/icons-logo/OpenaiSignBoxMIcon';",
+    "android": "logo_openai_sign_box_m",
+    "ios": "logo_openaiSignBox_m",
+    "middle": "logo_openai-sign-box_m",
+    "cdn": "logo_openai-sign-box_m",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_openai-sign-box_m.svg"
+  },
   "Opti24SignBoxMColorIcon": {
     "description": "[logo_opti-24-sign-box_m_color]",
     "web": "Opti24SignBoxMColorIcon",
@@ -4988,6 +5038,16 @@
     "middle": "logo_premier_m_white",
     "cdn": "logo_premier_m_white",
     "url": "https://alfabank.servicecdn.ru/icons/logo_premier_m_white.svg"
+  },
+  "QwenSignBoxMIcon": {
+    "description": "[logo_qwen-sign-box_m]",
+    "web": "QwenSignBoxMIcon",
+    "webComponent": "import { QwenSignBoxMIcon } from '@alfalab/icons-logo/QwenSignBoxMIcon';",
+    "android": "logo_qwen_sign_box_m",
+    "ios": "logo_qwenSignBox_m",
+    "middle": "logo_qwen-sign-box_m",
+    "cdn": "logo_qwen-sign-box_m",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_qwen-sign-box_m.svg"
   },
   "RentRabbitEnMColorIcon": {
     "description": "[logo_rent-rabbit-en_m_color]",
