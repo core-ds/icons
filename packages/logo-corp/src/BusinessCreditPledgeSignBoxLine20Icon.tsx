@@ -16,8 +16,8 @@ export const BusinessCreditPledgeSignBoxLine20Icon: React.FC<SVGProps<
         viewBox="0 0 20 20"
         {...props}
     >
-        <path d="M17 6.965V8h-2.053L10 4.701 5 8.035V15h4v2H3V6.965l7-4.667 7 4.667zM19 17v2h-8v-2h8z" />
-        <path d="M11.258 15.966l7.5-2-.516-1.932-7.5 2 .516 1.932z" />
+        <path d="M19 19h-8v-2h8v2zM17 6.965V10h-2V8.035l-5-3.334-5 3.334V15h4v2H3V6.965l7-4.667 7 4.667z" />
+        <path d="M18.758 13.966l-7.5 2-.516-1.932 7.5-2 .516 1.932z" />
     </svg>
 );
 

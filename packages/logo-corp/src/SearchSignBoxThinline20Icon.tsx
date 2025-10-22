@@ -4,7 +4,7 @@
  */
 import React, { SVGProps } from 'react';
 
-export const TopUpAccountSignBoxLine20Icon: React.FC<SVGProps<
+export const SearchSignBoxThinline20Icon: React.FC<SVGProps<
     SVGSVGElement
 >> = props => (
     <svg
@@ -16,9 +16,8 @@ export const TopUpAccountSignBoxLine20Icon: React.FC<SVGProps<
         viewBox="0 0 20 20"
         {...props}
     >
-        <path d="M19 19h-8v-2h8v2zM15 2a3 3 0 013 3v5h-2V5a1 1 0 00-1-1H5a1 1 0 00-1 1v10a1 1 0 001 1h4v2H5a3 3 0 01-3-3V5a3 3 0 013-3h10z" />
-        <path d="M18.758 13.966l-7.5 2-.516-1.932 7.5-2 .516 1.932zM9 12H6v-2h3v2zm4-4H6V6h7v2z" />
+        <path d="M8.5 2.25a6.25 6.25 0 014.916 10.105l3.614 3.615-1.06 1.06-3.615-3.614A6.25 6.25 0 118.5 2.25zm0 1.5a4.75 4.75 0 100 9.5 4.75 4.75 0 000-9.5z" />
     </svg>
 );
 
-export default TopUpAccountSignBoxLine20Icon;
+export default SearchSignBoxThinline20Icon;
