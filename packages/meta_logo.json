@@ -3459,6 +3459,16 @@
     "cdn": "logo_litres_m_white",
     "url": "https://alfabank.servicecdn.ru/icons/logo_litres_m_white.svg"
   },
+  "LlamaSignBoxMIcon": {
+    "description": "[logo_llama-sign-box_m]",
+    "web": "LlamaSignBoxMIcon",
+    "webComponent": "import { LlamaSignBoxMIcon } from '@alfalab/icons-logo/LlamaSignBoxMIcon';",
+    "android": "logo_llama_sign_box_m",
+    "ios": "logo_llamaSignBox_m",
+    "middle": "logo_llama-sign-box_m",
+    "cdn": "logo_llama-sign-box_m",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_llama-sign-box_m.svg"
+  },
   "MagnitCosmeticSignBoxMColorIcon": {
     "description": "[logo_magnit-cosmetic-sign-box_m_color]",
     "web": "MagnitCosmeticSignBoxMColorIcon",
