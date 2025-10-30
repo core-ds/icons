@@ -1739,6 +1739,36 @@
     "cdn": "glyph_brush_xxl",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_brush_xxl.svg"
   },
+  "BubbleArrowRightMIcon": {
+    "description": "бабл, баббл, чат, комменты, стрелочка",
+    "web": "BubbleArrowRightMIcon",
+    "webComponent": "import { BubbleArrowRightMIcon } from '@alfalab/icons-glyph/BubbleArrowRightMIcon';",
+    "android": "glyph_bubble_arrow_right_m",
+    "ios": "glyph_bubbleArrowRight_m",
+    "middle": "glyph_bubble-arrow-right_m",
+    "cdn": "glyph_bubble-arrow-right_m",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_bubble-arrow-right_m.svg"
+  },
+  "BubbleArrowRightSIcon": {
+    "description": "бабл, баббл, чат, комменты, стрелочка",
+    "web": "BubbleArrowRightSIcon",
+    "webComponent": "import { BubbleArrowRightSIcon } from '@alfalab/icons-glyph/BubbleArrowRightSIcon';",
+    "android": "glyph_bubble_arrow_right_s",
+    "ios": "glyph_bubbleArrowRight_s",
+    "middle": "glyph_bubble-arrow-right_s",
+    "cdn": "glyph_bubble-arrow-right_s",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_bubble-arrow-right_s.svg"
+  },
+  "BubbleArrowRightXxlIcon": {
+    "description": "бабл, баббл, чат, комменты, стрелочка",
+    "web": "BubbleArrowRightXxlIcon",
+    "webComponent": "import { BubbleArrowRightXxlIcon } from '@alfalab/icons-glyph/BubbleArrowRightXxlIcon';",
+    "android": "glyph_bubble_arrow_right_xxl",
+    "ios": "glyph_bubbleArrowRight_xxl",
+    "middle": "glyph_bubble-arrow-right_xxl",
+    "cdn": "glyph_bubble-arrow-right_xxl",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_bubble-arrow-right_xxl.svg"
+  },
   "BubbleAsteriskMIcon": {
     "description": "бабл, баббл, чат, комменты",
     "web": "BubbleAsteriskMIcon",
@@ -11169,6 +11199,16 @@
     "cdn": "glyph_user-phone_m",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_user-phone_m.svg"
   },
+  "UserPlusCompactMIcon": {
+    "description": "добавить пользователя, add user",
+    "web": "UserPlusCompactMIcon",
+    "webComponent": "import { UserPlusCompactMIcon } from '@alfalab/icons-glyph/UserPlusCompactMIcon';",
+    "android": "glyph_user_plus_compact_m",
+    "ios": "glyph_userPlusCompact_m",
+    "middle": "glyph_user-plus-compact_m",
+    "cdn": "glyph_user-plus-compact_m",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_user-plus-compact_m.svg"
+  },
   "UserPlusLineMIcon": {
     "description": "добавить пользователя, add user",
     "web": "UserPlusLineMIcon",
@@ -11408,6 +11448,16 @@
     "middle": "glyph_wallet-arrow-right_m",
     "cdn": "glyph_wallet-arrow-right_m",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_wallet-arrow-right_m.svg"
+  },
+  "WalletLineMIcon": {
+    "description": "электронные деньги, кошелёк, e-money",
+    "web": "WalletLineMIcon",
+    "webComponent": "import { WalletLineMIcon } from '@alfalab/icons-glyph/WalletLineMIcon';",
+    "android": "glyph_wallet_line_m",
+    "ios": "glyph_walletLine_m",
+    "middle": "glyph_wallet-line_m",
+    "cdn": "glyph_wallet-line_m",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_wallet-line_m.svg"
   },
   "WalletRetroMIcon": {
     "description": "кошелёк, purse",
