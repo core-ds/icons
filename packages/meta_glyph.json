@@ -7579,6 +7579,16 @@
     "cdn": "glyph_parking-sign_m",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_parking-sign_m.svg"
   },
+  "PatternlockMIcon": {
+    "description": "пасскод, графический ключ, клавиатура",
+    "web": "PatternlockMIcon",
+    "webComponent": "import { PatternlockMIcon } from '@alfalab/icons-glyph/PatternlockMIcon';",
+    "android": "glyph_patternlock_m",
+    "ios": "glyph_patternlock_m",
+    "middle": "glyph_patternlock_m",
+    "cdn": "glyph_patternlock_m",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_patternlock_m.svg"
+  },
   "PauseCircleMIcon": {
     "description": "выключить, остановить, пауза, поставить на паузу",
     "web": "PauseCircleMIcon",
