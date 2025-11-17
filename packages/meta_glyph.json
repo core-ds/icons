@@ -7659,6 +7659,16 @@
     "cdn": "glyph_pen-nib_m",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_pen-nib_m.svg"
   },
+  "PencilCompactMIcon": {
+    "description": "карандаш, редактировать, edit",
+    "web": "PencilCompactMIcon",
+    "webComponent": "import { PencilCompactMIcon } from '@alfalab/icons-glyph/PencilCompactMIcon';",
+    "android": "glyph_pencil_compact_m",
+    "ios": "glyph_pencilCompact_m",
+    "middle": "glyph_pencil-compact_m",
+    "cdn": "glyph_pencil-compact_m",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_pencil-compact_m.svg"
+  },
   "PencilHeavyMIcon": {
     "description": "",
     "web": "PencilHeavyMIcon",
