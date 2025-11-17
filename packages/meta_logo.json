@@ -2150,14 +2150,14 @@
     "url": "https://alfabank.servicecdn.ru/icons/logo_getradio-sign-box_m_color.svg"
   },
   "GetradioSignBoxMWhiteIcon": {
-    "description": "[logo_getradio-sign-box_m_white]",
+    "description": "",
     "web": "GetradioSignBoxMWhiteIcon",
     "webComponent": "import { GetradioSignBoxMWhiteIcon } from '@alfalab/icons-logo/GetradioSignBoxMWhiteIcon';",
-    "android": "logo_getradio_sign_box_m_white",
-    "ios": "logo_getradioSignBox_m_white",
-    "middle": "logo_getradio-sign-box_m_white",
-    "cdn": "logo_getradio-sign-box_m_white",
-    "url": "https://alfabank.servicecdn.ru/icons/logo_getradio-sign-box_m_white.svg"
+    "android": "logo_getradio_sign_box_m_white_2_test",
+    "ios": "logo_getradioSignBox_m_white_2_test",
+    "middle": "logo_getradio-sign-box_m_white_2_test",
+    "cdn": "logo_getradio-sign-box_m_white_2_test",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_getradio-sign-box_m_white_2_test.svg"
   },
   "GettransferEnSignBoxMBlackIcon": {
     "description": "[logo_gettransfer-en-sign-box_m_black]",
