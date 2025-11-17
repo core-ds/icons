@@ -299,6 +299,26 @@
     "cdn": "corp_coffee-cup_m",
     "url": "https://alfabank.servicecdn.ru/icons/corp_coffee-cup_m.svg"
   },
+  "CoinsStackCheckMIcon": {
+    "description": "монеты",
+    "web": "CoinsStackCheckMIcon",
+    "webComponent": "import { CoinsStackCheckMIcon } from '@alfalab/icons-corp/CoinsStackCheckMIcon';",
+    "android": "corp_coins_stack_check_m",
+    "ios": "corp_coinsStackCheck_m",
+    "middle": "corp_coins-stack-check_m",
+    "cdn": "corp_coins-stack-check_m",
+    "url": "https://alfabank.servicecdn.ru/icons/corp_coins-stack-check_m.svg"
+  },
+  "CoinsStackMIcon": {
+    "description": "личный кабинет МФО",
+    "web": "CoinsStackMIcon",
+    "webComponent": "import { CoinsStackMIcon } from '@alfalab/icons-corp/CoinsStackMIcon';",
+    "android": "corp_coins_stack_m",
+    "ios": "corp_coinsStack_m",
+    "middle": "corp_coins-stack_m",
+    "cdn": "corp_coins-stack_m",
+    "url": "https://alfabank.servicecdn.ru/icons/corp_coins-stack_m.svg"
+  },
   "CorpArrowsRightLeftCurvedBoldMIcon": {
     "description": "",
     "web": "CorpArrowsRightLeftCurvedBoldMIcon",
