@@ -3349,6 +3349,56 @@
     "cdn": "logo-corp_invest-application-sign-box-thinline_20",
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_invest-application-sign-box-thinline_20.svg"
   },
+  "InvestmentsSignBoxLine20Icon": {
+    "description": "Продукт: Обезличенный металлический счёт",
+    "web": "InvestmentsSignBoxLine20Icon",
+    "webComponent": "import { InvestmentsSignBoxLine20Icon } from '@alfalab/icons-logo-corp/InvestmentsSignBoxLine20Icon';",
+    "android": "logo_corp_investments_sign_box_line_20",
+    "ios": "logoCorp_investmentsSignBoxLine_20",
+    "middle": "logo-corp_investments-sign-box-line_20",
+    "cdn": "logo-corp_investments-sign-box-line_20",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_investments-sign-box-line_20.svg"
+  },
+  "InvestmentsSignBoxLine24Icon": {
+    "description": "Продукт: Обезличенный металлический счёт",
+    "web": "InvestmentsSignBoxLine24Icon",
+    "webComponent": "import { InvestmentsSignBoxLine24Icon } from '@alfalab/icons-logo-corp/InvestmentsSignBoxLine24Icon';",
+    "android": "logo_corp_investments_sign_box_line_24",
+    "ios": "logoCorp_investmentsSignBoxLine_24",
+    "middle": "logo-corp_investments-sign-box-line_24",
+    "cdn": "logo-corp_investments-sign-box-line_24",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_investments-sign-box-line_24.svg"
+  },
+  "InvestmentsSignBoxThinline20Icon": {
+    "description": "Продукт: Обезличенный металлический счёт",
+    "web": "InvestmentsSignBoxThinline20Icon",
+    "webComponent": "import { InvestmentsSignBoxThinline20Icon } from '@alfalab/icons-logo-corp/InvestmentsSignBoxThinline20Icon';",
+    "android": "logo_corp_investments_sign_box_thinline_20",
+    "ios": "logoCorp_investmentsSignBoxThinline_20",
+    "middle": "logo-corp_investments-sign-box-thinline_20",
+    "cdn": "logo-corp_investments-sign-box-thinline_20",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_investments-sign-box-thinline_20.svg"
+  },
+  "InvestmentsSignBox20Icon": {
+    "description": "Продукт: Обезличенный металлический счёт",
+    "web": "InvestmentsSignBox20Icon",
+    "webComponent": "import { InvestmentsSignBox20Icon } from '@alfalab/icons-logo-corp/InvestmentsSignBox20Icon';",
+    "android": "logo_corp_investments_sign_box_20",
+    "ios": "logoCorp_investmentsSignBox_20",
+    "middle": "logo-corp_investments-sign-box_20",
+    "cdn": "logo-corp_investments-sign-box_20",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_investments-sign-box_20.svg"
+  },
+  "InvestmentsSignBox24Icon": {
+    "description": "Продукт: Обезличенный металлический счёт",
+    "web": "InvestmentsSignBox24Icon",
+    "webComponent": "import { InvestmentsSignBox24Icon } from '@alfalab/icons-logo-corp/InvestmentsSignBox24Icon';",
+    "android": "logo_corp_investments_sign_box_24",
+    "ios": "logoCorp_investmentsSignBox_24",
+    "middle": "logo-corp_investments-sign-box_24",
+    "cdn": "logo-corp_investments-sign-box_24",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_investments-sign-box_24.svg"
+  },
   "InvoiceSignBoxLine20Icon": {
     "description": "Продукт: Счета на оплату",
     "web": "InvoiceSignBoxLine20Icon",
