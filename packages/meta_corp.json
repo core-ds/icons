@@ -1060,7 +1060,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/corp_square-lines-square-medium_m.svg"
   },
   "StackOfCoinsMIcon": {
-    "description": "личный кабинет МФО",
+    "description": "",
     "web": "StackOfCoinsMIcon",
     "webComponent": "import { StackOfCoinsMIcon } from '@alfalab/icons-corp/StackOfCoinsMIcon';",
     "android": "corp_stack_of_coins_m",

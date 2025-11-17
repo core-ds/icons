@@ -809,6 +809,46 @@
     "cdn": "logo_apple-sign-box_m",
     "url": "https://alfabank.servicecdn.ru/icons/logo_apple-sign-box_m.svg"
   },
+  "ArenzaSignCircleMColorIcon": {
+    "description": "[logo_arenza-sign-circle_m_color]",
+    "web": "ArenzaSignCircleMColorIcon",
+    "webComponent": "import { ArenzaSignCircleMColorIcon } from '@alfalab/icons-logo/ArenzaSignCircleMColorIcon';",
+    "android": "logo_arenza_sign_circle_m_color",
+    "ios": "logo_arenzaSignCircle_m_color",
+    "middle": "logo_arenza-sign-circle_m_color",
+    "cdn": "logo_arenza-sign-circle_m_color",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_arenza-sign-circle_m_color.svg"
+  },
+  "ArenzaSignCircleMWhiteIcon": {
+    "description": "[logo_arenza-sign-circle_m_white]",
+    "web": "ArenzaSignCircleMWhiteIcon",
+    "webComponent": "import { ArenzaSignCircleMWhiteIcon } from '@alfalab/icons-logo/ArenzaSignCircleMWhiteIcon';",
+    "android": "logo_arenza_sign_circle_m_white",
+    "ios": "logo_arenzaSignCircle_m_white",
+    "middle": "logo_arenza-sign-circle_m_white",
+    "cdn": "logo_arenza-sign-circle_m_white",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_arenza-sign-circle_m_white.svg"
+  },
+  "ArenzaMColorIcon": {
+    "description": "[logo_arenza_m_color]",
+    "web": "ArenzaMColorIcon",
+    "webComponent": "import { ArenzaMColorIcon } from '@alfalab/icons-logo/ArenzaMColorIcon';",
+    "android": "logo_arenza_m_color",
+    "ios": "logo_arenza_m_color",
+    "middle": "logo_arenza_m_color",
+    "cdn": "logo_arenza_m_color",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_arenza_m_color.svg"
+  },
+  "ArenzaMWhiteIcon": {
+    "description": "[logo_arenza_m_white]",
+    "web": "ArenzaMWhiteIcon",
+    "webComponent": "import { ArenzaMWhiteIcon } from '@alfalab/icons-logo/ArenzaMWhiteIcon';",
+    "android": "logo_arenza_m_white",
+    "ios": "logo_arenza_m_white",
+    "middle": "logo_arenza_m_white",
+    "cdn": "logo_arenza_m_white",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_arenza_m_white.svg"
+  },
   "AsiaAllianceSignBoxMColorIcon": {
     "description": "[logo_asia-alliance-sign-box_m_color]",
     "web": "AsiaAllianceSignBoxMColorIcon",
@@ -1289,6 +1329,76 @@
     "cdn": "logo_camera-obscura_m_white",
     "url": "https://alfabank.servicecdn.ru/icons/logo_camera-obscura_m_white.svg"
   },
+  "CardlistSignBoxMColorIcon": {
+    "description": "[logo_cardlist-sign-box_m_color]",
+    "web": "CardlistSignBoxMColorIcon",
+    "webComponent": "import { CardlistSignBoxMColorIcon } from '@alfalab/icons-logo/CardlistSignBoxMColorIcon';",
+    "android": "logo_cardlist_sign_box_m_color",
+    "ios": "logo_cardlistSignBox_m_color",
+    "middle": "logo_cardlist-sign-box_m_color",
+    "cdn": "logo_cardlist-sign-box_m_color",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_cardlist-sign-box_m_color.svg"
+  },
+  "CardlistSignBoxMWhiteIcon": {
+    "description": "[logo_cardlist-sign-box_m_white]",
+    "web": "CardlistSignBoxMWhiteIcon",
+    "webComponent": "import { CardlistSignBoxMWhiteIcon } from '@alfalab/icons-logo/CardlistSignBoxMWhiteIcon';",
+    "android": "logo_cardlist_sign_box_m_white",
+    "ios": "logo_cardlistSignBox_m_white",
+    "middle": "logo_cardlist-sign-box_m_white",
+    "cdn": "logo_cardlist-sign-box_m_white",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_cardlist-sign-box_m_white.svg"
+  },
+  "CardlistMColorIcon": {
+    "description": "[logo_cardlist_m_color]",
+    "web": "CardlistMColorIcon",
+    "webComponent": "import { CardlistMColorIcon } from '@alfalab/icons-logo/CardlistMColorIcon';",
+    "android": "logo_cardlist_m_color",
+    "ios": "logo_cardlist_m_color",
+    "middle": "logo_cardlist_m_color",
+    "cdn": "logo_cardlist_m_color",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_cardlist_m_color.svg"
+  },
+  "CardlistMWhiteIcon": {
+    "description": "[logo_cardlist_m_white]",
+    "web": "CardlistMWhiteIcon",
+    "webComponent": "import { CardlistMWhiteIcon } from '@alfalab/icons-logo/CardlistMWhiteIcon';",
+    "android": "logo_cardlist_m_white",
+    "ios": "logo_cardlist_m_white",
+    "middle": "logo_cardlist_m_white",
+    "cdn": "logo_cardlist_m_white",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_cardlist_m_white.svg"
+  },
+  "CheckofficeSignBoxMColorIcon": {
+    "description": "[logo_checkoffice-sign-box_m_color]",
+    "web": "CheckofficeSignBoxMColorIcon",
+    "webComponent": "import { CheckofficeSignBoxMColorIcon } from '@alfalab/icons-logo/CheckofficeSignBoxMColorIcon';",
+    "android": "logo_checkoffice_sign_box_m_color",
+    "ios": "logo_checkofficeSignBox_m_color",
+    "middle": "logo_checkoffice-sign-box_m_color",
+    "cdn": "logo_checkoffice-sign-box_m_color",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_checkoffice-sign-box_m_color.svg"
+  },
+  "CheckofficeMColorIcon": {
+    "description": "[logo_checkoffice_m_color]",
+    "web": "CheckofficeMColorIcon",
+    "webComponent": "import { CheckofficeMColorIcon } from '@alfalab/icons-logo/CheckofficeMColorIcon';",
+    "android": "logo_checkoffice_m_color",
+    "ios": "logo_checkoffice_m_color",
+    "middle": "logo_checkoffice_m_color",
+    "cdn": "logo_checkoffice_m_color",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_checkoffice_m_color.svg"
+  },
+  "CheckofficeMWhiteIcon": {
+    "description": "[logo_checkoffice_m_white]",
+    "web": "CheckofficeMWhiteIcon",
+    "webComponent": "import { CheckofficeMWhiteIcon } from '@alfalab/icons-logo/CheckofficeMWhiteIcon';",
+    "android": "logo_checkoffice_m_white",
+    "ios": "logo_checkoffice_m_white",
+    "middle": "logo_checkoffice_m_white",
+    "cdn": "logo_checkoffice_m_white",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_checkoffice_m_white.svg"
+  },
   "CitilinkBusinessSignBoxMColorIcon": {
     "description": "[logo_citilink-business-sign-box_m_color]",
     "web": "CitilinkBusinessSignBoxMColorIcon",
@@ -1639,6 +1749,86 @@
     "cdn": "logo_entera-sign-box_m_white",
     "url": "https://alfabank.servicecdn.ru/icons/logo_entera-sign-box_m_white.svg"
   },
+  "EnvyboxSignBoxMColorIcon": {
+    "description": "[logo_envybox-sign-box_m_color]",
+    "web": "EnvyboxSignBoxMColorIcon",
+    "webComponent": "import { EnvyboxSignBoxMColorIcon } from '@alfalab/icons-logo/EnvyboxSignBoxMColorIcon';",
+    "android": "logo_envybox_sign_box_m_color",
+    "ios": "logo_envyboxSignBox_m_color",
+    "middle": "logo_envybox-sign-box_m_color",
+    "cdn": "logo_envybox-sign-box_m_color",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_envybox-sign-box_m_color.svg"
+  },
+  "EnvyboxSignBoxMWhiteIcon": {
+    "description": "[logo_envybox-sign-box_m_white]",
+    "web": "EnvyboxSignBoxMWhiteIcon",
+    "webComponent": "import { EnvyboxSignBoxMWhiteIcon } from '@alfalab/icons-logo/EnvyboxSignBoxMWhiteIcon';",
+    "android": "logo_envybox_sign_box_m_white",
+    "ios": "logo_envyboxSignBox_m_white",
+    "middle": "logo_envybox-sign-box_m_white",
+    "cdn": "logo_envybox-sign-box_m_white",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_envybox-sign-box_m_white.svg"
+  },
+  "EnvyboxMColorIcon": {
+    "description": "[logo_envybox_m_color]",
+    "web": "EnvyboxMColorIcon",
+    "webComponent": "import { EnvyboxMColorIcon } from '@alfalab/icons-logo/EnvyboxMColorIcon';",
+    "android": "logo_envybox_m_color",
+    "ios": "logo_envybox_m_color",
+    "middle": "logo_envybox_m_color",
+    "cdn": "logo_envybox_m_color",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_envybox_m_color.svg"
+  },
+  "EnvyboxMWhiteIcon": {
+    "description": "[logo_envybox_m_white]",
+    "web": "EnvyboxMWhiteIcon",
+    "webComponent": "import { EnvyboxMWhiteIcon } from '@alfalab/icons-logo/EnvyboxMWhiteIcon';",
+    "android": "logo_envybox_m_white",
+    "ios": "logo_envybox_m_white",
+    "middle": "logo_envybox_m_white",
+    "cdn": "logo_envybox_m_white",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_envybox_m_white.svg"
+  },
+  "EraedtechSignBoxMBlackIcon": {
+    "description": "[logo_eraedtech-sign-box_m_black]",
+    "web": "EraedtechSignBoxMBlackIcon",
+    "webComponent": "import { EraedtechSignBoxMBlackIcon } from '@alfalab/icons-logo/EraedtechSignBoxMBlackIcon';",
+    "android": "logo_eraedtech_sign_box_m_black",
+    "ios": "logo_eraedtechSignBox_m_black",
+    "middle": "logo_eraedtech-sign-box_m_black",
+    "cdn": "logo_eraedtech-sign-box_m_black",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_eraedtech-sign-box_m_black.svg"
+  },
+  "EraedtechSignBoxMWhiteIcon": {
+    "description": "[logo_eraedtech-sign-box_m_white]",
+    "web": "EraedtechSignBoxMWhiteIcon",
+    "webComponent": "import { EraedtechSignBoxMWhiteIcon } from '@alfalab/icons-logo/EraedtechSignBoxMWhiteIcon';",
+    "android": "logo_eraedtech_sign_box_m_white",
+    "ios": "logo_eraedtechSignBox_m_white",
+    "middle": "logo_eraedtech-sign-box_m_white",
+    "cdn": "logo_eraedtech-sign-box_m_white",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_eraedtech-sign-box_m_white.svg"
+  },
+  "EraedtechMBlackIcon": {
+    "description": "[logo_eraedtech_m_black]",
+    "web": "EraedtechMBlackIcon",
+    "webComponent": "import { EraedtechMBlackIcon } from '@alfalab/icons-logo/EraedtechMBlackIcon';",
+    "android": "logo_eraedtech_m_black",
+    "ios": "logo_eraedtech_m_black",
+    "middle": "logo_eraedtech_m_black",
+    "cdn": "logo_eraedtech_m_black",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_eraedtech_m_black.svg"
+  },
+  "EraedtechMWhiteIcon": {
+    "description": "[logo_eraedtech_m_white]",
+    "web": "EraedtechMWhiteIcon",
+    "webComponent": "import { EraedtechMWhiteIcon } from '@alfalab/icons-logo/EraedtechMWhiteIcon';",
+    "android": "logo_eraedtech_m_white",
+    "ios": "logo_eraedtech_m_white",
+    "middle": "logo_eraedtech_m_white",
+    "cdn": "logo_eraedtech_m_white",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_eraedtech_m_white.svg"
+  },
   "FabricaUchetaSignBoxMColorIcon": {
     "description": "[logo_fabrica-ucheta-sign-box_m_color]",
     "web": "FabricaUchetaSignBoxMColorIcon",
@@ -1868,6 +2058,26 @@
     "middle": "logo_gemini-sign-box_m_color",
     "cdn": "logo_gemini-sign-box_m_color",
     "url": "https://alfabank.servicecdn.ru/icons/logo_gemini-sign-box_m_color.svg"
+  },
+  "GetRadioMColorIcon": {
+    "description": "",
+    "web": "GetRadioMColorIcon",
+    "webComponent": "import { GetRadioMColorIcon } from '@alfalab/icons-logo/GetRadioMColorIcon';",
+    "android": "logo_get_radio_m_color",
+    "ios": "logo_getRadio_m_color",
+    "middle": "logo_get-radio_m_color",
+    "cdn": "logo_get-radio_m_color",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_get-radio_m_color.svg"
+  },
+  "GetRadioMWhiteIcon": {
+    "description": "",
+    "web": "GetRadioMWhiteIcon",
+    "webComponent": "import { GetRadioMWhiteIcon } from '@alfalab/icons-logo/GetRadioMWhiteIcon';",
+    "android": "logo_get_radio_m_white",
+    "ios": "logo_getRadio_m_white",
+    "middle": "logo_get-radio_m_white",
+    "cdn": "logo_get-radio_m_white",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_get-radio_m_white.svg"
   },
   "GetcourseEnSignBoxMColorIcon": {
     "description": "[logo_getcourse-en-sign-box_m_color]",
@@ -2388,6 +2598,46 @@
     "middle": "logo_iiko-sign-box_m_white",
     "cdn": "logo_iiko-sign-box_m_white",
     "url": "https://alfabank.servicecdn.ru/icons/logo_iiko-sign-box_m_white.svg"
+  },
+  "IkedoSignBoxMColorIcon": {
+    "description": "[logo_ikedo-sign-box_m_color]",
+    "web": "IkedoSignBoxMColorIcon",
+    "webComponent": "import { IkedoSignBoxMColorIcon } from '@alfalab/icons-logo/IkedoSignBoxMColorIcon';",
+    "android": "logo_ikedo_sign_box_m_color",
+    "ios": "logo_ikedoSignBox_m_color",
+    "middle": "logo_ikedo-sign-box_m_color",
+    "cdn": "logo_ikedo-sign-box_m_color",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_ikedo-sign-box_m_color.svg"
+  },
+  "IkedoSignBoxMWhiteIcon": {
+    "description": "[logo_ikedo-sign-box_m_white]",
+    "web": "IkedoSignBoxMWhiteIcon",
+    "webComponent": "import { IkedoSignBoxMWhiteIcon } from '@alfalab/icons-logo/IkedoSignBoxMWhiteIcon';",
+    "android": "logo_ikedo_sign_box_m_white",
+    "ios": "logo_ikedoSignBox_m_white",
+    "middle": "logo_ikedo-sign-box_m_white",
+    "cdn": "logo_ikedo-sign-box_m_white",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_ikedo-sign-box_m_white.svg"
+  },
+  "IkedoMColorIcon": {
+    "description": "[logo_ikedo_m_color]",
+    "web": "IkedoMColorIcon",
+    "webComponent": "import { IkedoMColorIcon } from '@alfalab/icons-logo/IkedoMColorIcon';",
+    "android": "logo_ikedo_m_color",
+    "ios": "logo_ikedo_m_color",
+    "middle": "logo_ikedo_m_color",
+    "cdn": "logo_ikedo_m_color",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_ikedo_m_color.svg"
+  },
+  "IkedoMWhiteIcon": {
+    "description": "[logo_ikedo_m_white]",
+    "web": "IkedoMWhiteIcon",
+    "webComponent": "import { IkedoMWhiteIcon } from '@alfalab/icons-logo/IkedoMWhiteIcon';",
+    "android": "logo_ikedo_m_white",
+    "ios": "logo_ikedo_m_white",
+    "middle": "logo_ikedo_m_white",
+    "cdn": "logo_ikedo_m_white",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_ikedo_m_white.svg"
   },
   "IndigolabEnMColorIcon": {
     "description": "[logo_indigolab-en_m_color]",
@@ -2969,6 +3219,46 @@
     "cdn": "logo_kontur-diadoc_m_white",
     "url": "https://alfabank.servicecdn.ru/icons/logo_kontur-diadoc_m_white.svg"
   },
+  "KonturDostupSignSquareMColorIcon": {
+    "description": "[logo_kontur-dostup-sign-square_m_color]",
+    "web": "KonturDostupSignSquareMColorIcon",
+    "webComponent": "import { KonturDostupSignSquareMColorIcon } from '@alfalab/icons-logo/KonturDostupSignSquareMColorIcon';",
+    "android": "logo_kontur_dostup_sign_square_m_color",
+    "ios": "logo_konturDostupSignSquare_m_color",
+    "middle": "logo_kontur-dostup-sign-square_m_color",
+    "cdn": "logo_kontur-dostup-sign-square_m_color",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_kontur-dostup-sign-square_m_color.svg"
+  },
+  "KonturDostupSignSquareMWhiteIcon": {
+    "description": "[logo_kontur-dostup-sign-square_m_white]",
+    "web": "KonturDostupSignSquareMWhiteIcon",
+    "webComponent": "import { KonturDostupSignSquareMWhiteIcon } from '@alfalab/icons-logo/KonturDostupSignSquareMWhiteIcon';",
+    "android": "logo_kontur_dostup_sign_square_m_white",
+    "ios": "logo_konturDostupSignSquare_m_white",
+    "middle": "logo_kontur-dostup-sign-square_m_white",
+    "cdn": "logo_kontur-dostup-sign-square_m_white",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_kontur-dostup-sign-square_m_white.svg"
+  },
+  "KonturDostupMColorIcon": {
+    "description": "[logo_kontur-dostup_m_color]",
+    "web": "KonturDostupMColorIcon",
+    "webComponent": "import { KonturDostupMColorIcon } from '@alfalab/icons-logo/KonturDostupMColorIcon';",
+    "android": "logo_kontur_dostup_m_color",
+    "ios": "logo_konturDostup_m_color",
+    "middle": "logo_kontur-dostup_m_color",
+    "cdn": "logo_kontur-dostup_m_color",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_kontur-dostup_m_color.svg"
+  },
+  "KonturDostupMWhiteIcon": {
+    "description": "[logo_kontur-dostup_m_white]",
+    "web": "KonturDostupMWhiteIcon",
+    "webComponent": "import { KonturDostupMWhiteIcon } from '@alfalab/icons-logo/KonturDostupMWhiteIcon';",
+    "android": "logo_kontur_dostup_m_white",
+    "ios": "logo_konturDostup_m_white",
+    "middle": "logo_kontur-dostup_m_white",
+    "cdn": "logo_kontur-dostup_m_white",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_kontur-dostup_m_white.svg"
+  },
   "KonturElbaSignBoxMWhiteIcon": {
     "description": "[logo_kontur-elba-sign-box_m_white]",
     "web": "KonturElbaSignBoxMWhiteIcon",
@@ -3029,6 +3319,36 @@
     "cdn": "logo_kontur-extern_m_white",
     "url": "https://alfabank.servicecdn.ru/icons/logo_kontur-extern_m_white.svg"
   },
+  "KonturFocusSignBoxMWhiteIcon": {
+    "description": "[logo_kontur-focus-sign-box_m_white]",
+    "web": "KonturFocusSignBoxMWhiteIcon",
+    "webComponent": "import { KonturFocusSignBoxMWhiteIcon } from '@alfalab/icons-logo/KonturFocusSignBoxMWhiteIcon';",
+    "android": "logo_kontur_focus_sign_box_m_white",
+    "ios": "logo_konturFocusSignBox_m_white",
+    "middle": "logo_kontur-focus-sign-box_m_white",
+    "cdn": "logo_kontur-focus-sign-box_m_white",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_kontur-focus-sign-box_m_white.svg"
+  },
+  "KonturFocusMColorIcon": {
+    "description": "[logo_kontur-focus_m_color]",
+    "web": "KonturFocusMColorIcon",
+    "webComponent": "import { KonturFocusMColorIcon } from '@alfalab/icons-logo/KonturFocusMColorIcon';",
+    "android": "logo_kontur_focus_m_color",
+    "ios": "logo_konturFocus_m_color",
+    "middle": "logo_kontur-focus_m_color",
+    "cdn": "logo_kontur-focus_m_color",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_kontur-focus_m_color.svg"
+  },
+  "KonturFocusMWhiteIcon": {
+    "description": "[logo_kontur-focus_m_white]",
+    "web": "KonturFocusMWhiteIcon",
+    "webComponent": "import { KonturFocusMWhiteIcon } from '@alfalab/icons-logo/KonturFocusMWhiteIcon';",
+    "android": "logo_kontur_focus_m_white",
+    "ios": "logo_konturFocus_m_white",
+    "middle": "logo_kontur-focus_m_white",
+    "cdn": "logo_kontur-focus_m_white",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_kontur-focus_m_white.svg"
+  },
   "KonturHotelSignBoxMWhiteIcon": {
     "description": "[logo_kontur-hotel-sign-box_m_white]",
     "web": "KonturHotelSignBoxMWhiteIcon",
@@ -3058,6 +3378,46 @@
     "middle": "logo_kontur-hotel_m_white",
     "cdn": "logo_kontur-hotel_m_white",
     "url": "https://alfabank.servicecdn.ru/icons/logo_kontur-hotel_m_white.svg"
+  },
+  "KonturMarketSignBoxMWhiteIcon": {
+    "description": "[logo_kontur-market-sign-box_m_white]",
+    "web": "KonturMarketSignBoxMWhiteIcon",
+    "webComponent": "import { KonturMarketSignBoxMWhiteIcon } from '@alfalab/icons-logo/KonturMarketSignBoxMWhiteIcon';",
+    "android": "logo_kontur_market_sign_box_m_white",
+    "ios": "logo_konturMarketSignBox_m_white",
+    "middle": "logo_kontur-market-sign-box_m_white",
+    "cdn": "logo_kontur-market-sign-box_m_white",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_kontur-market-sign-box_m_white.svg"
+  },
+  "KonturMarketSignSquareMColorIcon": {
+    "description": "[logo_kontur-market-sign-square_m_color]",
+    "web": "KonturMarketSignSquareMColorIcon",
+    "webComponent": "import { KonturMarketSignSquareMColorIcon } from '@alfalab/icons-logo/KonturMarketSignSquareMColorIcon';",
+    "android": "logo_kontur_market_sign_square_m_color",
+    "ios": "logo_konturMarketSignSquare_m_color",
+    "middle": "logo_kontur-market-sign-square_m_color",
+    "cdn": "logo_kontur-market-sign-square_m_color",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_kontur-market-sign-square_m_color.svg"
+  },
+  "KonturMarketMColorIcon": {
+    "description": "[logo_kontur-market_m_color]",
+    "web": "KonturMarketMColorIcon",
+    "webComponent": "import { KonturMarketMColorIcon } from '@alfalab/icons-logo/KonturMarketMColorIcon';",
+    "android": "logo_kontur_market_m_color",
+    "ios": "logo_konturMarket_m_color",
+    "middle": "logo_kontur-market_m_color",
+    "cdn": "logo_kontur-market_m_color",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_kontur-market_m_color.svg"
+  },
+  "KonturMarketMWhiteIcon": {
+    "description": "[logo_kontur-market_m_white]",
+    "web": "KonturMarketMWhiteIcon",
+    "webComponent": "import { KonturMarketMWhiteIcon } from '@alfalab/icons-logo/KonturMarketMWhiteIcon';",
+    "android": "logo_kontur_market_m_white",
+    "ios": "logo_konturMarket_m_white",
+    "middle": "logo_kontur-market_m_white",
+    "cdn": "logo_kontur-market_m_white",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_kontur-market_m_white.svg"
   },
   "KonturMarkingSignBoxMWhiteIcon": {
     "description": "[logo_kontur-marking-sign-box_m_white]",
@@ -4099,6 +4459,46 @@
     "cdn": "logo_mpstats-sign-box_m_white",
     "url": "https://alfabank.servicecdn.ru/icons/logo_mpstats-sign-box_m_white.svg"
   },
+  "MtsSignBoxMColorIcon": {
+    "description": "[logo_mts-sign-box_m_color]",
+    "web": "MtsSignBoxMColorIcon",
+    "webComponent": "import { MtsSignBoxMColorIcon } from '@alfalab/icons-logo/MtsSignBoxMColorIcon';",
+    "android": "logo_mts_sign_box_m_color",
+    "ios": "logo_mtsSignBox_m_color",
+    "middle": "logo_mts-sign-box_m_color",
+    "cdn": "logo_mts-sign-box_m_color",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_mts-sign-box_m_color.svg"
+  },
+  "MtsSignBoxMWhiteIcon": {
+    "description": "[logo_mts-sign-box_m_white]",
+    "web": "MtsSignBoxMWhiteIcon",
+    "webComponent": "import { MtsSignBoxMWhiteIcon } from '@alfalab/icons-logo/MtsSignBoxMWhiteIcon';",
+    "android": "logo_mts_sign_box_m_white",
+    "ios": "logo_mtsSignBox_m_white",
+    "middle": "logo_mts-sign-box_m_white",
+    "cdn": "logo_mts-sign-box_m_white",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_mts-sign-box_m_white.svg"
+  },
+  "MtsSignSquareMColorIcon": {
+    "description": "[logo_mts-sign-square_m_color]",
+    "web": "MtsSignSquareMColorIcon",
+    "webComponent": "import { MtsSignSquareMColorIcon } from '@alfalab/icons-logo/MtsSignSquareMColorIcon';",
+    "android": "logo_mts_sign_square_m_color",
+    "ios": "logo_mtsSignSquare_m_color",
+    "middle": "logo_mts-sign-square_m_color",
+    "cdn": "logo_mts-sign-square_m_color",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_mts-sign-square_m_color.svg"
+  },
+  "MtsSignSquareMWhiteIcon": {
+    "description": "[logo_mts-sign-square_m_white]",
+    "web": "MtsSignSquareMWhiteIcon",
+    "webComponent": "import { MtsSignSquareMWhiteIcon } from '@alfalab/icons-logo/MtsSignSquareMWhiteIcon';",
+    "android": "logo_mts_sign_square_m_white",
+    "ios": "logo_mtsSignSquare_m_white",
+    "middle": "logo_mts-sign-square_m_white",
+    "cdn": "logo_mts-sign-square_m_white",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_mts-sign-square_m_white.svg"
+  },
   "MyBookSignBoxMColorIcon": {
     "description": "[logo_my-book-sign-box_m_color]",
     "web": "MyBookSignBoxMColorIcon",
@@ -4779,6 +5179,46 @@
     "cdn": "logo_pact-sign-box_m_white",
     "url": "https://alfabank.servicecdn.ru/icons/logo_pact-sign-box_m_white.svg"
   },
+  "PaypeopleSignCircleMColorIcon": {
+    "description": "[logo_paypeople-sign-circle_m_color]",
+    "web": "PaypeopleSignCircleMColorIcon",
+    "webComponent": "import { PaypeopleSignCircleMColorIcon } from '@alfalab/icons-logo/PaypeopleSignCircleMColorIcon';",
+    "android": "logo_paypeople_sign_circle_m_color",
+    "ios": "logo_paypeopleSignCircle_m_color",
+    "middle": "logo_paypeople-sign-circle_m_color",
+    "cdn": "logo_paypeople-sign-circle_m_color",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_paypeople-sign-circle_m_color.svg"
+  },
+  "PaypeopleSignCircleMWhiteIcon": {
+    "description": "[logo_paypeople-sign-circle_m_white]",
+    "web": "PaypeopleSignCircleMWhiteIcon",
+    "webComponent": "import { PaypeopleSignCircleMWhiteIcon } from '@alfalab/icons-logo/PaypeopleSignCircleMWhiteIcon';",
+    "android": "logo_paypeople_sign_circle_m_white",
+    "ios": "logo_paypeopleSignCircle_m_white",
+    "middle": "logo_paypeople-sign-circle_m_white",
+    "cdn": "logo_paypeople-sign-circle_m_white",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_paypeople-sign-circle_m_white.svg"
+  },
+  "PaypeopleMColorIcon": {
+    "description": "[logo_paypeople_m_color]",
+    "web": "PaypeopleMColorIcon",
+    "webComponent": "import { PaypeopleMColorIcon } from '@alfalab/icons-logo/PaypeopleMColorIcon';",
+    "android": "logo_paypeople_m_color",
+    "ios": "logo_paypeople_m_color",
+    "middle": "logo_paypeople_m_color",
+    "cdn": "logo_paypeople_m_color",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_paypeople_m_color.svg"
+  },
+  "PaypeopleMWhiteIcon": {
+    "description": "[logo_paypeople_m_white]",
+    "web": "PaypeopleMWhiteIcon",
+    "webComponent": "import { PaypeopleMWhiteIcon } from '@alfalab/icons-logo/PaypeopleMWhiteIcon';",
+    "android": "logo_paypeople_m_white",
+    "ios": "logo_paypeople_m_white",
+    "middle": "logo_paypeople_m_white",
+    "cdn": "logo_paypeople_m_white",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_paypeople_m_white.svg"
+  },
   "PerekrestokSignBoxMIcon": {
     "description": "[logo_perekrestok-sign-box_m_color]",
     "web": "PerekrestokSignBoxMIcon",
@@ -5049,6 +5489,26 @@
     "cdn": "logo_premier_m_white",
     "url": "https://alfabank.servicecdn.ru/icons/logo_premier_m_white.svg"
   },
+  "PyaterochkaSignCircleMColorIcon": {
+    "description": "[logo_pyaterochka-sign-circle_m_color]",
+    "web": "PyaterochkaSignCircleMColorIcon",
+    "webComponent": "import { PyaterochkaSignCircleMColorIcon } from '@alfalab/icons-logo/PyaterochkaSignCircleMColorIcon';",
+    "android": "logo_pyaterochka_sign_circle_m_color",
+    "ios": "logo_pyaterochkaSignCircle_m_color",
+    "middle": "logo_pyaterochka-sign-circle_m_color",
+    "cdn": "logo_pyaterochka-sign-circle_m_color",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_pyaterochka-sign-circle_m_color.svg"
+  },
+  "PyaterochkaSignCircleMWhiteIcon": {
+    "description": "[logo_pyaterochka-sign-circle_m_white]",
+    "web": "PyaterochkaSignCircleMWhiteIcon",
+    "webComponent": "import { PyaterochkaSignCircleMWhiteIcon } from '@alfalab/icons-logo/PyaterochkaSignCircleMWhiteIcon';",
+    "android": "logo_pyaterochka_sign_circle_m_white",
+    "ios": "logo_pyaterochkaSignCircle_m_white",
+    "middle": "logo_pyaterochka-sign-circle_m_white",
+    "cdn": "logo_pyaterochka-sign-circle_m_white",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_pyaterochka-sign-circle_m_white.svg"
+  },
   "QwenSignBoxMIcon": {
     "description": "[logo_qwen-sign-box_m]",
     "web": "QwenSignBoxMIcon",
@@ -5148,6 +5608,46 @@
     "middle": "logo_restik-sign-box_m_white",
     "cdn": "logo_restik-sign-box_m_white",
     "url": "https://alfabank.servicecdn.ru/icons/logo_restik-sign-box_m_white.svg"
+  },
+  "RiveGaucheSignBoxMBlackIcon": {
+    "description": "[logo_rive-gauche-sign-box_m_black]",
+    "web": "RiveGaucheSignBoxMBlackIcon",
+    "webComponent": "import { RiveGaucheSignBoxMBlackIcon } from '@alfalab/icons-logo/RiveGaucheSignBoxMBlackIcon';",
+    "android": "logo_rive_gauche_sign_box_m_black",
+    "ios": "logo_riveGaucheSignBox_m_black",
+    "middle": "logo_rive-gauche-sign-box_m_black",
+    "cdn": "logo_rive-gauche-sign-box_m_black",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_rive-gauche-sign-box_m_black.svg"
+  },
+  "RiveGaucheSignBoxMWhiteIcon": {
+    "description": "[logo_rive-gauche-sign-box_m_white]",
+    "web": "RiveGaucheSignBoxMWhiteIcon",
+    "webComponent": "import { RiveGaucheSignBoxMWhiteIcon } from '@alfalab/icons-logo/RiveGaucheSignBoxMWhiteIcon';",
+    "android": "logo_rive_gauche_sign_box_m_white",
+    "ios": "logo_riveGaucheSignBox_m_white",
+    "middle": "logo_rive-gauche-sign-box_m_white",
+    "cdn": "logo_rive-gauche-sign-box_m_white",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_rive-gauche-sign-box_m_white.svg"
+  },
+  "RiveGaucheMBlackIcon": {
+    "description": "[logo_rive-gauche_m_black]",
+    "web": "RiveGaucheMBlackIcon",
+    "webComponent": "import { RiveGaucheMBlackIcon } from '@alfalab/icons-logo/RiveGaucheMBlackIcon';",
+    "android": "logo_rive_gauche_m_black",
+    "ios": "logo_riveGauche_m_black",
+    "middle": "logo_rive-gauche_m_black",
+    "cdn": "logo_rive-gauche_m_black",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_rive-gauche_m_black.svg"
+  },
+  "RiveGaucheMWhiteIcon": {
+    "description": "[logo_rive-gauche_m_white]",
+    "web": "RiveGaucheMWhiteIcon",
+    "webComponent": "import { RiveGaucheMWhiteIcon } from '@alfalab/icons-logo/RiveGaucheMWhiteIcon';",
+    "android": "logo_rive_gauche_m_white",
+    "ios": "logo_riveGauche_m_white",
+    "middle": "logo_rive-gauche_m_white",
+    "cdn": "logo_rive-gauche_m_white",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_rive-gauche_m_white.svg"
   },
   "S7AirlinesEnMColorIcon": {
     "description": "[logo_s7-airlines-en_m_color]",
@@ -5618,6 +6118,46 @@
     "middle": "logo_start_m_white",
     "cdn": "logo_start_m_white",
     "url": "https://alfabank.servicecdn.ru/icons/logo_start_m_white.svg"
+  },
+  "StarterSignBoxMColorIcon": {
+    "description": "[logo_starter-sign-box_m_color]",
+    "web": "StarterSignBoxMColorIcon",
+    "webComponent": "import { StarterSignBoxMColorIcon } from '@alfalab/icons-logo/StarterSignBoxMColorIcon';",
+    "android": "logo_starter_sign_box_m_color",
+    "ios": "logo_starterSignBox_m_color",
+    "middle": "logo_starter-sign-box_m_color",
+    "cdn": "logo_starter-sign-box_m_color",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_starter-sign-box_m_color.svg"
+  },
+  "StarterSignBoxMWhiteIcon": {
+    "description": "[logo_starter-sign-box_m_white]",
+    "web": "StarterSignBoxMWhiteIcon",
+    "webComponent": "import { StarterSignBoxMWhiteIcon } from '@alfalab/icons-logo/StarterSignBoxMWhiteIcon';",
+    "android": "logo_starter_sign_box_m_white",
+    "ios": "logo_starterSignBox_m_white",
+    "middle": "logo_starter-sign-box_m_white",
+    "cdn": "logo_starter-sign-box_m_white",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_starter-sign-box_m_white.svg"
+  },
+  "StarterMColorIcon": {
+    "description": "[logo_starter_m_color]",
+    "web": "StarterMColorIcon",
+    "webComponent": "import { StarterMColorIcon } from '@alfalab/icons-logo/StarterMColorIcon';",
+    "android": "logo_starter_m_color",
+    "ios": "logo_starter_m_color",
+    "middle": "logo_starter_m_color",
+    "cdn": "logo_starter_m_color",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_starter_m_color.svg"
+  },
+  "StarterMWhiteIcon": {
+    "description": "[logo_starter_m_white]",
+    "web": "StarterMWhiteIcon",
+    "webComponent": "import { StarterMWhiteIcon } from '@alfalab/icons-logo/StarterMWhiteIcon';",
+    "android": "logo_starter_m_white",
+    "ios": "logo_starter_m_white",
+    "middle": "logo_starter_m_white",
+    "cdn": "logo_starter_m_white",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_starter_m_white.svg"
   },
   "SubwayMoscowSignBoxMIcon": {
     "description": "[logo_subway-moscow-sign-box_m]",
@@ -7059,6 +7599,26 @@
     "cdn": "logo_yandex-practicum_m_white",
     "url": "https://alfabank.servicecdn.ru/icons/logo_yandex-practicum_m_white.svg"
   },
+  "YandexSignBoxMColorIcon": {
+    "description": "[logo_yandex-sign-box_m_color]",
+    "web": "YandexSignBoxMColorIcon",
+    "webComponent": "import { YandexSignBoxMColorIcon } from '@alfalab/icons-logo/YandexSignBoxMColorIcon';",
+    "android": "logo_yandex_sign_box_m_color",
+    "ios": "logo_yandexSignBox_m_color",
+    "middle": "logo_yandex-sign-box_m_color",
+    "cdn": "logo_yandex-sign-box_m_color",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_yandex-sign-box_m_color.svg"
+  },
+  "YandexSignBoxMWhiteIcon": {
+    "description": "[logo_yandex-sign-box_m_white]",
+    "web": "YandexSignBoxMWhiteIcon",
+    "webComponent": "import { YandexSignBoxMWhiteIcon } from '@alfalab/icons-logo/YandexSignBoxMWhiteIcon';",
+    "android": "logo_yandex_sign_box_m_white",
+    "ios": "logo_yandexSignBox_m_white",
+    "middle": "logo_yandex-sign-box_m_white",
+    "cdn": "logo_yandex-sign-box_m_white",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_yandex-sign-box_m_white.svg"
+  },
   "YandexTravelSignCircleMColorIcon": {
     "description": "[logo_yandex-travel-sign-circle_m_color]",
     "web": "YandexTravelSignCircleMColorIcon",
@@ -7088,6 +7648,26 @@
     "middle": "logo_yandex-travel_m_white",
     "cdn": "logo_yandex-travel_m_white",
     "url": "https://alfabank.servicecdn.ru/icons/logo_yandex-travel_m_white.svg"
+  },
+  "YandexMColorIcon": {
+    "description": "[logo_yandex_m_color]",
+    "web": "YandexMColorIcon",
+    "webComponent": "import { YandexMColorIcon } from '@alfalab/icons-logo/YandexMColorIcon';",
+    "android": "logo_yandex_m_color",
+    "ios": "logo_yandex_m_color",
+    "middle": "logo_yandex_m_color",
+    "cdn": "logo_yandex_m_color",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_yandex_m_color.svg"
+  },
+  "YandexMWhiteIcon": {
+    "description": "[logo_yandex_m_white]",
+    "web": "YandexMWhiteIcon",
+    "webComponent": "import { YandexMWhiteIcon } from '@alfalab/icons-logo/YandexMWhiteIcon';",
+    "android": "logo_yandex_m_white",
+    "ios": "logo_yandex_m_white",
+    "middle": "logo_yandex_m_white",
+    "cdn": "logo_yandex_m_white",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_yandex_m_white.svg"
   },
   "YclientsSignBoxMBlackIcon": {
     "description": "[logo_yclients-sign-box_m_black]",
