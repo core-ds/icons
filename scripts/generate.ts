@@ -139,11 +139,15 @@ async function createPackage(packageName: string) {
         []
     );
 
-    const componentNames = await Promise.all(
-        iconVariants.map(filePath =>
-            createComponent(filePath, srcPackageDir, packageName)
-        )
-    );
+    const componentNames = [];
+    for (const filePath of iconVariants) {
+        const name = await createComponent(
+            filePath,
+            srcPackageDir,
+            packageName
+        );
+        componentNames.push(name);
+    }
 
     componentNames.sort();
 }
