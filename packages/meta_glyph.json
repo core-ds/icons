@@ -1319,6 +1319,16 @@
     "cdn": "glyph_barcode_m",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_barcode_m.svg"
   },
+  "BarrelMIcon": {
+    "description": "бочка",
+    "web": "BarrelMIcon",
+    "webComponent": "import { BarrelMIcon } from '@alfalab/icons-glyph/BarrelMIcon';",
+    "android": "glyph_barrel_m",
+    "ios": "glyph_barrel_m",
+    "middle": "glyph_barrel_m",
+    "cdn": "glyph_barrel_m",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_barrel_m.svg"
+  },
   "BasketCrossMIcon": {
     "description": "корзина, очистить",
     "web": "BasketCrossMIcon",
@@ -1338,6 +1348,16 @@
     "middle": "glyph_basket-line_m",
     "cdn": "glyph_basket-line_m",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_basket-line_m.svg"
+  },
+  "BasketMIcon": {
+    "description": "корзина",
+    "web": "BasketMIcon",
+    "webComponent": "import { BasketMIcon } from '@alfalab/icons-glyph/BasketMIcon';",
+    "android": "glyph_basket_m",
+    "ios": "glyph_basket_m",
+    "middle": "glyph_basket_m",
+    "cdn": "glyph_basket_m",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_basket_m.svg"
   },
   "BedMIcon": {
     "description": "кровать, сон, спать",
@@ -1568,6 +1588,16 @@
     "middle": "glyph_bookmark_s",
     "cdn": "glyph_bookmark_s",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_bookmark_s.svg"
+  },
+  "BottleMIcon": {
+    "description": "бутылка",
+    "web": "BottleMIcon",
+    "webComponent": "import { BottleMIcon } from '@alfalab/icons-glyph/BottleMIcon';",
+    "android": "glyph_bottle_m",
+    "ios": "glyph_bottle_m",
+    "middle": "glyph_bottle_m",
+    "cdn": "glyph_bottle_m",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_bottle_m.svg"
   },
   "BowlMIcon": {
     "description": "",
@@ -2959,6 +2989,46 @@
     "cdn": "glyph_chevron-back_m",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_chevron-back_m.svg"
   },
+  "ChevronDoubleLeftMIcon": {
+    "description": "шеврон влево",
+    "web": "ChevronDoubleLeftMIcon",
+    "webComponent": "import { ChevronDoubleLeftMIcon } from '@alfalab/icons-glyph/ChevronDoubleLeftMIcon';",
+    "android": "glyph_chevron_double_left_m",
+    "ios": "glyph_chevronDoubleLeft_m",
+    "middle": "glyph_chevron-double-left_m",
+    "cdn": "glyph_chevron-double-left_m",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_chevron-double-left_m.svg"
+  },
+  "ChevronDoubleLeftSIcon": {
+    "description": "шеврон влево",
+    "web": "ChevronDoubleLeftSIcon",
+    "webComponent": "import { ChevronDoubleLeftSIcon } from '@alfalab/icons-glyph/ChevronDoubleLeftSIcon';",
+    "android": "glyph_chevron_double_left_s",
+    "ios": "glyph_chevronDoubleLeft_s",
+    "middle": "glyph_chevron-double-left_s",
+    "cdn": "glyph_chevron-double-left_s",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_chevron-double-left_s.svg"
+  },
+  "ChevronDoubleRightMIcon": {
+    "description": "шеврон вправо",
+    "web": "ChevronDoubleRightMIcon",
+    "webComponent": "import { ChevronDoubleRightMIcon } from '@alfalab/icons-glyph/ChevronDoubleRightMIcon';",
+    "android": "glyph_chevron_double_right_m",
+    "ios": "glyph_chevronDoubleRight_m",
+    "middle": "glyph_chevron-double-right_m",
+    "cdn": "glyph_chevron-double-right_m",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_chevron-double-right_m.svg"
+  },
+  "ChevronDoubleRightSIcon": {
+    "description": "шеврон вправо",
+    "web": "ChevronDoubleRightSIcon",
+    "webComponent": "import { ChevronDoubleRightSIcon } from '@alfalab/icons-glyph/ChevronDoubleRightSIcon';",
+    "android": "glyph_chevron_double_right_s",
+    "ios": "glyph_chevronDoubleRight_s",
+    "middle": "glyph_chevron-double-right_s",
+    "cdn": "glyph_chevron-double-right_s",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_chevron-double-right_s.svg"
+  },
   "ChevronDownCircleMIcon": {
     "description": "шеврон вниз, шеврон, стрелка вниз, arrow, стрелка, круг",
     "web": "ChevronDownCircleMIcon",
@@ -3328,6 +3398,36 @@
     "middle": "glyph_circle-chart_m",
     "cdn": "glyph_circle-chart_m",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_circle-chart_m.svg"
+  },
+  "CircleCrossedOutMIcon": {
+    "description": "circle, индикатор, отмена, отклонить, отказать, decline",
+    "web": "CircleCrossedOutMIcon",
+    "webComponent": "import { CircleCrossedOutMIcon } from '@alfalab/icons-glyph/CircleCrossedOutMIcon';",
+    "android": "glyph_circle_crossed_out_m",
+    "ios": "glyph_circleCrossedOut_m",
+    "middle": "glyph_circle-crossed-out_m",
+    "cdn": "glyph_circle-crossed-out_m",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_circle-crossed-out_m.svg"
+  },
+  "CircleCrossedOutSIcon": {
+    "description": "circle, индикатор, отмена, отклонить, отказать, decline",
+    "web": "CircleCrossedOutSIcon",
+    "webComponent": "import { CircleCrossedOutSIcon } from '@alfalab/icons-glyph/CircleCrossedOutSIcon';",
+    "android": "glyph_circle_crossed_out_s",
+    "ios": "glyph_circleCrossedOut_s",
+    "middle": "glyph_circle-crossed-out_s",
+    "cdn": "glyph_circle-crossed-out_s",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_circle-crossed-out_s.svg"
+  },
+  "CircleCrossedOutXxlIcon": {
+    "description": "circle, индикатор, отмена, отклонить, отказать, decline",
+    "web": "CircleCrossedOutXxlIcon",
+    "webComponent": "import { CircleCrossedOutXxlIcon } from '@alfalab/icons-glyph/CircleCrossedOutXxlIcon';",
+    "android": "glyph_circle_crossed_out_xxl",
+    "ios": "glyph_circleCrossedOut_xxl",
+    "middle": "glyph_circle-crossed-out_xxl",
+    "cdn": "glyph_circle-crossed-out_xxl",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_circle-crossed-out_xxl.svg"
   },
   "CircleMIcon": {
     "description": "",
@@ -4719,6 +4819,16 @@
     "cdn": "glyph_drag_s",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_drag_s.svg"
   },
+  "DropMIcon": {
+    "description": "капля",
+    "web": "DropMIcon",
+    "webComponent": "import { DropMIcon } from '@alfalab/icons-glyph/DropMIcon';",
+    "android": "glyph_drop_m",
+    "ios": "glyph_drop_m",
+    "middle": "glyph_drop_m",
+    "cdn": "glyph_drop_m",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_drop_m.svg"
+  },
   "DumbbellMIcon": {
     "description": "гантеля, спорт",
     "web": "DumbbellMIcon",
@@ -4768,6 +4878,16 @@
     "middle": "glyph_ellipsis-horizontal_m",
     "cdn": "glyph_ellipsis-horizontal_m",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_ellipsis-horizontal_m.svg"
+  },
+  "EngineMIcon": {
+    "description": "двигатель",
+    "web": "EngineMIcon",
+    "webComponent": "import { EngineMIcon } from '@alfalab/icons-glyph/EngineMIcon';",
+    "android": "glyph_engine_m",
+    "ios": "glyph_engine_m",
+    "middle": "glyph_engine_m",
+    "cdn": "glyph_engine_m",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_engine_m.svg"
   },
   "EnvelopOpenTextMIcon": {
     "description": "",
@@ -5078,6 +5198,16 @@
     "middle": "glyph_face-id_xxl",
     "cdn": "glyph_face-id_xxl",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_face-id_xxl.svg"
+  },
+  "FactoryMIcon": {
+    "description": "завод",
+    "web": "FactoryMIcon",
+    "webComponent": "import { FactoryMIcon } from '@alfalab/icons-glyph/FactoryMIcon';",
+    "android": "glyph_factory_m",
+    "ios": "glyph_factory_m",
+    "middle": "glyph_factory_m",
+    "cdn": "glyph_factory_m",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_factory_m.svg"
   },
   "FilterMIcon": {
     "description": "",
@@ -5509,6 +5639,16 @@
     "cdn": "glyph_hand-heart_m",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_hand-heart_m.svg"
   },
+  "HandHouseMIcon": {
+    "description": "рука, дом",
+    "web": "HandHouseMIcon",
+    "webComponent": "import { HandHouseMIcon } from '@alfalab/icons-glyph/HandHouseMIcon';",
+    "android": "glyph_hand_house_m",
+    "ios": "glyph_handHouse_m",
+    "middle": "glyph_hand-house_m",
+    "cdn": "glyph_hand-house_m",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_hand-house_m.svg"
+  },
   "HandPercentMIcon": {
     "description": "рука с процентом, кредит",
     "web": "HandPercentMIcon",
@@ -5518,6 +5658,16 @@
     "middle": "glyph_hand-percent_m",
     "cdn": "glyph_hand-percent_m",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_hand-percent_m.svg"
+  },
+  "HandPointerMIcon": {
+    "description": "указатель",
+    "web": "HandPointerMIcon",
+    "webComponent": "import { HandPointerMIcon } from '@alfalab/icons-glyph/HandPointerMIcon';",
+    "android": "glyph_hand_pointer_m",
+    "ios": "glyph_handPointer_m",
+    "middle": "glyph_hand-pointer_m",
+    "cdn": "glyph_hand-pointer_m",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_hand-pointer_m.svg"
   },
   "HandRoundPercentMIcon": {
     "description": "",
@@ -5538,6 +5688,26 @@
     "middle": "glyph_hand-star_m",
     "cdn": "glyph_hand-star_m",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_hand-star_m.svg"
+  },
+  "HandshakeMIcon": {
+    "description": "рукопожатие",
+    "web": "HandshakeMIcon",
+    "webComponent": "import { HandshakeMIcon } from '@alfalab/icons-glyph/HandshakeMIcon';",
+    "android": "glyph_handshake_m",
+    "ios": "glyph_handshake_m",
+    "middle": "glyph_handshake_m",
+    "cdn": "glyph_handshake_m",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_handshake_m.svg"
+  },
+  "HardHatMIcon": {
+    "description": "каска",
+    "web": "HardHatMIcon",
+    "webComponent": "import { HardHatMIcon } from '@alfalab/icons-glyph/HardHatMIcon';",
+    "android": "glyph_hard_hat_m",
+    "ios": "glyph_hardHat_m",
+    "middle": "glyph_hard-hat_m",
+    "cdn": "glyph_hard-hat_m",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_hard-hat_m.svg"
   },
   "HeadsetMicMIcon": {
     "description": "гарнитура, наушники, микрофон",
@@ -9078,6 +9248,16 @@
     "middle": "glyph_radar_xxl",
     "cdn": "glyph_radar_xxl",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_radar_xxl.svg"
+  },
+  "RadioWavesMIcon": {
+    "description": "волны",
+    "web": "RadioWavesMIcon",
+    "webComponent": "import { RadioWavesMIcon } from '@alfalab/icons-glyph/RadioWavesMIcon';",
+    "android": "glyph_radio_waves_m",
+    "ios": "glyph_radioWaves_m",
+    "middle": "glyph_radio-waves_m",
+    "cdn": "glyph_radio-waves_m",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_radio-waves_m.svg"
   },
   "ReceiptCheckmarkMIcon": {
     "description": "чек с галкой, квитанция",
