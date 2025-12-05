@@ -6229,6 +6229,16 @@
     "cdn": "logo_swift-sign-box_m",
     "url": "https://alfabank.servicecdn.ru/icons/logo_swift-sign-box_m.svg"
   },
+  "TBankSignBoxMColorIcon": {
+    "description": "[logo_t-bank-sign-box_m_color]",
+    "web": "TBankSignBoxMColorIcon",
+    "webComponent": "import { TBankSignBoxMColorIcon } from '@alfalab/icons-logo/TBankSignBoxMColorIcon';",
+    "android": "logo_t_bank_sign_box_m_color",
+    "ios": "logo_tBankSignBox_m_color",
+    "middle": "logo_t-bank-sign-box_m_color",
+    "cdn": "logo_t-bank-sign-box_m_color",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_t-bank-sign-box_m_color.svg"
+  },
   "TakoSignBoxMBlackIcon": {
     "description": "[logo_tako-sign-box_m_black]",
     "web": "TakoSignBoxMBlackIcon",

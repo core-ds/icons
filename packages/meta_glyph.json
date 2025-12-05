@@ -2140,7 +2140,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/glyph_calculator-line_m.svg"
   },
   "CalculatorMIcon": {
-    "description": "кальлкулятор",
+    "description": "калькулятор",
     "web": "CalculatorMIcon",
     "webComponent": "import { CalculatorMIcon } from '@alfalab/icons-glyph/CalculatorMIcon';",
     "android": "glyph_calculator_m",
@@ -2150,7 +2150,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/glyph_calculator_m.svg"
   },
   "CalendarLineMIcon": {
-    "description": "календарь, выбор даты",
+    "description": "календарь, выбор даты, дата, date",
     "web": "CalendarLineMIcon",
     "webComponent": "import { CalendarLineMIcon } from '@alfalab/icons-glyph/CalendarLineMIcon';",
     "android": "glyph_calendar_line_m",
@@ -2160,7 +2160,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/glyph_calendar-line_m.svg"
   },
   "CalendarLineSIcon": {
-    "description": "календарь, выбор даты",
+    "description": "календарь, выбор даты, дата, date",
     "web": "CalendarLineSIcon",
     "webComponent": "import { CalendarLineSIcon } from '@alfalab/icons-glyph/CalendarLineSIcon';",
     "android": "glyph_calendar_line_s",
@@ -2170,7 +2170,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/glyph_calendar-line_s.svg"
   },
   "CalendarMoonMIcon": {
-    "description": "календарь, выбор даты, луна, ночь, овернайт, автоматический овернайт",
+    "description": "календарь, выбор даты, дата, date, луна, ночь, овернайт, автоматический овернайт",
     "web": "CalendarMoonMIcon",
     "webComponent": "import { CalendarMoonMIcon } from '@alfalab/icons-glyph/CalendarMoonMIcon';",
     "android": "glyph_calendar_moon_m",
@@ -2180,7 +2180,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/glyph_calendar-moon_m.svg"
   },
   "CalendarMIcon": {
-    "description": "календарь, выбор даты",
+    "description": "календарь, выбор даты, дата, date",
     "web": "CalendarMIcon",
     "webComponent": "import { CalendarMIcon } from '@alfalab/icons-glyph/CalendarMIcon';",
     "android": "glyph_calendar_m",
@@ -2190,7 +2190,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/glyph_calendar_m.svg"
   },
   "CalendarSIcon": {
-    "description": "календарь, выбор даты",
+    "description": "календарь, выбор даты, дата, date",
     "web": "CalendarSIcon",
     "webComponent": "import { CalendarSIcon } from '@alfalab/icons-glyph/CalendarSIcon';",
     "android": "glyph_calendar_s",
@@ -2360,7 +2360,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/glyph_card-off_m.svg"
   },
   "CardPlusMIcon": {
-    "description": "добавить карту, card plus, add card",
+    "description": "добавить карту, add card",
     "web": "CardPlusMIcon",
     "webComponent": "import { CardPlusMIcon } from '@alfalab/icons-glyph/CardPlusMIcon';",
     "android": "glyph_card_plus_m",
@@ -3600,7 +3600,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/glyph_clock-repeat_m.svg"
   },
   "ClockMIcon": {
-    "description": "часы, время, time, clock",
+    "description": "часы, время, time",
     "web": "ClockMIcon",
     "webComponent": "import { ClockMIcon } from '@alfalab/icons-glyph/ClockMIcon';",
     "android": "glyph_clock_m",
@@ -3610,7 +3610,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/glyph_clock_m.svg"
   },
   "ClockSIcon": {
-    "description": "часы, время, time, clock",
+    "description": "часы, время, time",
     "web": "ClockSIcon",
     "webComponent": "import { ClockSIcon } from '@alfalab/icons-glyph/ClockSIcon';",
     "android": "glyph_clock_s",
@@ -9540,7 +9540,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/glyph_rub-ios_m.svg"
   },
   "RubOffMIcon": {
-    "description": "рубль",
+    "description": "рубль, валюта",
     "web": "RubOffMIcon",
     "webComponent": "import { RubOffMIcon } from '@alfalab/icons-glyph/RubOffMIcon';",
     "android": "glyph_rub_off_m",
@@ -9550,7 +9550,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/glyph_rub-off_m.svg"
   },
   "RubSquareMIcon": {
-    "description": "рубль",
+    "description": "рубль, валюта",
     "web": "RubSquareMIcon",
     "webComponent": "import { RubSquareMIcon } from '@alfalab/icons-glyph/RubSquareMIcon';",
     "android": "glyph_rub_square_m",
@@ -9560,7 +9560,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/glyph_rub-square_m.svg"
   },
   "RubMIcon": {
-    "description": "рубль",
+    "description": "рубль, валюта",
     "web": "RubMIcon",
     "webComponent": "import { RubMIcon } from '@alfalab/icons-glyph/RubMIcon';",
     "android": "glyph_rub_m",
@@ -9570,7 +9570,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/glyph_rub_m.svg"
   },
   "RubSIcon": {
-    "description": "рубль",
+    "description": "рубль, валюта",
     "web": "RubSIcon",
     "webComponent": "import { RubSIcon } from '@alfalab/icons-glyph/RubSIcon';",
     "android": "glyph_rub_s",
