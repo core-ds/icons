@@ -5259,6 +5259,16 @@
     "cdn": "glyph_flame_m",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_flame_m.svg"
   },
+  "FlameSIcon": {
+    "description": "fier, fuel, gas, огонь",
+    "web": "FlameSIcon",
+    "webComponent": "import { FlameSIcon } from '@alfalab/icons-glyph/FlameSIcon';",
+    "android": "glyph_flame_s",
+    "ios": "glyph_flame_s",
+    "middle": "glyph_flame_s",
+    "cdn": "glyph_flame_s",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_flame_s.svg"
+  },
   "FlashCircleMIcon": {
     "description": "молния, lightning",
     "web": "FlashCircleMIcon",
