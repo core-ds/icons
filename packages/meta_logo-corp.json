@@ -1609,6 +1609,36 @@
     "cdn": "logo-corp_commercial-property-insurance-sign-box-thinline_20",
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_commercial-property-insurance-sign-box-thinline_20.svg"
   },
+  "CommunalServicesAltSignBoxLine20Icon": {
+    "description": "Оплата ЖКУ",
+    "web": "CommunalServicesAltSignBoxLine20Icon",
+    "webComponent": "import { CommunalServicesAltSignBoxLine20Icon } from '@alfalab/icons-logo-corp/CommunalServicesAltSignBoxLine20Icon';",
+    "android": "logo_corp_communal_services_alt_sign_box_line_20",
+    "ios": "logoCorp_communalServicesAltSignBoxLine_20",
+    "middle": "logo-corp_communal-services-alt-sign-box-line_20",
+    "cdn": "logo-corp_communal-services-alt-sign-box-line_20",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_communal-services-alt-sign-box-line_20.svg"
+  },
+  "CommunalServicesAltSignBoxLine24Icon": {
+    "description": "Оплата ЖКУ",
+    "web": "CommunalServicesAltSignBoxLine24Icon",
+    "webComponent": "import { CommunalServicesAltSignBoxLine24Icon } from '@alfalab/icons-logo-corp/CommunalServicesAltSignBoxLine24Icon';",
+    "android": "logo_corp_communal_services_alt_sign_box_line_24",
+    "ios": "logoCorp_communalServicesAltSignBoxLine_24",
+    "middle": "logo-corp_communal-services-alt-sign-box-line_24",
+    "cdn": "logo-corp_communal-services-alt-sign-box-line_24",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_communal-services-alt-sign-box-line_24.svg"
+  },
+  "CommunalServicesAltSignBoxThinline20Icon": {
+    "description": "Оплата ЖКУ",
+    "web": "CommunalServicesAltSignBoxThinline20Icon",
+    "webComponent": "import { CommunalServicesAltSignBoxThinline20Icon } from '@alfalab/icons-logo-corp/CommunalServicesAltSignBoxThinline20Icon';",
+    "android": "logo_corp_communal_services_alt_sign_box_thinline_20",
+    "ios": "logoCorp_communalServicesAltSignBoxThinline_20",
+    "middle": "logo-corp_communal-services-alt-sign-box-thinline_20",
+    "cdn": "logo-corp_communal-services-alt-sign-box-thinline_20",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_communal-services-alt-sign-box-thinline_20.svg"
+  },
   "CommunalServicesSignBoxLine20Icon": {
     "description": "Оплата ЖКУ",
     "web": "CommunalServicesSignBoxLine20Icon",
