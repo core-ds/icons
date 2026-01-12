@@ -590,7 +590,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/glyph_arrow-right-triangle_s.svg"
   },
   "ArrowRightUpMIcon": {
-    "description": "стрелка вправо вверх, перейти",
+    "description": "стрелка вправо вверх, перейти, , follow, redirect, diagonal",
     "web": "ArrowRightUpMIcon",
     "webComponent": "import { ArrowRightUpMIcon } from '@alfalab/icons-glyph/ArrowRightUpMIcon';",
     "android": "glyph_arrow_right_up_m",
@@ -4030,7 +4030,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/glyph_crypto-broker_xxl_color.svg"
   },
   "CzkMIcon": {
-    "description": "валюта, венгерский форинт, форинт",
+    "description": "валюта, чешская крона",
     "web": "CzkMIcon",
     "webComponent": "import { CzkMIcon } from '@alfalab/icons-glyph/CzkMIcon';",
     "android": "glyph_czk_m",
