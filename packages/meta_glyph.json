@@ -1,4 +1,34 @@
 {
+  "ABookLIcon": {
+    "description": "Книга, book, база знаний, альфа бук, alfa book, a-book, переход в базу знаний, abook",
+    "web": "ABookLIcon",
+    "webComponent": "import { ABookLIcon } from '@alfalab/icons-glyph/ABookLIcon';",
+    "android": "glyph_a_book_l",
+    "ios": "glyph_aBook_l",
+    "middle": "glyph_a-book_l",
+    "cdn": "glyph_a-book_l",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_a-book_l.svg"
+  },
+  "ABookMIcon": {
+    "description": "Книга, book, база знаний, альфа бук, alfa book, a-book, переход в базу знаний, abook",
+    "web": "ABookMIcon",
+    "webComponent": "import { ABookMIcon } from '@alfalab/icons-glyph/ABookMIcon';",
+    "android": "glyph_a_book_m",
+    "ios": "glyph_aBook_m",
+    "middle": "glyph_a-book_m",
+    "cdn": "glyph_a-book_m",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_a-book_m.svg"
+  },
+  "ABookSIcon": {
+    "description": "Книга, book, база знаний, альфа бук, alfa book, a-book, переход в базу знаний, abook",
+    "web": "ABookSIcon",
+    "webComponent": "import { ABookSIcon } from '@alfalab/icons-glyph/ABookSIcon';",
+    "android": "glyph_a_book_s",
+    "ios": "glyph_aBook_s",
+    "middle": "glyph_a-book_s",
+    "cdn": "glyph_a-book_s",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_a-book_s.svg"
+  },
   "AScoresCircleMIcon": {
     "description": "альфа баллы, кешбэк, сантики, cashback, a scrore",
     "web": "AScoresCircleMIcon",
@@ -3238,6 +3268,16 @@
     "middle": "glyph_chevron-right-medium_m",
     "cdn": "glyph_chevron-right-medium_m",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_chevron-right-medium_m.svg"
+  },
+  "ChevronRightShiftLeftDownMIcon": {
+    "description": "стрелка вправо, стрелка со сдвигом влево, arrow, стрелка, шеврон со сдвигом влево, шеврон вправо",
+    "web": "ChevronRightShiftLeftDownMIcon",
+    "webComponent": "import { ChevronRightShiftLeftDownMIcon } from '@alfalab/icons-glyph/ChevronRightShiftLeftDownMIcon';",
+    "android": "glyph_chevron_right_shift_left_down_m",
+    "ios": "glyph_chevronRightShiftLeftDown_m",
+    "middle": "glyph_chevron-right-shift-left-down_m",
+    "cdn": "glyph_chevron-right-shift-left-down_m",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_chevron-right-shift-left-down_m.svg"
   },
   "ChevronRightShiftRightMIcon": {
     "description": "стрелка вправо, стрелка со сдвигом в право, arrow, стрелка, шеврон со сдвигом вправо, шеврон в право, шеврон",
@@ -7599,6 +7639,16 @@
     "cdn": "glyph_office_s",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_office_s.svg"
   },
+  "OldManMIcon": {
+    "description": "старик, пожилой, старость, бабушка, old man, granfather, old, elderliness, age",
+    "web": "OldManMIcon",
+    "webComponent": "import { OldManMIcon } from '@alfalab/icons-glyph/OldManMIcon';",
+    "android": "glyph_old_man_m",
+    "ios": "glyph_oldMan_m",
+    "middle": "glyph_old-man_m",
+    "cdn": "glyph_old-man_m",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_old-man_m.svg"
+  },
   "OneDividedMIcon": {
     "description": "деление",
     "web": "OneDividedMIcon",
@@ -10798,6 +10848,16 @@
     "middle": "glyph_taxi_m",
     "cdn": "glyph_taxi_m",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_taxi_m.svg"
+  },
+  "TeddyBearMIcon": {
+    "description": "дети, ребенок, игрушка, мишка, bear, toy, kids, child, children",
+    "web": "TeddyBearMIcon",
+    "webComponent": "import { TeddyBearMIcon } from '@alfalab/icons-glyph/TeddyBearMIcon';",
+    "android": "glyph_teddy_bear_m",
+    "ios": "glyph_teddyBear_m",
+    "middle": "glyph_teddy-bear_m",
+    "cdn": "glyph_teddy-bear_m",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_teddy-bear_m.svg"
   },
   "TelescopeMIcon": {
     "description": "телескоп",
