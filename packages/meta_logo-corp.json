@@ -4840,7 +4840,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_rejected-sign-box-thinline_20.svg"
   },
   "ReportUpnoSignBoxLine20Icon": {
-    "description": "",
+    "description": "Быстрые действия: Скачать отчёт с УПНО",
     "web": "ReportUpnoSignBoxLine20Icon",
     "webComponent": "import { ReportUpnoSignBoxLine20Icon } from '@alfalab/icons-logo-corp/ReportUpnoSignBoxLine20Icon';",
     "android": "logo_corp_report_upno_sign_box_line_20",
@@ -4850,7 +4850,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_report-upno-sign-box-line_20.svg"
   },
   "ReportUpnoSignBoxLine24Icon": {
-    "description": "",
+    "description": "Быстрые действия: Скачать отчёт с УПНО",
     "web": "ReportUpnoSignBoxLine24Icon",
     "webComponent": "import { ReportUpnoSignBoxLine24Icon } from '@alfalab/icons-logo-corp/ReportUpnoSignBoxLine24Icon';",
     "android": "logo_corp_report_upno_sign_box_line_24",
@@ -4860,7 +4860,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_report-upno-sign-box-line_24.svg"
   },
   "ReportUpnoSignBoxThinline20Icon": {
-    "description": "",
+    "description": "Быстрые действия: Скачать отчёт с УПНО",
     "web": "ReportUpnoSignBoxThinline20Icon",
     "webComponent": "import { ReportUpnoSignBoxThinline20Icon } from '@alfalab/icons-logo-corp/ReportUpnoSignBoxThinline20Icon';",
     "android": "logo_corp_report_upno_sign_box_thinline_20",

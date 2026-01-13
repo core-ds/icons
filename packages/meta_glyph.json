@@ -619,6 +619,26 @@
     "cdn": "glyph_arrow-right-triangle_s",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_arrow-right-triangle_s.svg"
   },
+  "ArrowRightUpCompactMIcon": {
+    "description": "стрелка вправо вверх, перейти, follow, redirect, diagonal",
+    "web": "ArrowRightUpCompactMIcon",
+    "webComponent": "import { ArrowRightUpCompactMIcon } from '@alfalab/icons-glyph/ArrowRightUpCompactMIcon';",
+    "android": "glyph_arrow_right_up_compact_m",
+    "ios": "glyph_arrowRightUpCompact_m",
+    "middle": "glyph_arrow-right-up-compact_m",
+    "cdn": "glyph_arrow-right-up-compact_m",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_arrow-right-up-compact_m.svg"
+  },
+  "ArrowRightUpCompactSIcon": {
+    "description": "стрелка вправо вверх, перейти, follow, redirect, diagonal",
+    "web": "ArrowRightUpCompactSIcon",
+    "webComponent": "import { ArrowRightUpCompactSIcon } from '@alfalab/icons-glyph/ArrowRightUpCompactSIcon';",
+    "android": "glyph_arrow_right_up_compact_s",
+    "ios": "glyph_arrowRightUpCompact_s",
+    "middle": "glyph_arrow-right-up-compact_s",
+    "cdn": "glyph_arrow-right-up-compact_s",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_arrow-right-up-compact_s.svg"
+  },
   "ArrowRightUpMIcon": {
     "description": "стрелка вправо вверх, перейти, , follow, redirect, diagonal",
     "web": "ArrowRightUpMIcon",
@@ -628,6 +648,16 @@
     "middle": "glyph_arrow-right-up_m",
     "cdn": "glyph_arrow-right-up_m",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_arrow-right-up_m.svg"
+  },
+  "ArrowRightUpSIcon": {
+    "description": "стрелка вправо вверх, перейти, , follow, redirect, diagonal",
+    "web": "ArrowRightUpSIcon",
+    "webComponent": "import { ArrowRightUpSIcon } from '@alfalab/icons-glyph/ArrowRightUpSIcon';",
+    "android": "glyph_arrow_right_up_s",
+    "ios": "glyph_arrowRightUp_s",
+    "middle": "glyph_arrow-right-up_s",
+    "cdn": "glyph_arrow-right-up_s",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_arrow-right-up_s.svg"
   },
   "ArrowRightMIcon": {
     "description": "стрелка вперёд, стрелка вправо",
