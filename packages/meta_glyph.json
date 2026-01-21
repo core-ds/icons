@@ -10099,6 +10099,16 @@
     "cdn": "glyph_sign_m",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_sign_m.svg"
   },
+  "SimCardCompactMIcon": {
+    "description": "сим карта, симка",
+    "web": "SimCardCompactMIcon",
+    "webComponent": "import { SimCardCompactMIcon } from '@alfalab/icons-glyph/SimCardCompactMIcon';",
+    "android": "glyph_sim_card_compact_m",
+    "ios": "glyph_simCardCompact_m",
+    "middle": "glyph_sim-card-compact_m",
+    "cdn": "glyph_sim-card-compact_m",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_sim-card-compact_m.svg"
+  },
   "SimCardMIcon": {
     "description": "сим карта, симка",
     "web": "SimCardMIcon",
