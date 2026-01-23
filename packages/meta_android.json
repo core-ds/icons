@@ -1,9 +1,4 @@
 {
-  "AaabScoresMIcon": {
-    "description": "",
-    "android": "aaab_scores_m",
-    "middle": "aaab-scores_m"
-  },
   "AlfaScoresMIcon": {
     "description": "альфа-баллы",
     "android": "alfa_scores_m",
