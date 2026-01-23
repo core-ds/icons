@@ -67,8 +67,9 @@ then
         echo "$changed_meta_files" | tr '\n' '\0' | xargs -0 git add
         git commit -m "chore(*): update meta files"
 
+        cd ./dist
         # Публикуем пакет
-        npm publish dist
+        npm publish
     fi
 
 else
