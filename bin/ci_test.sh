@@ -69,7 +69,7 @@ then
 
         cd ./dist
         # Публикуем пакет
-        npm publish
+        npm publish --access public
     fi
 
 else
