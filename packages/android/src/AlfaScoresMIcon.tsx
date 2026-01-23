@@ -3,6 +3,7 @@
  * Do not edit it manually
  */
 import React, { SVGProps } from 'react';
+//
 
 export const AlfaScoresMIcon: React.FC<SVGProps<SVGSVGElement>> = props => (
     <svg
