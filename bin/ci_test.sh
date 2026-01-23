@@ -1,7 +1,5 @@
 #!/bin/bash
 
-set -e
-
 # Подтягиваем тэги
 git fetch --prune --unshallow
 git fetch --tags
