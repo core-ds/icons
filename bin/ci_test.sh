@@ -79,8 +79,11 @@ else
     npm version minor --git-tag-version false
 
     cp package.json dist/package.json
+
+    cd ./dist
     # Публикуем пакет
-    npm publish dist
+    npm publish --access public
+    cd ../
 fi
 
 git add .
