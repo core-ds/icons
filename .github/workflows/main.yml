@@ -1,6 +1,8 @@
 name: BUILD
 
-on: repository_dispatch
+on:
+  repository_dispatch:
+  workflow_dispatch:
 
 permissions:
   id-token: write
@@ -10,6 +12,12 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+    - name: Check permissions
+      if: ${{  github.event_name == 'workflow_dispatch' && contains(fromJSON('["fulcanellee", "hextion", "dHIM24", "SiebenSieben"]'), github.actor)}}
+      uses: actions/github-script@v6
+      with:
+        script: |
+          core.setFailed("You don't have permission to run this workflow!");
 
     - uses: actions/checkout@v2
 
@@ -21,7 +29,7 @@ jobs:
     # Ensure npm 11.5.1 or later for trusted publishing
     # https://github.com/orgs/community/discussions/173102
     - run: npm install -g npm@latest
-    
+
     - run: npm run ci
       env:
         FIGMA_TOKEN: ${{ secrets.FIGMA_TOKEN }}
