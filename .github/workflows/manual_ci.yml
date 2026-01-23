@@ -3,10 +3,6 @@ name: MANUAL CI
 
 on: workflow_dispatch
 
-permissions:
-  id-token: write
-  contents: write
-
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -19,15 +15,16 @@ jobs:
             core.setFailed("You don't have permission to run this workflow!");
 
       - uses: actions/checkout@v2
-
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v1
         with:
-          node-version: 20
-          registry-url: https://registry.npmjs.org
+          node-version: '12.x'
 
-      # Ensure npm 11.5.1 or later for trusted publishing
-      # https://github.com/orgs/community/discussions/173102
-      - run: npm install -g npm@latest
+      - name: Set NPM Token Action
+        uses: filipstefansson/set-npm-token-action@v1
+        with:
+          token: ${{ secrets.NPM_TOKEN }}
+
+      - run: npm set registry https://registry.npmjs.org
 
       - run: npm run ci
         env:
