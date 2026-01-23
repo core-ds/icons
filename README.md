@@ -14,15 +14,21 @@
 На данный момент есть следующие пакеты иконок:
 | Пакет | Ссылка на npmjs.com | Описание
 | ------ | ------ | ------
-| @alfalab/icons | [@alfalab/icons](https://www.npmjs.com/package/@alfalab/icons) | Общий пакет со всеми иконками
-| @alfalab/icons-classic (old) | [@alfalab/icons-classic](https://www.npmjs.com/package/@alfalab/icons-classic) |  Устаревшие иконки
-| @alfalab/icons-glyph | [@alfalab/icons-glyph](https://www.npmjs.com/package/@alfalab/icons-glyph) | Основной стиль иконок для всех продуктов
-| @alfalab/icons-flag | [@alfalab/icons-flag](https://www.npmjs.com/package/@alfalab/icons-flag) | Иконки флагов стран
-| @alfalab/icons-logotype | [@alfalab/icons-logotype](https://www.npmjs.com/package/@alfalab/icons-logotype) | Логотипы
-| @alfalab/icons-corp | [@alfalab/icons-corp](https://www.npmjs.com/package/@alfalab/icons-corp) | Используются только в продуктах корпоратов
-| @alfalab/icons-rocky | [@alfalab/icons-rocky](https://www.npmjs.com/package/@alfalab/icons-rocky) | Иконки в новом стиле
-| @alfalab/icons-ios | [@alfalab/icons-ios](https://www.npmjs.com/package/@alfalab/icons-ios) | Используются только на iOS устройствах
 | @alfalab/icons-android | [@alfalab/icons-android](https://www.npmjs.com/package/@alfalab/icons-android) | Используются только на Android устройствах
+| @alfalab/icons-classic (old) | [@alfalab/icons-classic](https://www.npmjs.com/package/@alfalab/icons-classic) | Устаревшие иконки
+| @alfalab/icons-corp | [@alfalab/icons-corp](https://www.npmjs.com/package/@alfalab/icons-corp) | Используются только в продуктах корпоратов
+| @alfalab/icons-flag | [@alfalab/icons-flag](https://www.npmjs.com/package/@alfalab/icons-flag) | Иконки флагов стран
+| @alfalab/icons-glyph | [@alfalab/icons-glyph](https://www.npmjs.com/package/@alfalab/icons-glyph) | Основной стиль иконок для всех продуктов
+| @alfalab/icons-invest | [@alfalab/icons-invest](https://www.npmjs.com/package/@alfalab/icons-invest) | 
+| @alfalab/icons-ios | [@alfalab/icons-ios](https://www.npmjs.com/package/@alfalab/icons-ios) | Используются только на iOS устройствах
+| @alfalab/icons-logo | [@alfalab/icons-logo](https://www.npmjs.com/package/@alfalab/icons-logo) |
+| @alfalab/icons-logo-am | [@alfalab/icons-logo-am](https://www.npmjs.com/package/@alfalab/icons-logo-am) |
+| @alfalab/icons-logo-corp | [@alfalab/icons-logo-corp](https://www.npmjs.com/package/@alfalab/icons-logo-corp) |
+| @alfalab/icons-logotype | [@alfalab/icons-logotype](https://www.npmjs.com/package/@alfalab/icons-logotype) | Логотипы
+| @alfalab/icons-rocky | [@alfalab/icons-rocky](https://www.npmjs.com/package/@alfalab/icons-rocky) | Иконки в новом стиле
+| @alfalab/icons-shape | [@alfalab/icons-shape](https://www.npmjs.com/package/@alfalab/icons-shape) | 
+| @alfalab/icons-site | [@alfalab/icons-site](https://www.npmjs.com/package/@alfalab/icons-site) | 
+| @alfalab/icons | [@alfalab/icons](https://www.npmjs.com/package/@alfalab/icons) | Общий пакет со всеми иконками
 
 
 ## Как импортить иконки в проект
