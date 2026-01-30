@@ -11919,6 +11919,16 @@
     "cdn": "glyph_world-segmented-cash_s",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_world-segmented-cash_s.svg"
   },
+  "WorldSegmentedLineMIcon": {
+    "description": "мир, земля, планета, earth, world, global",
+    "web": "WorldSegmentedLineMIcon",
+    "webComponent": "import { WorldSegmentedLineMIcon } from '@alfalab/icons-glyph/WorldSegmentedLineMIcon';",
+    "android": "glyph_world_segmented_line_m",
+    "ios": "glyph_worldSegmentedLine_m",
+    "middle": "glyph_world-segmented-line_m",
+    "cdn": "glyph_world-segmented-line_m",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_world-segmented-line_m.svg"
+  },
   "WorldSegmentedMIcon": {
     "description": "мир, земля, планета, earth, world, global",
     "web": "WorldSegmentedMIcon",
