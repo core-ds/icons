@@ -1669,6 +1669,36 @@
     "cdn": "logo-corp_communal-services-sign-box-thinline_20",
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_communal-services-sign-box-thinline_20.svg"
   },
+  "CommunalServicesUcomSignboxLine20Icon": {
+    "description": "",
+    "web": "CommunalServicesUcomSignboxLine20Icon",
+    "webComponent": "import { CommunalServicesUcomSignboxLine20Icon } from '@alfalab/icons-logo-corp/CommunalServicesUcomSignboxLine20Icon';",
+    "android": "logo_corp_communal_services_ucom_signbox_line_20",
+    "ios": "logoCorp_communalServicesUcomSignboxLine_20",
+    "middle": "logo-corp_communal-services-ucom-signbox-line_20",
+    "cdn": "logo-corp_communal-services-ucom-signbox-line_20",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_communal-services-ucom-signbox-line_20.svg"
+  },
+  "CommunalServicesUcomSignboxLine24Icon": {
+    "description": "",
+    "web": "CommunalServicesUcomSignboxLine24Icon",
+    "webComponent": "import { CommunalServicesUcomSignboxLine24Icon } from '@alfalab/icons-logo-corp/CommunalServicesUcomSignboxLine24Icon';",
+    "android": "logo_corp_communal_services_ucom_signbox_line_24",
+    "ios": "logoCorp_communalServicesUcomSignboxLine_24",
+    "middle": "logo-corp_communal-services-ucom-signbox-line_24",
+    "cdn": "logo-corp_communal-services-ucom-signbox-line_24",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_communal-services-ucom-signbox-line_24.svg"
+  },
+  "CommunalServicesUcomSignboxThinline20Icon": {
+    "description": "",
+    "web": "CommunalServicesUcomSignboxThinline20Icon",
+    "webComponent": "import { CommunalServicesUcomSignboxThinline20Icon } from '@alfalab/icons-logo-corp/CommunalServicesUcomSignboxThinline20Icon';",
+    "android": "logo_corp_communal_services_ucom_signbox_thinline_20",
+    "ios": "logoCorp_communalServicesUcomSignboxThinline_20",
+    "middle": "logo-corp_communal-services-ucom-signbox-thinline_20",
+    "cdn": "logo-corp_communal-services-ucom-signbox-thinline_20",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_communal-services-ucom-signbox-thinline_20.svg"
+  },
   "CompanySignBoxLine20Icon": {
     "description": "Верхнее меню: Компания",
     "web": "CompanySignBoxLine20Icon",
@@ -3908,6 +3938,36 @@
     "middle": "logo-corp_my-tariff-sign-box-thinline_20",
     "cdn": "logo-corp_my-tariff-sign-box-thinline_20",
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_my-tariff-sign-box-thinline_20.svg"
+  },
+  "NeuroHelperSearchSignBoxLine20Icon": {
+    "description": "",
+    "web": "NeuroHelperSearchSignBoxLine20Icon",
+    "webComponent": "import { NeuroHelperSearchSignBoxLine20Icon } from '@alfalab/icons-logo-corp/NeuroHelperSearchSignBoxLine20Icon';",
+    "android": "logo_corp_neuro_helper_search_sign_box_line_20",
+    "ios": "logoCorp_neuroHelperSearchSignBoxLine_20",
+    "middle": "logo-corp_neuro-helper-search-sign-box-line_20",
+    "cdn": "logo-corp_neuro-helper-search-sign-box-line_20",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_neuro-helper-search-sign-box-line_20.svg"
+  },
+  "NeuroHelperSearchSignBoxLine24Icon": {
+    "description": "",
+    "web": "NeuroHelperSearchSignBoxLine24Icon",
+    "webComponent": "import { NeuroHelperSearchSignBoxLine24Icon } from '@alfalab/icons-logo-corp/NeuroHelperSearchSignBoxLine24Icon';",
+    "android": "logo_corp_neuro_helper_search_sign_box_line_24",
+    "ios": "logoCorp_neuroHelperSearchSignBoxLine_24",
+    "middle": "logo-corp_neuro-helper-search-sign-box-line_24",
+    "cdn": "logo-corp_neuro-helper-search-sign-box-line_24",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_neuro-helper-search-sign-box-line_24.svg"
+  },
+  "NeuroHelperSearchSignBoxThinline20Icon": {
+    "description": "",
+    "web": "NeuroHelperSearchSignBoxThinline20Icon",
+    "webComponent": "import { NeuroHelperSearchSignBoxThinline20Icon } from '@alfalab/icons-logo-corp/NeuroHelperSearchSignBoxThinline20Icon';",
+    "android": "logo_corp_neuro_helper_search_sign_box_thinline_20",
+    "ios": "logoCorp_neuroHelperSearchSignBoxThinline_20",
+    "middle": "logo-corp_neuro-helper-search-sign-box-thinline_20",
+    "cdn": "logo-corp_neuro-helper-search-sign-box-thinline_20",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_neuro-helper-search-sign-box-thinline_20.svg"
   },
   "NewPaymentSignBoxLine20Icon": {
     "description": "Верхнее меню: Новый платёж",
