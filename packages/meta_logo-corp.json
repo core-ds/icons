@@ -1670,7 +1670,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_communal-services-sign-box-thinline_20.svg"
   },
   "CommunalServicesUcomSignboxLine20Icon": {
-    "description": "",
+    "description": "продукт: расчёты за жку",
     "web": "CommunalServicesUcomSignboxLine20Icon",
     "webComponent": "import { CommunalServicesUcomSignboxLine20Icon } from '@alfalab/icons-logo-corp/CommunalServicesUcomSignboxLine20Icon';",
     "android": "logo_corp_communal_services_ucom_signbox_line_20",
@@ -1680,7 +1680,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_communal-services-ucom-signbox-line_20.svg"
   },
   "CommunalServicesUcomSignboxLine24Icon": {
-    "description": "",
+    "description": "продукт: расчёты за жку",
     "web": "CommunalServicesUcomSignboxLine24Icon",
     "webComponent": "import { CommunalServicesUcomSignboxLine24Icon } from '@alfalab/icons-logo-corp/CommunalServicesUcomSignboxLine24Icon';",
     "android": "logo_corp_communal_services_ucom_signbox_line_24",
@@ -1690,7 +1690,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_communal-services-ucom-signbox-line_24.svg"
   },
   "CommunalServicesUcomSignboxThinline20Icon": {
-    "description": "",
+    "description": "продукт: расчёты за жку",
     "web": "CommunalServicesUcomSignboxThinline20Icon",
     "webComponent": "import { CommunalServicesUcomSignboxThinline20Icon } from '@alfalab/icons-logo-corp/CommunalServicesUcomSignboxThinline20Icon';",
     "android": "logo_corp_communal_services_ucom_signbox_thinline_20",
@@ -3940,7 +3940,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_my-tariff-sign-box-thinline_20.svg"
   },
   "NeuroHelperSearchSignBoxLine20Icon": {
-    "description": "",
+    "description": "AI, АИ, нейро, неиро, нейро-помощник, неиро-помощник, помощник",
     "web": "NeuroHelperSearchSignBoxLine20Icon",
     "webComponent": "import { NeuroHelperSearchSignBoxLine20Icon } from '@alfalab/icons-logo-corp/NeuroHelperSearchSignBoxLine20Icon';",
     "android": "logo_corp_neuro_helper_search_sign_box_line_20",
@@ -3950,7 +3950,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_neuro-helper-search-sign-box-line_20.svg"
   },
   "NeuroHelperSearchSignBoxLine24Icon": {
-    "description": "",
+    "description": "AI, АИ, нейро, неиро, нейро-помощник, неиро-помощник, помощник",
     "web": "NeuroHelperSearchSignBoxLine24Icon",
     "webComponent": "import { NeuroHelperSearchSignBoxLine24Icon } from '@alfalab/icons-logo-corp/NeuroHelperSearchSignBoxLine24Icon';",
     "android": "logo_corp_neuro_helper_search_sign_box_line_24",
@@ -3960,7 +3960,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_neuro-helper-search-sign-box-line_24.svg"
   },
   "NeuroHelperSearchSignBoxThinline20Icon": {
-    "description": "",
+    "description": "AI, АИ, нейро, неиро, нейро-помощник, неиро-помощник, помощник",
     "web": "NeuroHelperSearchSignBoxThinline20Icon",
     "webComponent": "import { NeuroHelperSearchSignBoxThinline20Icon } from '@alfalab/icons-logo-corp/NeuroHelperSearchSignBoxThinline20Icon';",
     "android": "logo_corp_neuro_helper_search_sign_box_thinline_20",
