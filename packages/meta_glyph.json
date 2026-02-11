@@ -1339,6 +1339,16 @@
     "cdn": "glyph_banknote_m",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_banknote_m.svg"
   },
+  "BanknotesCompactLineMIcon": {
+    "description": "банкнота, деньги, money, наличные",
+    "web": "BanknotesCompactLineMIcon",
+    "webComponent": "import { BanknotesCompactLineMIcon } from '@alfalab/icons-glyph/BanknotesCompactLineMIcon';",
+    "android": "glyph_banknotes_compact_line_m",
+    "ios": "glyph_banknotesCompactLine_m",
+    "middle": "glyph_banknotes-compact-line_m",
+    "cdn": "glyph_banknotes-compact-line_m",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_banknotes-compact-line_m.svg"
+  },
   "BanknotesLineMIcon": {
     "description": "банкнота, деньги, money, наличные",
     "web": "BanknotesLineMIcon",
@@ -11789,6 +11799,16 @@
     "cdn": "glyph_wallet-arrow-right_m",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_wallet-arrow-right_m.svg"
   },
+  "WalletCompactLineMIcon": {
+    "description": "электронные деньги, кошелёк, e-money",
+    "web": "WalletCompactLineMIcon",
+    "webComponent": "import { WalletCompactLineMIcon } from '@alfalab/icons-glyph/WalletCompactLineMIcon';",
+    "android": "glyph_wallet_compact_line_m",
+    "ios": "glyph_walletCompactLine_m",
+    "middle": "glyph_wallet-compact-line_m",
+    "cdn": "glyph_wallet-compact-line_m",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_wallet-compact-line_m.svg"
+  },
   "WalletLineMIcon": {
     "description": "электронные деньги, кошелёк, e-money",
     "web": "WalletLineMIcon",
@@ -11948,6 +11968,16 @@
     "middle": "glyph_world-segmented-cash_s",
     "cdn": "glyph_world-segmented-cash_s",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_world-segmented-cash_s.svg"
+  },
+  "WorldSegmentedCompactLineMIcon": {
+    "description": "мир, земля, планета, earth, world, global",
+    "web": "WorldSegmentedCompactLineMIcon",
+    "webComponent": "import { WorldSegmentedCompactLineMIcon } from '@alfalab/icons-glyph/WorldSegmentedCompactLineMIcon';",
+    "android": "glyph_world_segmented_compact_line_m",
+    "ios": "glyph_worldSegmentedCompactLine_m",
+    "middle": "glyph_world-segmented-compact-line_m",
+    "cdn": "glyph_world-segmented-compact-line_m",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_world-segmented-compact-line_m.svg"
   },
   "WorldSegmentedLineMIcon": {
     "description": "мир, земля, планета, earth, world, global",
