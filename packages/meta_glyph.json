@@ -7039,6 +7039,36 @@
     "cdn": "glyph_mail_m",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_mail_m.svg"
   },
+  "MapFoldedMIcon": {
+    "description": "карта, гео, локация",
+    "web": "MapFoldedMIcon",
+    "webComponent": "import { MapFoldedMIcon } from '@alfalab/icons-glyph/MapFoldedMIcon';",
+    "android": "glyph_map_folded_m",
+    "ios": "glyph_mapFolded_m",
+    "middle": "glyph_map-folded_m",
+    "cdn": "glyph_map-folded_m",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_map-folded_m.svg"
+  },
+  "MapFoldedSIcon": {
+    "description": "карта, гео, локация",
+    "web": "MapFoldedSIcon",
+    "webComponent": "import { MapFoldedSIcon } from '@alfalab/icons-glyph/MapFoldedSIcon';",
+    "android": "glyph_map_folded_s",
+    "ios": "glyph_mapFolded_s",
+    "middle": "glyph_map-folded_s",
+    "cdn": "glyph_map-folded_s",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_map-folded_s.svg"
+  },
+  "MapFoldedXxlIcon": {
+    "description": "карта, гео, локация",
+    "web": "MapFoldedXxlIcon",
+    "webComponent": "import { MapFoldedXxlIcon } from '@alfalab/icons-glyph/MapFoldedXxlIcon';",
+    "android": "glyph_map_folded_xxl",
+    "ios": "glyph_mapFolded_xxl",
+    "middle": "glyph_map-folded_xxl",
+    "cdn": "glyph_map-folded_xxl",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_map-folded_xxl.svg"
+  },
   "MarketDepthMIcon": {
     "description": "рынок, глубина рынка",
     "web": "MarketDepthMIcon",
