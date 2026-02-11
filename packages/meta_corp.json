@@ -959,6 +959,16 @@
     "cdn": "corp_shield-risk-high_s",
     "url": "https://alfabank.servicecdn.ru/icons/corp_shield-risk-high_s.svg"
   },
+  "ShieldRiskUnknownLineMIcon": {
+    "description": "[corp_shield-risk-unknown_line_m], щит, вопрос",
+    "web": "ShieldRiskUnknownLineMIcon",
+    "webComponent": "import { ShieldRiskUnknownLineMIcon } from '@alfalab/icons-corp/ShieldRiskUnknownLineMIcon';",
+    "android": "corp_shield_risk_unknown_line_m",
+    "ios": "corp_shieldRiskUnknownLine_m",
+    "middle": "corp_shield-risk-unknown-line_m",
+    "cdn": "corp_shield-risk-unknown-line_m",
+    "url": "https://alfabank.servicecdn.ru/icons/corp_shield-risk-unknown-line_m.svg"
+  },
   "ShieldRiskUnknownMIcon": {
     "description": "щит, вопрос",
     "web": "ShieldRiskUnknownMIcon",
