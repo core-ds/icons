@@ -3879,6 +3879,36 @@
     "cdn": "logo-corp_money-box-sign-box-thinline_20",
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_money-box-sign-box-thinline_20.svg"
   },
+  "MultiSubscriptionSignBoxLine20Icon": {
+    "description": "Продукт: Мультиподписка",
+    "web": "MultiSubscriptionSignBoxLine20Icon",
+    "webComponent": "import { MultiSubscriptionSignBoxLine20Icon } from '@alfalab/icons-logo-corp/MultiSubscriptionSignBoxLine20Icon';",
+    "android": "logo_corp_multi_subscription_sign_box_line_20",
+    "ios": "logoCorp_multiSubscriptionSignBoxLine_20",
+    "middle": "logo-corp_multi-subscription-sign-box-line_20",
+    "cdn": "logo-corp_multi-subscription-sign-box-line_20",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_multi-subscription-sign-box-line_20.svg"
+  },
+  "MultiSubscriptionSignBoxLine24Icon": {
+    "description": "Продукт: Мультиподписка",
+    "web": "MultiSubscriptionSignBoxLine24Icon",
+    "webComponent": "import { MultiSubscriptionSignBoxLine24Icon } from '@alfalab/icons-logo-corp/MultiSubscriptionSignBoxLine24Icon';",
+    "android": "logo_corp_multi_subscription_sign_box_line_24",
+    "ios": "logoCorp_multiSubscriptionSignBoxLine_24",
+    "middle": "logo-corp_multi-subscription-sign-box-line_24",
+    "cdn": "logo-corp_multi-subscription-sign-box-line_24",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_multi-subscription-sign-box-line_24.svg"
+  },
+  "MultiSubscriptionSignBoxThinline20Icon": {
+    "description": "Продукт: Мультиподписка",
+    "web": "MultiSubscriptionSignBoxThinline20Icon",
+    "webComponent": "import { MultiSubscriptionSignBoxThinline20Icon } from '@alfalab/icons-logo-corp/MultiSubscriptionSignBoxThinline20Icon';",
+    "android": "logo_corp_multi_subscription_sign_box_thinline_20",
+    "ios": "logoCorp_multiSubscriptionSignBoxThinline_20",
+    "middle": "logo-corp_multi-subscription-sign-box-thinline_20",
+    "cdn": "logo-corp_multi-subscription-sign-box-thinline_20",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_multi-subscription-sign-box-thinline_20.svg"
+  },
   "MultibankSignBoxLine20Icon": {
     "description": "Продукт: Мультибанк",
     "web": "MultibankSignBoxLine20Icon",
