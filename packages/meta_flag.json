@@ -89,6 +89,16 @@
     "cdn": "flag_anguilla_m_color",
     "url": "https://alfabank.servicecdn.ru/icons/flag_anguilla_m_color.svg"
   },
+  "AntarcticaMColorIcon": {
+    "description": "[flag_antarctica_m_color]",
+    "web": "AntarcticaMColorIcon",
+    "webComponent": "import { AntarcticaMColorIcon } from '@alfalab/icons-flag/AntarcticaMColorIcon';",
+    "android": "flag_antarctica_m_color",
+    "ios": "flag_antarctica_m_color",
+    "middle": "flag_antarctica_m_color",
+    "cdn": "flag_antarctica_m_color",
+    "url": "https://alfabank.servicecdn.ru/icons/flag_antarctica_m_color.svg"
+  },
   "AntiguaAndBarbudaMColorIcon": {
     "description": "[flag_antigua_and_barbuda_m_color]",
     "web": "AntiguaAndBarbudaMColorIcon",
@@ -98,6 +108,16 @@
     "middle": "flag_antigua-and-barbuda_m_color",
     "cdn": "flag_antigua-and-barbuda_m_color",
     "url": "https://alfabank.servicecdn.ru/icons/flag_antigua-and-barbuda_m_color.svg"
+  },
+  "ArcticMColorIcon": {
+    "description": "[flag_arctic_m_color]",
+    "web": "ArcticMColorIcon",
+    "webComponent": "import { ArcticMColorIcon } from '@alfalab/icons-flag/ArcticMColorIcon';",
+    "android": "flag_arctic_m_color",
+    "ios": "flag_arctic_m_color",
+    "middle": "flag_arctic_m_color",
+    "cdn": "flag_arctic_m_color",
+    "url": "https://alfabank.servicecdn.ru/icons/flag_arctic_m_color.svg"
   },
   "ArgentinaMColorIcon": {
     "description": "[flag_argentina_m_color]",
