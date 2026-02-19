@@ -10079,6 +10079,16 @@
     "cdn": "glyph_shopping-bag_m",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_shopping-bag_m.svg"
   },
+  "ShoppingCartMIcon": {
+    "description": "корзина, супермаркет",
+    "web": "ShoppingCartMIcon",
+    "webComponent": "import { ShoppingCartMIcon } from '@alfalab/icons-glyph/ShoppingCartMIcon';",
+    "android": "glyph_shopping_cart_m",
+    "ios": "glyph_shoppingCart_m",
+    "middle": "glyph_shopping-cart_m",
+    "cdn": "glyph_shopping-cart_m",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_shopping-cart_m.svg"
+  },
   "ShoppingListLineMIcon": {
     "description": "список покупок, покупки",
     "web": "ShoppingListLineMIcon",
