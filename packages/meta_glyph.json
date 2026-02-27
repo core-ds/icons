@@ -9409,6 +9409,16 @@
     "cdn": "glyph_receipt-circle_m",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_receipt-circle_m.svg"
   },
+  "ReceiptCompactMIcon": {
+    "description": "цифровой талон, чек, квитанция, компакт",
+    "web": "ReceiptCompactMIcon",
+    "webComponent": "import { ReceiptCompactMIcon } from '@alfalab/icons-glyph/ReceiptCompactMIcon';",
+    "android": "glyph_receipt_compact_m",
+    "ios": "glyph_receiptCompact_m",
+    "middle": "glyph_receipt-compact_m",
+    "cdn": "glyph_receipt-compact_m",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_receipt-compact_m.svg"
+  },
   "ReceiptLineCompactMIcon": {
     "description": "цифровой талон, чек, квитанция, компакт",
     "web": "ReceiptLineCompactMIcon",
