@@ -3919,6 +3919,16 @@
     "cdn": "logo_mastercard-sign_m",
     "url": "https://alfabank.servicecdn.ru/icons/logo_mastercard-sign_m.svg"
   },
+  "MaxSignBoxMIcon": {
+    "description": "[logo_max-sign-box_m]",
+    "web": "MaxSignBoxMIcon",
+    "webComponent": "import { MaxSignBoxMIcon } from '@alfalab/icons-logo/MaxSignBoxMIcon';",
+    "android": "logo_max_sign_box_m",
+    "ios": "logo_maxSignBox_m",
+    "middle": "logo_max-sign-box_m",
+    "cdn": "logo_max-sign-box_m",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_max-sign-box_m.svg"
+  },
   "MegaMarketMColorIcon": {
     "description": "[logo_mega-market_m_color]",
     "web": "MegaMarketMColorIcon",
