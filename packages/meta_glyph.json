@@ -3559,6 +3559,16 @@
     "cdn": "glyph_clock-coin_m",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_clock-coin_m.svg"
   },
+  "ClockCompactLineMIcon": {
+    "description": "часы, время",
+    "web": "ClockCompactLineMIcon",
+    "webComponent": "import { ClockCompactLineMIcon } from '@alfalab/icons-glyph/ClockCompactLineMIcon';",
+    "android": "glyph_clock_compact_line_m",
+    "ios": "glyph_clockCompactLine_m",
+    "middle": "glyph_clock-compact-line_m",
+    "cdn": "glyph_clock-compact-line_m",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_clock-compact-line_m.svg"
+  },
   "ClockCrossLineMIcon": {
     "description": "рассрочка, часы, время, отмена",
     "web": "ClockCrossLineMIcon",
@@ -9339,6 +9349,16 @@
     "cdn": "glyph_question-circle_s",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_question-circle_s.svg"
   },
+  "QuestionCompactCircleLineMIcon": {
+    "description": "вопрос",
+    "web": "QuestionCompactCircleLineMIcon",
+    "webComponent": "import { QuestionCompactCircleLineMIcon } from '@alfalab/icons-glyph/QuestionCompactCircleLineMIcon';",
+    "android": "glyph_question_compact_circle_line_m",
+    "ios": "glyph_questionCompactCircleLine_m",
+    "middle": "glyph_question-compact-circle-line_m",
+    "cdn": "glyph_question-compact-circle-line_m",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_question-compact-circle-line_m.svg"
+  },
   "QuestionMIcon": {
     "description": "",
     "web": "QuestionMIcon",
@@ -10828,6 +10848,16 @@
     "middle": "glyph_sun-line_m",
     "cdn": "glyph_sun-line_m",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_sun-line_m.svg"
+  },
+  "SunMIcon": {
+    "description": "Солнце, солнышко, sun, светлая тема",
+    "web": "SunMIcon",
+    "webComponent": "import { SunMIcon } from '@alfalab/icons-glyph/SunMIcon';",
+    "android": "glyph_sun_m",
+    "ios": "glyph_sun_m",
+    "middle": "glyph_sun_m",
+    "cdn": "glyph_sun_m",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_sun_m.svg"
   },
   "SunriseMIcon": {
     "description": "солнце, солнышко, восход",
