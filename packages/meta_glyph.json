@@ -2829,6 +2829,16 @@
     "cdn": "glyph_chart-ring_m",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_chart-ring_m.svg"
   },
+  "CheckmarkCircleLineMIcon": {
+    "description": "галка, галочка, готово",
+    "web": "CheckmarkCircleLineMIcon",
+    "webComponent": "import { CheckmarkCircleLineMIcon } from '@alfalab/icons-glyph/CheckmarkCircleLineMIcon';",
+    "android": "glyph_checkmark_circle_line_m",
+    "ios": "glyph_checkmarkCircleLine_m",
+    "middle": "glyph_checkmark-circle-line_m",
+    "cdn": "glyph_checkmark-circle-line_m",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_checkmark-circle-line_m.svg"
+  },
   "CheckmarkCircleMIcon": {
     "description": "галка, галочка, готово",
     "web": "CheckmarkCircleMIcon",
