@@ -3579,6 +3579,26 @@
     "cdn": "glyph_clock-compact-line_m",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_clock-compact-line_m.svg"
   },
+  "ClockCompactMIcon": {
+    "description": "часы, время, time",
+    "web": "ClockCompactMIcon",
+    "webComponent": "import { ClockCompactMIcon } from '@alfalab/icons-glyph/ClockCompactMIcon';",
+    "android": "glyph_clock_compact_m",
+    "ios": "glyph_clockCompact_m",
+    "middle": "glyph_clock-compact_m",
+    "cdn": "glyph_clock-compact_m",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_clock-compact_m.svg"
+  },
+  "ClockCompactSIcon": {
+    "description": "часы, время, time",
+    "web": "ClockCompactSIcon",
+    "webComponent": "import { ClockCompactSIcon } from '@alfalab/icons-glyph/ClockCompactSIcon';",
+    "android": "glyph_clock_compact_s",
+    "ios": "glyph_clockCompact_s",
+    "middle": "glyph_clock-compact_s",
+    "cdn": "glyph_clock-compact_s",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_clock-compact_s.svg"
+  },
   "ClockCrossLineMIcon": {
     "description": "рассрочка, часы, время, отмена",
     "web": "ClockCrossLineMIcon",
