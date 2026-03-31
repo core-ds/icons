@@ -11229,6 +11229,16 @@
     "cdn": "glyph_thumb-up_s",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_thumb-up_s.svg"
   },
+  "TicketStarCompactMIcon": {
+    "description": "билет",
+    "web": "TicketStarCompactMIcon",
+    "webComponent": "import { TicketStarCompactMIcon } from '@alfalab/icons-glyph/TicketStarCompactMIcon';",
+    "android": "glyph_ticket_star_compact_m",
+    "ios": "glyph_ticketStarCompact_m",
+    "middle": "glyph_ticket-star-compact_m",
+    "cdn": "glyph_ticket-star-compact_m",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_ticket-star-compact_m.svg"
+  },
   "TicketStarMIcon": {
     "description": "билет",
     "web": "TicketStarMIcon",
