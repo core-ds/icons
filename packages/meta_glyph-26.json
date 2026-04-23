@@ -18249,6 +18249,26 @@
     "cdn": "glyph-26_thumb-down-thinline_20",
     "url": "https://alfabank.servicecdn.ru/icons/glyph-26_thumb-down-thinline_20.svg"
   },
+  "ThumbDown20Icon": {
+    "description": "",
+    "web": "ThumbDown20Icon",
+    "webComponent": "import { ThumbDown20Icon } from '@alfalab/icons-glyph-26/ThumbDown20Icon';",
+    "android": "glyph_26_thumb_down_20",
+    "ios": "glyph26_thumbDown_20",
+    "middle": "glyph-26_thumb-down_20",
+    "cdn": "glyph-26_thumb-down_20",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_thumb-down_20.svg"
+  },
+  "ThumbDown24Icon": {
+    "description": "",
+    "web": "ThumbDown24Icon",
+    "webComponent": "import { ThumbDown24Icon } from '@alfalab/icons-glyph-26/ThumbDown24Icon';",
+    "android": "glyph_26_thumb_down_24",
+    "ios": "glyph26_thumbDown_24",
+    "middle": "glyph-26_thumb-down_24",
+    "cdn": "glyph-26_thumb-down_24",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_thumb-down_24.svg"
+  },
   "ThumbUpLine20Icon": {
     "description": "",
     "web": "ThumbUpLine20Icon",
@@ -18278,6 +18298,26 @@
     "middle": "glyph-26_thumb-up-thinline_20",
     "cdn": "glyph-26_thumb-up-thinline_20",
     "url": "https://alfabank.servicecdn.ru/icons/glyph-26_thumb-up-thinline_20.svg"
+  },
+  "ThumbUp20Icon": {
+    "description": "",
+    "web": "ThumbUp20Icon",
+    "webComponent": "import { ThumbUp20Icon } from '@alfalab/icons-glyph-26/ThumbUp20Icon';",
+    "android": "glyph_26_thumb_up_20",
+    "ios": "glyph26_thumbUp_20",
+    "middle": "glyph-26_thumb-up_20",
+    "cdn": "glyph-26_thumb-up_20",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_thumb-up_20.svg"
+  },
+  "ThumbUp24Icon": {
+    "description": "",
+    "web": "ThumbUp24Icon",
+    "webComponent": "import { ThumbUp24Icon } from '@alfalab/icons-glyph-26/ThumbUp24Icon';",
+    "android": "glyph_26_thumb_up_24",
+    "ios": "glyph26_thumbUp_24",
+    "middle": "glyph-26_thumb-up_24",
+    "cdn": "glyph-26_thumb-up_24",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_thumb-up_24.svg"
   },
   "TicketLine20Icon": {
     "description": "",
