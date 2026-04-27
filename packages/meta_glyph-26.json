@@ -5249,6 +5249,56 @@
     "cdn": "glyph-26_certificate-thinline_20",
     "url": "https://alfabank.servicecdn.ru/icons/glyph-26_certificate-thinline_20.svg"
   },
+  "ChainCircleLine20Icon": {
+    "description": "",
+    "web": "ChainCircleLine20Icon",
+    "webComponent": "import { ChainCircleLine20Icon } from '@alfalab/icons-glyph-26/ChainCircleLine20Icon';",
+    "android": "glyph_26_chain_circle_line_20",
+    "ios": "glyph26_chainCircleLine_20",
+    "middle": "glyph-26_chain-circle-line_20",
+    "cdn": "glyph-26_chain-circle-line_20",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_chain-circle-line_20.svg"
+  },
+  "ChainCircleLine24Icon": {
+    "description": "",
+    "web": "ChainCircleLine24Icon",
+    "webComponent": "import { ChainCircleLine24Icon } from '@alfalab/icons-glyph-26/ChainCircleLine24Icon';",
+    "android": "glyph_26_chain_circle_line_24",
+    "ios": "glyph26_chainCircleLine_24",
+    "middle": "glyph-26_chain-circle-line_24",
+    "cdn": "glyph-26_chain-circle-line_24",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_chain-circle-line_24.svg"
+  },
+  "ChainCircleThinline20Icon": {
+    "description": "",
+    "web": "ChainCircleThinline20Icon",
+    "webComponent": "import { ChainCircleThinline20Icon } from '@alfalab/icons-glyph-26/ChainCircleThinline20Icon';",
+    "android": "glyph_26_chain_circle_thinline_20",
+    "ios": "glyph26_chainCircleThinline_20",
+    "middle": "glyph-26_chain-circle-thinline_20",
+    "cdn": "glyph-26_chain-circle-thinline_20",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_chain-circle-thinline_20.svg"
+  },
+  "ChainCircle20Icon": {
+    "description": "",
+    "web": "ChainCircle20Icon",
+    "webComponent": "import { ChainCircle20Icon } from '@alfalab/icons-glyph-26/ChainCircle20Icon';",
+    "android": "glyph_26_chain_circle_20",
+    "ios": "glyph26_chainCircle_20",
+    "middle": "glyph-26_chain-circle_20",
+    "cdn": "glyph-26_chain-circle_20",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_chain-circle_20.svg"
+  },
+  "ChainCircle24Icon": {
+    "description": "",
+    "web": "ChainCircle24Icon",
+    "webComponent": "import { ChainCircle24Icon } from '@alfalab/icons-glyph-26/ChainCircle24Icon';",
+    "android": "glyph_26_chain_circle_24",
+    "ios": "glyph26_chainCircle_24",
+    "middle": "glyph-26_chain-circle_24",
+    "cdn": "glyph-26_chain-circle_24",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_chain-circle_24.svg"
+  },
   "ChainLine20Icon": {
     "description": "",
     "web": "ChainLine20Icon",
@@ -15468,6 +15518,56 @@
     "middle": "glyph-26_phone-bubble-thinline_20",
     "cdn": "glyph-26_phone-bubble-thinline_20",
     "url": "https://alfabank.servicecdn.ru/icons/glyph-26_phone-bubble-thinline_20.svg"
+  },
+  "PhoneCircleLine20Icon": {
+    "description": "",
+    "web": "PhoneCircleLine20Icon",
+    "webComponent": "import { PhoneCircleLine20Icon } from '@alfalab/icons-glyph-26/PhoneCircleLine20Icon';",
+    "android": "glyph_26_phone_circle_line_20",
+    "ios": "glyph26_phoneCircleLine_20",
+    "middle": "glyph-26_phone-circle-line_20",
+    "cdn": "glyph-26_phone-circle-line_20",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_phone-circle-line_20.svg"
+  },
+  "PhoneCircleLine24Icon": {
+    "description": "",
+    "web": "PhoneCircleLine24Icon",
+    "webComponent": "import { PhoneCircleLine24Icon } from '@alfalab/icons-glyph-26/PhoneCircleLine24Icon';",
+    "android": "glyph_26_phone_circle_line_24",
+    "ios": "glyph26_phoneCircleLine_24",
+    "middle": "glyph-26_phone-circle-line_24",
+    "cdn": "glyph-26_phone-circle-line_24",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_phone-circle-line_24.svg"
+  },
+  "PhoneCircleThinline20Icon": {
+    "description": "",
+    "web": "PhoneCircleThinline20Icon",
+    "webComponent": "import { PhoneCircleThinline20Icon } from '@alfalab/icons-glyph-26/PhoneCircleThinline20Icon';",
+    "android": "glyph_26_phone_circle_thinline_20",
+    "ios": "glyph26_phoneCircleThinline_20",
+    "middle": "glyph-26_phone-circle-thinline_20",
+    "cdn": "glyph-26_phone-circle-thinline_20",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_phone-circle-thinline_20.svg"
+  },
+  "PhoneCircle20Icon": {
+    "description": "",
+    "web": "PhoneCircle20Icon",
+    "webComponent": "import { PhoneCircle20Icon } from '@alfalab/icons-glyph-26/PhoneCircle20Icon';",
+    "android": "glyph_26_phone_circle_20",
+    "ios": "glyph26_phoneCircle_20",
+    "middle": "glyph-26_phone-circle_20",
+    "cdn": "glyph-26_phone-circle_20",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_phone-circle_20.svg"
+  },
+  "PhoneCircle24Icon": {
+    "description": "",
+    "web": "PhoneCircle24Icon",
+    "webComponent": "import { PhoneCircle24Icon } from '@alfalab/icons-glyph-26/PhoneCircle24Icon';",
+    "android": "glyph_26_phone_circle_24",
+    "ios": "glyph26_phoneCircle_24",
+    "middle": "glyph-26_phone-circle_24",
+    "cdn": "glyph-26_phone-circle_24",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_phone-circle_24.svg"
   },
   "PhoneLine20Icon": {
     "description": "",
