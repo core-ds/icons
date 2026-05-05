@@ -7309,6 +7309,16 @@
     "cdn": "glyph_meter-up-right_m",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_meter-up-right_m.svg"
   },
+  "MicLineMIcon": {
+    "description": "микрофон, звук, microphone, speaker, sound",
+    "web": "MicLineMIcon",
+    "webComponent": "import { MicLineMIcon } from '@alfalab/icons-glyph/MicLineMIcon';",
+    "android": "glyph_mic_line_m",
+    "ios": "glyph_micLine_m",
+    "middle": "glyph_mic-line_m",
+    "cdn": "glyph_mic-line_m",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_mic-line_m.svg"
+  },
   "MicOffMIcon": {
     "description": "микрофон, звук, microphone, speaker, sound",
     "web": "MicOffMIcon",
@@ -11268,6 +11278,16 @@
     "middle": "glyph_tile-bento_m",
     "cdn": "glyph_tile-bento_m",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_tile-bento_m.svg"
+  },
+  "TileCirclesRectanglesMIcon": {
+    "description": "плитка",
+    "web": "TileCirclesRectanglesMIcon",
+    "webComponent": "import { TileCirclesRectanglesMIcon } from '@alfalab/icons-glyph/TileCirclesRectanglesMIcon';",
+    "android": "glyph_tile_circles_rectangles_m",
+    "ios": "glyph_tileCirclesRectangles_m",
+    "middle": "glyph_tile-circles-rectangles_m",
+    "cdn": "glyph_tile-circles-rectangles_m",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_tile-circles-rectangles_m.svg"
   },
   "TileLineMIcon": {
     "description": "плитка",
