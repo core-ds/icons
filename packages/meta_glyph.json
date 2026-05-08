@@ -10779,6 +10779,16 @@
     "cdn": "glyph_stop-circle_m",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_stop-circle_m.svg"
   },
+  "StopCompactAltMIcon": {
+    "description": "стоп, квадрат, загрузка, плеер, видео, video, stop, player",
+    "web": "StopCompactAltMIcon",
+    "webComponent": "import { StopCompactAltMIcon } from '@alfalab/icons-glyph/StopCompactAltMIcon';",
+    "android": "glyph_stop_compact_alt_m",
+    "ios": "glyph_stopCompactAlt_m",
+    "middle": "glyph_stop-compact-alt_m",
+    "cdn": "glyph_stop-compact-alt_m",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_stop-compact-alt_m.svg"
+  },
   "StopCompactMIcon": {
     "description": "стоп, квадрат, загрузка, плеер, видео, video, stop, player, компакт",
     "web": "StopCompactMIcon",
