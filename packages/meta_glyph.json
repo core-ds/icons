@@ -11189,6 +11189,16 @@
     "cdn": "glyph_thumb-down-compact_s",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_thumb-down-compact_s.svg"
   },
+  "ThumbDownLineMIcon": {
+    "description": "палец вниз, дизлайк, dislike",
+    "web": "ThumbDownLineMIcon",
+    "webComponent": "import { ThumbDownLineMIcon } from '@alfalab/icons-glyph/ThumbDownLineMIcon';",
+    "android": "glyph_thumb_down_line_m",
+    "ios": "glyph_thumbDownLine_m",
+    "middle": "glyph_thumb-down-line_m",
+    "cdn": "glyph_thumb-down-line_m",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_thumb-down-line_m.svg"
+  },
   "ThumbDownMIcon": {
     "description": "палец вниз, дизлайк, dislike",
     "web": "ThumbDownMIcon",
@@ -11228,6 +11238,16 @@
     "middle": "glyph_thumb-up-compact_s",
     "cdn": "glyph_thumb-up-compact_s",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_thumb-up-compact_s.svg"
+  },
+  "ThumbUpLineMIcon": {
+    "description": "палец вверх, лайк, like",
+    "web": "ThumbUpLineMIcon",
+    "webComponent": "import { ThumbUpLineMIcon } from '@alfalab/icons-glyph/ThumbUpLineMIcon';",
+    "android": "glyph_thumb_up_line_m",
+    "ios": "glyph_thumbUpLine_m",
+    "middle": "glyph_thumb-up-line_m",
+    "cdn": "glyph_thumb-up-line_m",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_thumb-up-line_m.svg"
   },
   "ThumbUpMIcon": {
     "description": "палец вверх, лайк, like",
