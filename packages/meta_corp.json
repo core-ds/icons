@@ -719,6 +719,36 @@
     "cdn": "corp_max-logo_m",
     "url": "https://alfabank.servicecdn.ru/icons/corp_max-logo_m.svg"
   },
+  "NeuralAssistantFlareMIcon": {
+    "description": "нейропомощник, ассистент, нейроассистент, искусственный интеллект, нейросеть, AI",
+    "web": "NeuralAssistantFlareMIcon",
+    "webComponent": "import { NeuralAssistantFlareMIcon } from '@alfalab/icons-corp/NeuralAssistantFlareMIcon';",
+    "android": "corp_neural_assistant_flare_m",
+    "ios": "corp_neuralAssistantFlare_m",
+    "middle": "corp_neural-assistant-flare_m",
+    "cdn": "corp_neural-assistant-flare_m",
+    "url": "https://alfabank.servicecdn.ru/icons/corp_neural-assistant-flare_m.svg"
+  },
+  "NeuralAssistantFlareSIcon": {
+    "description": "нейропомощник, ассистент, нейроассистент, искусственный интеллект, нейросеть, AI",
+    "web": "NeuralAssistantFlareSIcon",
+    "webComponent": "import { NeuralAssistantFlareSIcon } from '@alfalab/icons-corp/NeuralAssistantFlareSIcon';",
+    "android": "corp_neural_assistant_flare_s",
+    "ios": "corp_neuralAssistantFlare_s",
+    "middle": "corp_neural-assistant-flare_s",
+    "cdn": "corp_neural-assistant-flare_s",
+    "url": "https://alfabank.servicecdn.ru/icons/corp_neural-assistant-flare_s.svg"
+  },
+  "NeuralAssistantFlareXxlIcon": {
+    "description": "нейропомощник, ассистент, нейроассистент, искусственный интеллект, нейросеть, AI",
+    "web": "NeuralAssistantFlareXxlIcon",
+    "webComponent": "import { NeuralAssistantFlareXxlIcon } from '@alfalab/icons-corp/NeuralAssistantFlareXxlIcon';",
+    "android": "corp_neural_assistant_flare_xxl",
+    "ios": "corp_neuralAssistantFlare_xxl",
+    "middle": "corp_neural-assistant-flare_xxl",
+    "cdn": "corp_neural-assistant-flare_xxl",
+    "url": "https://alfabank.servicecdn.ru/icons/corp_neural-assistant-flare_xxl.svg"
+  },
   "NeuralAssistantMIcon": {
     "description": "нейропомощник, ассистент, нейроассистент, искусственный интеллект, нейросеть, AI",
     "web": "NeuralAssistantMIcon",
