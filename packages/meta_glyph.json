@@ -1929,6 +1929,16 @@
     "cdn": "glyph_bubble-cross_s",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_bubble-cross_s.svg"
   },
+  "BubbleLineExtMIcon": {
+    "description": "",
+    "web": "BubbleLineExtMIcon",
+    "webComponent": "import { BubbleLineExtMIcon } from '@alfalab/icons-glyph/BubbleLineExtMIcon';",
+    "android": "glyph_bubble_line_ext_m",
+    "ios": "glyph_bubbleLineExt_m",
+    "middle": "glyph_bubble-line-ext_m",
+    "cdn": "glyph_bubble-line-ext_m",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_bubble-line-ext_m.svg"
+  },
   "BubbleLinesLineMIcon": {
     "description": "бабл, баббл, чат, комменты",
     "web": "BubbleLinesLineMIcon",
@@ -3639,6 +3649,16 @@
     "cdn": "glyph_clock-hands-compact_xxl",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_clock-hands-compact_xxl.svg"
   },
+  "ClockLineExtMIcon": {
+    "description": "",
+    "web": "ClockLineExtMIcon",
+    "webComponent": "import { ClockLineExtMIcon } from '@alfalab/icons-glyph/ClockLineExtMIcon';",
+    "android": "glyph_clock_line_ext_m",
+    "ios": "glyph_clockLineExt_m",
+    "middle": "glyph_clock-line-ext_m",
+    "cdn": "glyph_clock-line-ext_m",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_clock-line-ext_m.svg"
+  },
   "ClockLineMIcon": {
     "description": "часы, время",
     "web": "ClockLineMIcon",
@@ -3779,6 +3799,16 @@
     "cdn": "glyph_cny_m",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_cny_m.svg"
   },
+  "CoinCoinArrowRightLineExtMIcon": {
+    "description": "",
+    "web": "CoinCoinArrowRightLineExtMIcon",
+    "webComponent": "import { CoinCoinArrowRightLineExtMIcon } from '@alfalab/icons-glyph/CoinCoinArrowRightLineExtMIcon';",
+    "android": "glyph_coin_coin_arrow_right_line_ext_m",
+    "ios": "glyph_coinCoinArrowRightLineExt_m",
+    "middle": "glyph_coin-coin-arrow-right-line-ext_m",
+    "cdn": "glyph_coin-coin-arrow-right-line-ext_m",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_coin-coin-arrow-right-line-ext_m.svg"
+  },
   "CommentCheckmarkMIcon": {
     "description": "",
     "web": "CommentCheckmarkMIcon",
@@ -3888,6 +3918,16 @@
     "middle": "glyph_copy-compact_xxl",
     "cdn": "glyph_copy-compact_xxl",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_copy-compact_xxl.svg"
+  },
+  "CopyLineExtSIcon": {
+    "description": "",
+    "web": "CopyLineExtSIcon",
+    "webComponent": "import { CopyLineExtSIcon } from '@alfalab/icons-glyph/CopyLineExtSIcon';",
+    "android": "glyph_copy_line_ext_s",
+    "ios": "glyph_copyLineExt_s",
+    "middle": "glyph_copy-line-ext_s",
+    "cdn": "glyph_copy-line-ext_s",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_copy-line-ext_s.svg"
   },
   "CopyLineMIcon": {
     "description": "копировать, скопировать, обводка",
@@ -7029,6 +7069,16 @@
     "cdn": "glyph_magnifier-filled_m",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_magnifier-filled_m.svg"
   },
+  "MagnifierFlareExtMIcon": {
+    "description": "",
+    "web": "MagnifierFlareExtMIcon",
+    "webComponent": "import { MagnifierFlareExtMIcon } from '@alfalab/icons-glyph/MagnifierFlareExtMIcon';",
+    "android": "glyph_magnifier_flare_ext_m",
+    "ios": "glyph_magnifierFlareExt_m",
+    "middle": "glyph_magnifier-flare-ext_m",
+    "cdn": "glyph_magnifier-flare-ext_m",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_magnifier-flare-ext_m.svg"
+  },
   "MagnifierFlareMIcon": {
     "description": "magic-magnifier, поиск, ai, искусственный интеллект, умный, звезда, ии, спаркл, sparkle, star, flare, smart",
     "web": "MagnifierFlareMIcon",
@@ -9328,6 +9378,16 @@
     "middle": "glyph_qr-code-hexagon_m",
     "cdn": "glyph_qr-code-hexagon_m",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_qr-code-hexagon_m.svg"
+  },
+  "QrCodeScannerLineExtMIcon": {
+    "description": "",
+    "web": "QrCodeScannerLineExtMIcon",
+    "webComponent": "import { QrCodeScannerLineExtMIcon } from '@alfalab/icons-glyph/QrCodeScannerLineExtMIcon';",
+    "android": "glyph_qr_code_scanner_line_ext_m",
+    "ios": "glyph_qrCodeScannerLineExt_m",
+    "middle": "glyph_qr-code-scanner-line-ext_m",
+    "cdn": "glyph_qr-code-scanner-line-ext_m",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_qr-code-scanner-line-ext_m.svg"
   },
   "QrCodeScannerMIcon": {
     "description": "сканировать qr-код, куар код",
