@@ -16,7 +16,7 @@ export const TabletHorizontal20Icon: React.FC<SVGProps<
         viewBox="0 0 20 20"
         {...props}
     >
-        <path d="M15.3 3.7a2 2 0 012 2v8.6a2 2 0 01-2 2H4.7a2 2 0 01-2-2V5.7a2 2 0 012-2h10.6zM14.002 9a1 1 0 100 2 1 1 0 000-2z" />
+        <path d="M15 3.25a3 3 0 013 3v7.5a3 3 0 01-3 3H5a3 3 0 01-3-3v-7.5a3 3 0 013-3h10zM14.999 9a1 1 0 100 2 1 1 0 000-2z" />
     </svg>
 );
 

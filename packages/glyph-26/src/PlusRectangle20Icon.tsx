@@ -14,7 +14,7 @@ export const PlusRectangle20Icon: React.FC<SVGProps<SVGSVGElement>> = props => (
         viewBox="0 0 20 20"
         {...props}
     >
-        <path d="M15 2a3 3 0 013 3v10a3 3 0 01-3 3H5a3 3 0 01-3-3V5a3 3 0 013-3h10zM9 9H6v2h3v3h2v-3h3V9h-3V6H9v3z" />
+        <path d="M15 2a3 3 0 013 3v10a3 3 0 01-3 3H5a3 3 0 01-3-3V5a3 3 0 013-3h10zM9.25 9.25H6v1.5h3.25V14h1.5v-3.25H14v-1.5h-3.25V6h-1.5v3.25z" />
     </svg>
 );
 

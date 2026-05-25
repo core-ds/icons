@@ -17,7 +17,7 @@ export const PaperBoxThinline20Icon: React.FC<SVGProps<
         {...props}
     >
         <path d="M12 11H8V9.5h4V11z" />
-        <path d="M16 2a2 2 0 012 2v4h-1v10H3V8H2V4a2 2 0 012-2h12zM4.5 16.5h11V8h-11v8.5zM4 3.5a.5.5 0 00-.5.5v2.5h13V4a.5.5 0 00-.5-.5H4z" />
+        <path d="M15.75 2A2.25 2.25 0 0118 4.25V8h-1v10H3V8H2V4.25A2.25 2.25 0 014.25 2h11.5zM4.5 16.5h11V8h-11v8.5zm-.25-13a.75.75 0 00-.75.75V6.5h13V4.25a.75.75 0 00-.75-.75H4.25z" />
     </svg>
 );
 
