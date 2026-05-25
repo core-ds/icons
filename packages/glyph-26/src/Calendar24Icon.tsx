@@ -15,7 +15,7 @@ export const Calendar24Icon: React.FC<SVGProps<SVGSVGElement>> = props => (
         {...props}
     >
         <path d="M11 15H7v-2h4v2z" />
-        <path d="M9 4h6V2h2v2a4 4 0 014 4v9a4 4 0 01-4 4H7a4 4 0 01-4-4V8a4 4 0 014-4V2h2v2zm-4 7v6a2 2 0 002 2h10a2 2 0 002-2v-6H5z" />
+        <path d="M9 4h6V2h2v2a4 4 0 014 4v9a4 4 0 01-4 4H7a4 4 0 01-4-4V8a4 4 0 014-4V2h2v2zM5 17a2 2 0 002 2h10a2 2 0 002-2v-6H5v6z" />
     </svg>
 );
 
