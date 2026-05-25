@@ -12759,6 +12759,26 @@
     "cdn": "glyph-26_lines-hexagon-thinline_20",
     "url": "https://alfabank.servicecdn.ru/icons/glyph-26_lines-hexagon-thinline_20.svg"
   },
+  "LinesHexagon20Icon": {
+    "description": "",
+    "web": "LinesHexagon20Icon",
+    "webComponent": "import { LinesHexagon20Icon } from '@alfalab/icons-glyph-26/LinesHexagon20Icon';",
+    "android": "glyph_26_lines_hexagon_20",
+    "ios": "glyph26_linesHexagon_20",
+    "middle": "glyph-26_lines-hexagon_20",
+    "cdn": "glyph-26_lines-hexagon_20",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_lines-hexagon_20.svg"
+  },
+  "LinesHexagon24Icon": {
+    "description": "",
+    "web": "LinesHexagon24Icon",
+    "webComponent": "import { LinesHexagon24Icon } from '@alfalab/icons-glyph-26/LinesHexagon24Icon';",
+    "android": "glyph_26_lines_hexagon_24",
+    "ios": "glyph26_linesHexagon_24",
+    "middle": "glyph-26_lines-hexagon_24",
+    "cdn": "glyph-26_lines-hexagon_24",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_lines-hexagon_24.svg"
+  },
   "LinesRectangleArrowRightLine20Icon": {
     "description": "",
     "web": "LinesRectangleArrowRightLine20Icon",
