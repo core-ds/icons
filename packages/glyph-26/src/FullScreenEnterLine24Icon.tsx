@@ -16,7 +16,7 @@ export const FullScreenEnterLine24Icon: React.FC<SVGProps<
         viewBox="0 0 24 24"
         {...props}
     >
-        <path d="M4 18a2 2 0 002 2h3v2H6a4 4 0 01-4-4v-3h2v3zm18 0a4 4 0 01-4 4h-3v-2h3a2 2 0 002-2v-3h2v3zM9 4H6a2 2 0 00-2 2v3H2V6a4 4 0 014-4h3v2zm9-2a4 4 0 014 4v3h-2V6a2 2 0 00-2-2h-3V2h3z" />
+        <path d="M4 17a3 3 0 003 3h2v2H7a5 5 0 01-5-5v-2h2v2zm18 0a5 5 0 01-5 5h-2v-2h2a3 3 0 003-3v-2h2v2zM9 4H7a3 3 0 00-3 3v2H2V7a5 5 0 015-5h2v2zm8-2a5 5 0 015 5v2h-2V7a3 3 0 00-3-3h-2V2h2z" />
     </svg>
 );
 

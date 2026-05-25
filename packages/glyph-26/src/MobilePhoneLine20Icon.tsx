@@ -17,7 +17,7 @@ export const MobilePhoneLine20Icon: React.FC<SVGProps<
         {...props}
     >
         <path d="M11 5a1 1 0 110 2H9a1 1 0 010-2h2z" />
-        <path d="M12 2a4 4 0 014 4v8a4 4 0 01-4 4H8a4 4 0 01-4-4V6a4 4 0 014-4h4zM8 4a2 2 0 00-2 2v8a2 2 0 002 2h4a2 2 0 002-2V6a2 2 0 00-2-2H8z" />
+        <path d="M13 2a3 3 0 013 3v10a3 3 0 01-3 3H7a3 3 0 01-3-3V5a3 3 0 013-3h6zM7 4a1 1 0 00-1 1v10a1 1 0 001 1h6a1 1 0 001-1V5a1 1 0 00-1-1H7z" />
     </svg>
 );
 

@@ -17,7 +17,7 @@ export const MobilePhoneHorizontalLine20Icon: React.FC<SVGProps<
         {...props}
     >
         <path d="M6 8a1 1 0 011 1v2a1 1 0 11-2 0V9a1 1 0 011-1z" />
-        <path d="M14 4a4 4 0 014 4v4a4 4 0 01-4 4H6a4 4 0 01-4-4V8a4 4 0 014-4h8zM6 6a2 2 0 00-2 2v4a2 2 0 002 2h8a2 2 0 002-2V8a2 2 0 00-2-2H6z" />
+        <path d="M15 4a3 3 0 013 3v6a3 3 0 01-3 3H5a3 3 0 01-3-3V7a3 3 0 013-3h10zM5 6a1 1 0 00-1 1v6a1 1 0 001 1h10a1 1 0 001-1V7a1 1 0 00-1-1H5z" />
     </svg>
 );
 
