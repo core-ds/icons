@@ -16859,6 +16859,66 @@
     "cdn": "glyph-26_rectangle-plus-thinline_20",
     "url": "https://alfabank.servicecdn.ru/icons/glyph-26_rectangle-plus-thinline_20.svg"
   },
+  "RectangleRotateCcwLine20Icon": {
+    "description": "",
+    "web": "RectangleRotateCcwLine20Icon",
+    "webComponent": "import { RectangleRotateCcwLine20Icon } from '@alfalab/icons-glyph-26/RectangleRotateCcwLine20Icon';",
+    "android": "glyph_26_rectangle_rotate_ccw_line_20",
+    "ios": "glyph26_rectangleRotateCcwLine_20",
+    "middle": "glyph-26_rectangle-rotate-ccw-line_20",
+    "cdn": "glyph-26_rectangle-rotate-ccw-line_20",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_rectangle-rotate-ccw-line_20.svg"
+  },
+  "RectangleRotateCcwLine24Icon": {
+    "description": "",
+    "web": "RectangleRotateCcwLine24Icon",
+    "webComponent": "import { RectangleRotateCcwLine24Icon } from '@alfalab/icons-glyph-26/RectangleRotateCcwLine24Icon';",
+    "android": "glyph_26_rectangle_rotate_ccw_line_24",
+    "ios": "glyph26_rectangleRotateCcwLine_24",
+    "middle": "glyph-26_rectangle-rotate-ccw-line_24",
+    "cdn": "glyph-26_rectangle-rotate-ccw-line_24",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_rectangle-rotate-ccw-line_24.svg"
+  },
+  "RectangleRotateCcwThinline20Icon": {
+    "description": "",
+    "web": "RectangleRotateCcwThinline20Icon",
+    "webComponent": "import { RectangleRotateCcwThinline20Icon } from '@alfalab/icons-glyph-26/RectangleRotateCcwThinline20Icon';",
+    "android": "glyph_26_rectangle_rotate_ccw_thinline_20",
+    "ios": "glyph26_rectangleRotateCcwThinline_20",
+    "middle": "glyph-26_rectangle-rotate-ccw-thinline_20",
+    "cdn": "glyph-26_rectangle-rotate-ccw-thinline_20",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_rectangle-rotate-ccw-thinline_20.svg"
+  },
+  "RectangleRotateCwLine20Icon": {
+    "description": "",
+    "web": "RectangleRotateCwLine20Icon",
+    "webComponent": "import { RectangleRotateCwLine20Icon } from '@alfalab/icons-glyph-26/RectangleRotateCwLine20Icon';",
+    "android": "glyph_26_rectangle_rotate_cw_line_20",
+    "ios": "glyph26_rectangleRotateCwLine_20",
+    "middle": "glyph-26_rectangle-rotate-cw-line_20",
+    "cdn": "glyph-26_rectangle-rotate-cw-line_20",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_rectangle-rotate-cw-line_20.svg"
+  },
+  "RectangleRotateCwLine24Icon": {
+    "description": "",
+    "web": "RectangleRotateCwLine24Icon",
+    "webComponent": "import { RectangleRotateCwLine24Icon } from '@alfalab/icons-glyph-26/RectangleRotateCwLine24Icon';",
+    "android": "glyph_26_rectangle_rotate_cw_line_24",
+    "ios": "glyph26_rectangleRotateCwLine_24",
+    "middle": "glyph-26_rectangle-rotate-cw-line_24",
+    "cdn": "glyph-26_rectangle-rotate-cw-line_24",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_rectangle-rotate-cw-line_24.svg"
+  },
+  "RectangleRotateCwThinline20Icon": {
+    "description": "",
+    "web": "RectangleRotateCwThinline20Icon",
+    "webComponent": "import { RectangleRotateCwThinline20Icon } from '@alfalab/icons-glyph-26/RectangleRotateCwThinline20Icon';",
+    "android": "glyph_26_rectangle_rotate_cw_thinline_20",
+    "ios": "glyph26_rectangleRotateCwThinline_20",
+    "middle": "glyph-26_rectangle-rotate-cw-thinline_20",
+    "cdn": "glyph-26_rectangle-rotate-cw-thinline_20",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_rectangle-rotate-cw-thinline_20.svg"
+  },
   "RectangleThinline20Icon": {
     "description": "",
     "web": "RectangleThinline20Icon",
