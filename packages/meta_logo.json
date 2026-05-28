@@ -59,6 +59,16 @@
     "cdn": "logo_aeroclub_m_white",
     "url": "https://alfabank.servicecdn.ru/icons/logo_aeroclub_m_white.svg"
   },
+  "AgzrtSignBoxMWhiteIcon": {
+    "description": "[logo_agzrt-sign-box_m_white]",
+    "web": "AgzrtSignBoxMWhiteIcon",
+    "webComponent": "import { AgzrtSignBoxMWhiteIcon } from '@alfalab/icons-logo/AgzrtSignBoxMWhiteIcon';",
+    "android": "logo_agzrt_sign_box_m_white",
+    "ios": "logo_agzrtSignBox_m_white",
+    "middle": "logo_agzrt-sign-box_m_white",
+    "cdn": "logo_agzrt-sign-box_m_white",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_agzrt-sign-box_m_white.svg"
+  },
   "AiMonoEnSignBoxMColorIcon": {
     "description": "[logo_ai-mono-en-sign-box_m_color]",
     "web": "AiMonoEnSignBoxMColorIcon",
@@ -888,6 +898,16 @@
     "middle": "logo_asia-alliance_m_white",
     "cdn": "logo_asia-alliance_m_white",
     "url": "https://alfabank.servicecdn.ru/icons/logo_asia-alliance_m_white.svg"
+  },
+  "AstgozSignBoxMWhiteIcon": {
+    "description": "[logo_astgoz-sign-box_m_white]",
+    "web": "AstgozSignBoxMWhiteIcon",
+    "webComponent": "import { AstgozSignBoxMWhiteIcon } from '@alfalab/icons-logo/AstgozSignBoxMWhiteIcon';",
+    "android": "logo_astgoz_sign_box_m_white",
+    "ios": "logo_astgozSignBox_m_white",
+    "middle": "logo_astgoz-sign-box_m_white",
+    "cdn": "logo_astgoz-sign-box_m_white",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_astgoz-sign-box_m_white.svg"
   },
   "AtolSignBoxMColorIcon": {
     "description": "[logo_atol-sign-box_m_color]",
@@ -1829,6 +1849,16 @@
     "cdn": "logo_eraedtech_m_white",
     "url": "https://alfabank.servicecdn.ru/icons/logo_eraedtech_m_white.svg"
   },
+  "EtprfSignBoxMColorIcon": {
+    "description": "[logo_etprf-sign-box_m_color]",
+    "web": "EtprfSignBoxMColorIcon",
+    "webComponent": "import { EtprfSignBoxMColorIcon } from '@alfalab/icons-logo/EtprfSignBoxMColorIcon';",
+    "android": "logo_etprf_sign_box_m_color",
+    "ios": "logo_etprfSignBox_m_color",
+    "middle": "logo_etprf-sign-box_m_color",
+    "cdn": "logo_etprf-sign-box_m_color",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_etprf-sign-box_m_color.svg"
+  },
   "FabricaUchetaSignBoxMColorIcon": {
     "description": "[logo_fabrica-ucheta-sign-box_m_color]",
     "web": "FabricaUchetaSignBoxMColorIcon",
@@ -1868,6 +1898,16 @@
     "middle": "logo_fabrica-ucheta_m_white",
     "cdn": "logo_fabrica-ucheta_m_white",
     "url": "https://alfabank.servicecdn.ru/icons/logo_fabrica-ucheta_m_white.svg"
+  },
+  "FabrikantSignBoxMWhiteIcon": {
+    "description": "[logo_fabrikant-sign-box_m_white]",
+    "web": "FabrikantSignBoxMWhiteIcon",
+    "webComponent": "import { FabrikantSignBoxMWhiteIcon } from '@alfalab/icons-logo/FabrikantSignBoxMWhiteIcon';",
+    "android": "logo_fabrikant_sign_box_m_white",
+    "ios": "logo_fabrikantSignBox_m_white",
+    "middle": "logo_fabrikant-sign-box_m_white",
+    "cdn": "logo_fabrikant-sign-box_m_white",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_fabrikant-sign-box_m_white.svg"
   },
   "FinguruSignBoxMColorIcon": {
     "description": "[logo_finguru-sign-box_m_color]",
@@ -2048,6 +2088,16 @@
     "middle": "logo_flux-sign-box_m",
     "cdn": "logo_flux-sign-box_m",
     "url": "https://alfabank.servicecdn.ru/icons/logo_flux-sign-box_m.svg"
+  },
+  "GazprombankSignCircleBoxMWhiteIcon": {
+    "description": "[logo_gazprombank-sign-circle-box_m_white]",
+    "web": "GazprombankSignCircleBoxMWhiteIcon",
+    "webComponent": "import { GazprombankSignCircleBoxMWhiteIcon } from '@alfalab/icons-logo/GazprombankSignCircleBoxMWhiteIcon';",
+    "android": "logo_gazprombank_sign_circle_box_m_white",
+    "ios": "logo_gazprombankSignCircleBox_m_white",
+    "middle": "logo_gazprombank-sign-circle-box_m_white",
+    "cdn": "logo_gazprombank-sign-circle-box_m_white",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_gazprombank-sign-circle-box_m_white.svg"
   },
   "GeminiSignBoxMColorIcon": {
     "description": "",
@@ -5529,6 +5579,16 @@
     "cdn": "logo_qwen-sign-box_m",
     "url": "https://alfabank.servicecdn.ru/icons/logo_qwen-sign-box_m.svg"
   },
+  "RadSignBoxMWhiteIcon": {
+    "description": "[logo_rad-sign-box_m_white]",
+    "web": "RadSignBoxMWhiteIcon",
+    "webComponent": "import { RadSignBoxMWhiteIcon } from '@alfalab/icons-logo/RadSignBoxMWhiteIcon';",
+    "android": "logo_rad_sign_box_m_white",
+    "ios": "logo_radSignBox_m_white",
+    "middle": "logo_rad-sign-box_m_white",
+    "cdn": "logo_rad-sign-box_m_white",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_rad-sign-box_m_white.svg"
+  },
   "RentRabbitEnMColorIcon": {
     "description": "[logo_rent-rabbit-en_m_color]",
     "web": "RentRabbitEnMColorIcon",
@@ -5659,6 +5719,26 @@
     "cdn": "logo_rive-gauche_m_white",
     "url": "https://alfabank.servicecdn.ru/icons/logo_rive-gauche_m_white.svg"
   },
+  "RoseltorgSignBoxMWhiteIcon": {
+    "description": "[logo_roseltorg-sign-box_m_white]",
+    "web": "RoseltorgSignBoxMWhiteIcon",
+    "webComponent": "import { RoseltorgSignBoxMWhiteIcon } from '@alfalab/icons-logo/RoseltorgSignBoxMWhiteIcon';",
+    "android": "logo_roseltorg_sign_box_m_white",
+    "ios": "logo_roseltorgSignBox_m_white",
+    "middle": "logo_roseltorg-sign-box_m_white",
+    "cdn": "logo_roseltorg-sign-box_m_white",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_roseltorg-sign-box_m_white.svg"
+  },
+  "RtsTenderSignBoxMWhiteIcon": {
+    "description": "[logo_rts-tender-sign-box_m_white]",
+    "web": "RtsTenderSignBoxMWhiteIcon",
+    "webComponent": "import { RtsTenderSignBoxMWhiteIcon } from '@alfalab/icons-logo/RtsTenderSignBoxMWhiteIcon';",
+    "android": "logo_rts_tender_sign_box_m_white",
+    "ios": "logo_rtsTenderSignBox_m_white",
+    "middle": "logo_rts-tender-sign-box_m_white",
+    "cdn": "logo_rts-tender-sign-box_m_white",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_rts-tender-sign-box_m_white.svg"
+  },
   "S7AirlinesEnMColorIcon": {
     "description": "[logo_s7-airlines-en_m_color]",
     "web": "S7AirlinesEnMColorIcon",
@@ -5768,6 +5848,16 @@
     "middle": "logo_saharok-sign-box_m_color",
     "cdn": "logo_saharok-sign-box_m_color",
     "url": "https://alfabank.servicecdn.ru/icons/logo_saharok-sign-box_m_color.svg"
+  },
+  "SberSignBoxMWhiteIcon": {
+    "description": "[logo_sber-sign-box_m_white]",
+    "web": "SberSignBoxMWhiteIcon",
+    "webComponent": "import { SberSignBoxMWhiteIcon } from '@alfalab/icons-logo/SberSignBoxMWhiteIcon';",
+    "android": "logo_sber_sign_box_m_white",
+    "ios": "logo_sberSignBox_m_white",
+    "middle": "logo_sber-sign-box_m_white",
+    "cdn": "logo_sber-sign-box_m_white",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_sber-sign-box_m_white.svg"
   },
   "SbisEnMColorIcon": {
     "description": "[logo_sbis-en_m_color]",
@@ -6278,6 +6368,16 @@
     "middle": "logo_tako-sign-box_m_white",
     "cdn": "logo_tako-sign-box_m_white",
     "url": "https://alfabank.servicecdn.ru/icons/logo_tako-sign-box_m_white.svg"
+  },
+  "TektorgSignBoxMColorIcon": {
+    "description": "[logo_tektorg-sign-box_m_color]",
+    "web": "TektorgSignBoxMColorIcon",
+    "webComponent": "import { TektorgSignBoxMColorIcon } from '@alfalab/icons-logo/TektorgSignBoxMColorIcon';",
+    "android": "logo_tektorg_sign_box_m_color",
+    "ios": "logo_tektorgSignBox_m_color",
+    "middle": "logo_tektorg-sign-box_m_color",
+    "cdn": "logo_tektorg-sign-box_m_color",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_tektorg-sign-box_m_color.svg"
   },
   "TelegramSignCircleMIcon": {
     "description": "[logo_telegram-sign-circle_m]",
