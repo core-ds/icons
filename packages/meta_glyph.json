@@ -6049,6 +6049,26 @@
     "cdn": "glyph_iceberg-line_m",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_iceberg-line_m.svg"
   },
+  "IncognitoLIcon": {
+    "description": "incognito mode, режим инкогнито, private mode, частный доступ",
+    "web": "IncognitoLIcon",
+    "webComponent": "import { IncognitoLIcon } from '@alfalab/icons-glyph/IncognitoLIcon';",
+    "android": "glyph_incognito_l",
+    "ios": "glyph_incognito_l",
+    "middle": "glyph_incognito_l",
+    "cdn": "glyph_incognito_l",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_incognito_l.svg"
+  },
+  "IncognitoMIcon": {
+    "description": "incognito mode, режим инкогнито, private mode, частный доступ",
+    "web": "IncognitoMIcon",
+    "webComponent": "import { IncognitoMIcon } from '@alfalab/icons-glyph/IncognitoMIcon';",
+    "android": "glyph_incognito_m",
+    "ios": "glyph_incognito_m",
+    "middle": "glyph_incognito_m",
+    "cdn": "glyph_incognito_m",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_incognito_m.svg"
+  },
   "InformationCircleLineMIcon": {
     "description": "информация, инфо, info",
     "web": "InformationCircleLineMIcon",
