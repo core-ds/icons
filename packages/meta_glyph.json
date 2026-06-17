@@ -11519,6 +11519,16 @@
     "cdn": "glyph_transfer_m",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_transfer_m.svg"
   },
+  "TranslateMIcon": {
+    "description": "перевод",
+    "web": "TranslateMIcon",
+    "webComponent": "import { TranslateMIcon } from '@alfalab/icons-glyph/TranslateMIcon';",
+    "android": "glyph_translate_m",
+    "ios": "glyph_translate_m",
+    "middle": "glyph_translate_m",
+    "cdn": "glyph_translate_m",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_translate_m.svg"
+  },
   "TrashCanLineMIcon": {
     "description": "корзина, мусорка, урна, удалить",
     "web": "TrashCanLineMIcon",
