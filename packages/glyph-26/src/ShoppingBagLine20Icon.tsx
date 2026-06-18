@@ -17,7 +17,7 @@ export const ShoppingBagLine20Icon: React.FC<SVGProps<
         {...props}
     >
         <path d="M9 11H7V9h2v2zm4 0h-2V9h2v2z" />
-        <path d="M10 2a4 4 0 014 4h1.905l1.09 10.9A1 1 0 0116 18H4a1 1 0 01-.995-1.1L4.095 6H6a4 4 0 014-4zM5.105 16h9.79l-.8-8h-8.19l-.8 8zM10 4a2 2 0 00-2 2h4a2 2 0 00-2-2z" />
+        <path d="M10 2a4 4 0 014 4h1.905l1.09 10.9A1 1 0 0116 18H4a1 1 0 01-.995-1.1L4.095 6H6a4 4 0 014-4zM5.106 16h9.789l-.8-8h-8.19l-.8 8zM10 4a2 2 0 00-2 2h4a2 2 0 00-2-2z" />
     </svg>
 );
 
