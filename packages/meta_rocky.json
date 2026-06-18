@@ -19,6 +19,16 @@
     "cdn": "rocky_airdrop_m",
     "url": "https://alfabank.servicecdn.ru/icons/rocky_airdrop_m.svg"
   },
+  "AirplaneCompactMIcon": {
+    "description": "самолёт",
+    "web": "AirplaneCompactMIcon",
+    "webComponent": "import { AirplaneCompactMIcon } from '@alfalab/icons-rocky/AirplaneCompactMIcon';",
+    "android": "rocky_airplane_compact_m",
+    "ios": "rocky_airplaneCompact_m",
+    "middle": "rocky_airplane-compact_m",
+    "cdn": "rocky_airplane-compact_m",
+    "url": "https://alfabank.servicecdn.ru/icons/rocky_airplane-compact_m.svg"
+  },
   "AirplaneMIcon": {
     "description": "самолёт",
     "web": "AirplaneMIcon",
