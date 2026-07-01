@@ -19079,6 +19079,26 @@
     "cdn": "glyph-26_text-format-line_24",
     "url": "https://alfabank.servicecdn.ru/icons/glyph-26_text-format-line_24.svg"
   },
+  "TextH2Line24Icon": {
+    "description": "",
+    "web": "TextH2Line24Icon",
+    "webComponent": "import { TextH2Line24Icon } from '@alfalab/icons-glyph-26/TextH2Line24Icon';",
+    "android": "glyph_26_text_h2_line_24",
+    "ios": "glyph26_textH2Line_24",
+    "middle": "glyph-26_text-h2-line_24",
+    "cdn": "glyph-26_text-h2-line_24",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_text-h2-line_24.svg"
+  },
+  "TextH3Line24Icon": {
+    "description": "",
+    "web": "TextH3Line24Icon",
+    "webComponent": "import { TextH3Line24Icon } from '@alfalab/icons-glyph-26/TextH3Line24Icon';",
+    "android": "glyph_26_text_h3_line_24",
+    "ios": "glyph26_textH3Line_24",
+    "middle": "glyph-26_text-h3-line_24",
+    "cdn": "glyph-26_text-h3-line_24",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_text-h3-line_24.svg"
+  },
   "TextItalicLine24Icon": {
     "description": "",
     "web": "TextItalicLine24Icon",
@@ -19089,6 +19109,26 @@
     "cdn": "glyph-26_text-italic-line_24",
     "url": "https://alfabank.servicecdn.ru/icons/glyph-26_text-italic-line_24.svg"
   },
+  "TextQuoteDownLine24Icon": {
+    "description": "",
+    "web": "TextQuoteDownLine24Icon",
+    "webComponent": "import { TextQuoteDownLine24Icon } from '@alfalab/icons-glyph-26/TextQuoteDownLine24Icon';",
+    "android": "glyph_26_text_quote_down_line_24",
+    "ios": "glyph26_textQuoteDownLine_24",
+    "middle": "glyph-26_text-quote-down-line_24",
+    "cdn": "glyph-26_text-quote-down-line_24",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_text-quote-down-line_24.svg"
+  },
+  "TextQuoteUpLine24Icon": {
+    "description": "",
+    "web": "TextQuoteUpLine24Icon",
+    "webComponent": "import { TextQuoteUpLine24Icon } from '@alfalab/icons-glyph-26/TextQuoteUpLine24Icon';",
+    "android": "glyph_26_text_quote_up_line_24",
+    "ios": "glyph26_textQuoteUpLine_24",
+    "middle": "glyph-26_text-quote-up-line_24",
+    "cdn": "glyph-26_text-quote-up-line_24",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_text-quote-up-line_24.svg"
+  },
   "TextStrikethroughLine24Icon": {
     "description": "",
     "web": "TextStrikethroughLine24Icon",
@@ -19098,6 +19138,16 @@
     "middle": "glyph-26_text-strikethrough-line_24",
     "cdn": "glyph-26_text-strikethrough-line_24",
     "url": "https://alfabank.servicecdn.ru/icons/glyph-26_text-strikethrough-line_24.svg"
+  },
+  "TextUnderlineLine24Icon": {
+    "description": "",
+    "web": "TextUnderlineLine24Icon",
+    "webComponent": "import { TextUnderlineLine24Icon } from '@alfalab/icons-glyph-26/TextUnderlineLine24Icon';",
+    "android": "glyph_26_text_underline_line_24",
+    "ios": "glyph26_textUnderlineLine_24",
+    "middle": "glyph-26_text-underline-line_24",
+    "cdn": "glyph-26_text-underline-line_24",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_text-underline-line_24.svg"
   },
   "ThumbDownLine20Icon": {
     "description": "",
