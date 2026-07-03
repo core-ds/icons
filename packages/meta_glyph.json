@@ -11389,6 +11389,16 @@
     "cdn": "glyph_tile-bento_m",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_tile-bento_m.svg"
   },
+  "TileCirclesPlusCompactMIcon": {
+    "description": "плитка",
+    "web": "TileCirclesPlusCompactMIcon",
+    "webComponent": "import { TileCirclesPlusCompactMIcon } from '@alfalab/icons-glyph/TileCirclesPlusCompactMIcon';",
+    "android": "glyph_tile_circles_plus_compact_m",
+    "ios": "glyph_tileCirclesPlusCompact_m",
+    "middle": "glyph_tile-circles-plus-compact_m",
+    "cdn": "glyph_tile-circles-plus-compact_m",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_tile-circles-plus-compact_m.svg"
+  },
   "TileCirclesRectanglesMIcon": {
     "description": "плитка",
     "web": "TileCirclesRectanglesMIcon",
