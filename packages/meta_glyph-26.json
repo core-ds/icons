@@ -18989,6 +18989,26 @@
     "cdn": "glyph-26_tag-thinline_20",
     "url": "https://alfabank.servicecdn.ru/icons/glyph-26_tag-thinline_20.svg"
   },
+  "Tag20Icon": {
+    "description": "",
+    "web": "Tag20Icon",
+    "webComponent": "import { Tag20Icon } from '@alfalab/icons-glyph-26/Tag20Icon';",
+    "android": "glyph_26_tag_20",
+    "ios": "glyph26_tag_20",
+    "middle": "glyph-26_tag_20",
+    "cdn": "glyph-26_tag_20",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_tag_20.svg"
+  },
+  "Tag24Icon": {
+    "description": "",
+    "web": "Tag24Icon",
+    "webComponent": "import { Tag24Icon } from '@alfalab/icons-glyph-26/Tag24Icon';",
+    "android": "glyph_26_tag_24",
+    "ios": "glyph26_tag_24",
+    "middle": "glyph-26_tag_24",
+    "cdn": "glyph-26_tag_24",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_tag_24.svg"
+  },
   "TargetLetterALine20Icon": {
     "description": "",
     "web": "TargetLetterALine20Icon",

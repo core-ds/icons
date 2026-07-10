@@ -2830,7 +2830,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/glyph_chart-pie_m.svg"
   },
   "ChartRingOffMIcon": {
-    "description": "",
+    "description": "альфа баллы, кешбэк, сантики, cashback, a scrore",
     "web": "ChartRingOffMIcon",
     "webComponent": "import { ChartRingOffMIcon } from '@alfalab/icons-glyph/ChartRingOffMIcon';",
     "android": "glyph_chart_ring_off_m",
@@ -2840,7 +2840,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/glyph_chart-ring-off_m.svg"
   },
   "ChartRingOffSIcon": {
-    "description": "",
+    "description": "альфа баллы, кешбэк, сантики, cashback, a scrore",
     "web": "ChartRingOffSIcon",
     "webComponent": "import { ChartRingOffSIcon } from '@alfalab/icons-glyph/ChartRingOffSIcon';",
     "android": "glyph_chart_ring_off_s",
@@ -2850,7 +2850,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/glyph_chart-ring-off_s.svg"
   },
   "ChartRingPlusUpMIcon": {
-    "description": "",
+    "description": "альфа баллы, кешбэк, сантики, cashback, a scrore",
     "web": "ChartRingPlusUpMIcon",
     "webComponent": "import { ChartRingPlusUpMIcon } from '@alfalab/icons-glyph/ChartRingPlusUpMIcon';",
     "android": "glyph_chart_ring_plus_up_m",
@@ -10670,7 +10670,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/glyph_square-rectangle-down-compact_xxl.svg"
   },
   "SquareRectangleLeftCompactMIcon": {
-    "description": "",
+    "description": "слева, сбоку, повернуть, компакт",
     "web": "SquareRectangleLeftCompactMIcon",
     "webComponent": "import { SquareRectangleLeftCompactMIcon } from '@alfalab/icons-glyph/SquareRectangleLeftCompactMIcon';",
     "android": "glyph_square_rectangle_left_compact_m",
@@ -10680,7 +10680,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/glyph_square-rectangle-left-compact_m.svg"
   },
   "SquareRectangleLeftCompactSIcon": {
-    "description": "",
+    "description": "слева, сбоку, повернуть, компакт",
     "web": "SquareRectangleLeftCompactSIcon",
     "webComponent": "import { SquareRectangleLeftCompactSIcon } from '@alfalab/icons-glyph/SquareRectangleLeftCompactSIcon';",
     "android": "glyph_square_rectangle_left_compact_s",
@@ -10690,7 +10690,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/glyph_square-rectangle-left-compact_s.svg"
   },
   "SquareRectangleLeftCompactXxlIcon": {
-    "description": "",
+    "description": "слева, сбоку, повернуть, компакт",
     "web": "SquareRectangleLeftCompactXxlIcon",
     "webComponent": "import { SquareRectangleLeftCompactXxlIcon } from '@alfalab/icons-glyph/SquareRectangleLeftCompactXxlIcon';",
     "android": "glyph_square_rectangle_left_compact_xxl",
