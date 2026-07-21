@@ -10559,6 +10559,16 @@
     "cdn": "glyph_sound-off_xxl",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_sound-off_xxl.svg"
   },
+  "SoundWaveLineMIcon": {
+    "description": "",
+    "web": "SoundWaveLineMIcon",
+    "webComponent": "import { SoundWaveLineMIcon } from '@alfalab/icons-glyph/SoundWaveLineMIcon';",
+    "android": "glyph_sound_wave_line_m",
+    "ios": "glyph_soundWaveLine_m",
+    "middle": "glyph_sound-wave-line_m",
+    "cdn": "glyph_sound-wave-line_m",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_sound-wave-line_m.svg"
+  },
   "SoundWaveMIcon": {
     "description": "голосовой режим, чат, голос, звук",
     "web": "SoundWaveMIcon",
