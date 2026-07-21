@@ -8809,6 +8809,36 @@
     "cdn": "glyph-26_document-flash-thinline_20",
     "url": "https://alfabank.servicecdn.ru/icons/glyph-26_document-flash-thinline_20.svg"
   },
+  "DocumentGearLine20Icon": {
+    "description": "",
+    "web": "DocumentGearLine20Icon",
+    "webComponent": "import { DocumentGearLine20Icon } from '@alfalab/icons-glyph-26/DocumentGearLine20Icon';",
+    "android": "glyph_26_document_gear_line_20",
+    "ios": "glyph26_documentGearLine_20",
+    "middle": "glyph-26_document-gear-line_20",
+    "cdn": "glyph-26_document-gear-line_20",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_document-gear-line_20.svg"
+  },
+  "DocumentGearLine24Icon": {
+    "description": "",
+    "web": "DocumentGearLine24Icon",
+    "webComponent": "import { DocumentGearLine24Icon } from '@alfalab/icons-glyph-26/DocumentGearLine24Icon';",
+    "android": "glyph_26_document_gear_line_24",
+    "ios": "glyph26_documentGearLine_24",
+    "middle": "glyph-26_document-gear-line_24",
+    "cdn": "glyph-26_document-gear-line_24",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_document-gear-line_24.svg"
+  },
+  "DocumentGearThinline20Icon": {
+    "description": "",
+    "web": "DocumentGearThinline20Icon",
+    "webComponent": "import { DocumentGearThinline20Icon } from '@alfalab/icons-glyph-26/DocumentGearThinline20Icon';",
+    "android": "glyph_26_document_gear_thinline_20",
+    "ios": "glyph26_documentGearThinline_20",
+    "middle": "glyph-26_document-gear-thinline_20",
+    "cdn": "glyph-26_document-gear-thinline_20",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_document-gear-thinline_20.svg"
+  },
   "DocumentHeartLine20Icon": {
     "description": "",
     "web": "DocumentHeartLine20Icon",
@@ -10408,6 +10438,56 @@
     "middle": "glyph-26_factory-pipes-thinline_20",
     "cdn": "glyph-26_factory-pipes-thinline_20",
     "url": "https://alfabank.servicecdn.ru/icons/glyph-26_factory-pipes-thinline_20.svg"
+  },
+  "FlagCheckeredLine20Icon": {
+    "description": "",
+    "web": "FlagCheckeredLine20Icon",
+    "webComponent": "import { FlagCheckeredLine20Icon } from '@alfalab/icons-glyph-26/FlagCheckeredLine20Icon';",
+    "android": "glyph_26_flag_checkered_line_20",
+    "ios": "glyph26_flagCheckeredLine_20",
+    "middle": "glyph-26_flag-checkered-line_20",
+    "cdn": "glyph-26_flag-checkered-line_20",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_flag-checkered-line_20.svg"
+  },
+  "FlagCheckeredLine24Icon": {
+    "description": "",
+    "web": "FlagCheckeredLine24Icon",
+    "webComponent": "import { FlagCheckeredLine24Icon } from '@alfalab/icons-glyph-26/FlagCheckeredLine24Icon';",
+    "android": "glyph_26_flag_checkered_line_24",
+    "ios": "glyph26_flagCheckeredLine_24",
+    "middle": "glyph-26_flag-checkered-line_24",
+    "cdn": "glyph-26_flag-checkered-line_24",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_flag-checkered-line_24.svg"
+  },
+  "FlagCheckeredThinline20Icon": {
+    "description": "",
+    "web": "FlagCheckeredThinline20Icon",
+    "webComponent": "import { FlagCheckeredThinline20Icon } from '@alfalab/icons-glyph-26/FlagCheckeredThinline20Icon';",
+    "android": "glyph_26_flag_checkered_thinline_20",
+    "ios": "glyph26_flagCheckeredThinline_20",
+    "middle": "glyph-26_flag-checkered-thinline_20",
+    "cdn": "glyph-26_flag-checkered-thinline_20",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_flag-checkered-thinline_20.svg"
+  },
+  "FlagCheckered20Icon": {
+    "description": "",
+    "web": "FlagCheckered20Icon",
+    "webComponent": "import { FlagCheckered20Icon } from '@alfalab/icons-glyph-26/FlagCheckered20Icon';",
+    "android": "glyph_26_flag_checkered_20",
+    "ios": "glyph26_flagCheckered_20",
+    "middle": "glyph-26_flag-checkered_20",
+    "cdn": "glyph-26_flag-checkered_20",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_flag-checkered_20.svg"
+  },
+  "FlagCheckered24Icon": {
+    "description": "",
+    "web": "FlagCheckered24Icon",
+    "webComponent": "import { FlagCheckered24Icon } from '@alfalab/icons-glyph-26/FlagCheckered24Icon';",
+    "android": "glyph_26_flag_checkered_24",
+    "ios": "glyph26_flagCheckered_24",
+    "middle": "glyph-26_flag-checkered_24",
+    "cdn": "glyph-26_flag-checkered_24",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_flag-checkered_24.svg"
   },
   "FlagLine20Icon": {
     "description": "",

@@ -10560,7 +10560,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/glyph_sound-off_xxl.svg"
   },
   "SoundWaveLineMIcon": {
-    "description": "",
+    "description": "голосовой режим, чат, голос, звук",
     "web": "SoundWaveLineMIcon",
     "webComponent": "import { SoundWaveLineMIcon } from '@alfalab/icons-glyph/SoundWaveLineMIcon';",
     "android": "glyph_sound_wave_line_m",
