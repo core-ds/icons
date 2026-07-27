@@ -6440,7 +6440,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/logo_telegram-sign-box_m.svg"
   },
   "TelegramSignBoxSIcon": {
-    "description": "[logo_telegram_sign_box_s]",
+    "description": "",
     "web": "TelegramSignBoxSIcon",
     "webComponent": "import { TelegramSignBoxSIcon } from '@alfalab/icons-logo/TelegramSignBoxSIcon';",
     "android": "logo_telegram_sign_box_s",
@@ -6450,7 +6450,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/logo_telegram-sign-box_s.svg"
   },
   "TelegramSignCircleMIcon": {
-    "description": "[logo_telegram-sign-circle_m]",
+    "description": "[logo_telegram_sign_circle_m]",
     "web": "TelegramSignCircleMIcon",
     "webComponent": "import { TelegramSignCircleMIcon } from '@alfalab/icons-logo/TelegramSignCircleMIcon';",
     "android": "logo_telegram_sign_circle_m",
@@ -6458,6 +6458,16 @@
     "middle": "logo_telegram-sign-circle_m",
     "cdn": "logo_telegram-sign-circle_m",
     "url": "https://alfabank.servicecdn.ru/icons/logo_telegram-sign-circle_m.svg"
+  },
+  "TelegramSignCircleSIcon": {
+    "description": "[logo_telegram_sign_circle_s]",
+    "web": "TelegramSignCircleSIcon",
+    "webComponent": "import { TelegramSignCircleSIcon } from '@alfalab/icons-logo/TelegramSignCircleSIcon';",
+    "android": "logo_telegram_sign_circle_s",
+    "ios": "logo_telegramSignCircle_s",
+    "middle": "logo_telegram-sign-circle_s",
+    "cdn": "logo_telegram-sign-circle_s",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_telegram-sign-circle_s.svg"
   },
   "TutuBoxMColorIcon": {
     "description": "[logo_tutu-box_m_color]",
