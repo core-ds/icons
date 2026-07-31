@@ -509,6 +509,16 @@
     "cdn": "glyph-26_arrow-left-rectangle_24",
     "url": "https://alfabank.servicecdn.ru/icons/glyph-26_arrow-left-rectangle_24.svg"
   },
+  "ArrowLeftRightLine24Icon": {
+    "description": "",
+    "web": "ArrowLeftRightLine24Icon",
+    "webComponent": "import { ArrowLeftRightLine24Icon } from '@alfalab/icons-glyph-26/ArrowLeftRightLine24Icon';",
+    "android": "glyph_26_arrow_left_right_line_24",
+    "ios": "glyph26_arrowLeftRightLine_24",
+    "middle": "glyph-26_arrow-left-right-line_24",
+    "cdn": "glyph-26_arrow-left-right-line_24",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_arrow-left-right-line_24.svg"
+  },
   "ArrowLeftThinline20Icon": {
     "description": "",
     "web": "ArrowLeftThinline20Icon",
@@ -538,6 +548,26 @@
     "middle": "glyph-26_arrow-left_24",
     "cdn": "glyph-26_arrow-left_24",
     "url": "https://alfabank.servicecdn.ru/icons/glyph-26_arrow-left_24.svg"
+  },
+  "ArrowRightCurvedBoldLine24Icon": {
+    "description": "",
+    "web": "ArrowRightCurvedBoldLine24Icon",
+    "webComponent": "import { ArrowRightCurvedBoldLine24Icon } from '@alfalab/icons-glyph-26/ArrowRightCurvedBoldLine24Icon';",
+    "android": "glyph_26_arrow_right_curved_bold_line_24",
+    "ios": "glyph26_arrowRightCurvedBoldLine_24",
+    "middle": "glyph-26_arrow-right-curved-bold-line_24",
+    "cdn": "glyph-26_arrow-right-curved-bold-line_24",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_arrow-right-curved-bold-line_24.svg"
+  },
+  "ArrowRightCurvedBold24Icon": {
+    "description": "",
+    "web": "ArrowRightCurvedBold24Icon",
+    "webComponent": "import { ArrowRightCurvedBold24Icon } from '@alfalab/icons-glyph-26/ArrowRightCurvedBold24Icon';",
+    "android": "glyph_26_arrow_right_curved_bold_24",
+    "ios": "glyph26_arrowRightCurvedBold_24",
+    "middle": "glyph-26_arrow-right-curved-bold_24",
+    "cdn": "glyph-26_arrow-right-curved-bold_24",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_arrow-right-curved-bold_24.svg"
   },
   "ArrowRightCurvedCircleLine20Icon": {
     "description": "",
@@ -668,6 +698,16 @@
     "middle": "glyph-26_arrow-right-desc_24",
     "cdn": "glyph-26_arrow-right-desc_24",
     "url": "https://alfabank.servicecdn.ru/icons/glyph-26_arrow-right-desc_24.svg"
+  },
+  "ArrowRightDownLine24Icon": {
+    "description": "",
+    "web": "ArrowRightDownLine24Icon",
+    "webComponent": "import { ArrowRightDownLine24Icon } from '@alfalab/icons-glyph-26/ArrowRightDownLine24Icon';",
+    "android": "glyph_26_arrow_right_down_line_24",
+    "ios": "glyph26_arrowRightDownLine_24",
+    "middle": "glyph-26_arrow-right-down-line_24",
+    "cdn": "glyph-26_arrow-right-down-line_24",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_arrow-right-down-line_24.svg"
   },
   "ArrowRightIncLine20Icon": {
     "description": "",
@@ -969,6 +1009,16 @@
     "cdn": "glyph-26_arrow-up-circle_24",
     "url": "https://alfabank.servicecdn.ru/icons/glyph-26_arrow-up-circle_24.svg"
   },
+  "ArrowUpDownLine24Icon": {
+    "description": "",
+    "web": "ArrowUpDownLine24Icon",
+    "webComponent": "import { ArrowUpDownLine24Icon } from '@alfalab/icons-glyph-26/ArrowUpDownLine24Icon';",
+    "android": "glyph_26_arrow_up_down_line_24",
+    "ios": "glyph26_arrowUpDownLine_24",
+    "middle": "glyph-26_arrow-up-down-line_24",
+    "cdn": "glyph-26_arrow-up-down-line_24",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_arrow-up-down-line_24.svg"
+  },
   "ArrowUpIncLine20Icon": {
     "description": "",
     "web": "ArrowUpIncLine20Icon",
@@ -1108,6 +1158,16 @@
     "middle": "glyph-26_arrow-up_24",
     "cdn": "glyph-26_arrow-up_24",
     "url": "https://alfabank.servicecdn.ru/icons/glyph-26_arrow-up_24.svg"
+  },
+  "ArrowsCrossedOutLine24Icon": {
+    "description": "",
+    "web": "ArrowsCrossedOutLine24Icon",
+    "webComponent": "import { ArrowsCrossedOutLine24Icon } from '@alfalab/icons-glyph-26/ArrowsCrossedOutLine24Icon';",
+    "android": "glyph_26_arrows_crossed_out_line_24",
+    "ios": "glyph26_arrowsCrossedOutLine_24",
+    "middle": "glyph-26_arrows-crossed-out-line_24",
+    "cdn": "glyph-26_arrows-crossed-out-line_24",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_arrows-crossed-out-line_24.svg"
   },
   "ArrowsInLine20Icon": {
     "description": "",
@@ -3608,6 +3668,26 @@
     "middle": "glyph-26_bookmark-thinline_20",
     "cdn": "glyph-26_bookmark-thinline_20",
     "url": "https://alfabank.servicecdn.ru/icons/glyph-26_bookmark-thinline_20.svg"
+  },
+  "BottleLine24Icon": {
+    "description": "",
+    "web": "BottleLine24Icon",
+    "webComponent": "import { BottleLine24Icon } from '@alfalab/icons-glyph-26/BottleLine24Icon';",
+    "android": "glyph_26_bottle_line_24",
+    "ios": "glyph26_bottleLine_24",
+    "middle": "glyph-26_bottle-line_24",
+    "cdn": "glyph-26_bottle-line_24",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_bottle-line_24.svg"
+  },
+  "Bottle24Icon": {
+    "description": "",
+    "web": "Bottle24Icon",
+    "webComponent": "import { Bottle24Icon } from '@alfalab/icons-glyph-26/Bottle24Icon';",
+    "android": "glyph_26_bottle_24",
+    "ios": "glyph26_bottle_24",
+    "middle": "glyph-26_bottle_24",
+    "cdn": "glyph-26_bottle_24",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_bottle_24.svg"
   },
   "BriefcaseArrowsUpDownCurvedLine20Icon": {
     "description": "",
@@ -7169,6 +7249,26 @@
     "cdn": "glyph-26_chevron-up_24",
     "url": "https://alfabank.servicecdn.ru/icons/glyph-26_chevron-up_24.svg"
   },
+  "ChevronsDownUpLine24Icon": {
+    "description": "",
+    "web": "ChevronsDownUpLine24Icon",
+    "webComponent": "import { ChevronsDownUpLine24Icon } from '@alfalab/icons-glyph-26/ChevronsDownUpLine24Icon';",
+    "android": "glyph_26_chevrons_down_up_line_24",
+    "ios": "glyph26_chevronsDownUpLine_24",
+    "middle": "glyph-26_chevrons-down-up-line_24",
+    "cdn": "glyph-26_chevrons-down-up-line_24",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_chevrons-down-up-line_24.svg"
+  },
+  "ChevronsUpDownLine24Icon": {
+    "description": "",
+    "web": "ChevronsUpDownLine24Icon",
+    "webComponent": "import { ChevronsUpDownLine24Icon } from '@alfalab/icons-glyph-26/ChevronsUpDownLine24Icon';",
+    "android": "glyph_26_chevrons_up_down_line_24",
+    "ios": "glyph26_chevronsUpDownLine_24",
+    "middle": "glyph-26_chevrons-up-down-line_24",
+    "cdn": "glyph-26_chevrons-up-down-line_24",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_chevrons-up-down-line_24.svg"
+  },
   "ChfLine20Icon": {
     "description": "",
     "web": "ChfLine20Icon",
@@ -8288,6 +8388,16 @@
     "middle": "glyph-26_cup-thinline_20",
     "cdn": "glyph-26_cup-thinline_20",
     "url": "https://alfabank.servicecdn.ru/icons/glyph-26_cup-thinline_20.svg"
+  },
+  "Cup24Icon": {
+    "description": "",
+    "web": "Cup24Icon",
+    "webComponent": "import { Cup24Icon } from '@alfalab/icons-glyph-26/Cup24Icon';",
+    "android": "glyph_26_cup_24",
+    "ios": "glyph26_cup_24",
+    "middle": "glyph-26_cup_24",
+    "cdn": "glyph-26_cup_24",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_cup_24.svg"
   },
   "CzkLine20Icon": {
     "description": "",
@@ -10938,6 +11048,26 @@
     "middle": "glyph-26_folder-thinline_20",
     "cdn": "glyph-26_folder-thinline_20",
     "url": "https://alfabank.servicecdn.ru/icons/glyph-26_folder-thinline_20.svg"
+  },
+  "ForkBottle24Icon": {
+    "description": "",
+    "web": "ForkBottle24Icon",
+    "webComponent": "import { ForkBottle24Icon } from '@alfalab/icons-glyph-26/ForkBottle24Icon';",
+    "android": "glyph_26_fork_bottle_24",
+    "ios": "glyph26_forkBottle_24",
+    "middle": "glyph-26_fork-bottle_24",
+    "cdn": "glyph-26_fork-bottle_24",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_fork-bottle_24.svg"
+  },
+  "ForkSpoon24Icon": {
+    "description": "",
+    "web": "ForkSpoon24Icon",
+    "webComponent": "import { ForkSpoon24Icon } from '@alfalab/icons-glyph-26/ForkSpoon24Icon';",
+    "android": "glyph_26_fork_spoon_24",
+    "ios": "glyph26_forkSpoon_24",
+    "middle": "glyph-26_fork-spoon_24",
+    "cdn": "glyph-26_fork-spoon_24",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_fork-spoon_24.svg"
   },
   "FullScreenEnterLine20Icon": {
     "description": "",
@@ -17939,6 +18069,26 @@
     "cdn": "glyph-26_sek-thinline_20",
     "url": "https://alfabank.servicecdn.ru/icons/glyph-26_sek-thinline_20.svg"
   },
+  "ShareDotsLine24Icon": {
+    "description": "",
+    "web": "ShareDotsLine24Icon",
+    "webComponent": "import { ShareDotsLine24Icon } from '@alfalab/icons-glyph-26/ShareDotsLine24Icon';",
+    "android": "glyph_26_share_dots_line_24",
+    "ios": "glyph26_shareDotsLine_24",
+    "middle": "glyph-26_share-dots-line_24",
+    "cdn": "glyph-26_share-dots-line_24",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_share-dots-line_24.svg"
+  },
+  "ShareDots24Icon": {
+    "description": "",
+    "web": "ShareDots24Icon",
+    "webComponent": "import { ShareDots24Icon } from '@alfalab/icons-glyph-26/ShareDots24Icon';",
+    "android": "glyph_26_share_dots_24",
+    "ios": "glyph26_shareDots_24",
+    "middle": "glyph-26_share-dots_24",
+    "cdn": "glyph-26_share-dots_24",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_share-dots_24.svg"
+  },
   "ShareLine20Icon": {
     "description": "",
     "web": "ShareLine20Icon",
@@ -20139,6 +20289,26 @@
     "cdn": "glyph-26_user-checkmark-thinline_20",
     "url": "https://alfabank.servicecdn.ru/icons/glyph-26_user-checkmark-thinline_20.svg"
   },
+  "UserCircleLine24Icon": {
+    "description": "",
+    "web": "UserCircleLine24Icon",
+    "webComponent": "import { UserCircleLine24Icon } from '@alfalab/icons-glyph-26/UserCircleLine24Icon';",
+    "android": "glyph_26_user_circle_line_24",
+    "ios": "glyph26_userCircleLine_24",
+    "middle": "glyph-26_user-circle-line_24",
+    "cdn": "glyph-26_user-circle-line_24",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_user-circle-line_24.svg"
+  },
+  "UserCircle24Icon": {
+    "description": "",
+    "web": "UserCircle24Icon",
+    "webComponent": "import { UserCircle24Icon } from '@alfalab/icons-glyph-26/UserCircle24Icon';",
+    "android": "glyph_26_user_circle_24",
+    "ios": "glyph26_userCircle_24",
+    "middle": "glyph-26_user-circle_24",
+    "cdn": "glyph-26_user-circle_24",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_user-circle_24.svg"
+  },
   "UserDotLine20Icon": {
     "description": "",
     "web": "UserDotLine20Icon",
@@ -20788,6 +20958,16 @@
     "middle": "glyph-26_whiteboard-thinline_20",
     "cdn": "glyph-26_whiteboard-thinline_20",
     "url": "https://alfabank.servicecdn.ru/icons/glyph-26_whiteboard-thinline_20.svg"
+  },
+  "WineBottleGlass24Icon": {
+    "description": "",
+    "web": "WineBottleGlass24Icon",
+    "webComponent": "import { WineBottleGlass24Icon } from '@alfalab/icons-glyph-26/WineBottleGlass24Icon';",
+    "android": "glyph_26_wine_bottle_glass_24",
+    "ios": "glyph26_wineBottleGlass_24",
+    "middle": "glyph-26_wine-bottle-glass_24",
+    "cdn": "glyph-26_wine-bottle-glass_24",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_wine-bottle-glass_24.svg"
   },
   "WorldArrowDownLine20Icon": {
     "description": "",
