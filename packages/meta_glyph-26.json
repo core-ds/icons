@@ -4129,6 +4129,16 @@
     "cdn": "glyph-26_btc-thinline_20",
     "url": "https://alfabank.servicecdn.ru/icons/glyph-26_btc-thinline_20.svg"
   },
+  "BubbleAltLine24Icon": {
+    "description": "",
+    "web": "BubbleAltLine24Icon",
+    "webComponent": "import { BubbleAltLine24Icon } from '@alfalab/icons-glyph-26/BubbleAltLine24Icon';",
+    "android": "glyph_26_bubble_alt_line_24",
+    "ios": "glyph26_bubbleAltLine_24",
+    "middle": "glyph-26_bubble-alt-line_24",
+    "cdn": "glyph-26_bubble-alt-line_24",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_bubble-alt-line_24.svg"
+  },
   "BubbleArrowRightLine20Icon": {
     "description": "",
     "web": "BubbleArrowRightLine20Icon",
