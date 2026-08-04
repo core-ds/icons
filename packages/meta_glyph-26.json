@@ -49,6 +49,56 @@
     "cdn": "glyph-26_a-scores-circle_24",
     "url": "https://alfabank.servicecdn.ru/icons/glyph-26_a-scores-circle_24.svg"
   },
+  "ActionAlfa32ColorIcon": {
+    "description": "",
+    "web": "ActionAlfa32ColorIcon",
+    "webComponent": "import { ActionAlfa32ColorIcon } from '@alfalab/icons-glyph-26/ActionAlfa32ColorIcon';",
+    "android": "glyph_26_action_alfa_32_color",
+    "ios": "glyph26_actionAlfa_32_color",
+    "middle": "glyph-26_action-alfa_32_color",
+    "cdn": "glyph-26_action-alfa_32_color",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_action-alfa_32_color.svg"
+  },
+  "ActionClockLine32Icon": {
+    "description": "",
+    "web": "ActionClockLine32Icon",
+    "webComponent": "import { ActionClockLine32Icon } from '@alfalab/icons-glyph-26/ActionClockLine32Icon';",
+    "android": "glyph_26_action_clock_line_32",
+    "ios": "glyph26_actionClockLine_32",
+    "middle": "glyph-26_action-clock-line_32",
+    "cdn": "glyph-26_action-clock-line_32",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_action-clock-line_32.svg"
+  },
+  "ActionClock32Icon": {
+    "description": "",
+    "web": "ActionClock32Icon",
+    "webComponent": "import { ActionClock32Icon } from '@alfalab/icons-glyph-26/ActionClock32Icon';",
+    "android": "glyph_26_action_clock_32",
+    "ios": "glyph26_actionClock_32",
+    "middle": "glyph-26_action-clock_32",
+    "cdn": "glyph-26_action-clock_32",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_action-clock_32.svg"
+  },
+  "ActionPaymentLine32Icon": {
+    "description": "",
+    "web": "ActionPaymentLine32Icon",
+    "webComponent": "import { ActionPaymentLine32Icon } from '@alfalab/icons-glyph-26/ActionPaymentLine32Icon';",
+    "android": "glyph_26_action_payment_line_32",
+    "ios": "glyph26_actionPaymentLine_32",
+    "middle": "glyph-26_action-payment-line_32",
+    "cdn": "glyph-26_action-payment-line_32",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_action-payment-line_32.svg"
+  },
+  "ActionQrScanLine32Icon": {
+    "description": "",
+    "web": "ActionQrScanLine32Icon",
+    "webComponent": "import { ActionQrScanLine32Icon } from '@alfalab/icons-glyph-26/ActionQrScanLine32Icon';",
+    "android": "glyph_26_action_qr_scan_line_32",
+    "ios": "glyph26_actionQrScanLine_32",
+    "middle": "glyph-26_action-qr-scan-line_32",
+    "cdn": "glyph-26_action-qr-scan-line_32",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_action-qr-scan-line_32.svg"
+  },
   "AirplaneLine20Icon": {
     "description": "",
     "web": "AirplaneLine20Icon",
