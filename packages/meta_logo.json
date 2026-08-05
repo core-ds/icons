@@ -79,6 +79,16 @@
     "cdn": "logo_aeroclub_m_white",
     "url": "https://alfabank.servicecdn.ru/icons/logo_aeroclub_m_white.svg"
   },
+  "AeroexpressSignBoxMIcon": {
+    "description": "алиасы: ru store, app\n[logo_aeroexpress-sign-box_m]",
+    "web": "AeroexpressSignBoxMIcon",
+    "webComponent": "import { AeroexpressSignBoxMIcon } from '@alfalab/icons-logo/AeroexpressSignBoxMIcon';",
+    "android": "logo_aeroexpress_sign_box_m",
+    "ios": "logo_aeroexpressSignBox_m",
+    "middle": "logo_aeroexpress-sign-box_m",
+    "cdn": "logo_aeroexpress-sign-box_m",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_aeroexpress-sign-box_m.svg"
+  },
   "AgzrtSignBoxMWhiteIcon": {
     "description": "[logo_agzrt-sign-box_m_white]",
     "web": "AgzrtSignBoxMWhiteIcon",
@@ -2589,6 +2599,16 @@
     "cdn": "logo_headhunter-sign-circle_m_white",
     "url": "https://alfabank.servicecdn.ru/icons/logo_headhunter-sign-circle_m_white.svg"
   },
+  "HuaweiAppGallerySignSquareMIcon": {
+    "description": "алиасы: ru store, app\n[logo_huawei-app-gallery-sign-square_m]",
+    "web": "HuaweiAppGallerySignSquareMIcon",
+    "webComponent": "import { HuaweiAppGallerySignSquareMIcon } from '@alfalab/icons-logo/HuaweiAppGallerySignSquareMIcon';",
+    "android": "logo_huawei_app_gallery_sign_square_m",
+    "ios": "logo_huaweiAppGallerySignSquare_m",
+    "middle": "logo_huawei-app-gallery-sign-square_m",
+    "cdn": "logo_huawei-app-gallery-sign-square_m",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_huawei-app-gallery-sign-square_m.svg"
+  },
   "IdamagSignBoxMColorIcon": {
     "description": "[logo_idamag-sign-box_m_color]",
     "web": "IdamagSignBoxMColorIcon",
@@ -4789,6 +4809,16 @@
     "cdn": "logo_neural-assistant-sign-circle_m_color",
     "url": "https://alfabank.servicecdn.ru/icons/logo_neural-assistant-sign-circle_m_color.svg"
   },
+  "OdnoklassnikiSignBoxMIcon": {
+    "description": "алиасы: ru store, app\n[logo_odnoklassniki-sign-box_m]",
+    "web": "OdnoklassnikiSignBoxMIcon",
+    "webComponent": "import { OdnoklassnikiSignBoxMIcon } from '@alfalab/icons-logo/OdnoklassnikiSignBoxMIcon';",
+    "android": "logo_odnoklassniki_sign_box_m",
+    "ios": "logo_odnoklassnikiSignBox_m",
+    "middle": "logo_odnoklassniki-sign-box_m",
+    "cdn": "logo_odnoklassniki-sign-box_m",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_odnoklassniki-sign-box_m.svg"
+  },
   "OneBusinessSignBoxMColorIcon": {
     "description": "[logo_one-business-sign-box_m_color]",
     "web": "OneBusinessSignBoxMColorIcon",
@@ -5789,6 +5819,16 @@
     "cdn": "logo_rts-tender-sign-box_m_white",
     "url": "https://alfabank.servicecdn.ru/icons/logo_rts-tender-sign-box_m_white.svg"
   },
+  "RustoreSignSquareMIcon": {
+    "description": "алиасы: ru store, app\n[logo_rustore-sign-square_m]",
+    "web": "RustoreSignSquareMIcon",
+    "webComponent": "import { RustoreSignSquareMIcon } from '@alfalab/icons-logo/RustoreSignSquareMIcon';",
+    "android": "logo_rustore_sign_square_m",
+    "ios": "logo_rustoreSignSquare_m",
+    "middle": "logo_rustore-sign-square_m",
+    "cdn": "logo_rustore-sign-square_m",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_rustore-sign-square_m.svg"
+  },
   "S7AirlinesEnMColorIcon": {
     "description": "[logo_s7-airlines-en_m_color]",
     "web": "S7AirlinesEnMColorIcon",
@@ -6488,6 +6528,16 @@
     "middle": "logo_tutu-box_m_white",
     "cdn": "logo_tutu-box_m_white",
     "url": "https://alfabank.servicecdn.ru/icons/logo_tutu-box_m_white.svg"
+  },
+  "TutuSignBoxMIcon": {
+    "description": "алиасы: ru store, app\n[logo_tutu-sign-box_m]",
+    "web": "TutuSignBoxMIcon",
+    "webComponent": "import { TutuSignBoxMIcon } from '@alfalab/icons-logo/TutuSignBoxMIcon';",
+    "android": "logo_tutu_sign_box_m",
+    "ios": "logo_tutuSignBox_m",
+    "middle": "logo_tutu-sign-box_m",
+    "cdn": "logo_tutu-sign-box_m",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_tutu-sign-box_m.svg"
   },
   "TutuMColorIcon": {
     "description": "[logo_tutu_m_color]",

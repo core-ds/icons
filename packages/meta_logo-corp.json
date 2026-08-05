@@ -4960,7 +4960,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_rejected-sign-box-thinline_20.svg"
   },
   "ReportSpecialSignBoxLine20Icon": {
-    "description": "",
+    "description": "Продукт: Сформировать специальный отчёт",
     "web": "ReportSpecialSignBoxLine20Icon",
     "webComponent": "import { ReportSpecialSignBoxLine20Icon } from '@alfalab/icons-logo-corp/ReportSpecialSignBoxLine20Icon';",
     "android": "logo_corp_report_special_sign_box_line_20",
@@ -4970,7 +4970,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_report-special-sign-box-line_20.svg"
   },
   "ReportSpecialSignBoxLine24Icon": {
-    "description": "",
+    "description": "Продукт: Сформировать специальный отчёт",
     "web": "ReportSpecialSignBoxLine24Icon",
     "webComponent": "import { ReportSpecialSignBoxLine24Icon } from '@alfalab/icons-logo-corp/ReportSpecialSignBoxLine24Icon';",
     "android": "logo_corp_report_special_sign_box_line_24",
@@ -4980,7 +4980,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_report-special-sign-box-line_24.svg"
   },
   "ReportSpecialSignBoxThinline20Icon": {
-    "description": "",
+    "description": "Продукт: Сформировать специальный отчёт",
     "web": "ReportSpecialSignBoxThinline20Icon",
     "webComponent": "import { ReportSpecialSignBoxThinline20Icon } from '@alfalab/icons-logo-corp/ReportSpecialSignBoxThinline20Icon';",
     "android": "logo_corp_report_special_sign_box_thinline_20",
