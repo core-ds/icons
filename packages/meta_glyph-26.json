@@ -20629,6 +20629,36 @@
     "cdn": "glyph-26_user-line_24",
     "url": "https://alfabank.servicecdn.ru/icons/glyph-26_user-line_24.svg"
   },
+  "UserMinusLine20Icon": {
+    "description": "",
+    "web": "UserMinusLine20Icon",
+    "webComponent": "import { UserMinusLine20Icon } from '@alfalab/icons-glyph-26/UserMinusLine20Icon';",
+    "android": "glyph_26_user_minus_line_20",
+    "ios": "glyph26_userMinusLine_20",
+    "middle": "glyph-26_user-minus-line_20",
+    "cdn": "glyph-26_user-minus-line_20",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_user-minus-line_20.svg"
+  },
+  "UserMinusLine24Icon": {
+    "description": "",
+    "web": "UserMinusLine24Icon",
+    "webComponent": "import { UserMinusLine24Icon } from '@alfalab/icons-glyph-26/UserMinusLine24Icon';",
+    "android": "glyph_26_user_minus_line_24",
+    "ios": "glyph26_userMinusLine_24",
+    "middle": "glyph-26_user-minus-line_24",
+    "cdn": "glyph-26_user-minus-line_24",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_user-minus-line_24.svg"
+  },
+  "UserMinusThinline20Icon": {
+    "description": "",
+    "web": "UserMinusThinline20Icon",
+    "webComponent": "import { UserMinusThinline20Icon } from '@alfalab/icons-glyph-26/UserMinusThinline20Icon';",
+    "android": "glyph_26_user_minus_thinline_20",
+    "ios": "glyph26_userMinusThinline_20",
+    "middle": "glyph-26_user-minus-thinline_20",
+    "cdn": "glyph-26_user-minus-thinline_20",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_user-minus-thinline_20.svg"
+  },
   "UserPlusLine20Icon": {
     "description": "",
     "web": "UserPlusLine20Icon",
