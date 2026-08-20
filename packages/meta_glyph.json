@@ -5459,6 +5459,16 @@
     "cdn": "glyph_flame_s",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_flame_s.svg"
   },
+  "FlareDoubleMIcon": {
+    "description": "ai, ии, звездочка, нейро, artificial",
+    "web": "FlareDoubleMIcon",
+    "webComponent": "import { FlareDoubleMIcon } from '@alfalab/icons-glyph/FlareDoubleMIcon';",
+    "android": "glyph_flare_double_m",
+    "ios": "glyph_flareDouble_m",
+    "middle": "glyph_flare-double_m",
+    "cdn": "glyph_flare-double_m",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_flare-double_m.svg"
+  },
   "FlashCircleMIcon": {
     "description": "молния, lightning",
     "web": "FlashCircleMIcon",
