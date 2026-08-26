@@ -3999,6 +3999,26 @@
     "cdn": "logo-corp_my-tariff-sign-box-thinline_20",
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_my-tariff-sign-box-thinline_20.svg"
   },
+  "NeuroAssistantSignBox20Icon": {
+    "description": "Продукт: нейропомощник, ассистент, нейроассистент",
+    "web": "NeuroAssistantSignBox20Icon",
+    "webComponent": "import { NeuroAssistantSignBox20Icon } from '@alfalab/icons-logo-corp/NeuroAssistantSignBox20Icon';",
+    "android": "logo_corp_neuro_assistant_sign_box_20",
+    "ios": "logoCorp_neuroAssistantSignBox_20",
+    "middle": "logo-corp_neuro-assistant-sign-box_20",
+    "cdn": "logo-corp_neuro-assistant-sign-box_20",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_neuro-assistant-sign-box_20.svg"
+  },
+  "NeuroAssistantSignBox24Icon": {
+    "description": "Продукт: нейропомощник, ассистент, нейроассистент",
+    "web": "NeuroAssistantSignBox24Icon",
+    "webComponent": "import { NeuroAssistantSignBox24Icon } from '@alfalab/icons-logo-corp/NeuroAssistantSignBox24Icon';",
+    "android": "logo_corp_neuro_assistant_sign_box_24",
+    "ios": "logoCorp_neuroAssistantSignBox_24",
+    "middle": "logo-corp_neuro-assistant-sign-box_24",
+    "cdn": "logo-corp_neuro-assistant-sign-box_24",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_neuro-assistant-sign-box_24.svg"
+  },
   "NeuroHelperSearchSignBoxLine20Icon": {
     "description": "AI, АИ, нейро, неиро, нейро-помощник, неиро-помощник, помощник",
     "web": "NeuroHelperSearchSignBoxLine20Icon",
