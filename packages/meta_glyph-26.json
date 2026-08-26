@@ -10749,6 +10749,26 @@
     "cdn": "glyph-26_flare-double-thinline_20",
     "url": "https://alfabank.servicecdn.ru/icons/glyph-26_flare-double-thinline_20.svg"
   },
+  "FlareDouble20Icon": {
+    "description": "",
+    "web": "FlareDouble20Icon",
+    "webComponent": "import { FlareDouble20Icon } from '@alfalab/icons-glyph-26/FlareDouble20Icon';",
+    "android": "glyph_26_flare_double_20",
+    "ios": "glyph26_flareDouble_20",
+    "middle": "glyph-26_flare-double_20",
+    "cdn": "glyph-26_flare-double_20",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_flare-double_20.svg"
+  },
+  "FlareDouble24Icon": {
+    "description": "",
+    "web": "FlareDouble24Icon",
+    "webComponent": "import { FlareDouble24Icon } from '@alfalab/icons-glyph-26/FlareDouble24Icon';",
+    "android": "glyph_26_flare_double_24",
+    "ios": "glyph26_flareDouble_24",
+    "middle": "glyph-26_flare-double_24",
+    "cdn": "glyph-26_flare-double_24",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_flare-double_24.svg"
+  },
   "FlareLine20Icon": {
     "description": "",
     "web": "FlareLine20Icon",
