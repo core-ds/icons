@@ -29,6 +29,7 @@ lerna version minor --no-push --yes
 lerna exec --parallel -- rm -rf dist
 
 lerna exec --parallel -- rollup -c ../../rollup.config.js
+lerna exec --parallel -- rollup -c ../../rollup.config.esm.js
 
 lerna exec --parallel -- cp package.json dist/package.json
 lerna exec --parallel -- cp ../../README.md dist/README.md
