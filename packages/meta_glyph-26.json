@@ -129,6 +129,16 @@
     "cdn": "glyph-26_airplane-thinline_20",
     "url": "https://alfabank.servicecdn.ru/icons/glyph-26_airplane-thinline_20.svg"
   },
+  "Airplane24Icon": {
+    "description": "",
+    "web": "Airplane24Icon",
+    "webComponent": "import { Airplane24Icon } from '@alfalab/icons-glyph-26/Airplane24Icon';",
+    "android": "glyph_26_airplane_24",
+    "ios": "glyph26_airplane_24",
+    "middle": "glyph-26_airplane_24",
+    "cdn": "glyph-26_airplane_24",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_airplane_24.svg"
+  },
   "AmdLine20Icon": {
     "description": "",
     "web": "AmdLine20Icon",
@@ -3459,6 +3469,46 @@
     "cdn": "glyph-26_basket-thinline_20",
     "url": "https://alfabank.servicecdn.ru/icons/glyph-26_basket-thinline_20.svg"
   },
+  "BedDoubleLine24Icon": {
+    "description": "",
+    "web": "BedDoubleLine24Icon",
+    "webComponent": "import { BedDoubleLine24Icon } from '@alfalab/icons-glyph-26/BedDoubleLine24Icon';",
+    "android": "glyph_26_bed_double_line_24",
+    "ios": "glyph26_bedDoubleLine_24",
+    "middle": "glyph-26_bed-double-line_24",
+    "cdn": "glyph-26_bed-double-line_24",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_bed-double-line_24.svg"
+  },
+  "BedDouble24Icon": {
+    "description": "",
+    "web": "BedDouble24Icon",
+    "webComponent": "import { BedDouble24Icon } from '@alfalab/icons-glyph-26/BedDouble24Icon';",
+    "android": "glyph_26_bed_double_24",
+    "ios": "glyph26_bedDouble_24",
+    "middle": "glyph-26_bed-double_24",
+    "cdn": "glyph-26_bed-double_24",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_bed-double_24.svg"
+  },
+  "BedSingleLine24Icon": {
+    "description": "",
+    "web": "BedSingleLine24Icon",
+    "webComponent": "import { BedSingleLine24Icon } from '@alfalab/icons-glyph-26/BedSingleLine24Icon';",
+    "android": "glyph_26_bed_single_line_24",
+    "ios": "glyph26_bedSingleLine_24",
+    "middle": "glyph-26_bed-single-line_24",
+    "cdn": "glyph-26_bed-single-line_24",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_bed-single-line_24.svg"
+  },
+  "BedSingle24Icon": {
+    "description": "",
+    "web": "BedSingle24Icon",
+    "webComponent": "import { BedSingle24Icon } from '@alfalab/icons-glyph-26/BedSingle24Icon';",
+    "android": "glyph_26_bed_single_24",
+    "ios": "glyph26_bedSingle_24",
+    "middle": "glyph-26_bed-single_24",
+    "cdn": "glyph-26_bed-single_24",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_bed-single_24.svg"
+  },
   "BellLine20Icon": {
     "description": "",
     "web": "BellLine20Icon",
@@ -4908,6 +4958,26 @@
     "middle": "glyph-26_bulb-thinline_20",
     "cdn": "glyph-26_bulb-thinline_20",
     "url": "https://alfabank.servicecdn.ru/icons/glyph-26_bulb-thinline_20.svg"
+  },
+  "BusLine24Icon": {
+    "description": "",
+    "web": "BusLine24Icon",
+    "webComponent": "import { BusLine24Icon } from '@alfalab/icons-glyph-26/BusLine24Icon';",
+    "android": "glyph_26_bus_line_24",
+    "ios": "glyph26_busLine_24",
+    "middle": "glyph-26_bus-line_24",
+    "cdn": "glyph-26_bus-line_24",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_bus-line_24.svg"
+  },
+  "Bus24Icon": {
+    "description": "",
+    "web": "Bus24Icon",
+    "webComponent": "import { Bus24Icon } from '@alfalab/icons-glyph-26/Bus24Icon';",
+    "android": "glyph_26_bus_24",
+    "ios": "glyph26_bus_24",
+    "middle": "glyph-26_bus_24",
+    "cdn": "glyph-26_bus_24",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_bus_24.svg"
   },
   "BynLine20Icon": {
     "description": "",
@@ -11549,6 +11619,16 @@
     "cdn": "glyph-26_geo-location-pin-thinline_20",
     "url": "https://alfabank.servicecdn.ru/icons/glyph-26_geo-location-pin-thinline_20.svg"
   },
+  "GeoLocationPin24Icon": {
+    "description": "",
+    "web": "GeoLocationPin24Icon",
+    "webComponent": "import { GeoLocationPin24Icon } from '@alfalab/icons-glyph-26/GeoLocationPin24Icon';",
+    "android": "glyph_26_geo_location_pin_24",
+    "ios": "glyph26_geoLocationPin_24",
+    "middle": "glyph-26_geo-location-pin_24",
+    "cdn": "glyph-26_geo-location-pin_24",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_geo-location-pin_24.svg"
+  },
   "GiftBoxLine20Icon": {
     "description": "",
     "web": "GiftBoxLine20Icon",
@@ -12808,6 +12888,26 @@
     "middle": "glyph-26_internet_24",
     "cdn": "glyph-26_internet_24",
     "url": "https://alfabank.servicecdn.ru/icons/glyph-26_internet_24.svg"
+  },
+  "IslandLine24Icon": {
+    "description": "",
+    "web": "IslandLine24Icon",
+    "webComponent": "import { IslandLine24Icon } from '@alfalab/icons-glyph-26/IslandLine24Icon';",
+    "android": "glyph_26_island_line_24",
+    "ios": "glyph26_islandLine_24",
+    "middle": "glyph-26_island-line_24",
+    "cdn": "glyph-26_island-line_24",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_island-line_24.svg"
+  },
+  "Island24Icon": {
+    "description": "",
+    "web": "Island24Icon",
+    "webComponent": "import { Island24Icon } from '@alfalab/icons-glyph-26/Island24Icon';",
+    "android": "glyph_26_island_24",
+    "ios": "glyph26_island_24",
+    "middle": "glyph-26_island_24",
+    "cdn": "glyph-26_island_24",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_island_24.svg"
   },
   "JpyLine20Icon": {
     "description": "",
@@ -19639,6 +19739,16 @@
     "cdn": "glyph-26_suitcase-thinline_20",
     "url": "https://alfabank.servicecdn.ru/icons/glyph-26_suitcase-thinline_20.svg"
   },
+  "Suitcase24Icon": {
+    "description": "",
+    "web": "Suitcase24Icon",
+    "webComponent": "import { Suitcase24Icon } from '@alfalab/icons-glyph-26/Suitcase24Icon';",
+    "android": "glyph_26_suitcase_24",
+    "ios": "glyph26_suitcase_24",
+    "middle": "glyph-26_suitcase_24",
+    "cdn": "glyph-26_suitcase_24",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_suitcase_24.svg"
+  },
   "TShirtLine20Icon": {
     "description": "",
     "web": "TShirtLine20Icon",
@@ -20059,6 +20169,26 @@
     "cdn": "glyph-26_ticket-thinline_20",
     "url": "https://alfabank.servicecdn.ru/icons/glyph-26_ticket-thinline_20.svg"
   },
+  "Ticket20Icon": {
+    "description": "",
+    "web": "Ticket20Icon",
+    "webComponent": "import { Ticket20Icon } from '@alfalab/icons-glyph-26/Ticket20Icon';",
+    "android": "glyph_26_ticket_20",
+    "ios": "glyph26_ticket_20",
+    "middle": "glyph-26_ticket_20",
+    "cdn": "glyph-26_ticket_20",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_ticket_20.svg"
+  },
+  "Ticket24Icon": {
+    "description": "",
+    "web": "Ticket24Icon",
+    "webComponent": "import { Ticket24Icon } from '@alfalab/icons-glyph-26/Ticket24Icon';",
+    "android": "glyph_26_ticket_24",
+    "ios": "glyph26_ticket_24",
+    "middle": "glyph-26_ticket_24",
+    "cdn": "glyph-26_ticket_24",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_ticket_24.svg"
+  },
   "TileCirclesLine20Icon": {
     "description": "",
     "web": "TileCirclesLine20Icon",
@@ -20268,6 +20398,26 @@
     "middle": "glyph-26_trafficlight-thinline_20",
     "cdn": "glyph-26_trafficlight-thinline_20",
     "url": "https://alfabank.servicecdn.ru/icons/glyph-26_trafficlight-thinline_20.svg"
+  },
+  "TrainLine24Icon": {
+    "description": "",
+    "web": "TrainLine24Icon",
+    "webComponent": "import { TrainLine24Icon } from '@alfalab/icons-glyph-26/TrainLine24Icon';",
+    "android": "glyph_26_train_line_24",
+    "ios": "glyph26_trainLine_24",
+    "middle": "glyph-26_train-line_24",
+    "cdn": "glyph-26_train-line_24",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_train-line_24.svg"
+  },
+  "Train24Icon": {
+    "description": "",
+    "web": "Train24Icon",
+    "webComponent": "import { Train24Icon } from '@alfalab/icons-glyph-26/Train24Icon';",
+    "android": "glyph_26_train_24",
+    "ios": "glyph26_train_24",
+    "middle": "glyph-26_train_24",
+    "cdn": "glyph-26_train_24",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_train_24.svg"
   },
   "TrashCanLine20Icon": {
     "description": "",
