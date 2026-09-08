@@ -79,6 +79,16 @@
     "cdn": "glyph-26_action-clock_32",
     "url": "https://alfabank.servicecdn.ru/icons/glyph-26_action-clock_32.svg"
   },
+  "ActionCoinsCnyRubLine32Icon": {
+    "description": "",
+    "web": "ActionCoinsCnyRubLine32Icon",
+    "webComponent": "import { ActionCoinsCnyRubLine32Icon } from '@alfalab/icons-glyph-26/ActionCoinsCnyRubLine32Icon';",
+    "android": "glyph_26_action_coins_cny_rub_line_32",
+    "ios": "glyph26_actionCoinsCnyRubLine_32",
+    "middle": "glyph-26_action-coins-cny-rub-line_32",
+    "cdn": "glyph-26_action-coins-cny-rub-line_32",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_action-coins-cny-rub-line_32.svg"
+  },
   "ActionPaymentLine32Icon": {
     "description": "",
     "web": "ActionPaymentLine32Icon",
@@ -98,6 +108,16 @@
     "middle": "glyph-26_action-qr-scan-line_32",
     "cdn": "glyph-26_action-qr-scan-line_32",
     "url": "https://alfabank.servicecdn.ru/icons/glyph-26_action-qr-scan-line_32.svg"
+  },
+  "ActionWalletLine32Icon": {
+    "description": "",
+    "web": "ActionWalletLine32Icon",
+    "webComponent": "import { ActionWalletLine32Icon } from '@alfalab/icons-glyph-26/ActionWalletLine32Icon';",
+    "android": "glyph_26_action_wallet_line_32",
+    "ios": "glyph26_actionWalletLine_32",
+    "middle": "glyph-26_action-wallet-line_32",
+    "cdn": "glyph-26_action-wallet-line_32",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_action-wallet-line_32.svg"
   },
   "AirplaneLine20Icon": {
     "description": "",
@@ -15708,6 +15728,46 @@
     "middle": "glyph-26_multiply-thinline_20",
     "cdn": "glyph-26_multiply-thinline_20",
     "url": "https://alfabank.servicecdn.ru/icons/glyph-26_multiply-thinline_20.svg"
+  },
+  "NavigationClockLine24Icon": {
+    "description": "",
+    "web": "NavigationClockLine24Icon",
+    "webComponent": "import { NavigationClockLine24Icon } from '@alfalab/icons-glyph-26/NavigationClockLine24Icon';",
+    "android": "glyph_26_navigation_clock_line_24",
+    "ios": "glyph26_navigationClockLine_24",
+    "middle": "glyph-26_navigation-clock-line_24",
+    "cdn": "glyph-26_navigation-clock-line_24",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_navigation-clock-line_24.svg"
+  },
+  "NavigationCoinsCnyRubLine24Icon": {
+    "description": "",
+    "web": "NavigationCoinsCnyRubLine24Icon",
+    "webComponent": "import { NavigationCoinsCnyRubLine24Icon } from '@alfalab/icons-glyph-26/NavigationCoinsCnyRubLine24Icon';",
+    "android": "glyph_26_navigation_coins_cny_rub_line_24",
+    "ios": "glyph26_navigationCoinsCnyRubLine_24",
+    "middle": "glyph-26_navigation-coins-cny-rub-line_24",
+    "cdn": "glyph-26_navigation-coins-cny-rub-line_24",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_navigation-coins-cny-rub-line_24.svg"
+  },
+  "NavigationPaymentLine24Icon": {
+    "description": "",
+    "web": "NavigationPaymentLine24Icon",
+    "webComponent": "import { NavigationPaymentLine24Icon } from '@alfalab/icons-glyph-26/NavigationPaymentLine24Icon';",
+    "android": "glyph_26_navigation_payment_line_24",
+    "ios": "glyph26_navigationPaymentLine_24",
+    "middle": "glyph-26_navigation-payment-line_24",
+    "cdn": "glyph-26_navigation-payment-line_24",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_navigation-payment-line_24.svg"
+  },
+  "NavigationWalletLine24Icon": {
+    "description": "",
+    "web": "NavigationWalletLine24Icon",
+    "webComponent": "import { NavigationWalletLine24Icon } from '@alfalab/icons-glyph-26/NavigationWalletLine24Icon';",
+    "android": "glyph_26_navigation_wallet_line_24",
+    "ios": "glyph26_navigationWalletLine_24",
+    "middle": "glyph-26_navigation-wallet-line_24",
+    "cdn": "glyph-26_navigation-wallet-line_24",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_navigation-wallet-line_24.svg"
   },
   "NotEqualLine20Icon": {
     "description": "",
