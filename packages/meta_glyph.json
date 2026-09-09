@@ -3579,6 +3579,16 @@
     "cdn": "glyph_circle_s",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_circle_s.svg"
   },
+  "ClockCoinCompactMIcon": {
+    "description": "рассрочка, часы, время, hfcchjxrf",
+    "web": "ClockCoinCompactMIcon",
+    "webComponent": "import { ClockCoinCompactMIcon } from '@alfalab/icons-glyph/ClockCoinCompactMIcon';",
+    "android": "glyph_clock_coin_compact_m",
+    "ios": "glyph_clockCoinCompact_m",
+    "middle": "glyph_clock-coin-compact_m",
+    "cdn": "glyph_clock-coin-compact_m",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_clock-coin-compact_m.svg"
+  },
   "ClockCoinLineMIcon": {
     "description": "рассрочка, часы, время",
     "web": "ClockCoinLineMIcon",
