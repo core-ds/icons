@@ -5749,6 +5749,26 @@
     "cdn": "glyph_glass_m",
     "url": "https://alfabank.servicecdn.ru/icons/glyph_glass_m.svg"
   },
+  "GlassesMIcon": {
+    "description": "очки",
+    "web": "GlassesMIcon",
+    "webComponent": "import { GlassesMIcon } from '@alfalab/icons-glyph/GlassesMIcon';",
+    "android": "glyph_glasses_m",
+    "ios": "glyph_glasses_m",
+    "middle": "glyph_glasses_m",
+    "cdn": "glyph_glasses_m",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_glasses_m.svg"
+  },
+  "GlassesSIcon": {
+    "description": "очки",
+    "web": "GlassesSIcon",
+    "webComponent": "import { GlassesSIcon } from '@alfalab/icons-glyph/GlassesSIcon';",
+    "android": "glyph_glasses_s",
+    "ios": "glyph_glasses_s",
+    "middle": "glyph_glasses_s",
+    "cdn": "glyph_glasses_s",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph_glasses_s.svg"
+  },
   "GoldMIcon": {
     "description": "",
     "web": "GoldMIcon",

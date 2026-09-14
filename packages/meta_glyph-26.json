@@ -4109,6 +4109,36 @@
     "cdn": "glyph-26_briefcase-line_24",
     "url": "https://alfabank.servicecdn.ru/icons/glyph-26_briefcase-line_24.svg"
   },
+  "BriefcaseMagnifierLine20Icon": {
+    "description": "",
+    "web": "BriefcaseMagnifierLine20Icon",
+    "webComponent": "import { BriefcaseMagnifierLine20Icon } from '@alfalab/icons-glyph-26/BriefcaseMagnifierLine20Icon';",
+    "android": "glyph_26_briefcase_magnifier_line_20",
+    "ios": "glyph26_briefcaseMagnifierLine_20",
+    "middle": "glyph-26_briefcase-magnifier-line_20",
+    "cdn": "glyph-26_briefcase-magnifier-line_20",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_briefcase-magnifier-line_20.svg"
+  },
+  "BriefcaseMagnifierLine24Icon": {
+    "description": "",
+    "web": "BriefcaseMagnifierLine24Icon",
+    "webComponent": "import { BriefcaseMagnifierLine24Icon } from '@alfalab/icons-glyph-26/BriefcaseMagnifierLine24Icon';",
+    "android": "glyph_26_briefcase_magnifier_line_24",
+    "ios": "glyph26_briefcaseMagnifierLine_24",
+    "middle": "glyph-26_briefcase-magnifier-line_24",
+    "cdn": "glyph-26_briefcase-magnifier-line_24",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_briefcase-magnifier-line_24.svg"
+  },
+  "BriefcaseMagnifierThinline20Icon": {
+    "description": "",
+    "web": "BriefcaseMagnifierThinline20Icon",
+    "webComponent": "import { BriefcaseMagnifierThinline20Icon } from '@alfalab/icons-glyph-26/BriefcaseMagnifierThinline20Icon';",
+    "android": "glyph_26_briefcase_magnifier_thinline_20",
+    "ios": "glyph26_briefcaseMagnifierThinline_20",
+    "middle": "glyph-26_briefcase-magnifier-thinline_20",
+    "cdn": "glyph-26_briefcase-magnifier-thinline_20",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_briefcase-magnifier-thinline_20.svg"
+  },
   "BriefcasePinLocationLine20Icon": {
     "description": "",
     "web": "BriefcasePinLocationLine20Icon",
