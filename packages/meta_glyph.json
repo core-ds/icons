@@ -7700,7 +7700,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/glyph_multiply_s.svg"
   },
   "NavigationBriefcaseMIcon": {
-    "description": "",
+    "description": "старый навбар",
     "web": "NavigationBriefcaseMIcon",
     "webComponent": "import { NavigationBriefcaseMIcon } from '@alfalab/icons-glyph/NavigationBriefcaseMIcon';",
     "android": "glyph_navigation_briefcase_m",
@@ -7710,7 +7710,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/glyph_navigation-briefcase_m.svg"
   },
   "NavigationChatMIcon": {
-    "description": "",
+    "description": "старый навбар",
     "web": "NavigationChatMIcon",
     "webComponent": "import { NavigationChatMIcon } from '@alfalab/icons-glyph/NavigationChatMIcon';",
     "android": "glyph_navigation_chat_m",
@@ -7720,7 +7720,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/glyph_navigation-chat_m.svg"
   },
   "NavigationHistoryMIcon": {
-    "description": "",
+    "description": "старый навбар",
     "web": "NavigationHistoryMIcon",
     "webComponent": "import { NavigationHistoryMIcon } from '@alfalab/icons-glyph/NavigationHistoryMIcon';",
     "android": "glyph_navigation_history_m",
@@ -7730,7 +7730,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/glyph_navigation-history_m.svg"
   },
   "NavigationHomeMIcon": {
-    "description": "",
+    "description": "старый навбар",
     "web": "NavigationHomeMIcon",
     "webComponent": "import { NavigationHomeMIcon } from '@alfalab/icons-glyph/NavigationHomeMIcon';",
     "android": "glyph_navigation_home_m",
@@ -7740,7 +7740,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/glyph_navigation-home_m.svg"
   },
   "NavigationMarketplaceMIcon": {
-    "description": "",
+    "description": "старый навбар",
     "web": "NavigationMarketplaceMIcon",
     "webComponent": "import { NavigationMarketplaceMIcon } from '@alfalab/icons-glyph/NavigationMarketplaceMIcon';",
     "android": "glyph_navigation_marketplace_m",
@@ -7750,7 +7750,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/glyph_navigation-marketplace_m.svg"
   },
   "NavigationNewsMIcon": {
-    "description": "content, news, новости, лента, контентная платформа",
+    "description": "старый навбар\ncontent, news, новости, лента, контентная платформа",
     "web": "NavigationNewsMIcon",
     "webComponent": "import { NavigationNewsMIcon } from '@alfalab/icons-glyph/NavigationNewsMIcon';",
     "android": "glyph_navigation_news_m",
@@ -7760,7 +7760,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/glyph_navigation-news_m.svg"
   },
   "NavigationPaymentMIcon": {
-    "description": "",
+    "description": "старый навбар",
     "web": "NavigationPaymentMIcon",
     "webComponent": "import { NavigationPaymentMIcon } from '@alfalab/icons-glyph/NavigationPaymentMIcon';",
     "android": "glyph_navigation_payment_m",
@@ -7770,7 +7770,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/glyph_navigation-payment_m.svg"
   },
   "NavigationProfileMIcon": {
-    "description": "",
+    "description": "старый навбар",
     "web": "NavigationProfileMIcon",
     "webComponent": "import { NavigationProfileMIcon } from '@alfalab/icons-glyph/NavigationProfileMIcon';",
     "android": "glyph_navigation_profile_m",
@@ -7780,7 +7780,7 @@
     "url": "https://alfabank.servicecdn.ru/icons/glyph_navigation-profile_m.svg"
   },
   "NavigationQuotationsMIcon": {
-    "description": "",
+    "description": "старый навбар",
     "web": "NavigationQuotationsMIcon",
     "webComponent": "import { NavigationQuotationsMIcon } from '@alfalab/icons-glyph/NavigationQuotationsMIcon';",
     "android": "glyph_navigation_quotations_m",
