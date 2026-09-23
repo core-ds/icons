@@ -1,34 +1,4 @@
 {
-  "InterestBalanceSignBoxLine20Icon": {
-    "description": "Продукт: Проценты на остаток",
-    "web": "InterestBalanceSignBoxLine20Icon",
-    "webComponent": "import { InterestBalanceSignBoxLine20Icon } from '@alfalab/icons-logo-corp/InterestBalanceSignBoxLine20Icon';",
-    "android": "logo_corp_interest_balance_sign_box_line_20",
-    "ios": "logoCorp_interestBalanceSignBoxLine_20",
-    "middle": "logo-corp_interest-balance-sign-box-line_20",
-    "cdn": "logo-corp_interest-balance-sign-box-line_20",
-    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_interest-balance-sign-box-line_20.svg"
-  },
-  "InterestBalanceSignBoxLine24Icon": {
-    "description": "Продукт: Проценты на остаток",
-    "web": "InterestBalanceSignBoxLine24Icon",
-    "webComponent": "import { InterestBalanceSignBoxLine24Icon } from '@alfalab/icons-logo-corp/InterestBalanceSignBoxLine24Icon';",
-    "android": "logo_corp_interest_balance_sign_box_line_24",
-    "ios": "logoCorp_interestBalanceSignBoxLine_24",
-    "middle": "logo-corp_interest-balance-sign-box-line_24",
-    "cdn": "logo-corp_interest-balance-sign-box-line_24",
-    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_interest-balance-sign-box-line_24.svg"
-  },
-  "InterestBalanceSignBoxThinline20Icon": {
-    "description": "Продукт: Проценты на остаток",
-    "web": "InterestBalanceSignBoxThinline20Icon",
-    "webComponent": "import { InterestBalanceSignBoxThinline20Icon } from '@alfalab/icons-logo-corp/InterestBalanceSignBoxThinline20Icon';",
-    "android": "logo_corp_interest_balance_sign_box_thinline_20",
-    "ios": "logoCorp_interestBalanceSignBoxThinline_20",
-    "middle": "logo-corp_interest-balance-sign-box-thinline_20",
-    "cdn": "logo-corp_interest-balance-sign-box-thinline_20",
-    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_interest-balance-sign-box-thinline_20.svg"
-  },
   "IssueInvoiceSignBoxLine20Icon": {
     "description": "Быстрые действия: Выставить счет",
     "web": "IssueInvoiceSignBoxLine20Icon",
@@ -3438,6 +3408,36 @@
     "middle": "logo-corp_inspections-sign-box-thinline_20",
     "cdn": "logo-corp_inspections-sign-box-thinline_20",
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_inspections-sign-box-thinline_20.svg"
+  },
+  "InterestBalanceSignBoxLine20Icon": {
+    "description": "Продукт: Проценты на остаток",
+    "web": "InterestBalanceSignBoxLine20Icon",
+    "webComponent": "import { InterestBalanceSignBoxLine20Icon } from '@alfalab/icons-logo-corp/InterestBalanceSignBoxLine20Icon';",
+    "android": "logo_corp_interest_balance_sign_box_line_20",
+    "ios": "logoCorp_interestBalanceSignBoxLine_20",
+    "middle": "logo-corp_interest-balance-sign-box-line_20",
+    "cdn": "logo-corp_interest-balance-sign-box-line_20",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_interest-balance-sign-box-line_20.svg"
+  },
+  "InterestBalanceSignBoxLine24Icon": {
+    "description": "Продукт: Проценты на остаток",
+    "web": "InterestBalanceSignBoxLine24Icon",
+    "webComponent": "import { InterestBalanceSignBoxLine24Icon } from '@alfalab/icons-logo-corp/InterestBalanceSignBoxLine24Icon';",
+    "android": "logo_corp_interest_balance_sign_box_line_24",
+    "ios": "logoCorp_interestBalanceSignBoxLine_24",
+    "middle": "logo-corp_interest-balance-sign-box-line_24",
+    "cdn": "logo-corp_interest-balance-sign-box-line_24",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_interest-balance-sign-box-line_24.svg"
+  },
+  "InterestBalanceSignBoxThinline20Icon": {
+    "description": "Продукт: Проценты на остаток",
+    "web": "InterestBalanceSignBoxThinline20Icon",
+    "webComponent": "import { InterestBalanceSignBoxThinline20Icon } from '@alfalab/icons-logo-corp/InterestBalanceSignBoxThinline20Icon';",
+    "android": "logo_corp_interest_balance_sign_box_thinline_20",
+    "ios": "logoCorp_interestBalanceSignBoxThinline_20",
+    "middle": "logo-corp_interest-balance-sign-box-thinline_20",
+    "cdn": "logo-corp_interest-balance-sign-box-thinline_20",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_interest-balance-sign-box-thinline_20.svg"
   },
   "InvestApplicationSignBoxLine20Icon": {
     "description": "Продукт: Инвестиционные продукты",
