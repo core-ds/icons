@@ -14,7 +14,7 @@ export const BedSingleLine24Icon: React.FC<SVGProps<SVGSVGElement>> = props => (
         viewBox="0 0 24 24"
         {...props}
     >
-        <path d="M16.154 5.004A3 3 0 0119 8v3.17c1.165.413 2 1.524 2 2.83v7h-2v-2H5v2H3v-7c0-1.306.835-2.414 2-2.826V8a3 3 0 013-3h8l.154.004zM6 13a1 1 0 00-1 1v3h14v-3a1 1 0 00-1-1H6zm2-6a1 1 0 00-1 1v3h10V8a1 1 0 00-1-1H8z" />
+        <path d="M16.154 4.004A3 3 0 0119 7v4.17c1.165.413 2 1.524 2 2.83v7h-2v-2H5v2H3v-7c0-1.306.835-2.414 2-2.826V7a3 3 0 013-3h8l.154.004zM6 13a1 1 0 00-1 1v3h14v-3a1 1 0 00-1-1H6zm2-7a1 1 0 00-1 1v4h2V8h4a2 2 0 012 2v1h2V7a1 1 0 00-1-1H8z" />
     </svg>
 );
 
