@@ -59,6 +59,16 @@
     "cdn": "glyph-26_action-alfa_32_color",
     "url": "https://alfabank.servicecdn.ru/icons/glyph-26_action-alfa_32_color.svg"
   },
+  "ActionArrowsRightLeftLine32Icon": {
+    "description": "",
+    "web": "ActionArrowsRightLeftLine32Icon",
+    "webComponent": "import { ActionArrowsRightLeftLine32Icon } from '@alfalab/icons-glyph-26/ActionArrowsRightLeftLine32Icon';",
+    "android": "glyph_26_action_arrows_right_left_line_32",
+    "ios": "glyph26_actionArrowsRightLeftLine_32",
+    "middle": "glyph-26_action-arrows-right-left-line_32",
+    "cdn": "glyph-26_action-arrows-right-left-line_32",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_action-arrows-right-left-line_32.svg"
+  },
   "ActionClockLine32Icon": {
     "description": "",
     "web": "ActionClockLine32Icon",
