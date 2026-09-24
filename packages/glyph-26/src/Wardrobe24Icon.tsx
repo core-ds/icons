@@ -4,7 +4,7 @@
  */
 import React, { SVGProps } from 'react';
 
-export const BedDouble24Icon: React.FC<SVGProps<SVGSVGElement>> = props => (
+export const Wardrobe24Icon: React.FC<SVGProps<SVGSVGElement>> = props => (
     <svg
         role="img"
         focusable="false"
@@ -14,8 +14,8 @@ export const BedDouble24Icon: React.FC<SVGProps<SVGSVGElement>> = props => (
         viewBox="0 0 24 24"
         {...props}
     >
-        <path d="M20 11c.351 0 .687.063 1 .174 1.165.412 2 1.52 2 2.826v7h-2v-2H3v2H1v-7a3.01 3.01 0 013-3h16zm-2-7a3 3 0 013 3v2h-3.5V7H15a2 2 0 00-2 2h-2a2 2 0 00-2-2H6.5v2H3V7a3 3 0 013-3h12z" />
+        <path d="M11.3 21H7v2H4V2h7.3v19zM9 10a1 1 0 00-1 1v1a1 1 0 001 1h1v-3H9zm11 13h-3v-2h-4.3V2H20v21zm-6-10h1a1 1 0 001-1v-1a1 1 0 00-1-1h-1v3z" />
     </svg>
 );
 
-export default BedDouble24Icon;
+export default Wardrobe24Icon;
