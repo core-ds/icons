@@ -19599,6 +19599,96 @@
     "cdn": "glyph-26_sofa_24",
     "url": "https://alfabank.servicecdn.ru/icons/glyph-26_sofa_24.svg"
   },
+  "SoundCrossLine20Icon": {
+    "description": "",
+    "web": "SoundCrossLine20Icon",
+    "webComponent": "import { SoundCrossLine20Icon } from '@alfalab/icons-glyph-26/SoundCrossLine20Icon';",
+    "android": "glyph_26_sound_cross_line_20",
+    "ios": "glyph26_soundCrossLine_20",
+    "middle": "glyph-26_sound-cross-line_20",
+    "cdn": "glyph-26_sound-cross-line_20",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_sound-cross-line_20.svg"
+  },
+  "SoundCrossLine24Icon": {
+    "description": "",
+    "web": "SoundCrossLine24Icon",
+    "webComponent": "import { SoundCrossLine24Icon } from '@alfalab/icons-glyph-26/SoundCrossLine24Icon';",
+    "android": "glyph_26_sound_cross_line_24",
+    "ios": "glyph26_soundCrossLine_24",
+    "middle": "glyph-26_sound-cross-line_24",
+    "cdn": "glyph-26_sound-cross-line_24",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_sound-cross-line_24.svg"
+  },
+  "SoundCrossThinline20Icon": {
+    "description": "",
+    "web": "SoundCrossThinline20Icon",
+    "webComponent": "import { SoundCrossThinline20Icon } from '@alfalab/icons-glyph-26/SoundCrossThinline20Icon';",
+    "android": "glyph_26_sound_cross_thinline_20",
+    "ios": "glyph26_soundCrossThinline_20",
+    "middle": "glyph-26_sound-cross-thinline_20",
+    "cdn": "glyph-26_sound-cross-thinline_20",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_sound-cross-thinline_20.svg"
+  },
+  "SoundLine20Icon": {
+    "description": "",
+    "web": "SoundLine20Icon",
+    "webComponent": "import { SoundLine20Icon } from '@alfalab/icons-glyph-26/SoundLine20Icon';",
+    "android": "glyph_26_sound_line_20",
+    "ios": "glyph26_soundLine_20",
+    "middle": "glyph-26_sound-line_20",
+    "cdn": "glyph-26_sound-line_20",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_sound-line_20.svg"
+  },
+  "SoundLine24Icon": {
+    "description": "",
+    "web": "SoundLine24Icon",
+    "webComponent": "import { SoundLine24Icon } from '@alfalab/icons-glyph-26/SoundLine24Icon';",
+    "android": "glyph_26_sound_line_24",
+    "ios": "glyph26_soundLine_24",
+    "middle": "glyph-26_sound-line_24",
+    "cdn": "glyph-26_sound-line_24",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_sound-line_24.svg"
+  },
+  "SoundOffLine20Icon": {
+    "description": "",
+    "web": "SoundOffLine20Icon",
+    "webComponent": "import { SoundOffLine20Icon } from '@alfalab/icons-glyph-26/SoundOffLine20Icon';",
+    "android": "glyph_26_sound_off_line_20",
+    "ios": "glyph26_soundOffLine_20",
+    "middle": "glyph-26_sound-off-line_20",
+    "cdn": "glyph-26_sound-off-line_20",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_sound-off-line_20.svg"
+  },
+  "SoundOffLine24Icon": {
+    "description": "",
+    "web": "SoundOffLine24Icon",
+    "webComponent": "import { SoundOffLine24Icon } from '@alfalab/icons-glyph-26/SoundOffLine24Icon';",
+    "android": "glyph_26_sound_off_line_24",
+    "ios": "glyph26_soundOffLine_24",
+    "middle": "glyph-26_sound-off-line_24",
+    "cdn": "glyph-26_sound-off-line_24",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_sound-off-line_24.svg"
+  },
+  "SoundOffThinline20Icon": {
+    "description": "",
+    "web": "SoundOffThinline20Icon",
+    "webComponent": "import { SoundOffThinline20Icon } from '@alfalab/icons-glyph-26/SoundOffThinline20Icon';",
+    "android": "glyph_26_sound_off_thinline_20",
+    "ios": "glyph26_soundOffThinline_20",
+    "middle": "glyph-26_sound-off-thinline_20",
+    "cdn": "glyph-26_sound-off-thinline_20",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_sound-off-thinline_20.svg"
+  },
+  "SoundThinline20Icon": {
+    "description": "",
+    "web": "SoundThinline20Icon",
+    "webComponent": "import { SoundThinline20Icon } from '@alfalab/icons-glyph-26/SoundThinline20Icon';",
+    "android": "glyph_26_sound_thinline_20",
+    "ios": "glyph26_soundThinline_20",
+    "middle": "glyph-26_sound-thinline_20",
+    "cdn": "glyph-26_sound-thinline_20",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_sound-thinline_20.svg"
+  },
   "SplitUnitLine20Icon": {
     "description": "",
     "web": "SplitUnitLine20Icon",
