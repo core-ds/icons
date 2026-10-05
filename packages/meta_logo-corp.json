@@ -599,6 +599,36 @@
     "cdn": "logo-corp_analytics-sign-box-thinline_20",
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_analytics-sign-box-thinline_20.svg"
   },
+  "AnotherAccountsSignBoxLine20Icon": {
+    "description": "Продукт: Другие счета",
+    "web": "AnotherAccountsSignBoxLine20Icon",
+    "webComponent": "import { AnotherAccountsSignBoxLine20Icon } from '@alfalab/icons-logo-corp/AnotherAccountsSignBoxLine20Icon';",
+    "android": "logo_corp_another_accounts_sign_box_line_20",
+    "ios": "logoCorp_anotherAccountsSignBoxLine_20",
+    "middle": "logo-corp_another-accounts-sign-box-line_20",
+    "cdn": "logo-corp_another-accounts-sign-box-line_20",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_another-accounts-sign-box-line_20.svg"
+  },
+  "AnotherAccountsSignBoxLine24Icon": {
+    "description": "Продукт: Другие счета",
+    "web": "AnotherAccountsSignBoxLine24Icon",
+    "webComponent": "import { AnotherAccountsSignBoxLine24Icon } from '@alfalab/icons-logo-corp/AnotherAccountsSignBoxLine24Icon';",
+    "android": "logo_corp_another_accounts_sign_box_line_24",
+    "ios": "logoCorp_anotherAccountsSignBoxLine_24",
+    "middle": "logo-corp_another-accounts-sign-box-line_24",
+    "cdn": "logo-corp_another-accounts-sign-box-line_24",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_another-accounts-sign-box-line_24.svg"
+  },
+  "AnotherAccountsSignBoxThinline20Icon": {
+    "description": "Продукт: Другие счета",
+    "web": "AnotherAccountsSignBoxThinline20Icon",
+    "webComponent": "import { AnotherAccountsSignBoxThinline20Icon } from '@alfalab/icons-logo-corp/AnotherAccountsSignBoxThinline20Icon';",
+    "android": "logo_corp_another_accounts_sign_box_thinline_20",
+    "ios": "logoCorp_anotherAccountsSignBoxThinline_20",
+    "middle": "logo-corp_another-accounts-sign-box-thinline_20",
+    "cdn": "logo-corp_another-accounts-sign-box-thinline_20",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_another-accounts-sign-box-thinline_20.svg"
+  },
   "AusnSignBoxLine20Icon": {
     "description": "Продукт: Переход на спецрежим АУСН",
     "web": "AusnSignBoxLine20Icon",
