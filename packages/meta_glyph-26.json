@@ -109,6 +109,16 @@
     "cdn": "glyph-26_action-payment-line_32",
     "url": "https://alfabank.servicecdn.ru/icons/glyph-26_action-payment-line_32.svg"
   },
+  "ActionQrCodeLine32Icon": {
+    "description": "",
+    "web": "ActionQrCodeLine32Icon",
+    "webComponent": "import { ActionQrCodeLine32Icon } from '@alfalab/icons-glyph-26/ActionQrCodeLine32Icon';",
+    "android": "glyph_26_action_qr_code_line_32",
+    "ios": "glyph26_actionQrCodeLine_32",
+    "middle": "glyph-26_action-qr-code-line_32",
+    "cdn": "glyph-26_action-qr-code-line_32",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_action-qr-code-line_32.svg"
+  },
   "ActionQrScanLine32Icon": {
     "description": "",
     "web": "ActionQrScanLine32Icon",
@@ -15968,6 +15978,26 @@
     "middle": "glyph-26_navigation-payment-line_24",
     "cdn": "glyph-26_navigation-payment-line_24",
     "url": "https://alfabank.servicecdn.ru/icons/glyph-26_navigation-payment-line_24.svg"
+  },
+  "NavigationQrCodeLine24Icon": {
+    "description": "",
+    "web": "NavigationQrCodeLine24Icon",
+    "webComponent": "import { NavigationQrCodeLine24Icon } from '@alfalab/icons-glyph-26/NavigationQrCodeLine24Icon';",
+    "android": "glyph_26_navigation_qr_code_line_24",
+    "ios": "glyph26_navigationQrCodeLine_24",
+    "middle": "glyph-26_navigation-qr-code-line_24",
+    "cdn": "glyph-26_navigation-qr-code-line_24",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_navigation-qr-code-line_24.svg"
+  },
+  "NavigationQrScanLine24Icon": {
+    "description": "",
+    "web": "NavigationQrScanLine24Icon",
+    "webComponent": "import { NavigationQrScanLine24Icon } from '@alfalab/icons-glyph-26/NavigationQrScanLine24Icon';",
+    "android": "glyph_26_navigation_qr_scan_line_24",
+    "ios": "glyph26_navigationQrScanLine_24",
+    "middle": "glyph-26_navigation-qr-scan-line_24",
+    "cdn": "glyph-26_navigation-qr-scan-line_24",
+    "url": "https://alfabank.servicecdn.ru/icons/glyph-26_navigation-qr-scan-line_24.svg"
   },
   "NavigationWalletLine24Icon": {
     "description": "",
