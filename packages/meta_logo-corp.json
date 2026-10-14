@@ -89,6 +89,36 @@
     "cdn": "logo-corp_account-limitations-sign-box-thinline_20",
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_account-limitations-sign-box-thinline_20.svg"
   },
+  "AccountingConsultationsSignBoxLine20Icon": {
+    "description": "Продукт: Консультация с бухгалтером",
+    "web": "AccountingConsultationsSignBoxLine20Icon",
+    "webComponent": "import { AccountingConsultationsSignBoxLine20Icon } from '@alfalab/icons-logo-corp/AccountingConsultationsSignBoxLine20Icon';",
+    "android": "logo_corp_accounting_consultations_sign_box_line_20",
+    "ios": "logoCorp_accountingConsultationsSignBoxLine_20",
+    "middle": "logo-corp_accounting-consultations-sign-box-line_20",
+    "cdn": "logo-corp_accounting-consultations-sign-box-line_20",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_accounting-consultations-sign-box-line_20.svg"
+  },
+  "AccountingConsultationsSignBoxLine24Icon": {
+    "description": "Продукт: Консультация с бухгалтером",
+    "web": "AccountingConsultationsSignBoxLine24Icon",
+    "webComponent": "import { AccountingConsultationsSignBoxLine24Icon } from '@alfalab/icons-logo-corp/AccountingConsultationsSignBoxLine24Icon';",
+    "android": "logo_corp_accounting_consultations_sign_box_line_24",
+    "ios": "logoCorp_accountingConsultationsSignBoxLine_24",
+    "middle": "logo-corp_accounting-consultations-sign-box-line_24",
+    "cdn": "logo-corp_accounting-consultations-sign-box-line_24",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_accounting-consultations-sign-box-line_24.svg"
+  },
+  "AccountingConsultationsSignBoxThinline20Icon": {
+    "description": "Продукт: Консультация с бухгалтером",
+    "web": "AccountingConsultationsSignBoxThinline20Icon",
+    "webComponent": "import { AccountingConsultationsSignBoxThinline20Icon } from '@alfalab/icons-logo-corp/AccountingConsultationsSignBoxThinline20Icon';",
+    "android": "logo_corp_accounting_consultations_sign_box_thinline_20",
+    "ios": "logoCorp_accountingConsultationsSignBoxThinline_20",
+    "middle": "logo-corp_accounting-consultations-sign-box-thinline_20",
+    "cdn": "logo-corp_accounting-consultations-sign-box-thinline_20",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_accounting-consultations-sign-box-thinline_20.svg"
+  },
   "AccountsSignBoxLine20Icon": {
     "description": "Верхнее меню: Счета",
     "web": "AccountsSignBoxLine20Icon",
@@ -4158,6 +4188,36 @@
     "middle": "logo-corp_new-payment-sign-box-thinline_20",
     "cdn": "logo-corp_new-payment-sign-box-thinline_20",
     "url": "https://alfabank.servicecdn.ru/icons/logo-corp_new-payment-sign-box-thinline_20.svg"
+  },
+  "NominalAccountReportsSignBoxLine20Icon": {
+    "description": "Продукт: Отчёты по номинальным счетам",
+    "web": "NominalAccountReportsSignBoxLine20Icon",
+    "webComponent": "import { NominalAccountReportsSignBoxLine20Icon } from '@alfalab/icons-logo-corp/NominalAccountReportsSignBoxLine20Icon';",
+    "android": "logo_corp_nominal_account_reports_sign_box_line_20",
+    "ios": "logoCorp_nominalAccountReportsSignBoxLine_20",
+    "middle": "logo-corp_nominal-account-reports-sign-box-line_20",
+    "cdn": "logo-corp_nominal-account-reports-sign-box-line_20",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_nominal-account-reports-sign-box-line_20.svg"
+  },
+  "NominalAccountReportsSignBoxLine24Icon": {
+    "description": "Продукт: Отчёты по номинальным счетам",
+    "web": "NominalAccountReportsSignBoxLine24Icon",
+    "webComponent": "import { NominalAccountReportsSignBoxLine24Icon } from '@alfalab/icons-logo-corp/NominalAccountReportsSignBoxLine24Icon';",
+    "android": "logo_corp_nominal_account_reports_sign_box_line_24",
+    "ios": "logoCorp_nominalAccountReportsSignBoxLine_24",
+    "middle": "logo-corp_nominal-account-reports-sign-box-line_24",
+    "cdn": "logo-corp_nominal-account-reports-sign-box-line_24",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_nominal-account-reports-sign-box-line_24.svg"
+  },
+  "NominalAccountReportsSignBoxThinline20Icon": {
+    "description": "Продукт: Отчёты по номинальным счетам",
+    "web": "NominalAccountReportsSignBoxThinline20Icon",
+    "webComponent": "import { NominalAccountReportsSignBoxThinline20Icon } from '@alfalab/icons-logo-corp/NominalAccountReportsSignBoxThinline20Icon';",
+    "android": "logo_corp_nominal_account_reports_sign_box_thinline_20",
+    "ios": "logoCorp_nominalAccountReportsSignBoxThinline_20",
+    "middle": "logo-corp_nominal-account-reports-sign-box-thinline_20",
+    "cdn": "logo-corp_nominal-account-reports-sign-box-thinline_20",
+    "url": "https://alfabank.servicecdn.ru/icons/logo-corp_nominal-account-reports-sign-box-thinline_20.svg"
   },
   "NominalAccountSignBoxLine20Icon": {
     "description": "Продукт: Номинальный счёт",

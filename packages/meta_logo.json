@@ -5939,6 +5939,16 @@
     "cdn": "logo_saharok-sign-box_m_color",
     "url": "https://alfabank.servicecdn.ru/icons/logo_saharok-sign-box_m_color.svg"
   },
+  "SberSignBoxMColorIcon": {
+    "description": "[logo_sber-sign-box_m_color]",
+    "web": "SberSignBoxMColorIcon",
+    "webComponent": "import { SberSignBoxMColorIcon } from '@alfalab/icons-logo/SberSignBoxMColorIcon';",
+    "android": "logo_sber_sign_box_m_color",
+    "ios": "logo_sberSignBox_m_color",
+    "middle": "logo_sber-sign-box_m_color",
+    "cdn": "logo_sber-sign-box_m_color",
+    "url": "https://alfabank.servicecdn.ru/icons/logo_sber-sign-box_m_color.svg"
+  },
   "SberSignBoxMWhiteIcon": {
     "description": "[logo_sber-sign-box_m_white]",
     "web": "SberSignBoxMWhiteIcon",
